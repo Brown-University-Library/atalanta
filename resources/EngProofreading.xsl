@@ -24,7 +24,7 @@
         <html>
             <head>
                 <title>Atalanta Transcription Proofreading</title>
-                <link rel="stylesheet" type="text/css" href="https://dl.dropboxusercontent.com/u/12978073/atalantaProof.css" media="screen" />
+                <link rel="stylesheet" type="text/css" href="atalantaProof.css" media="screen" />
             </head>
             
             <body>
