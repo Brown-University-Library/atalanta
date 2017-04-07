@@ -59,15 +59,29 @@
 
   .choice {
       color: blue;
+<<<<<<< HEAD
       text-decoration: underline;
+=======
+      outline: 1px solid #000;
+  }
+  
+  .choice:before {
+      content: "{";
+  }
+  
+   .choice:after {
+      content: "}";
+>>>>>>> origin/master
   }
 
   orig {
+  
+  font-weight: bold;
 
   }
 
   .orig-solo {
-      
+  font-weight: bold;
   }
 
   reg {
@@ -79,7 +93,7 @@
   }
 
   .subst {
-      color: #8B4513;
+      outline: 1px solid #000;
   }
 
   .del {
