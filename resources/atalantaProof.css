@@ -58,7 +58,8 @@
   }
 
   .choice {
-      color: #8B4513;
+      color: blue;
+      font-syle: underline;
   }
 
   orig {
@@ -66,8 +67,7 @@
   }
 
   .orig-solo {
-      color: blue;
-      font-style: italic;
+      
   }
 
   reg {
