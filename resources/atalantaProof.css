@@ -62,15 +62,8 @@
       outline: 1px solid #000;
   }
   
-  .choice:before {
-      content: "{";
-  }
-  
-   .choice:after {
-      content: "}";
-  }
 
-  orig {
+  .orig {
   
   font-weight: bold;
 
@@ -80,7 +73,7 @@
   font-weight: bold;
   }
 
-  reg {
+  .reg {
 
   }
 

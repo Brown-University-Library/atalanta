@@ -24,7 +24,7 @@
         <html>
             <head>
                 <title>Atalanta Transcription Proofreading</title>
-                <link rel="stylesheet" type="text/css" href="atalantaProof.css" media="screen" />
+                <link rel="stylesheet" type="text/css" href="resources/atalantaProof.css" media="screen" />
             </head>
             
             <body>
@@ -106,6 +106,10 @@
     
     <xsl:template match="af:seg[@rend='superscript']">
         <span class="superscript"><xsl:apply-templates/></span>
+    </xsl:template>
+    
+    <xsl:template match="@*|node()">
+        <xsl:value-of select="***"/><xsl:apply-templates/><xsl:value-of select="***"/>
     </xsl:template>
         
 </xsl:stylesheet>
