@@ -1,134 +1,135 @@
-/* 
+/*
  * CSS for Transcription of English translation of Atalanta. Designed mostly for proofreading.
  * Almost all elements are styled, but often so that they can be proofread.
- * 
+ *
  * HISTORY
  * EM initial styling 2017-03-31
- * 
+ *
  */
- 
+
  body {
      width: 75%;
      margin-left: 100px;
      line-height: 175%;
      font-family: "Garamond", "Georgia", serif;
  }
- 
+
  .pageTitle {
-     
+
  }
 
  h3.title {
-    font-style: oblique;   
+    font-style: oblique;
  }
- 
+
   h3.epigram {
   }
-  
+
   h3.discourse {}
-  
+
   .lg {}
-  
+
   .l {}
-  
+
   .pb {
       display: block;
       text-align: center;
   }
-  
+
   .pb:before {
       content: "––– Page: ";
   }
-  
+
   .pb:after {
       content: " –––"
   }
-  
+
   .milestone {
       font-style: italic;
       color: grey;
   }
-  
+
   .milestone:before {
       content: " [§ ";
   }
-  
+
     .milestone:after {
       content: "] ";
   }
-  
+
   .choice {
       color: #8B4513;
   }
-  
+
   orig {
-      
+
   }
-  
+
   .orig-solo {
       color: red;
+      font-style: italic;
   }
-  
+
   reg {
-      
+
   }
-  
+
    .reg:before {
       content: " | ";
   }
-  
+
   .subst {
       color: #8B4513;
   }
-  
+
   .del {
       text-decoration: line-through;
   }
-  
+
   .add:before {
       content: "<";
   }
-  
+
    .add:after {
       content: ">";
   }
-  
+
   .unclear {
       font-style: italic;
   }
- 
+
   .unclear:before {
       content: "[? ";
   }
-  
+
   .unclear:after {
       content: "]";
   }
-  
+
   .supplied {
-      
+
   }
-  
+
   .supplied:before {
       content: "<";
   }
-  
+
    .supplied:after {
       content: ">";
   }
-  
+
   seg.superscript {
       vertical-align: super;
   }
-  
+
   seg.underline {
       text-decoration: underline;
   }
-  
+
   .pc {
-      
+
   }
-  
+
   .fw {
       font-style: italic;
       display: block;
