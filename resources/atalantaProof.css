@@ -59,7 +59,7 @@
 
   .choice {
       color: blue;
-      font-syle: underline;
+      text-decoration: underline;
   }
 
   orig {
