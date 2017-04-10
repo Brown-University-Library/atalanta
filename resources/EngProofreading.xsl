@@ -27,6 +27,8 @@
                 <link rel="stylesheet" type="text/css" href="resources/atalantaProof.css" media="screen" />
             </head>
             
+            
+            
             <body>
                <xsl:apply-templates/>
             </body>
@@ -35,8 +37,14 @@
     </xsl:template>
     
     <xsl:template match="af:teiHeader"/>
+    <xsl:template match="text">
+        <xsl:apply-templates/>
+    </xsl:template>
     
-    
+    <xsl:template match="af:body">
+        <xsl:apply-templates/>
+        
+    </xsl:template>
     <xsl:template match="af:div[@type='emblem']">
         <h2 class="pageTitle">Proofreading Atalanta Emblem <xsl:value-of select="@n"/></h2>
         <xsl:apply-templates/>
@@ -73,7 +81,9 @@
     </xsl:template>
     
     <xsl:template match="af:lb">
-        <xsl:if test="@break='no'">-</xsl:if>
+        <xsl:if test="@break='no'">
+        <xsl:text>-</xsl:text>
+        </xsl:if>
         <br />
     </xsl:template>
     
@@ -108,8 +118,21 @@
         <span class="superscript"><xsl:apply-templates/></span>
     </xsl:template>
     
-    <xsl:template match="@*|node()">
-        <xsl:value-of select="***"/><xsl:apply-templates/><xsl:value-of select="***"/>
+    <xsl:template match="af:note">*
+        <xsl:if test="@place='margin'">
+            <div class="margin-note"><xsl:text>[*] </xsl:text><xsl:apply-templates/>
+        </div>
+        </xsl:if>
     </xsl:template>
+    
+    <xsl:template match="c">
+        <xsl:choose>
+            <xsl:when test="@rend='double-hyphen'">
+            <xsl:text>=</xsl:text>
+            </xsl:when>
+        </xsl:choose>
+    </xsl:template>
+    
+
         
 </xsl:stylesheet>
