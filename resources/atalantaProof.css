@@ -59,9 +59,18 @@
 
   .choice {
       color: blue;
+
       outline: 1px solid #000;
   }
   
+
+  .choice:before {
+      content: "{";
+  }
+  
+   .choice:after {
+      content: "}";
+      }
 
   .orig {
   
