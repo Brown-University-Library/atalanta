@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="emblem" n="e03"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
+                <pb n="14"/><!-- Change to page number of the actual manuscript -->
+                
+             <head>An index of the Emblems contained in this Volume.</head>
+             <lb/>The Authors epigramme
+             <lb/>The Authors epistle
+                <lb/>The Authors Præface to the Reader
+                <lb/>Wind carryd him to his belly
+                <lb/>The earth is his Nource
+                <lb/>Goe to the woman washing cloaths, and doe you after the same manner.
+                <lb/>Joyne the brother with the sister and give them a cup of love
+                <lb/>Put a toad upon the womans breasts, that shee may give it sucke,
+                <lb/>and the woman dye, and the toad be grosse with milke
+                <lb/>Sow your gold in the white foliated earth
+                <lb/>A chicken is flying out of the nest, which falls againe into the nest.
+                <lb/>Take an egge and smite it with a fiery sword
+                <lb/>Shutt up the tree with the old man in the house of dew, and
+                <lb/>eating of the fruit thereof hee will become young
+                <lb/>Give fire to fire, Mercury to Mercury, and you have enough
+                <lb/>Whiten Latona, and tear your books
+                <lb/>The stone, which Saturne vomited up, being devoured instead
+                <lb/>of his Sonne Jupiter, is placed in Helicon as a monument to men.
+                <lb/>The Philosophers brasse is hydropicall, and desires to be seven
+                <lb/>times washd in a river, as Naaman the leper in Jordan
+                <lb/>This is the Dragon which devoures his tayle
+                <lb/>Let the worke of the Potter, consisting in siccity and moisture
+                <lb/>instruct you
+                <lb/>One Lyon hath wings, the other none
+                <lb/>Foure orbes governe this worke of fire
+                <lb/>Fire loves to burne, not to aurify, but gold
+                <lb/>If you kill one of the four they will all suddenly dye
+                <lb/>Nature teacheth nature how to subdue fire
+                <lb/>Make of the man and the woman a circle, of that a quadrangle,
+                <lb/>of this a triangle, of the same a circle, and you will have the Phil. Stone
+                <lb/>Having acquired white lead doe the worke of women, that is, boyle
+                <lb/>When Pallas was borne, and Sol lay with Venue, it rained
+                <lb/>gold at Rhodes
+                <lb/>A wolfe devoured the King, and being burned restored him
+                <lb/>to life againe
+                <lb/>The dragon dyes not except hee be killd by his brother and
+                <lb/>Sister, which are Sol and Luna
+                
+                <lb/>The tree of life is the fruit of humane wisedome Page
+                <lb/>Hee that endeavours to enter into the Philosophers rosary
+                <lb/>without a key, is like him that would walke without feet
+                <lb/>The King sitting in a bath is bathed, and freed from melan
+                <lb break="no"/>choly by Pharut
+                <lb/>As the Salamander lives in fire, soe allso the stone
+                <lb/>Luna is as requisite to Sol as a henne to a cocke
+                <lb/>The King swimming in the Sea cryes out with a loud voyce, hee
+                <lb/>that will deliver mee shall have great reward
+                <lb/>As Corall growes under water, and is hardened by the aire, soe allso
+                <lb/>is the Stone
+                <lb/>The Hermaphrodite lying like a dead man in darknesse, wants fire
+                <lb/>Hee is conceived in baths, and borne in the aire, and being made
+                <lb/>red walks upon the waters
+                <lb/>As Ceres accustomed Triptolemus, and Thetis Achilles to abide in
+                <lb/>fire, soe allso doth an Artist the stone
+                <lb/>The stone, that is, Mercury is cast upon the earth, and exacted on moun
+                <lb break="no"/>tains, and resides in the aire, and is nourished in water
+                <lb/>Three things are sufficient for the Magistery, the white fume, that is, water,
+                <lb/>the green Lyon, that is, the brasse of Hermes, and Aqua fætida
+                <lb/>Rebis is, as Hermaphroditus, produced from the two mountains of
+                <lb/>Mercury and Venus
+                <lb/>Œdipus having overcome Sphynx and killd his father Laius, marryed
+                <lb/>his mother Jocaster
+                <lb/>Of two waters make one, and that will be the water of sanctity
+                <lb/>Adonis is killd by a boar, to whom Venus hasting, tinged the roses with her blood
+                <lb/>Nature, Reason, Experience, and Reading, must be the guide, staffe,
+                <lb/>Spectacles, and lampe to him that is employd in Chymicall affairs
+                <lb/>Give ear to the Vulturs words which are no=wise false
+                <lb/>Typhon kills Osyris by deceipt, and disperseth the parts of his body on
+                <lb/>all sides, but the famous Isis gathered them together
+                <lb/>The worke is perfected by Sol and his shade
+                <lb/>Two Eagles, come together, one from the East, the other from the West
+                <lb/>A wolfe coming from the East, and a dogge from the West worryd one another
+                <lb/>The King falls sicke by drinking water, and is restord to
+                <lb/>health by Physicians
+                <lb/>The Philosophicall infant is, as Orion, the Sonne of three fathers
+                <lb/>The Dragon kills the woman, and shee him, and are both
+                <lb/>bloody all over
+                <lb rend="indent"/>Finis
+                
+            </div>
+        </body>
+    </text>
+</TEI>
