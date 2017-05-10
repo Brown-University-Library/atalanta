@@ -52,11 +52,11 @@
             </div>
             <fw type="catchword" place="bottom-right">Emble</fw>
             
-            <pb n="29"/> <fw type="pageNum" place="top-right">29</fw>
+            <pb n="29"/> 
             
             <div type="image-caption">
                <head>
-                  <lb n="1"/>Emblema V.<hi rend="italic">De secretis Natur<hi rend="ligature">ae</hi></hi>.<!-- BC: how do we want to handle ligatures? -->
+                  <lb n="1"/>Emblema V.<hi rend="italic">De secretis Natur<hi rend="ligature">ae</hi></hi>.<!-- BC: how do we want to handle ligatures? --> <fw type="pageNum" place="top-right">29</fw>
                   <lb n="2"/>Appone mulieri super mammas bufonem, ut ablactet eum,
                   <lb n="3"/><g type="ampersand">et</g> moriatur mulier, sit<hi rend="acute">q</hi>ue bufo grossus de lacte.
                </head>

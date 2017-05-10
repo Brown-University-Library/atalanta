@@ -52,11 +52,11 @@
             </div>
             <fw type="catchword" place="bottom-right">Emblema</fw>
             
-            <pb n="37"/> <fw type="pageNum" place="top-right">37</fw>
+            
             
             <div type="image-caption">
                <head>
-                  <lb n="1"/>Emblema VII.<hi rend="italic">De secretis Natur<hi rend="ligature">ae</hi></hi>.<!-- BC: how do we want to handle ligatures? -->
+                  <lb n="1"/>Emblema VII.<hi rend="italic">De secretis Natur<hi rend="ligature">ae</hi></hi>.<!-- BC: how do we want to handle ligatures? --> <pb n="37"/> <fw type="pageNum" place="top-right">37</fw>
                   <lb n="2"/>Fit pullus <hi rend="grave">a</hi> nido volans, qui iter<hi rend="grave">u</hi>m cadit in nidum.
                </head>
             </div>
