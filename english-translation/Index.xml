@@ -104,5 +104,13 @@
                 
             </div>
         </body>
+        <back>
+            <div type="contents">
+                <list type="contents">
+                    <item n="1"><rs>emblem title</rs><ref type="pageNum>4</ref></item>
+                    <item n="2"><rs>second emblem title</rs><ref type="pageNum>7</ref></item>
+                    ...
+                </list>
+                </body>
     </text>
 </TEI>

@@ -48,12 +48,12 @@
             <div type="discourse" xml:lang="en">
                <head>Discourse 3.</head>
                <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                  <lb/><milestone unit="section" n="e03-01" />If <subst><del>some certaine</del><add>any</add></subst> <choice><orig>impurityes</orig><reg>impurities</reg></choice> happen to <choice><orig>linnen</orig><reg>linen</reg></choice> <choice><orig>cloaths</orig><reg>clothes</reg></choice>, whereby they are spot
+                  <lb/><milestone unit="section" n="e03-01" />If <subst><del>some <choice><orig>certaine</orig><reg>certain</reg></choice></del><add>any</add></subst> <choice><orig>impurityes</orig><reg>impurities</reg></choice> happen to <choice><orig>linnen</orig><reg>linen</reg></choice> <choice><orig>cloaths</orig><reg>clothes</reg></choice>, whereby they are spot
                   <lb break="no" />ted and <choice><orig>blacke</orig><reg>black</reg></choice>, as with earthy recrements, they are <choice><orig>washd</orig><reg>washed</reg></choice> away by the next<pc>-</pc>
                   <lb/>Element, namely water, and the <choice><orig>cloaths</orig><reg>clothes</reg></choice> exposed to the <choice><orig>aire</orig><reg>air</reg></choice>, that the moisture<pc>-</pc>
                   <lb/>together with the <choice><orig>fæces</orig><reg>feces</reg></choice> may be <choice><orig>drawne</orig><reg>drawn</reg></choice> out by the heat of the <choice><orig>Sunne</orig><reg>Sun</reg></choice>, as by<pc>-</pc>
                   <lb/>fire, the fourth Element, if this be often done the <choice><orig>cloaths</orig><reg>clothes</reg></choice>, which before were
-                  <lb/><choice><orig>foule</orig><reg>foul</reg></choice> and <unclear reason="illegible"><orig>uncleane</orig></unclear>, <choice><orig>doe</orig><reg>do</reg></choice> become pure, and <subst><del>purged</del><add>free</add></subst> from Spots: This is the art of
+                  <lb/><choice><orig>foule</orig><reg>foul</reg></choice> and <unclear reason="illegible"><choice><orig>uncleane</orig><reg>unclean</reg></choice></unclear>, <choice><orig>doe</orig><reg>do</reg></choice> become pure, and <subst><del>purged</del><add>free</add></subst> from Spots: This is the art of
                   <lb/>women, which they learned from Nature <choice><orig>herselfe</orig><reg>herself</reg></choice>:<milestone unit="section" n="e03-02"/> for <choice><orig>wee</orig><reg>we</reg></choice> see, that if the bones of
                   <lb/><choice><orig>animalls</orig><reg>animals</reg></choice>, which at first are <choice><orig>blacke</orig><reg>black</reg></choice> and filthy, be exposed to the <choice><orig>aire</orig><reg>air</reg></choice>, and often
                   <lb/><choice><orig>washd</orig><reg>washed</reg></choice> with <choice><orig>raine</orig><reg>rain</reg></choice>, and <choice><orig>dryed</orig><reg>dried</reg></choice> <choice><orig>agayne</orig><reg>again</reg></choice> by the heat of the <choice><orig>Sunne</orig><reg>Sun</reg></choice> often coming upon
@@ -73,7 +73,7 @@
                   <lb/>the nature of other things that are subject to take fire: <choice><orig>soe</orig><reg>so</reg></choice> they <choice><orig>affirme</orig><reg>affirm</reg></choice> that
                   <lb/>Camphore being kindled before burnes in water: and the Stone <choice><orig>calld</orig><reg>called</reg></choice> Gagates (as
                   <lb/>Ansell de Bood attests) being kindled is more easily extinguished by <choice><orig>oyle</orig><reg>oil</reg></choice><pc>-</pc>
-                  <lb/>than <del>by</del>water: for <choice><orig>Oyle</orig><reg>Oil</reg></choice> is <del><unclear reason="illegible">mik</unclear></del>mixed with it, and suffocates the fired body:
+                  <lb/>than <del>by</del> water: for <choice><orig>Oyle</orig><reg>Oil</reg></choice> is <subst><del><unclear reason="illegible">mik</unclear></del><add>mixed</add></subst> with it, and suffocates the fired body:
                   <lb/>water not being able to mix <choice><orig>itselfe</orig><reg>itself</reg></choice> with <choice><orig>fattnesse</orig><reg>fatness</reg></choice>, gives place to the body<pc>-</pc>
                   <lb/>being fired, <choice><orig>unlesse</orig><reg>unless</reg></choice> it <choice><orig>alltogether</orig><reg>altogether</reg></choice> cover and <choice><orig>overwhelme</orig><reg>overwhelm</reg></choice> it: but that can
                   <lb break="no"/>not easily be done, because it is a stone, and swims upon the top of the<pc>-</pc>
