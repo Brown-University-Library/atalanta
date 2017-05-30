@@ -17,6 +17,7 @@
       </fileDesc>
      <revisionDesc>
         <change when="2017-01-31" who="SJD">Added revision desc, added Latin transcription of discursus</change>
+        <change when="2017-02-14" who="SJD">Added line numbers for other divs, added xml langs where needed; added transcription of German epigram</change>
      </revisionDesc>
   </teiHeader>
    
@@ -26,9 +27,9 @@
          <div type="emblem" n="e14">
             <pb n="64"/>
             <head>
-               <lb/>FUGA XIV. in 8. infrà.
-               <lb/>Diß ist der Drache<pc>/</pc><!-- BC: There's a back slash between "Drache" and "welcher" that is unclear for its intent -->welcher sein eigenen Schwanz 
-               <lb/>aufffrißt.
+               <lb n="1"/>FUGA XIV. in 8. infrà.
+               <lb n="2"/>Diß ist der Drache<pc>/</pc><!-- BC: There's a back slash between "Drache" and "welcher" that is unclear for its intent -->welcher sein eigenen Schwanz 
+               <lb n="3"/>aufffrißt.
             </head>
             
             <div type="fugue">
@@ -41,12 +42,12 @@
             <div type="epigram" xml:lang="de">
                <head>XIV. Epigrammatis Latini versio Germanica.</head>
                <lg>
-                  <l>Der hunger zwingt dem viels...<pc>/</pc></l>
-                  <l></l>
-                  <l></l>
-                  <l></l>
-                  <l></l>
-                  <l></l>
+                  <lb n="1"/><l>Der Hunger zwingt dem vielfüssi<hi rend="ligature">ge</hi>n<pc>/</pc> Fisch sein Füß zu verzehren</l>
+                  <lb n="2"/><l>Und daß Menschen mit Fleisch von Menschen offisich nehren<pc>/</pc></l>
+                  <lb n="3"/><l>Also dem Drachen sein Schwank zu beissen und schling<supplied reason="omitted">e</supplied>n nich verdries<pc>=</pc><hi rend="sling-below">s<pc>(</pc>set<pc>/</pc></hi></l>
+                  <lb n="4"/><l>Daß erein Theil seines Leibs für seine Speiß geniesset<pc>/</pc></l>
+                  <lb n="5"/><l>Der selbe zu zähmne ist durch Schwerdt<pc>/</pc> Hunger und gefänglich hasst<pc>/</pc></l>
+                  <lb n="6"/><l>Biß er sich ißt ganz und spent<pc</pc> sich tödt und das Lebenschafft.</l>
                </lg>
             </div>
             <fw type="catchword">Emble-</fw>
@@ -55,8 +56,8 @@
             
             <div type="image-caption">
                <head>
-                  <lb/>Emblema XIV. De Secretis Natur<hi rend="ligature">ae</hi>.<!-- BC: how do we want to handle ligatures? -->
-                  <lb/>Hic est Draco caudam suam devorans
+                  <lb n="1"/>Emblema XIV. De Secretis Natur<hi rend="ligature">ae</hi>.<!-- BC: how do we want to handle ligatures? -->
+                  <lb n="2"/>Hic est Draco caudam suam devorans
                </head>
                
             </div>
@@ -68,16 +69,16 @@
                <lg>
                   <l>Dira fames Polypos docuit sua rodere crura,</l>
                   <l>Humanáque homines se nutriisse dape.</l>
-                  <l>Dente Draco caudam dum mordet &amp; ingerit alvo,</l>
+                  <l>Dente Draco caudam dum mordet <g type="ampersand">et</g> ingerit alvo,</l>
                   <l>Magnâ parte sui fit cibus ipse sibi.</l>
                   <l>Ille domandus erit ferro fame, carcere, donec</l>
-                  <l>Se voret &amp; revomat se necet &amp; pariat.</l>
+                  <l>Se voret <g type="ampersand">et</g> revomat se necet <g type="ampersand">et</g> pariat.</l>
                </lg>
             </div>
             
             <fw type="catchword" place="bottom-right">Vete-</fw>
             
-            <div type="discourse">
+            <div type="discourse" xml:lang="la">
                <pb n="66"/>
                <head><fw type="pageNum">66</fw> <hi rend="italic">Disc</hi>u<hi rend="italic">rs</hi>u<hi rend="italic">s</hi>. <num value="14">XIV</num>.</head>
                   <ab>
