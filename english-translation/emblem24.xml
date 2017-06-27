@@ -26,7 +26,7 @@
                 <div type="title" xml:lang="en">
                     <head>
                         <lb/><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 24. Of the Secrets of Nature.
-                        <lb/>A <choice><orig>wolfe</orig><reg>wolf</reg></choice> devoured the King, and being burned restored him to life <seg>againe</seg>.
+                        <lb/>A <choice><orig>wolfe</orig><reg>wolf</reg></choice> devoured the King, and being burned restored him to life <choice><orig>againe</orig><reg>again</reg></choice>.
                     </head>
                 </div>
                 
@@ -34,7 +34,7 @@
                 <div type="epigram" xml:lang="en">
                     <head><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 24.</head>
                     <lg>
-                        <l>Take the rapacious <seg rend="underline"><orig>wolfe</orig></seg>, and let him feast</l>
+                        <l>Take the rapacious <seg rend="underline"><choice><orig>wolfe</orig><reg>wolf</reg></choice></seg>, and let him feast</l>
                         <l>His hungry <choice><orig>stomacke</orig><reg>stomach</reg></choice> on the <seg rend="underline">King <choice><orig>deceasd</orig><reg>deceased</reg></choice></seg>:</l>
                         <l>Let <seg rend="underline">Vulcan</seg> then blow up a fire, that <choice><orig>hee</orig><reg>he</reg></choice></l>
                         <l>By <choice><orig>th'</orig><reg>the</reg></choice> flames to ashes may reduced be;</l>
@@ -87,7 +87,7 @@
                         <lb break="no"/>sumed: But where must this <choice><orig>wolfe</orig><reg>wolf</reg></choice> be sought for, and from whence must
                         <lb/>the King be had?</seg> The Philosophers answer, <seg rend="underline">that the <choice><orig>wolfe</orig><reg>wolf</reg></choice> wanders every
                         <lb/>where in mountains and <choice><orig>vallyes</orig><reg>valleys</reg></choice>, to take his prey,</seg> who must be <choice><orig>drawne</orig><reg>drawn</reg></choice> out
-                        <lb/><seg rend="underline">of his harbours</seg>, and <seg rend="underline">præservd for use: The King allso coming from the<pc>-</pc>
+                        <lb/><seg rend="underline">of his harbours</seg>, and <seg rend="underline"><choice><orig>præservd</orig><reg>preserved</reg></choice> for use: The King <choice><orig>allso</orig><reg>also</reg></choice> coming from the<pc>-</pc>
                         <lb/>East <choice><orig>wearyed</orig><reg>wearied</reg></choice> with a long and <choice><orig>tædious</orig><reg>tedious</reg></choice> journey at length falls <choice><orig>downe</orig><reg>down</reg></choice>, whose</seg>
                         <lb/>death <choice><orig>allso</orig><reg>also</reg></choice> <choice><orig>greife</orig><reg>grief</reg></choice> accelerates, seeing <choice><orig>himselfe</orig><reg>himself</reg></choice> <seg rend="underline">in <choice><orig>noe</orig><reg>no</reg></choice> <choice><orig>honour</orig><reg>honor</reg></choice></seg>, and <seg rend="underline"><choice><orig>soe</orig><reg>so</reg></choice><pc>-</pc>
                         <lb/>little <choice><orig>esteemd</orig><reg>esteemed</reg></choice></seg> amongst strangers and <choice><orig>forreigners</orig><reg>foreigners</reg></choice>, as to be sold into servi
@@ -95,7 +95,7 @@
                         
                         
                         <pb n="79"/><fw>Discourse 3.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
-                        <lb break="no"/>tude for a little <choice><orig>mony</orig><reg>money</reg></choice>: But the <seg rend="underline"><orig>wolfe</orig></seg> must be had out <seg rend="underline">of a colder region</seg>, for
+                        <lb break="no"/>tude for a little <choice><orig>mony</orig><reg>money</reg></choice>: But the <seg rend="underline"><choice><orig>wolfe</orig><reg>wolf</reg></choice></seg> must be had out <seg rend="underline">of a colder region</seg>, for
                         <lb/>those that are bred in a cold climate are more fierce, than in Africa or <choice><orig>Ægypt</orig><reg>Egypt</reg></choice>,
                         <lb/>by reason of greater hunger <seg rend="underline"><choice><orig>proceding</orig><reg>proceeding</reg></choice> from <choice><orig>externall</orig><reg>external</reg></choice> cold</seg>: the <seg rend="underline">devoured King<pc>-</pc>
                         <lb/><choice><orig>doth</orig><reg>does</reg></choice> afterwards revive with a <choice><orig>Lyons</orig><reg>Lions</reg></choice> courage,</seg> who is then able to subdue all<pc>-</pc>

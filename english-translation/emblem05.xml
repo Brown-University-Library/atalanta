@@ -27,7 +27,7 @@
                     <head>
                         <lb/><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 5. Of the Secrets of Nature.
                         <lb/>Put a Toad <subst><del>upon</del><add>to</add></subst>the womans breasts, that <choice><orig>shee</orig><reg>she</reg></choice> may give it <choice><orig>sucke</orig><reg>suck</reg></choice>,
-                        <lb/>and <del>the woman</del><choice><orig>dye</orig><reg>die</reg></choice> <add><choice><orig>herselfe</orig><reg>herself</reg></choice></add>, and the Toad <subst><del>be <unclear reason="illegible"><orig>grosse</orig></unclear></del><add>grow <choice><orig>fatt</orig><reg>fat</reg></choice></add></subst>with <choice><orig>milke</orig><reg>milk</reg></choice>.
+                        <lb/>and <del>the woman</del> <choice><orig>dye</orig><reg>die</reg></choice> <add><choice><orig>herselfe</orig><reg>herself</reg></choice></add>, and the Toad <subst><del>be <choice><orig>grosse</orig><reg>gross</reg></choice></del><add>grow <choice><orig>fatt</orig><reg>fat</reg></choice></add></subst> with <choice><orig>milke</orig><reg>milk</reg></choice>.
                         
                     </head>
                 </div>
@@ -50,7 +50,7 @@
                 <div type="discourse" xml:lang="en">
                     <head>Discourse 5.</head>
                     <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                        <lb/>The whole troop of <del>the</del>Philosophers <choice><orig>doe</orig><reg>do</reg></choice> herein consent, that their <choice><orig>worke</orig><reg>work</reg></choice> is<pc>-</pc><milestone unit="section" n="e05-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                        <lb/>The whole troop of <del>the</del> Philosophers <choice><orig>doe</orig><reg>do</reg></choice> herein consent, that their <choice><orig>worke</orig><reg>work</reg></choice> is<pc>-</pc><milestone unit="section" n="e05-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
                         <lb/>nothing <choice><orig>els</orig><reg>else</reg></choice>, but man and wife: the mans part is indeed to generate, and <choice><orig>governe</orig><reg>govern</reg></choice><pc>-</pc>
                         <lb/>the wife, hers to conceive, be <choice><orig>imprægnated</orig><reg>impregnated</reg></choice>, bring forth, give <choice><orig>sucke</orig><reg>suck</reg></choice>, and educate
                         <lb/>the offspring, and be subject to the mans <choice><orig>coḿand</orig><reg>command</reg></choice>: for as <choice><orig>Shee</orig><reg>She</reg></choice> <choice><orig>sustaines</orig><reg>sustains</reg></choice> and<pc>-</pc>
@@ -118,7 +118,7 @@
                         <lb/>be magnificently saluted by a Beetle, if it <choice><orig>mett</orig><reg>met</reg></choice> him in the <choice><orig>twylight</orig><reg>twilight</reg></choice>? what
                         <lb/>subterranean Goldsmith should make him a golden <choice><orig>chayne</orig><reg>chain</reg></choice>? the father<pc>-</pc>
                         <lb/>perhaps of the green <choice><orig>boyes</orig><reg>boys</reg></choice>, which came out of the land of St Martin, yea<pc>-</pc>
-                            <lb/>out of the earth <choice><orig>itselfe</orig><reg>itself</reg></choice>, as <choice><orig>allso</orig><reg>also</reg></choice> two <choice><orig>doggs</orig><reg>dogs</reg></choice> out of the Stone<c rend="double-hyphen">-</c>quarry, asserted
+                        <lb/>out of the earth <choice><orig>itselfe</orig><reg>itself</reg></choice>, as <choice><orig>allso</orig><reg>also</reg></choice> two <choice><orig>doggs</orig><reg>dogs</reg></choice> out of the Stone<c rend="double-hyphen">-</c>quarry, asserted
                         <lb/>by the same Author?<pc>. . . . . . . . . . .</pc>
                     </ab>   
                 </div>
