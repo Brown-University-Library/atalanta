@@ -19,7 +19,7 @@
     
     <text>
         <body>
-            <div type="emblem" n="e00">
+            <div type="emblem" n="intro">
                 <pb n="01"/>
                 
                 
@@ -28,47 +28,30 @@
                         <lb/>Atalanta running,
                         <lb/>that is,
                     </head>
-                </div>
-                
-                
-                <div type="title" xml:lang="en">
+  
                     <head>
                         <lb/>New <choice><orig>Chymicall</orig><reg>Chemical</reg></choice> Emblems relating to the
                         <lb/>Secrets of Nature,
                     </head>
-                </div>
-                
-                
-                <div type="title" xml:lang="en">
+  
                     <head>
                         <lb/><choice><orig>Accomodated</orig><reg>Accommodated</reg></choice> partly to the eyes and understanding, with figures <choice><orig>cutt</orig><reg>cut</reg></choice>
                         <lb/>in Copper, and Sentences, Epigrams, and notes added, partly to the
                         <lb/>ears and recreation of the mind, with 50 <choice><orig>musicall</orig><reg>musical</reg></choice> flights of
                         <lb/>three <choice><orig>voyces</orig><reg>voices</reg></choice>, whereof two may correspond to one single
-                        <lb/>melody <choice><orig>Apropriated</orig><reg>Appropriated</reg></choice> to be Sung with distichs, not without<!-- this line as well as the following two were edited with a paper note, the text here is from the edited version -->
+                        <lb/>melody <choice><orig>Apropriated</orig><reg>Appropriated</reg></choice> to be Sung with distichs, not without <note type="GE">this line as well as the following two were edited with a paper note, the text here is from the edited version</note> 
                         <lb/>Singlular delectation, to be seen, read, meditated,
                         <lb/>Understood, distinguished, Sung and Heard;
                         <lb/>the Author.
                     </head>
-                </div>
-                
-                
-                <div type="title" xml:lang="en">
+
                     <head>
                         <lb/>Michael Majerus Count of the Imperiall Con
-                        <lb break="no"/>sistory. Doctor of <choice><orig>Physicke</orig><reg>Physic</reg></choice>. Knight of dc. <!-- unsure about this word -->
+                        <lb break="no"/>sistory. Doctor of <choice><orig>Physicke</orig><reg>Physic</reg></choice>. Knight of dc. <note type="GE">unsure about this word</note> 
                     </head>
-                </div>
-                
-                
-                <div type="title" xml:lang="en">
                     <head>
                         <lb/>Oppenheim.
                     </head>
-                </div>
-                
-                
-                <div type="title" xml:lang="en">
                     <head>
                         <lb/>Printed by Hieronymus Gallerus, at the charge of
                         <lb/>John Theodore de Bry.
@@ -229,7 +212,7 @@
                         <lb break="no"/>gagement, and had a singular virtue in stirring up the Spirits of the<pc>-</pc>
                         <lb/>Soldiers; instead of which the Jonicke is sometimes used for the same pur
                         <lb break="no"/>pose, which was formerly esteemed amatory (as the Phrygian is <subst><del><unclear reason="illegible">sometimes</unclear></del><add>now</add></subst> re
-                        <lb break="no"/>puted) from which <choice><orig>wee</orig><reg>we</reg></choice> gather tunds <!-- unsure of this --> <choice><orig>changd</orig><reg>changed</reg></choice> one with another: it is <choice><orig>sayd</orig><reg>said</reg></choice> that
+                        <lb break="no"/>puted) from which <choice><orig>wee</orig><reg>we</reg></choice> gather tunds <note type="GE">unsure of this</note> <choice><orig>changd</orig><reg>changed</reg></choice> one with another: it is <choice><orig>sayd</orig><reg>said</reg></choice> that
                         <lb/>Timothy Milese used the Phrygian to make Alexander the great more<pc>-</pc>
                         <lb/><choice><orig>Spritefull</orig><reg>Spriteful</reg></choice> and <choice><orig>couragious</orig><reg>courageous</reg></choice> in warlike <choice><orig>affaires</orig><reg>affairs</reg></choice>, which Cicero takes notice of<pc>-</pc>
                         <lb/>de legibus, but Terpander Lesbius of the Jonicke; who being sent for by<pc>-</pc>
@@ -279,7 +262,7 @@
                         <lb/>another as Hippomenes, and the other <choice><orig>followes</orig><reg>follows</reg></choice>: yet they are established and
                         <lb/>confirmed in a third, which is single and of one validity as a golden apple:
                         <lb/>This same virgin is merely <choice><orig>Chymicall</orig><reg>Chemical</reg></choice>, namely <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> Mercury<pc>-</pc>
-                        <lb/>fixed in flight and restrained by the golden Sulphur, <note place="margin" n="x"><!-- symbol for alchemical Mercury --></note>which if a man<pc>-</pc>
+                        <lb/>fixed in flight and restrained by the golden Sulphur, <note place="margin" n="x"> <note type="GE">symbol for alchemical Mercury</note> </note>which if a man<pc>-</pc>
                         <lb/>know how to make stand, <choice><orig>hee</orig><reg>he</reg></choice> will have that Spouse which <choice><orig>hee</orig><reg>he</reg></choice> desires, if<pc>-</pc>
                         <lb/>not, destruction and <choice><orig>ruine</orig><reg>ruin</reg></choice> of his <choice><orig>affaires</orig><reg>affairs</reg></choice>: From Hippomenes and Atalanta
                         <lb/>lying together in the temple of the mother of the Gods, that is, a <choice><orig>vessell</orig><reg>vessel</reg></choice>,<pc>-</pc>
