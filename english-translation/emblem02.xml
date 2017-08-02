@@ -35,12 +35,12 @@
                 <div type="epigram" xml:lang="en">
                     <head><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 2.</head>
                     <lg>
-                        <l>A courteous <choice><orig>Wolfe</orig><reg>Wolf</reg></choice> to Romulus <choice><orig>displaye</orig><reg>display</reg></choice></l>
+                        <l>A courteous <choice><orig>Wolfe</orig><reg>Wolf</reg></choice> to Romulus <choice><orig>displayd</orig><reg>displayed</reg></choice></l>
                         <l>Her milky duggs, to Jove a Goat, tis <choice><orig>sayd</orig><reg>said</reg></choice>:</l>
                         <l>Nor is it strange to assert our mother Earth</l>
-                        <l>Gave <choice><orig>Sucke</orig><reg>suck</reg></choice> to th' tender <choice><orig>Philosophicke</orig><reg>philosophic</reg></choice> birth;</l>
+                        <l>Gave <choice><orig>Sucke</orig><reg>suck</reg></choice> to th' tender <choice><orig>Philosophicke</orig><reg>Philosophic</reg></choice> birth;</l>
                         <l>If beasts <choice><orig>soe</orig><reg>so</reg></choice> small Heroes <choice><orig>soe</orig><reg>so</reg></choice> great could breed,</l>
-                        <l>How great will <choice><orig>hee</orig><reg>he</reg></choice> be, <choice><orig>whome</orig><reg>whom</reg></choice> the <del>whose</del> earth doth feed!</l>
+                        <l>How great will <choice><orig>hee</orig><reg>he</reg></choice> be, <choice><orig>whome</orig><reg>whom</reg></choice> the <del>whose</del> earth doth feed?</l>
                     </lg>
                 </div>
                 
@@ -49,16 +49,18 @@
                 <div type="discourse" xml:lang="en">
                     <head>Discourse 2.</head>
                     <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                        <lb/><milestone unit="section" n="e02-01" />It is concluded by the <choice><orig>Peripaleticks</orig><reg>Peripaletics</reg></choice>, and Orthodox Philosophers, that the<pc>-</pc> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
-                        <lb/>thing nourishing is converted into the substance of the thing nourishes, and<pc>-</pc>
-                        <lb/>assimilated to it, not indeed before; but after the alteration of it, and that is ac
+                        <lb/><milestone unit="section" n="e02-01" />It is concluded by the <choice><orig>Peripateticks</orig><reg>Peripatetics</reg></choice>, and Orthodox Philosophers, that the<pc>-</pc> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                        <lb/>thing nourishing is converted into the substance of the thing nourished, and<pc>-</pc>
+                        <lb/>assimilated to it, not indeed before, but after the alteration of it, and that is ac
                         <lb break="no"/>counted an infallible <choice><orig>axiome</orig><reg>axiom</reg></choice>: <milestone unit="section" n="e02-02" />for how would the thing nourishing (which is all
-                        <lb break="no"/>ready before the like: or how should those things, which, cannot be assimilated
+                        <lb break="no"/>ready before the like and the same with the thing nourished) <choice><orig>haue</orig><reg>have</reg></choice> need of
+                        <lb/>the mutation of its essence, which if it should happen, it would not <choice><orig>remayne</orig><reg>remain</reg></choice>
+                        <lb/>the same nor the like, or how should those things, which cannot be assimilated
                         <lb/>to the thing nourished, be taken for nutriment, <milestone unit="section" n="e02-03" />such as are wood, stones and<pc>-</pc>
-                        <lb/>the like? <milestone unit="section" n="e02-04" />as therefore the first is <choice><orig>vayne</orig><reg>vain</reg></choice>, <choice><orig>soe</orig><reg>so</reg></choice> the other is contrary to nature, <milestone unit="section" n="e02-05" />but
+                        <lb/>the like? <milestone unit="section" n="e02-04" />as therefore the first is <choice><orig>vayne</orig><reg>vain</reg></choice>, <choice><orig>soe</orig><reg>so</reg></choice> the other is contrary to nature; <milestone unit="section" n="e02-05" />but
                         <lb/>for an Infant now <choice><orig>borne</orig><reg>born</reg></choice> to be nourished by the <choice><orig>milke</orig><reg>milk</reg></choice> of <choice><orig>animalls</orig><reg>animals</reg></choice>, is a thing
                         <lb/>not repugnant to nature: because assimilation of it may be made, but far
-                        <lb/>more easily of the mothers, than of anothers: <milestone unit="section" n="e02-06" />wherefore Physicians <choice><orig>doe</orig><reg>do</reg></choice> con
+                        <lb/>more easily of the mothers, than of anothers: <milestone unit="section" n="e02-06" />wherefore <choice><orig>Physitians</orig><reg>Physicians</reg></choice> <choice><orig>doe</orig><reg>do</reg></choice> con
                         <lb break="no"/>clude, that it <choice><orig>conduceth</orig><reg>conduces</reg></choice> to the health, similitude of substance and manners,
                         <lb/>as <choice><orig>allso</orig><reg>also</reg></choice> strength of an Infant, if it be <choice><orig>allways</orig><reg>always</reg></choice> nourishes by the <choice><orig>milke</orig><reg>milk</reg></choice> of its<pc>-</pc>
                         <lb/><choice><orig>owne</orig><reg>own</reg></choice> mother, on the contrary if by another. <milestone unit="section" n="e02-07" />This is the harmony of every 

@@ -50,7 +50,7 @@
                     <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
                         <lb/><milestone unit="section" n="e10-01" />If this saying be literally, it <choice><orig>onely</orig><reg>only</reg></choice> <choice><orig>increaseth</orig><reg>increases</reg></choice> the quality of fire and Mer <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
                         <lb break="no"/>cury, and <choice><orig>introduceth</orig><reg>introduces</reg></choice> <choice><orig>noe</orig><reg>no</reg></choice> new quality in the subject: for every like being added
-                        <lb/>to its like makes a similar augmentation: <milestone unit="section" n="e10-02" />and therefore Physicians <choice><orig>affirme</orig><reg>affirm</reg></choice><pc>-</pc>
+                        <lb/>to its like makes a similar augmentation: <milestone unit="section" n="e10-02" />and therefore <choice><orig>Physitians</orig><reg>Physicians</reg></choice> <choice><orig>affirme</orig><reg>affirm</reg></choice><pc>-</pc>
                         <lb/>that contrary diseases are cured and taken away by contrary medicines,<pc>-</pc>
                         <lb/><choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>wee</orig><reg>we</reg></choice> see that fire is extinguished by water, but sustained by adding
                         <lb/>fire: <milestone unit="section" n="e10-03" />The Poet is of the same opinion saying: Venus <choice><orig>rageth</orig><reg>rages</reg></choice> in wine, fire in
