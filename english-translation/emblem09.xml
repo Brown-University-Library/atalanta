@@ -51,8 +51,8 @@
                     <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
                         <lb/><milestone unit="section" n="e09-01" />All things whatsoever <choice><orig>doe</orig><reg>do</reg></choice> grow in length, breadth, and depth, that is, are <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
                         <lb/>propagates, nourished, and augmented to maturity, the same things <choice><orig>doe</orig><reg>do</reg></choice> all
-                        <pc>=</pc><lb break="no"/>so decrease, that is, are diminished in <choice><orig>facultyes</orig><reg>faculties</reg></choice>, <choice><orig>dye</orig><reg>die</reg></choice>, and are wholly demo
-                        <pc>=</pc><lb break="no"/>lished, as is manifestly evident in all vegetables and <choice><orig>animalls</orig><reg>animals</reg></choice>: <milestone unit="section" n="e09-02" />wherefore man
+                        <lb break="no"/>so decrease, that is, are diminished in <choice><orig>facultyes</orig><reg>faculties</reg></choice>, <choice><orig>dye</orig><reg>die</reg></choice>, and are wholly demo
+                        <lb break="no"/>lished, as is manifestly evident in all vegetables and <choice><orig>animalls</orig><reg>animals</reg></choice>: <milestone unit="section" n="e09-02" />wherefore man
                         <lb/><choice><orig>allso</orig><reg>also</reg></choice> having arrived at full growth <choice><orig>admitts</orig><reg>admits</reg></choice> of decrement, that is, old age, whereby
                         <lb/>his strength is gradually diminished even till the approach of death: now the
                         <lb/>cause of old age is the same as is of a <choice><orig>lampe</orig><reg>lamp</reg></choice> decaying, and shining obscurely
@@ -61,7 +61,7 @@
                         <lb/>are the match, <choice><orig>fattnesse</orig><reg>fatness</reg></choice> the <choice><orig>radicall</orig><reg>radical</reg></choice> moisture, flame the <choice><orig>naturall</orig><reg>natural</reg></choice> heat; <milestone unit="section" n="e09-04" />all
                         <lb/>the difference is that the flame of a <choice><orig>lampe</orig><reg>lamp</reg></choice> shines, the <choice><orig>naturall</orig><reg>natural</reg></choice> heat not at all,
                         <lb/>it not being fire, but <choice><orig>onely</orig><reg>only</reg></choice> heat, and that <choice><orig>fattnesse</orig><reg>fatness</reg></choice> is <choice><orig>oyley</orig><reg>oily</reg></choice>, the <choice><orig>radicall</orig><reg>radical</reg></choice> mois
-                        <pc>=</pc><lb break="no"/>ture viscous, as being of a <choice><orig>seminall</orig><reg>seminal</reg></choice> principle: <milestone unit="section" n="e09-05" />As <choice><orig>allso</orig><reg>also</reg></choice> a <choice><orig>lampe</orig><reg>lamp</reg></choice> is extinguished
+                        <lb break="no"/>ture viscous, as being of a <choice><orig>seminall</orig><reg>seminal</reg></choice> principle: <milestone unit="section" n="e09-05" />As <choice><orig>allso</orig><reg>also</reg></choice> a <choice><orig>lampe</orig><reg>lamp</reg></choice> is extinguished
                         <lb/>through want of <choice><orig>oyle</orig><reg>oil</reg></choice>, <choice><orig>soe</orig><reg>so</reg></choice> man by old age, without any other disease, falls
                         <lb/>into a marasme, and aged consumption, and lastly death: <milestone unit="section" n="e09-06" />They relate<pc>-</pc>
                         <lb/>of the Eagle, that in old age being <choice><orig>hindred</orig><reg>hindered</reg></choice> by a crooked <choice><orig>beake</orig><reg>beak</reg></choice> it would
@@ -78,7 +78,7 @@
                         <lb/>the philosophers say, that an old man, to become young, must be<pc>-</pc>
                         <lb/><choice><orig>shutt</orig><reg>shut</reg></choice> up with a <choice><orig>certaine</orig><reg>certain</reg></choice> tree in a house of dew, and then <choice><orig>hee</orig><reg>he</reg></choice> will
                         <lb/>eat of the fruit of the tree, and <choice><orig>soe</orig><reg>so</reg></choice> recover youth: It is scarce <choice><orig>be
-                        <pc>=</pc><lb break="no"/>leivd</orig><reg>believed</reg></choice> by the vulgar that such trees are now in the nature of things:
+                        <lb break="no"/>leivd</orig><reg>believed</reg></choice> by the vulgar that such trees are now in the nature of things:
                         <lb/><milestone unit="section" n="e09-10" />Of Myrobalans, the fruit of a tree, Physicians write wonders, as if<pc>-</pc>
                         <lb/>they could <choice><orig>performe</orig><reg>perform</reg></choice> such a thing, take away gray <choice><orig>haires</orig><reg>hairs</reg></choice>, purify the
                         <lb/>blood, and prolong life: <milestone unit="section" n="e09-11" />but these things are doubled by many men,
@@ -86,7 +86,7 @@
                         <lb/>purge the <choice><orig>masse</orig><reg>mass</reg></choice> of blood from <choice><orig>fæces</orig><reg>feces</reg></choice> <choice><orig>mixd</orig><reg>mixed</reg></choice> with it, and dye gray <choice><orig>haire</orig><reg>hair</reg></choice>
                         <lb/>with <choice><orig>blacknesse</orig><reg>blackness</reg></choice>, with which Myrobalans are reported to <choice><orig>colour</orig><reg>color</reg></choice> the
                         <lb/><choice><orig>haire</orig><reg>hair</reg></choice> <seg rend="underline">and ball of</seg> the eyes. <milestone unit="section" n="e09-12" />Marsilius Ficinus in his booke of <choice><orig>præser
-                        <pc>=</pc><lb break="no"/>ving</orig><reg>preserving</reg></choice> the life of students, writes, that in order to <choice><orig>attaine</orig><reg>attain</reg></choice> to long life
+                        <lb break="no"/>ving</orig><reg>preserving</reg></choice> the life of students, writes, that in order to <choice><orig>attaine</orig><reg>attain</reg></choice> to long life
                         <lb/>it is <choice><orig>coḿodious</orig><reg>commodious</reg></choice> for a man <choice><orig>dayly</orig><reg>daily</reg></choice> to <choice><orig>sucke</orig><reg>suck</reg></choice> the <choice><orig>milke</orig><reg>milk</reg></choice> of some <choice><orig>certaine</orig><reg>certain</reg></choice>
                         <lb/><choice><orig>beautifull</orig><reg>beautiful</reg></choice> and young woman, instead of which others <choice><orig>doe</orig><reg>do</reg></choice> <choice><orig>coḿend</orig><reg>commend</reg></choice>
                         <lb/>the eating of vipers flesh: <milestone unit="section" n="e09-13" />but indeed these means are themselves
@@ -96,8 +96,8 @@
                         <pb n="34"/><fw>Discourse 9.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
                         <lb/>more rigid than old age, and scarce to be used by one of a thousand,<pc>-</pc>
                         <lb/>though they Should not be without <choice><orig>certaine</orig><reg>certain</reg></choice> effect: It is written by Para
-                        <pc>=</pc><lb break="no"/>celsus in his <choice><orig>booke</orig><reg>book</reg></choice> of long life, that a <choice><orig>sicke</orig><reg>sick</reg></choice> man may attract to <choice><orig>him
-                        <pc>=</pc><lb break="no"/>selfe</orig><reg>himself</reg></choice> the health of another by imagination alone, as <choice><orig>allso</orig><reg>also</reg></choice> an old man
+                        <lb break="no"/>celsus in his <choice><orig>booke</orig><reg>book</reg></choice> of long life, that a <choice><orig>sicke</orig><reg>sick</reg></choice> man may attract to <choice><orig>him
+                        <lb break="no"/>selfe</orig><reg>himself</reg></choice> the health of another by imagination alone, as <choice><orig>allso</orig><reg>also</reg></choice> an old man
                         <lb/>youth, but <seg rend="underline">this Author seems in this to use his imagination <choice><orig>onely</orig><reg>only</reg></choice>, not
                             <lb/>experience:</seg> <milestone unit="section" n="e09-14" />It is thing <choice><orig>certaine</orig><reg>certain</reg></choice> of the Psylli who have two balls of the
                         <lb/>eye, and of witches, that they bewitch children and cattle by aspect alone,
@@ -105,7 +105,7 @@
                         <lb/><milestone unit="section" n="e09-15" />but these things are done without contact, whereby the tree restores the<pc>-</pc>
                         <lb/>old man to youth: for this tree <choice><orig>hath</orig><reg>has</reg></choice> sweet fruit, ripe and red, which <choice><orig>doe</orig><reg>do</reg></choice>
                         <lb/>easily <choice><orig>turne</orig><reg>turn</reg></choice> into pure blood, being of easy digestion and excellent nutri
-                        <pc>=</pc><lb break="no"/>ment, <choice><orig>soe</orig><reg>so</reg></choice> as to leave nothing superfluous or <choice><orig>fæculent</orig><reg>feculent</reg></choice> in the body: <milestone unit="section" n="e09-16" />but<pc>-</pc>
+                        <lb break="no"/>ment, <choice><orig>soe</orig><reg>so</reg></choice> as to leave nothing superfluous or <choice><orig>fæculent</orig><reg>feculent</reg></choice> in the body: <milestone unit="section" n="e09-16" />but<pc>-</pc>
                         <lb/>the old man abounds with white <choice><orig>phlegme</orig><reg>phlegm</reg></choice>, and is of a white <choice><orig>colour</orig><reg>color</reg></choice> and<pc>-</pc>
                         <lb/>hairy, which humor, <choice><orig>colour</orig><reg>color</reg></choice>, and <choice><orig>haire</orig><reg>hair</reg></choice> are changed by eating these<pc>-</pc>
                         <lb/>fruits, and become red, as those are of young men. <milestone unit="section" n="e09-17" />For this reason say the
@@ -125,7 +125,7 @@
                         <lb/>the seed <choice><orig>ariseth</orig><reg>arises</reg></choice>: <milestone unit="section" n="e09-22" />But a dewy evaporation is not <add><choice><orig>onely</orig><reg>only</reg></choice></add> good and expedient to moisten
                         <lb/>the tree, that it may more easily <choice><orig>yeild</orig><reg>yield</reg></choice> fruit, but <choice><orig>allso</orig><reg>also</reg></choice> the old man, that by
                         <lb/>those fruits <choice><orig>hee</orig><reg>he</reg></choice> may become young <choice><orig>againe</orig><reg>again</reg></choice>, that is to say, the dewy evapo
-                        <pc>=</pc><lb break="no"/>ration mollifying, filling up, and restoring his wrinkled and dry <choice><orig>Skinne</orig><reg>Skin</reg></choice>
+                        <lb break="no"/>ration mollifying, filling up, and restoring his wrinkled and dry <choice><orig>Skinne</orig><reg>Skin</reg></choice>
                         <lb/>with temperate heat and moisture: <milestone unit="section" n="e09-23" />for Physicians <choice><orig>doe</orig><reg>do</reg></choice> advisedly and with
                         <lb/>great utility <choice><orig>enjoyne</orig><reg>enjoin</reg></choice> and <choice><orig>præscribe</orig><reg>prescribe</reg></choice> <choice><orig>warme</orig><reg>warm</reg></choice> baths in the marasme and<pc>-</pc>
                         <lb/>aged consumption: <milestone unit="section" n="e09-24" /><seg rend="underline">but if</seg> the thing be well considered that tree is the<pc>-</pc>

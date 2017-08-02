@@ -49,7 +49,7 @@
                     <head>Discourse 29.</head>
                     <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
                         <lb/>Two Elements there are, in which <choice><orig>animalls</orig><reg>animals</reg></choice> live, water and <choice><orig>aire</orig><reg>air</reg></choice>, and as ma<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
-                        <pc>=</pc><lb break="no"/>ny in which <choice><orig>noe</orig><reg>no</reg></choice> animated thing can live, earth and fire: For as those are
+                        <lb break="no"/>ny in which <choice><orig>noe</orig><reg>no</reg></choice> animated thing can live, earth and fire: For as those are
                         <lb/>of a <choice><orig>midle</orig><reg>middle</reg></choice> and temperate complexion in the first and second <choice><orig>qualityes</orig><reg>qualities</reg></choice>, <choice><orig>soe</orig><reg>so</reg></choice>
                         <lb/>these are extreme; <choice><orig>bodyes</orig><reg>bodies</reg></choice> either too <choice><orig>thicke</orig><reg>thick</reg></choice> or too <choice><orig>subtill</orig><reg>subtle</reg></choice>, <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>thicke</orig><reg>thick</reg></choice> as not
                         <lb/>to <choice><orig>admitt</orig><reg>admit</reg></choice> other <choice><orig>bodyes</orig><reg>bodies</reg></choice>, <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>subtill</orig><reg>subtle</reg></choice> as indeed to admit, but to penetrate and <choice><orig>burne</orig><reg>burn</reg></choice>
@@ -57,9 +57,9 @@
                         <lb/>because of the <choice><orig>aire</orig><reg>air</reg></choice> descending thitherto, and supplying the vacuity of those
                         <lb/>places: But here <choice><orig>wee</orig><reg>we</reg></choice> <choice><orig>speake</orig><reg>speak</reg></choice> of every Element apart: In water fish <choice><orig>doe</orig><reg>do</reg></choice> live
                         <lb/>in incredible number, variety, and fertility, yea the greatest of all <choice><orig>ani
-                        <pc>=</pc><lb break="no"/>malls</orig><reg>animals</reg></choice>; In the <choice><orig>aire</orig><reg>air</reg></choice> men, four<c rend="double-hyphen">-</c>footed beasts, birds, <choice><orig>wormes</orig><reg>worms</reg></choice>, and insects: Whatso
-                        <pc>=</pc><lb break="no"/>ever is <choice><orig>sayd</orig><reg>said</reg></choice> of Spirits <choice><orig>wandring</orig><reg>wandering</reg></choice> in the secret parts of the earth, is ano
-                        <pc>=</pc><lb break="no"/>ther thing, for neither are they <choice><orig>animalls</orig><reg>animals</reg></choice>: But they say the Salamander
+                        <lb break="no"/>malls</orig><reg>animals</reg></choice>; In the <choice><orig>aire</orig><reg>air</reg></choice> men, four<c rend="double-hyphen">-</c>footed beasts, birds, <choice><orig>wormes</orig><reg>worms</reg></choice>, and insects: Whatso
+                        <lb break="no"/>ever is <choice><orig>sayd</orig><reg>said</reg></choice> of Spirits <choice><orig>wandring</orig><reg>wandering</reg></choice> in the secret parts of the earth, is ano
+                        <lb break="no"/>ther thing, for neither are they <choice><orig>animalls</orig><reg>animals</reg></choice>: But they say the Salamander
                         <lb/>alone lives in fire: Now the Salamander is a creeping <choice><orig>vermine</orig><reg>vermin</reg></choice>, not much<pc>-</pc>
                         <lb/>unlike to a Lizard, but of Slower pace, bigger head, and different <choice><orig>colour</orig><reg>color</reg></choice>, such
                         <lb/>as I remember I have seen in the Alps, or <choice><orig>necke</orig><reg>neck</reg></choice> of Spluga, coming out of
@@ -67,7 +67,7 @@
                         <lb/>countryman of that place advertising that it was, called ein Motch: And it
                         <lb/>had about a clammy and viscous <choice><orig>moistnesse</orig><reg>moistness</reg></choice>, by the virtue of which it
                         <lb/><choice><orig>passeth</orig><reg>passes</reg></choice> freely through fire without <choice><orig>harme</orig><reg>harm</reg></choice>: But the Philosophers Sala
-                        <pc>=</pc><lb break="no"/>mander is much different, though it be assimilated to this: For that is<pc>-</pc>
+                        <lb break="no"/>mander is much different, though it be assimilated to this: For that is<pc>-</pc>
                         <lb/>bred in fire, this not; but if it falls into fire it is not presently burned<pc>-</pc>
                         <lb/>by reason of its <choice><orig>exceding</orig><reg>exceeding</reg></choice> <choice><orig>coldnesse</orig><reg>coldness</reg></choice> and <choice><orig>moistnesse</orig><reg>moistness</reg></choice>, but can freely <choice><orig>passe</orig><reg>pass</reg></choice>
                         <lb/>through the flame: That is <choice><orig>hott</orig><reg>hot</reg></choice> and dry this cold and moist: For every
@@ -75,7 +75,7 @@
                         <lb/>the place and countrey: Fire <choice><orig>produceth</orig><reg>produces</reg></choice> nothing but that which is <choice><orig>hott</orig><reg>hot</reg></choice><pc>-</pc>
                         <lb/>and dry, as its like, and on the contrary the moist and cold caverns
                         <lb/>of rocks, being full of water, <choice><orig>doe</orig><reg>do</reg></choice> bring forth this cold and moist <choice><orig>ver
-                        <pc>=</pc><lb break="no"/>myne</orig><reg>vermin</reg></choice>. That <choice><orig>doth</orig><reg>does</reg></choice> by the similitude of nature <choice><orig>rejoyce</orig><reg>rejoice</reg></choice> in fire, this by
+                        <lb break="no"/>myne</orig><reg>vermin</reg></choice>. That <choice><orig>doth</orig><reg>does</reg></choice> by the similitude of nature <choice><orig>rejoyce</orig><reg>rejoice</reg></choice> in fire, this by
                         <lb/>contrariety <choice><orig>extinguisheth</orig><reg>extinguishes</reg></choice> it, or repells its force for some time from it.
                         <lb/>They say that the <choice><orig>flye</orig><reg>fly</reg></choice> called Pyransta is generated in fire, and <choice><orig>flyes</orig><reg>flies</reg></choice> out
                         <lb/>of the <choice><orig>brasse</orig><reg>brass</reg></choice> furnaces of Cyprus: but <choice><orig>noe</orig><reg>no</reg></choice> man <choice><orig>hath</orig><reg>has</reg></choice> <choice><orig>beleivd</orig><reg>believed</reg></choice> this true, except
@@ -83,7 +83,7 @@
                         <lb/><choice><orig>bodyes</orig><reg>bodies</reg></choice> of all <choice><orig>animalls</orig><reg>animals</reg></choice> whatsoever, it <choice><orig>allso</orig><reg>also</reg></choice> burning the earth into <choice><orig>glasse</orig><reg>glass</reg></choice>,
                         <lb/>and the most solid timber into ashes, and all other compounded things,
                         <lb/>a few excepted, as <choice><orig>Mercuriall</orig><reg>Mercurial</reg></choice>, which <choice><orig>doe</orig><reg>do</reg></choice> either <choice><orig>wholy</orig><reg>wholly</reg></choice> <choice><orig>remayne</orig><reg>remain</reg></choice>, or <choice><orig>allto
-                        <pc>=</pc><lb break="no"/>gether</orig><reg>altogether</reg></choice> <choice><orig>flye</orig><reg>fly</reg></choice> from fire, <choice><orig>noe</orig><reg>no</reg></choice> separation of the parts being made in them:
+                        <lb break="no"/>gether</orig><reg>altogether</reg></choice> <choice><orig>flye</orig><reg>fly</reg></choice> from fire, <choice><orig>noe</orig><reg>no</reg></choice> separation of the parts being made in them:
                         <lb/>Vulcan is a most <choice><orig>cruell</orig><reg>cruel</reg></choice> <choice><orig>murtherer</orig><reg>murderer</reg></choice>, who calls all things mixed with the
                         <lb/>Elements to his examination, some being excepted from his judgement
                         <lb/>seat as the <choice><orig>priviledges</orig><reg>privileges</reg></choice>, and prerogatives of the <choice><orig>Emperesse</orig><reg>Emperess</reg></choice> Nature: Upon
@@ -104,30 +104,30 @@
                         <lb/>and the <choice><orig>internall</orig><reg>internal</reg></choice> fire of the compound <choice><orig>doth</orig><reg>does</reg></choice> by consent approve this
                         <lb/>sentiment of the earth, because it is an intimate <choice><orig>freind</orig><reg>friend</reg></choice> to the earth.<pc>-</pc>
                         <lb/>The <choice><orig>judgement</orig><reg>judgment</reg></choice> therefore of Vulcan <choice><orig>ceaseth</orig><reg>ceases</reg></choice>, who <choice><orig>useth</orig><reg>uses</reg></choice> yet another en
-                        <pc>=</pc><lb break="no"/>trigue, striving to <choice><orig>burne</orig><reg>burn</reg></choice> the earth into ashes, as his <choice><orig>custome</orig><reg>custom</reg></choice> is, but the wa
-                        <pc>=</pc><lb break="no"/>ter <choice><orig>adhæring</orig><reg>adhering</reg></choice> to it <choice><orig>prævayles</orig><reg>prevails</reg></choice> against exceptions, which <choice><orig>Shews</orig><reg>Shows</reg></choice> <choice><orig>itselfe</orig><reg>itself</reg></choice> uni
-                        <pc>=</pc><lb break="no"/>ted to the earth, and the <choice><orig>aire</orig><reg>air</reg></choice> to it, and fire to the earth on the other<pc>-</pc>
+                        <lb break="no"/>trigue, striving to <choice><orig>burne</orig><reg>burn</reg></choice> the earth into ashes, as his <choice><orig>custome</orig><reg>custom</reg></choice> is, but the wa
+                        <lb break="no"/>ter <choice><orig>adhæring</orig><reg>adhering</reg></choice> to it <choice><orig>prævayles</orig><reg>prevails</reg></choice> against exceptions, which <choice><orig>Shews</orig><reg>Shows</reg></choice> <choice><orig>itselfe</orig><reg>itself</reg></choice> uni
+                        <lb break="no"/>ted to the earth, and the <choice><orig>aire</orig><reg>air</reg></choice> to it, and fire to the earth on the other<pc>-</pc>
                         <lb/>side; <choice><orig>hee</orig><reg>he</reg></choice> therefore that would incinerate the earth, must <choice><orig>allso</orig><reg>also</reg></choice> incine
-                        <pc>=</pc><lb break="no"/>rate the other Elements: And <choice><orig>soe</orig><reg>so</reg></choice> Vulcan being <choice><orig>disapointed</orig><reg>disappointed</reg></choice> suspends<pc>-</pc>
+                        <lb break="no"/>rate the other Elements: And <choice><orig>soe</orig><reg>so</reg></choice> Vulcan being <choice><orig>disapointed</orig><reg>disappointed</reg></choice> suspends<pc>-</pc>
                         <lb/>his <choice><orig>judgement</orig><reg>judgment</reg></choice>, lest <choice><orig>hee</orig><reg>he</reg></choice> Should be derided by all men. This body is like
                         <lb/>the <choice><orig>reall</orig><reg>real</reg></choice> Salamander, in which the Elements are exactly <choice><orig>æquallized</orig><reg>equalized</reg></choice> in vir
-                        <pc>=</pc><lb break="no"/>tue: Of it <choice><orig>Sayth</orig><reg>Says</reg></choice> the Rosary out of Geber; That Philosopher would have<pc>-</pc>
+                        <lb break="no"/>tue: Of it <choice><orig>Sayth</orig><reg>Says</reg></choice> the Rosary out of Geber; That Philosopher would have<pc>-</pc>
                         <lb/>the substance of Mercury <choice><orig>mortifyed</orig><reg>mortified</reg></choice>, but naturally his Mercury is in that
                         <lb/>venerable stone, as is manifest to all men: therefore etc. <choice><orig>Allso</orig><reg>Also</reg></choice> that Phi
-                        <pc>=</pc><lb break="no"/>losopher would have the substance of Mercury fixed, as is evident, be
-                        <pc>=</pc><lb break="no"/>cause <choice><orig>hee</orig><reg>he</reg></choice> <choice><orig>teacheth</orig><reg>teaches</reg></choice> the <choice><orig>wayes</orig><reg>ways</reg></choice> of fixing with many cautions and devices,
+                        <lb break="no"/>losopher would have the substance of Mercury fixed, as is evident, be
+                        <lb break="no"/>cause <choice><orig>hee</orig><reg>he</reg></choice> <choice><orig>teacheth</orig><reg>teaches</reg></choice> the <choice><orig>wayes</orig><reg>ways</reg></choice> of fixing with many cautions and devices,
                         <lb/>but who doubts the substance of that <choice><orig>pretious</orig><reg>precious</reg></choice> stone to be fixed? cer
-                        <pc>=</pc><lb break="no"/>tainly <choice><orig>noe</orig><reg>no</reg></choice> man that <choice><orig>knowes</orig><reg>knows</reg></choice> it. By which it is demonstrated, that the
+                        <lb break="no"/>tainly <choice><orig>noe</orig><reg>no</reg></choice> man that <choice><orig>knowes</orig><reg>knows</reg></choice> it. By which it is demonstrated, that the
                         <lb/>Stone must be reduced to the nature of the Salamander by fixa
-                        <pc>=</pc><lb break="no"/>tion; that is, to absolute fixity, which declines not, or <choice><orig>refuseth</orig><reg>refuses</reg></choice> fire.<pc>-</pc>
+                        <lb break="no"/>tion; that is, to absolute fixity, which declines not, or <choice><orig>refuseth</orig><reg>refuses</reg></choice> fire.<pc>-</pc>
                         <lb/>For neither can it be the Salamander, before it <choice><orig>hath</orig><reg>has</reg></choice> learned to en
-                        <pc>=</pc><lb break="no"/>dure fire most patiently, which must of necessity be effected in long
+                        <lb break="no"/>dure fire most patiently, which must of necessity be effected in long
                         <lb/><choice><orig>processe</orig><reg>process</reg></choice> of time. Hereafter in the 35 <choice><orig>emblematicall</orig><reg>emblematical</reg></choice> discourse <choice><orig>wee</orig><reg>we</reg></choice> will<pc>-</pc>
                         <lb/>treat of Achilles and Triptolemus, placed in the might time under embers
                         <lb/>of fire, till they could endure most vehement heat, who <choice><orig>allso</orig><reg>also</reg></choice> attained to a
                         <lb/>Salamandrine property by <choice><orig>custome</orig><reg>custom</reg></choice> and habit: for <choice><orig>custome</orig><reg>custom</reg></choice> is a second<pc>-</pc>
                         <lb/>nature, which notwithstanding must <choice><orig>coḿunicate</orig><reg>communicate</reg></choice> power, and as a <choice><orig>Mis
-                        <pc>=</pc><lb break="no"/>tresse</orig><reg>Mistress</reg></choice> begin alteration, otherwise <choice><orig>custome</orig><reg>custom</reg></choice> will be able to effect little or
+                        <lb break="no"/>tresse</orig><reg>Mistress</reg></choice> begin alteration, otherwise <choice><orig>custome</orig><reg>custom</reg></choice> will be able to effect little or
                         <lb/>nothing; that is the reason why it is impossible to fix ice at fire, but
                         <lb/><choice><orig>Cristall</orig><reg>Cristal</reg></choice> possible, because nature <choice><orig>hath</orig><reg>has</reg></choice> begun this: The same must be
                         <lb/>supposed of <choice><orig>watry</orig><reg>watery</reg></choice> and volatile Mercury, which in its <choice><orig>owne</orig><reg>own</reg></choice> nature
