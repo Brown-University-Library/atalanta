@@ -27,7 +27,7 @@
                     <head>
                         <lb/><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 13. Of the Secrets of Nature.
                         <lb/>The Philosophers <choice><orig>brasse</orig><reg>brass</reg></choice> is <choice><orig>hydropicall</orig><reg>hydropical</reg></choice>, and desires to be seven
-                        <lb/>times <choice><orig>washd</orig><reg>washed</reg></choice> in a river, as Naaman the leper in jordan.
+                        <lb/>times <choice><orig>washd</orig><reg>washed</reg></choice> in a river, as Naaman the leper in <choice><orig>jordan</orig><reg>Jordan</reg></choice>.
                     </head>
                 </div>
                 
@@ -49,7 +49,7 @@
                 <div type="discourse" xml:lang="en">
                     <head>Discourse 13.</head>
                     <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                        <lb/>That Naaman the Syrian <choice><orig>betooke</orig><reg>betook</reg></choice> <choice><orig>himselfe</orig><reg>himself</reg></choice> to Judea as the <choice><orig>perswasion</orig><reg>persuasion</reg></choice> of the<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                        <lb/>That Naaman the Syrian <choice><orig>betooke</orig><reg>betook</reg></choice> <choice><orig>himselfe</orig><reg>himself</reg></choice> to <choice><orig>Judæa</orig><reg>Judea</reg></choice> as the <choice><orig>perswasion</orig><reg>persuasion</reg></choice> of the<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
                         <lb/>Prophet, and <choice><orig>washd</orig><reg>washed</reg></choice> <choice><orig>himselfe</orig><reg>himself</reg></choice> seven times in the river Jordan, is to be <choice><orig>ascribd</orig><reg>ascribed</reg></choice>
                         <lb/>to his confidence in the Prophets words, but that <choice><orig>hee</orig><reg>he</reg></choice> was freed from the Le
                         <lb break="no"/>prosy by that washing, is a miracle of divine omnipotence: For the Leprosy,
@@ -87,7 +87,7 @@
                         <lb break="no"/>neth</orig><reg>burns</reg></choice>, differ one from the other in name <choice><orig>onely</orig><reg>only</reg></choice>, but agree in effect and ope
                         <lb break="no"/>ration: That <choice><orig>brasse</orig><reg>brass</reg></choice> therefore must be <choice><orig>washd</orig><reg>washed</reg></choice>, that is, <choice><orig>dryed</orig><reg>dried</reg></choice> from its super
                         <lb break="no"/>fluous moistures by this water, or this fire: <choice><orig>Wee</orig><reg>We</reg></choice> have <choice><orig>knowne</orig><reg>known</reg></choice> experiments<pc>-</pc>
-                        <lb/>of <choice><orig>Hydropicall</orig><reg>Hydropical</reg></choice> <choice><orig>bodyes</orig><reg>bodies</reg></choice> cured by six <choice><orig>moneths</orig><reg>months</reg></choice> absence from any <choice><orig>drinke</orig><reg>drink</reg></choice>,<pc>-</pc>
+                        <lb/>of <choice><orig>Hydropicall</orig><reg>Hydropical</reg></choice> <choice><orig>bodyes</orig><reg>bodies</reg></choice> cured by six <choice><orig>moneths</orig><reg>months</reg></choice> abstinence from any <choice><orig>drinke</orig><reg>drink</reg></choice>,<pc>-</pc>
                         <lb/>by being <choice><orig>buryed</orig><reg>buried</reg></choice> in <seg rend="underline"><choice><orig>hott</orig><reg>hot</reg></choice> sand</seg>, or <choice><orig>Cowes</orig><reg>Cows</reg></choice> dung, by being put in a <seg rend="underline"><choice><orig>hott</orig><reg>hot</reg></choice> fur
                         <lb break="no"/>nace, and sweating, and innumerable</seg> other helps, yea <choice><orig>allso</orig><reg>also</reg></choice> <seg rend="underline">by drying<pc>-</pc>
                         <lb/>baths, such as are at Carolina and Wisbadenses not <choice><orig>farre</orig><reg>far</reg></choice></seg> from Mentz:
@@ -104,7 +104,7 @@
                         <lb break="no"/>fitable excrement, by which the <choice><orig>naturall</orig><reg>natural</reg></choice> heat was before <choice><orig>suppressd</orig><reg>suppressed</reg></choice> as by<pc>-</pc>
                         <lb/>an enemy: In this cure there is need of great diligence and <choice><orig>præcaution</orig><reg>precaution</reg></choice>,<pc>-</pc>
                         <lb/>lest whilst one <choice><orig>bowell</orig><reg>bowel</reg></choice> is <choice><orig>helpd</orig><reg>helped</reg></choice>, another be hurt: In a Quartan (the <choice><orig>Plato
-                        <lb break="no"/>micke</orig><reg>Platonic</reg></choice> probation of a <choice><orig>Physitian</orig><reg>Physician</reg></choice>) <choice><orig>wee</orig><reg>we</reg></choice> find, that <choice><orig>thicke</orig><reg>thick</reg></choice> and viscous humors,
+                        <lb break="no"/>nicke</orig><reg>Platonic</reg></choice> probation of a <choice><orig>Physitian</orig><reg>Physician</reg></choice>) <choice><orig>wee</orig><reg>we</reg></choice> find, that <choice><orig>thicke</orig><reg>thick</reg></choice> and viscous humors,
                         <lb/>like the <choice><orig>gumme</orig><reg>gum</reg></choice> or <choice><orig>glew</orig><reg>glue</reg></choice> of trees, being gathered together from all the veins<pc>-</pc>
                         <lb/>and <choice><orig>masse</orig><reg>mass</reg></choice> of blood, <choice><orig>doe</orig><reg>do</reg></choice> descend through the hollow or great veins even to the
                         <lb/><choice><orig>bottome</orig><reg>bottom</reg></choice> of the <choice><orig>backe</orig><reg>back</reg></choice>, where obstructing the emulgent veins, which draw
@@ -121,9 +121,9 @@
                         <lb/><choice><orig>avoyd</orig><reg>avoid</reg></choice>: But that Dropsy which proceeds from an impaired Liver or Spleen,<pc>-</pc>
                         <lb/>if it be confirmed, is of most difficult cure: Now in the <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice><pc>-</pc>
                         <lb/><choice><orig>brasse</orig><reg>brass</reg></choice> the cure is not impossible, the distemper being rather by accident,<pc>-</pc>
-                        <lb/>and secundary, than <choice><orig>essentiall</orig><reg>essential</reg></choice> or primary, provided it be cautiously be
+                        <lb/>and <choice><orig>secundary</orig><reg>secondary</reg></choice>, than <choice><orig>essentiall</orig><reg>essential</reg></choice> or primary, provided it be cautiously be
                         <lb break="no"/>gun, as <choice><orig>wee</orig><reg>we</reg></choice> have <choice><orig>sayd</orig><reg>said</reg></choice> concerning the plenty of serum in a Quartan, to<pc>-</pc>
-                        <lb/><choice><orig>witt</orig><reg>wit</reg></choice>, that it may not by overmuch exiccation fall into a consumption, or
+                        <lb/><choice><orig>witt</orig><reg>wit</reg></choice>, that it may not by overmuch <choice><orig>exiccation</orig><reg>exsiccation</reg></choice> fall into a consumption, or
                         <lb/>by humectation into a Dropsy difficult to be cured<pc>. . . . . .</pc>
                     </ab>   
                 </div>
