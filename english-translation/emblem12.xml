@@ -50,20 +50,20 @@
                     <head>Discourse 12.</head>
                     <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
                         <lb/>The Allegory of <choice><orig>Saturne</orig><reg>Saturn</reg></choice> <choice><orig>wee</orig><reg>we</reg></choice> find to be taken <choice><orig>divers</orig><reg>diverse</reg></choice> <choice><orig>wayes</orig><reg>ways</reg></choice>: for the Astro<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
-                        <lb break="no"/>nomers repute him the highest of the <choice><orig>Planetts</orig><reg>Planets</reg></choice> in order; the young students
+                        <pc>=</pc><lb break="no"/>nomers repute him the highest of the <choice><orig>Planetts</orig><reg>Planets</reg></choice> in order; the young students
                         <lb/>of <choice><orig>Chymistry</orig><reg>Chemistry</reg></choice> the meanest of <choice><orig>metalls</orig><reg>metals</reg></choice>, namely lead: The heathen Poets: <choice><orig>con
-                        <lb break="no"/>ceivd</orig><reg>conceived</reg></choice> him to be the father of Jupiter, <choice><orig>Sonne</orig><reg>Son</reg></choice> of Cælum; the Mythologists time.
+                        <pc>=</pc><lb break="no"/>ceivd</orig><reg>conceived</reg></choice> him to be the father of Jupiter, <choice><orig>Sonne</orig><reg>Son</reg></choice> of Cælum; the Mythologists time.
                         <lb/>But though all these may seem to have thought aright in their sense, yet<pc>-</pc>
                         <lb/>they will not declare those things which are <choice><orig>elswhere</orig><reg>elsewhere</reg></choice> spoken of <choice><orig>Saturne</orig><reg>Saturn</reg></choice>,<pc>-</pc>
                         <lb/>why <choice><orig>hee</orig><reg>he</reg></choice> devoured and vomited up his <choice><orig>sonns</orig><reg>sons</reg></choice>, and a stone instead of Jupiter,
                         <lb/>why <choice><orig>hee</orig><reg>he</reg></choice> is the discoverer of truth, why appearing with a <choice><orig>sieth</orig><reg>scythe</reg></choice>, a serpent,<pc>-</pc>
                         <lb/><choice><orig>blacknesse</orig><reg>blackness</reg></choice>, morosity, and distorted feet? Herein the last <choice><orig>thinke</orig><reg>think</reg></choice> themselves to
                         <lb/>interpret best, saying, that time revealed and manifests truth, slided away as a Ser
-                        <lb break="no"/>pent, cuts all things <choice><orig>downe</orig><reg>down</reg></choice> with death as by a <choice><orig>sieth</orig><reg>scythe</reg></choice>, devoured its children, that is,
+                        <pc>=</pc><lb break="no"/>pent, cuts all things <choice><orig>downe</orig><reg>down</reg></choice> with death as by a <choice><orig>sieth</orig><reg>scythe</reg></choice>, devoured its children, that is,
                         <lb/>all those things which it <choice><orig>hath</orig><reg>has</reg></choice> generated, digests hard stones, or cannot consume
                         <lb/>them, and therefore <choice><orig>dos</orig><reg>does</reg></choice> as it were vomit them up <choice><orig>againe</orig><reg>again</reg></choice>: These things <choice><orig>doe</orig><reg>do</reg></choice> indeed
                         <lb/>agree in part, but are not consonant to the truth of the thing, and all circum
-                        <lb break="no"/>stances. But the exercises Philosophers <choice><orig>doe</orig><reg>do</reg></choice> say, that <choice><orig>Saturne</orig><reg>Saturn</reg></choice> is first in their
+                        <pc>=</pc><lb break="no"/>stances. But the exercises Philosophers <choice><orig>doe</orig><reg>do</reg></choice> say, that <choice><orig>Saturne</orig><reg>Saturn</reg></choice> is first in their
                         <lb/><choice><orig>worke</orig><reg>work</reg></choice>, which if <choice><orig>hee</orig><reg>he</reg></choice> be really <choice><orig>præsent</orig><reg>present</reg></choice>, they cannot <choice><orig>erre</orig><reg>err</reg></choice>, truth is discovered in
                         <lb/><choice><orig>darknesse</orig><reg>darkness</reg></choice>; but there is nothing besides <choice><orig>blacknesse</orig><reg>blackness</reg></choice>: wherefore they say in<pc>-</pc>
                         <lb/>Turba Philosophorum, whatsoever <choice><orig>colour</orig><reg>color</reg></choice> comes after <choice><orig>blacknesse</orig><reg>blackness</reg></choice> is laudable:
