@@ -50,7 +50,7 @@
                     <head>Discourse 38.</head>
                     <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
                         <lb/>Socrates being demanded what Country man <choice><orig>hee</orig><reg>he</reg></choice> was, answered a<pc>-</pc><milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
-                        <lb/>Citizen of the world: by which his intention was signify, that though
+                        <lb/>Citizen of the world: by which his intention was to signify, that though
                         <lb/><choice><orig>hee</orig><reg>he</reg></choice> was <choice><orig>borne</orig><reg>born</reg></choice> at Athens as to person, yet in mind <choice><orig>hee</orig><reg>he</reg></choice> freely beheld<pc>-</pc>
                         <lb/>the whole world, as his Country, and the things therein contained,<pc>-</pc>
                         <lb/>the whole earth being a wise mans Country, where <choice><orig>hee</orig><reg>he</reg></choice> lives well:<pc>-</pc>
@@ -70,7 +70,7 @@
                         <lb break="no"/>selves rather with their <choice><orig>owne</orig><reg>own</reg></choice> virtues, even in the small <choice><orig>affaires</orig><reg>affairs</reg></choice> of
                         <lb/>a house, and give light themselves to their <choice><orig>owne</orig><reg>own</reg></choice> country: After this
                         <lb/>manner these mountains <choice><orig>unknowne</orig><reg>unknown</reg></choice> to many men <choice><orig>doe</orig><reg>do</reg></choice> acquire fame
-                        <lb/>from the Herinaphrodite by reason of his illustrious actions, and name
+                        <lb/>from the Hermaphrodite by reason of his illustrious actions, and name
                         <lb/>famous throughout the whole world. For who though never <choice><orig>soe</orig><reg>so</reg></choice><pc>-</pc>
                         <lb/>little versed in the Philosophers <choice><orig>bookes</orig><reg>books</reg></choice> <choice><orig>hath</orig><reg>has</reg></choice> not <choice><orig>knowne</orig><reg>known</reg></choice> Rebis?<pc>-</pc>
                         <lb/>Who <choice><orig>hath</orig><reg>has</reg></choice> not seen or beheld <choice><orig>Androgynus</orig><reg>Androgynous</reg></choice> with two heads? <choice><orig>Hee</orig><reg>He</reg></choice> verily
@@ -112,7 +112,7 @@
                         <lb/>and life are lost in an <choice><orig>houre</orig><reg>hour</reg></choice>: But the <choice><orig>mountaine</orig><reg>mountain</reg></choice> of the <choice><orig>Philoso
                         <lb break="no"/>phicall</orig><reg>Philosophical</reg></choice> Mercury is not Nonacris, nor Atlas, where sometimes it is reported
                         <lb/>to be brought forth, but Parnassus with two tops, in one of which<pc>-</pc>
-                        <lb/>Hermes, in the other Venus resides: <choice><orig>Hee</orig><reg>He</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> is Apollo with the Mu
+                        <lb/>Hermes, in the other Venus resides: Here <choice><orig>allso</orig><reg>also</reg></choice> is Apollo with the Mu
                         <lb break="no"/>ses, and Hippocrene, the <choice><orig>fountaine</orig><reg>fountain</reg></choice> of Pegasus, with <choice><orig>laurell</orig><reg>laurel</reg></choice> <choice><orig>allwayes</orig><reg>always</reg></choice>
                         <lb/>green: it is one <choice><orig>mountaine</orig><reg>mountain</reg></choice> by name, but really two, as Hermaphro
                         <lb break="no"/>ditus is beheld with two heads, and two members in one body: But<pc>-</pc>
@@ -120,7 +120,7 @@
                         <lb/><choice><orig>mountaine</orig><reg>mountain</reg></choice>? Who dos not begin to <choice><orig>hæsitate</orig><reg>hesitate</reg></choice> at the <choice><orig>bottome</orig><reg>bottom</reg></choice> being<pc>-</pc>
                         <lb/>impeded by I know not what obstacles? Whoever<!-- he splits the word here. How to code? --> attaines to the<pc>-</pc>
                         <lb/><choice><orig>midle</orig><reg>middle</reg></choice> of it? for <quote rend="indent"><lg xml:lang="lat"><l>Non levis ascensus, si quis petat ardua, sudor</l>
-                                <l>Plurimus hunc tollit, nocturnæ insomnis olive</l>
+                            <l>Plurimus hunc tollit, nocturnæ insomnis olivæ</l>
                                 <l>Immoritur, delet, quod mox laudaverat in se,</l>
                                 <l>Qui cupit æternæ donari frondis honore.</l>
                             </lg>
