@@ -27,10 +27,10 @@
                         <lb/><item n="1"><rs>The Authors <choice><orig>epigramme</orig><reg>epigram</reg></choice><pc>.</pc></rs><ref type="pageNum">Page. 2</ref></item>
                         <lb/><item n="2"><rs>The Authors epistle<pc>. . . . . . . .</pc></rs><ref type="pageNum">3</ref></item>
                         <lb/><item n="3"><rs>The Authors <choice><orig>Præface</orig><reg>Preface</reg></choice> to the Reader<pc>. . . . . .</pc></rs><ref type="pageNum">4</ref></item>
-                        <lb/><item n="4"><ref type="emblem">Embleme 1.</ref><rs>Wind <choice><orig>carryd</orig><reg>carried</reg></choice> him to his belly<pc>. . . . . . . .</pc></rs><ref type="pageNum">11</ref></item>
+                        <lb/><item n="4"><ref type="emblem">Embleme 1.</ref><rs>Wind <choice><orig>carryd</orig><reg>carried</reg></choice> him to his belly<pc>. . . . . . . .</pc></rs><ref type="pageNum">8</ref></item>
                         <lb/><item n="5"><ref type="emblem">2</ref><rs>The earth is his <choice><orig>Nource</orig><reg>Nurse</reg></choice><pc>. . . . . . . .</pc></rs><ref type="pageNum">11</ref></item>
                         <lb/><item n="6"><ref type="emblem">3</ref><rs><choice><orig>Goe</orig><reg>Go</reg></choice> to the woman washing <choice><orig>cloaths</orig><reg>clothes</reg></choice>, and <choice><orig>doe</orig><reg>do</reg></choice> you after the same manner.</rs><ref type="pageNum">14</ref></item>
-                        <lb/><item n="7"><ref type="emblem">4</ref><rs><choice><orig>Joyne</orig><reg>Join</reg></choice> the brother with the sister and give them a cup of love<pc>. .</pc></rs><ref type="pageNum">17</ref></item>
+                        <lb/><item n="7"><ref type="emblem">4</ref><rs><choice><orig>Joyne</orig><reg>Join</reg></choice> the brother with the sister and give them a cup of <choice><orig>loue</orig><reg>love</reg></choice><pc>. .</pc></rs><ref type="pageNum">17</ref></item>
                         <lb/><item n="8"><ref type="emblem">5</ref><rs>Put a toad upon the womans breasts, that <choice><orig>shee</orig><reg>she</reg></choice> may give it <choice><orig>sucke</orig><reg>suck</reg></choice>,
                         <lb/>and the woman <choice><orig>dye</orig><reg>die</reg></choice>, and the toad be <choice><orig>grosse</orig><reg>gross</reg></choice> with <choice><orig>milke</orig><reg>milk</reg></choice><pc>. . . .</pc></rs><ref type="pageNum">20</ref></item>
                         <lb/><item n="9"><ref type="emblem">6</ref><rs>Sow your gold in the white foliated earth<pc>. . . . .</pc></rs><ref type="pageNum">23</ref></item>
@@ -83,11 +83,11 @@
                         <lb/><item n="39"><ref type="emblem">36</ref><rs>The stone, that is, Mercury is cast upon the earth, and exacted on moun
                         <lb break="no"/>tains, and resides in the <choice><orig>aire</orig><reg>air</reg></choice>, and is nourished in water<pc>. . . .</pc></rs><ref type="pageNum">113</ref></item>
                         <lb/><item n="40"><ref type="emblem">37</ref><rs>Three things are sufficient for the Magistery, the white fume, that is, water,
-                        <lb/>the green <choice><orig>Lyon</orig><reg>Lion</reg></choice>, that is, the <choice><orig>brasse</orig><reg>brass</reg></choice> of Hermes, and Aqua <choice><orig>fætida</orig><reg>fetida</reg></choice><pc>. . .</pc></rs><ref type="pageNum">116</ref></item>
+                            <lb/>the green <choice><orig>Lyon</orig><reg>Lion</reg></choice>, that is, the <choice><orig>brasse</orig><reg>brass</reg></choice> of Hermes, and Aqua <choice><orig>fœtida</orig><reg>fetida</reg></choice><pc>. . .</pc></rs><ref type="pageNum">116</ref></item>
                         <lb/><item n="41"><ref type="emblem">38</ref><rs>Rebis is, as Hermaphroditus, produced from the two mountains of
                         <lb/>Mercury and Venus<pc>. . . . . . . .</pc></rs><ref type="pageNum">119</ref></item>
                         <lb/><item n="42"><ref type="emblem">39</ref><rs><choice><orig>Œdipus</orig><reg>Oedipus</reg></choice> having overcome <choice><orig>Sphynx</orig><reg>Sphinx</reg></choice> and <choice><orig>killd</orig><reg>killed</reg></choice> his father Laius, <choice><orig>marryed</orig><reg>married</reg></choice>
-                        <lb/>his mother Jocaster<pc>. . . . . . . .</pc></rs><ref type="pageNum">122</ref></item>
+                        <lb/>his mother Jocasta<pc>. . . . . . . .</pc></rs><ref type="pageNum">122</ref></item>
                         <lb/><item n="43"><ref type="emblem">40</ref><rs>Of two waters make one, and that will be the water of sanctity<pc>. .</pc></rs><ref type="pageNum">125</ref></item>
                         <lb/><item n="44"><ref type="emblem">41</ref><rs>Adonis is <choice><orig>killd</orig><reg>killed</reg></choice> by a boar, to whom Venus hasting, tinged the roses with her blood.</rs><ref type="pageNum">128</ref></item>
                         <lb/><item n="45"><ref type="emblem">42</ref><rs>Nature, Reason, Experience, and Reading, must be the guide, <choice><orig>staffe</orig><reg>staff</reg></choice>,
@@ -97,7 +97,7 @@
                         <lb/>all sides, but the famous Isis gathered them together<pc>. . . .</pc></rs><ref type="pageNum">137</ref></item>
                         <lb/><item n="48"><ref type="emblem">45</ref><rs>The <choice><orig>worke</orig><reg>work</reg></choice> is perfected by Sol and his shade<pc>. . . .</pc></rs><ref type="pageNum">140</ref></item>
                         <lb/><item n="49"><ref type="emblem">46</ref><rs>Two Eagles, come together, one from the East, the other from the West<pc>. .</pc></rs><ref type="pageNum">143</ref></item>
-                        <lb/><item n="50"><ref type="emblem">47</ref><rs>A <choice><orig>wolfe</orig><reg>wolf</reg></choice>coming from the East, and a <choice><orig>dogge</orig><reg>dog</reg></choice>from the West <choice><orig>worryd</orig><reg>worried</reg></choice> one another<pc>. .</pc></rs><ref type="pageNum">143</ref></item>
+                        <lb/><item n="50"><ref type="emblem">47</ref><rs>A <choice><orig>wolfe</orig><reg>wolf</reg></choice>coming from the East, and a <choice><orig>dogge</orig><reg>dog</reg></choice>from the West <choice><orig>werry'd</orig><reg>werried</reg></choice> one another<pc>. .</pc></rs><ref type="pageNum">146</ref></item>
                         <lb/><item n="51"><ref type="emblem">48</ref><rs>The King falls <choice><orig>sicke</orig><reg>sick</reg></choice> by drinking water, and is <choice><orig>restord</orig><reg>restored</reg></choice> to<pc>-</pc>
                         <lb/>health by <choice><orig>Physitians</orig><reg>Physicians</reg></choice><pc>. . . . . . . .</pc></rs><ref type="pageNum">149</ref></item>
                         <lb/><item n="52"><ref type="emblem">49</ref><rs>The <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> infant is, as Orion, the <choice><orig>Sonne</orig><reg>Son</reg></choice> of three fathers<pc>.</pc></rs><ref type="pageNum">152</ref></item>
