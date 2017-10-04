@@ -25,16 +25,16 @@
                 
                 <div type="title" xml:lang="en">
                     <head>
-                        <lb/><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 5. Of the Secrets of Nature.
+                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 5. Of the Secrets of Nature.
                         <lb/>Put a Toad <subst><del>upon</del><add>to</add></subst>the womans breasts, that <choice><orig>shee</orig><reg>she</reg></choice> may give it <choice><orig>sucke</orig><reg>suck</reg></choice>,
-                        <lb/>and <del>the woman</del> <choice><orig>dye</orig><reg>die</reg></choice> <add><choice><orig>herselfe</orig><reg>herself</reg></choice></add>, and the Toad <subst><del>be <choice><orig>grosse</orig><reg>gross</reg></choice></del><add>grow <choice><orig>fatt</orig><reg>fat</reg></choice></add></subst> with <choice><orig>milke</orig><reg>milk</reg></choice>.
+                        <lb/>and <del>the woman</del> <choice><orig>dye</orig><reg>die</reg></choice> <add><choice><orig>herselfe</orig><reg>herself</reg></choice></add>, and the Toad <subst><del>be <choice><orig>grosse</orig><reg>gross</reg></choice></del><add>grow <choice><orig>fatt</orig><reg>fat</reg></choice></add></subst> with <choice><orig>milke</orig><reg>milk</reg></choice>.</seg>
                         
                     </head>
                 </div>
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 5.</head>
+                    <head><seg rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 5.</seg></head>
                     <lg>
                         <l>Lay the cold Toad to <choice><orig>th'</orig><reg>the</reg></choice> womans milky breast,</l>
                         <l>That as an infant <choice><orig>hee</orig><reg>he</reg></choice> <choice><orig>himselfe</orig><reg>himself</reg></choice> may feast,</l>
@@ -48,7 +48,7 @@
                 
                 <pb n="21"/> <!-- Change to page number of the actual manuscript -->
                 <div type="discourse" xml:lang="en">
-                    <head>Discourse 5.</head>
+                    <head><seg rend="italics">Discourse 5.</seg></head>
                     <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
                         <lb/><milestone unit="section" n="e05-01" />The whole troop of <del>the</del> Philosophers <choice><orig>doe</orig><reg>do</reg></choice> herein consent, that their <choice><orig>worke</orig><reg>work</reg></choice> is<pc>-</pc> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
                         <lb/>nothing <choice><orig>els</orig><reg>else</reg></choice>, but man and wife: the mans part is indeed to generate, and <choice><orig>governe</orig><reg>govern</reg></choice><pc>-</pc>
@@ -97,7 +97,7 @@
                         
                         
                         
-                        <pb n="22"/><fw>Discourse 5.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <pb n="22"/><fw rend="italics">Discourse 5.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
                         <lb/>Guilielmus Novobrigensis, an English writer, in his <choice><orig>coḿentaryes</orig><reg>commentaries</reg></choice> <choice><orig>sayth</orig><reg>says</reg></choice> (how<pc>-</pc>
                         <lb/><choice><orig>truely</orig><reg>truly</reg></choice> let others judge) that in a <choice><orig>certaine</orig><reg>certain</reg></choice> Stone=quarry in the Diocesse of the<pc>-</pc>
                         <lb/>Bishop of Winchester, a great stone being divided, there was within found a living

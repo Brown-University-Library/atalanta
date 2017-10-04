@@ -25,15 +25,15 @@
                 
                 <div type="title" xml:lang="en">
                     <head>
-                        <lb/><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 21. Of the Secrets of Nature.
+                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 21. Of the Secrets of Nature.
                         <lb/>Make <del>o</del>f<add>or</add> the man and the woman a circle, of that a quadrangle, of this
-                        <lb/>a triangle, of the same a circle, and you will <choice><orig>haue</orig><reg>have</reg></choice> the Philosoph. Stone.
+                        <lb/>a triangle, of the same a circle, and you will <choice><orig>haue</orig><reg>have</reg></choice> the Philosoph. Stone.</seg>
                     </head>
                 </div>
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 21.</head>
+                    <head><seg rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 21.</seg></head>
                     <lg>
                         <l>A circle for the man and wife provide,</l>
                         <l>Which make quadrangular with <choice><orig>æquall</orig><reg>equal</reg></choice> side,</l>
@@ -47,9 +47,9 @@
                 
                 <pb n="69"/> <!-- Change to page number of the actual manuscript -->
                 <div type="discourse" xml:lang="en">
-                    <head>Discourse 21.</head>
+                    <head><seg rend="italics">Discourse 21.</seg></head>
                     <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                        <lb/>It is the doctrine of that <seg rend="underline">most famous Philosopher Plato that</seg> knowledge is as<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                        <lb/>It is the doctrine of that <seg rend="underline" hand="2">most famous Philosopher Plato th</seg>at knowledge is as<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
                         <lb/>it were actually engraven and imprinted in the mind of man, which is as the
                         <lb/>foundation of all arts and Sciences, by the remembrance and repetition of<pc>-</pc>
                         <lb/>which all learning may be <choice><orig>knowne</orig><reg>known</reg></choice> and apprehended by any man; which<pc>-</pc>
@@ -95,7 +95,7 @@
                         
                         
                         
-                        <pb n="70"/><fw>Discourse 21.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <pb n="70"/><fw rend="italics">Discourse 21.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
                         <lb/><choice><orig>borne</orig><reg>born</reg></choice>. If Geometry be <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>naturall</orig><reg>natural</reg></choice> and easy to children, how comes it to <choice><orig>passe</orig><reg>pass</reg></choice>
                         <lb/>that the Square of a circle was not <choice><orig>knowne</orig><reg>known</reg></choice> to Plato <choice><orig>himselfe</orig><reg>himself</reg></choice>, <choice><orig>Soe</orig><reg>So</reg></choice> that Aris
                         <lb break="no"/>totle the <choice><orig>Schollar</orig><reg>Scholar</reg></choice> of Plato affirmed it possible to be <choice><orig>knowne</orig><reg>known</reg></choice>, but not as yet<pc>-</pc>

@@ -25,14 +25,14 @@
                 
                 <div type="title" xml:lang="en">
                     <head>
-                        <lb/><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 26. Of the Secrets of Nature.
-                        <lb/>The tree of life is the fruit of <choice><orig>humane</orig><reg>human</reg></choice> <choice><orig>wisedome</orig><reg>wisdom</reg></choice>.
+                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 26. Of the Secrets of Nature.
+                        <lb/>The tree of life is the fruit of <choice><orig>humane</orig><reg>human</reg></choice> <choice><orig>wisedome</orig><reg>wisdom</reg></choice>.</seg>
                     </head>
                 </div>
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 26.</head>
+                    <head><seg rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 26.</seg></head>
                     <lg>
                         <l>To greater <choice><orig>wisedome</orig><reg>wisdom</reg></choice> man cannot <choice><orig>attaine</orig><reg>attain</reg></choice>,</l>
                         <l>Than health with wealth to acquire, if not in <choice><orig>vaine</orig><reg>vain</reg></choice>:</l>
@@ -46,7 +46,7 @@
                 
                 <pb n="84"/> <!-- Change to page number of the actual manuscript -->
                 <div type="discourse" xml:lang="en">
-                    <head>Discourse 26.</head>
+                    <head><seg rend="italics">Discourse 26.</seg></head>
                     <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
                         <lb/><milestone unit="section" n="e26-01" />Tully <choice><orig>hath</orig><reg>has</reg></choice> excellently described the <choice><orig>essentiall</orig><reg>essential</reg></choice> difference of man, whereby <choice><orig>hee</orig><reg>he</reg></choice> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
                         <lb/>differs from all other <choice><orig>animalls</orig><reg>animals</reg></choice>, after this manner: As a bird is intended by nature
@@ -94,7 +94,7 @@
                         
                         
                         
-                        <pb n="85"/><fw>Discourse 26.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <pb n="85"/><fw rend="italics">Discourse 26.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
                         <lb/>is secret advice in the knowledge of God: <choice><orig>wisedome</orig><reg>wisdom</reg></choice> <choice><orig>conferrs</orig><reg>confers</reg></choice> all things, and infinite<note place="margin">Wis:. 7.11.</note>
                         <lb/>riches are <choice><orig>produc'd</orig><reg>produced</reg></choice> from the <choice><orig>labour</orig><reg>labor</reg></choice> of the hands: yea all good things proceed from
                         <lb/>her, and great riches and wealth are in her hands, and <choice><orig>hee</orig><reg>he</reg></choice> that <choice><orig>converseth</orig><reg>converes</reg></choice> with<note place="margin">Sir.1.v.25.</note>

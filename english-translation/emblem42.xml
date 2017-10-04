@@ -25,15 +25,15 @@
                 
                 <div type="title" xml:lang="en">
                     <head>
-                        <lb/><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 42. Of the Secrets of Nature.
+                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 42. Of the Secrets of Nature.
                         <lb/>Nature, Reason, Experience, and reading must be the guide, <choice><orig>staffe</orig><reg>staff</reg></choice>,
-                        <lb/>Spectacles, and Lamp to him that is <choice><orig>employd</orig><reg>employed</reg></choice> in <choice><orig>Chymicall</orig><reg>Chymical</reg></choice> affairs.
+                        <lb/>Spectacles, and Lamp to him that is <choice><orig>employd</orig><reg>employed</reg></choice> in <choice><orig>Chymicall</orig><reg>Chymical</reg></choice> affairs.</seg>
                     </head>
                 </div>
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 42.</head>
+                    <head><seg rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 42.</seg></head>
                     <lg>
                         <l>Pursuing art, let Nature be your guide,</l>
                         <l>Tracing her steps your feet will not back<c rend="double-hyphen">-</c>slide:</l>
@@ -47,7 +47,7 @@
                 
                 <pb n="132"/> <!-- Change to page number of the actual manuscript -->
                 <div type="discourse" xml:lang="en">
-                    <head>Discourse 42.</head>
+                    <head><seg rend="italics">Discourse 42.</seg></head>
                     <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
                         <lb/><milestone unit="section" n="e42-01" />The chances, which may happen to <choice><orig>travellers</orig><reg>travelers</reg></choice>, are innumerable, es <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
                         <lb break="no"/>pecially if they take a journey on foot by night through slippery<pc>-</pc>
@@ -92,7 +92,7 @@
                         
                         
                         
-                        <pb n="133"/><fw>Discourse 42.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <pb n="133"/><fw rend="italics">Discourse 42.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
                         <lb/>into <choice><orig>errours</orig><reg>errors</reg></choice>, and therefore say the Philosophers; Whatsoever you hear,
                         <lb/>consult with reason, whether it can be <choice><orig>soe</orig><reg>so</reg></choice>, or <choice><orig>noe</orig><reg>no</reg></choice>: <milestone unit="section" n="e42-14" />For <choice><orig>noe</orig><reg>no</reg></choice> man is
                         <lb/>forced to <choice><orig>beleive</orig><reg>believe</reg></choice> or <choice><orig>performe</orig><reg>perform</reg></choice> things impossible, except <choice><orig>hee</orig><reg>he</reg></choice> be of<pc>-</pc>

@@ -25,14 +25,14 @@
                 
                 <div type="title" xml:lang="en">
                     <head>
-                        <lb/><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 49. Of the Secrets of Nature.
-                        <lb/>The <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> infant is, as Orion, the <choice><orig>Sonne</orig><reg>Son</reg></choice> of three fathers.
+                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 49. Of the Secrets of Nature.
+                        <lb/>The <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> infant is, as Orion, the <choice><orig>Sonne</orig><reg>Son</reg></choice> of three fathers.</seg>
                     </head>
                 </div>
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 49.</head>
+                    <head><seg rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 49.</seg></head>
                     <lg>
                         <l>Vulcan with Hermes and Apollo did</l>
                         <l>Their seed inject into an oxes hide,</l>
@@ -46,12 +46,12 @@
                 
                 <pb n="153"/> <!-- Change to page number of the actual manuscript -->
                 <div type="discourse" xml:lang="en">
-                    <head>Discourse 49.</head>
+                    <head><seg rend="italics">Discourse 49.</seg></head>
                     <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
                         <lb/>Those women, which prostitute themselves to variety of men, <milestone unit="section" n="e03-01" /><choice><orig>doe</orig><reg>do</reg></choice> <choice><orig>sel <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
                         <lb break="no"/>dome</orig><reg>seldom</reg></choice> conceive lively children through the confusion of <choice><orig>divers</orig><reg>diverse</reg></choice> seeds:<pc>-</pc>
                         <lb/>for nature in the generation of man and the most part of <choice><orig>animalls</orig><reg>animals</reg></choice> <choice><orig>ad
-                            <lb break="no"/>mitts</orig><reg>admits</reg></choice> <choice><orig>noe</orig><reg>no</reg></choice> <choice><orig>superfœtation</orig><reg>superfetation</reg></choice>, except perhaps very rarely: and therefore<pc>-</pc>
+                        <lb break="no"/>mitts</orig><reg>admits</reg></choice> <choice><orig>noe</orig><reg>no</reg></choice> <choice><orig>superfœtation</orig><reg>superfetation</reg></choice>, except perhaps very rarely: and therefore<pc>-</pc>
                         <lb/>every offspring is produced from one <choice><orig>onely</orig><reg>only</reg></choice> father and mother, whether
                         <lb/>it be one or more, as is <choice><orig>allso</orig><reg>also</reg></choice> manifest by <choice><orig>historyes</orig><reg>histories</reg></choice> and the event of<pc>-</pc>
                         <lb/>some supposing otherwise; in the first place of Margarett the wife of
@@ -81,7 +81,7 @@
                         <lb/>a mother: But these things are better declared in the conception of<pc>-</pc>
                         <lb/>Orion, who is <choice><orig>sayd</orig><reg>said</reg></choice> to be produced from the seed of Apollo, Vulcan,<pc>-</pc>
                         <lb/>and Mercury <choice><orig>mixd</orig><reg>mixed</reg></choice> together, and <choice><orig>præservd</orig><reg>preserved</reg></choice> in the hide of an Oxe for
-                        <lb/>the space of <choice><orig>tenne</orig><reg>ten</reg></choice> <choice><orig>moneths</orig><reg>months</reg></choice>: These things would be <choice><orig>alltogether</orig><reg>altogether</reg></choice> mon<note place="margin"><unclear reason="illegible">NBow</unclear></note>
+                        <lb/>the space of <choice><orig>tenne</orig><reg>ten</reg></choice> <choice><orig>moneths</orig><reg>months</reg></choice>: These things would be <choice><orig>alltogether</orig><reg>altogether</reg></choice> mon<note place="margin" hand="2"><unclear reason="illegible">NBow</unclear></note>
                         <lb break="no"/>strous, not <choice><orig>onely</orig><reg>only</reg></choice> fabulous, if a secret of nature were not compre
                         <lb break="no"/>hended under these shrouds, not obvious to all Men. Lully in the<pc>-</pc>
                         <lb/><choice><orig>Theoricke</orig><reg>Theoric</reg></choice> of his Testament attributes to the same <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice><pc>-</pc>
@@ -92,7 +92,7 @@
                         
                         
                         
-                        <pb n="154"/><fw>Discourse 49.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <pb n="154"/><fw rend="italics">Discourse 49.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
                         <lb/>of a woman, and therein <choice><orig>produceth</orig><reg>produces</reg></choice> a <choice><orig>Sonne</orig><reg>Son</reg></choice> or infant like to <choice><orig>himselfe</orig><reg>himself</reg></choice>,
                         <lb/>to <choice><orig>whome</orig><reg>whom</reg></choice> afterwards <choice><orig>hee</orig><reg>he</reg></choice> will leave and <choice><orig>resigne</orig><reg>resign</reg></choice> his <choice><orig>armes</orig><reg>arms</reg></choice> and ensigns<pc>-</pc>
                         <lb/>of virtues, by <choice><orig>paternall</orig><reg>paternal</reg></choice> right, that is, the faculty of maturing things im

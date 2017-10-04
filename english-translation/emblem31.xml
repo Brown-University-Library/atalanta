@@ -25,15 +25,15 @@
                 
                 <div type="title" xml:lang="en">
                     <head>
-                        <lb/><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 31. Of the Secrets of Nature.
+                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 31. Of the Secrets of Nature.
                         <lb/>The King swimming in the Sea <choice><orig>cryes</orig><reg>cries</reg></choice> out with a loud <choice><orig>voyce</orig><reg>voice</reg></choice>, <choice><orig>hee</orig><reg>he</reg></choice> that
-                        <lb/>will deliver <choice><orig>mee</orig><reg>me</reg></choice> shall have great reward.
+                        <lb/>will deliver <choice><orig>mee</orig><reg>me</reg></choice> shall have great reward.</seg>
                     </head>
                 </div>
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 31.</head>
+                    <head><seg rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 31.</seg></head>
                     <lg>
                         <l>The King oppressed with a weighty <choice><orig>Crowne</orig><reg>Crown</reg></choice>,</l>
                         <l><choice><orig>Floting</orig><reg>Floating</reg></choice> <choice><orig>i'th</orig><reg>in the</reg></choice> Sea, and being like to <choice><orig>drowne</orig><reg>drown</reg></choice>,</l>
@@ -47,7 +47,7 @@
                 
                 <pb n="99"/> <!-- Change to page number of the actual manuscript -->
                 <div type="discourse" xml:lang="en">
-                    <head>Discourse 31.</head>
+                    <head><seg rend="italics">Discourse 31.</seg></head>
                     <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
                         <lb/>The first rudiments of all discipline were anciently the knowledge of <pc>-</pc><milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
                         <lb/>swimming, and instruction in learning: hereupon because the proverb of an
@@ -94,7 +94,7 @@
                         
                         
                         
-                        <pb n="100"/><fw>Discourse 31.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <pb n="100"/><fw rend="italics">Discourse 31.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
                         <lb/><choice><orig>kingdome</orig><reg>kingdom</reg></choice>: But what are those good things, which this <choice><orig>royall</orig><reg>royal</reg></choice> <choice><orig>Sonne</orig><reg>Son</reg></choice> is able or
                         <lb/>willing to <choice><orig>conferre</orig><reg>confer</reg></choice> on him, by <choice><orig>whome</orig><reg>whom</reg></choice> <choice><orig>hee</orig><reg>he</reg></choice> Should be restored to his <choice><orig>owne</orig><reg>own</reg></choice> <choice><orig>king
                         <lb break="no"/>dome</orig><reg>kingdom</reg></choice>? certainly not such, as <choice><orig>Ptolomy</orig><reg>Ptolemy</reg></choice> the last King of <choice><orig>Ægypt</orig><reg>Egypt</reg></choice> <choice><orig>bestowd</orig><reg>bestowed</reg></choice> on

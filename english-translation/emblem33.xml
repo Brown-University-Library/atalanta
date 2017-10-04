@@ -25,14 +25,14 @@
                 
                 <div type="title" xml:lang="en">
                     <head>
-                        <lb/><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 33. of the Secrets of Nature.
-                        <lb/>The Hermaphrodite lying like a dead man in <choice><orig>darknesse</orig><reg>darkness</reg></choice>, wants fire.
+                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 33. of the Secrets of Nature.
+                        <lb/>The Hermaphrodite lying like a dead man in <choice><orig>darknesse</orig><reg>darkness</reg></choice>, wants fire.</seg>
                     </head>
                 </div>
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 33.</head>
+                    <head><seg rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 33.</seg></head>
                     <lg>
                         <l>See here the cold and dry Hermaphrodite,</l>
                         <l>Appears as <choice><orig>dismall</orig><reg>dismal</reg></choice> as a ghost by night:</l>
@@ -46,7 +46,7 @@
                 
                 <pb n="105"/> <!-- Change to page number of the actual manuscript -->
                 <div type="discourse" xml:lang="en">
-                    <head>Discourse 33.</head>
+                    <head><seg rend="italics">Discourse 33.</seg></head>
                     <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
                         <lb/>It is one of the secrets of Nature, that in the cold winter <choice><orig>Froggs</orig><reg>Frogs</reg></choice> and<pc>-</pc><milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
                         <lb/>Horse<c rend="double-hyphen">-</c>leeches <choice><orig>lye</orig><reg>lie</reg></choice> as it were dead under water, and in the Spring new<pc>-</pc>
@@ -96,7 +96,7 @@
                         
                         
                         
-                        <pb n="106"/><fw>Discourse 33.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <pb n="106"/><fw rend="italics">Discourse 33.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
                         <lb/>at Cassinum a boy was made of a Virgin: And Licinius Mutianus in Pli
                         <lb break="no"/>ny relates, that <choice><orig>hee</orig><reg>he</reg></choice> had seen one Aristontes at Argos, called <choice><orig>allso</orig><reg>also</reg></choice> by the<pc>-</pc>
                         <lb/>name of Aristusa, who was <choice><orig>marryd</orig><reg>married</reg></choice>, and <choice><orig>soone</orig><reg>soon</reg></choice> after discovered a beard<pc>-</pc>

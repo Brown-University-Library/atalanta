@@ -25,15 +25,15 @@
                 
                 <div type="title" xml:lang="en">
                     <head>
-                        <lb/><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 32. Of the Secrets of Nature.
+                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 32. Of the Secrets of Nature.
                         <lb/>As <choice><orig>Corall</orig><reg>Coral</reg></choice> <choice><orig>growes</orig><reg>grows</reg></choice> under water, and is hardened by the <choice><orig>aire</orig><reg>air</reg></choice>,
-                        <lb/><choice><orig>Soe</orig><reg>So</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> is the Stone.
+                        <lb/><choice><orig>Soe</orig><reg>So</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> is the Stone.</seg>
                     </head>
                 </div>
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 32.</head>
+                    <head><seg rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 32.</seg></head>
                     <lg>
                         <l>In the Sicilian waves a Sea<c rend="double-hyphen">-</c>plant <choice><orig>growes</orig><reg>grows</reg></choice>,</l>
                         <l>Shooting forth many moist and <choice><orig>plyant</orig><reg>pliant</reg></choice> boughs:</l>
@@ -47,7 +47,7 @@
                 
                 <pb n="102"/> <!-- Change to page number of the actual manuscript -->
                 <div type="discourse" xml:lang="en">
-                    <head>Discourse 32.</head>
+                    <head><seg rend="italics">Discourse 32.</seg></head>
                     <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
                         <lb/>The Philosophers call their Stone vegetable, because it vegetates, <choice><orig>growes</orig><reg>grows</reg></choice>,<pc>-</pc><milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
                         <lb/>is <choice><orig>increasd</orig><reg>increased</reg></choice> and <choice><orig>multiplyd</orig><reg>multiplied</reg></choice> as a plant: which indeed to the ignorant seems
@@ -61,7 +61,7 @@
                         <lb break="no"/>nyes</orig><reg>testimonies</reg></choice> of writes had not <choice><orig>confirmd</orig><reg>confirmed</reg></choice> it? where is that <choice><orig>petrefying</orig><reg>petrifying</reg></choice>, where<pc>-</pc>
                         <lb/>that tinging virtue, which <choice><orig>hardeneth</orig><reg>hardens</reg></choice> and <choice><orig>tingeth</orig><reg>tinges</reg></choice> <choice><orig>Corall</orig><reg>Coral</reg></choice>, whether in the
                         <lb/>water, or in the <choice><orig>aire</orig><reg>air</reg></choice>, or in the earth? <choice><orig>wee</orig><reg>we</reg></choice> may reasonably <choice><orig>beleive</orig><reg>believe</reg></choice> it
-                        <lb/>to be, as they <choice><orig>affirme</orig><reg>affirm</reg></choice>, a soft and flexible plant, whilst it is under wa
+                        <lb/>to be, as they <choice><orig>affirme</orig><reg>affirm</reg></choice>, a soft and <seg rend="underline" hand="2">flexible</seg> plant, whilst it is under wa
                         <lb break="no"/>ter, yet of a very <choice><orig>terrestriall</orig><reg>terrestrial</reg></choice> nature, which, when it is cut <choice><orig>of</orig><reg>off</reg></choice> and exposed
                         <lb/>to the cold winds, becomes hard, and acquires a stony frangibility, the
                         <lb/><choice><orig>watry</orig><reg>watery</reg></choice> parts abounding being <choice><orig>dryed</orig><reg>dried</reg></choice> up by the cold and dry <choice><orig>aire</orig><reg>air</reg></choice> (for these
@@ -94,7 +94,7 @@
                         
                         
                         
-                        <pb n="103"/><fw>Discourse 32.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <pb n="103"/><fw rend="italics">Discourse 32.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
                         <lb/>therefore ascribe both sorts of <choice><orig>Ambar</orig><reg>Amber</reg></choice> to subterranean veins or stones, as
                         <lb/>Pearls to Zoophytes (that is, a <choice><orig>midle</orig><reg>middle</reg></choice> nature between <choice><orig>animall</orig><reg>animal</reg></choice> and plant)<pc>-</pc>
                         <lb/>and <choice><orig>Corall</orig><reg>Coral</reg></choice> to vegetables. The Philosophers stone is indeed like to these stones

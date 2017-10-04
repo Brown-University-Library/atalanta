@@ -25,14 +25,14 @@
                 
                 <div type="title" xml:lang="en">
                     <head>
-                        <lb/><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 16. Of the Secrets of Nature.
-                        <lb/>One <choice><orig>Lyon</orig><reg>Lion</reg></choice> <choice><orig>hath</orig><reg>has</reg></choice> wings, the other none.
+                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 16. Of the Secrets of Nature.
+                        <lb/>One <choice><orig>Lyon</orig><reg>Lion</reg></choice> <choice><orig>hath</orig><reg>has</reg></choice> wings, the other none.</seg>
                     </head>
                 </div>
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 16.</head>
+                    <head><seg rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 16.</seg></head>
                     <lg>
                         <l>The <choice><orig>Lyon</orig><reg>Lion</reg></choice> prince of beasts in might and sway</l>
                         <l>Fights without fear, and <choice><orig>scornes</orig><reg>scorns</reg></choice> to <choice><orig>runne</orig><reg>run</reg></choice> away:</l>
@@ -46,7 +46,7 @@
                 
                 <pb n="54"/> <!-- Change to page number of the actual manuscript -->
                 <div type="discourse" xml:lang="en">
-                    <head>Discourse 16.</head>
+                    <head><seg rend="italics">Discourse 16.</seg></head>
                     <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
                         <lb/>It is a thing <choice><orig>knowne</orig><reg>known</reg></choice> by experience that a <choice><orig>Lyon</orig><reg>Lion</reg></choice> <choice><orig>excells</orig><reg>excels</reg></choice> other <choice><orig>animalls</orig><reg>animals</reg></choice> not<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
                         <lb/><choice><orig>soe</orig><reg>so</reg></choice> much in <choice><orig>bignesse</orig><reg>bigness</reg></choice> and strength of body, as generosity: if <choice><orig>hee</orig><reg>he</reg></choice> be seen in<pc>-</pc>
@@ -92,7 +92,7 @@
                         
                         
                         
-                        <pb n="55"/><fw>Discourse 16.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <pb n="55"/><fw rend="italics">Discourse 16.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
                         <lb/>is incited with greater love towards her, <choice><orig>freindship</orig><reg>friendship</reg></choice> being made after discord.<pc>-</pc>
                         <lb/>But you will say who ever saw a <choice><orig>Lionesse</orig><reg>Lioness</reg></choice> with wings, or what can the plumes
                         <lb/>of a <choice><orig>Lionesse</orig><reg>Lioness</reg></choice> <choice><orig>avayle</orig><reg>avail</reg></choice>? There is a deep valley near the <choice><orig>mountaine</orig><reg>mountain</reg></choice> <choice><orig>Cythæren</orig><reg>Cytheran</reg></choice>,
@@ -109,7 +109,7 @@
                         <lb/>hunted severally: But if the <choice><orig>Lyons</orig><reg>Lions</reg></choice> whelps be <choice><orig>obtaind</orig><reg>obtained</reg></choice> in their infancy, when
                         <lb/>they first begin to <choice><orig>goe</orig><reg>go</reg></choice>, which is at two <choice><orig>moneths</orig><reg>months</reg></choice> age, and be <choice><orig>joyned</orig><reg>joined</reg></choice>, as <choice><orig>afore
                         <lb break="no"/>sayd</orig><reg>said</reg></choice>, being come to good growth and stature, the thing will be free from<pc>-</pc>
-                        <lb/>any danger. Moreover <seg rend="underline">they breed in the Spring time, which must be well
+                        <lb/>any danger. Moreover <seg rend="underline" hand="2">they breed in the Spring time, which must be well
                         <lb/>observed:</seg> but <choice><orig>Lyons</orig><reg>Lions</reg></choice> after whelping using <choice><orig>crosse</orig><reg>cross</reg></choice> and winding <choice><orig>wayes</orig><reg>ways</reg></choice>, to
                         <lb/><choice><orig>prævent</orig><reg>prevent</reg></choice> the discovery of their <choice><orig>denne</orig><reg>den</reg></choice>, therefore must they be sought and
                         <lb/>their whelps taken away with very great diligence and care<pc>. . . .</pc>

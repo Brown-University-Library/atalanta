@@ -25,15 +25,15 @@
                 
                 <div type="title" xml:lang="en">
                     <head>
-                        <lb/><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 2. Of the Secrets of Nature.
-                        <lb/>the earth is his <choice><orig>Nurce</orig><reg>Nurse</reg></choice>.
+                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 2. Of the Secrets of Nature.
+                        <lb/>the earth is his <choice><orig>Nurce</orig><reg>Nurse</reg></choice>.</seg>
                         
                     </head>
                 </div>
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 2.</head>
+                    <head><seg rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 2.</seg></head>
                     <lg>
                         <l>A courteous <choice><orig>Wolfe</orig><reg>Wolf</reg></choice> to Romulus <choice><orig>displayd</orig><reg>displayed</reg></choice></l>
                         <l>Her milky duggs, to Jove a Goat, tis <choice><orig>sayd</orig><reg>said</reg></choice>:</l>
@@ -47,7 +47,7 @@
                 
                 <pb n="12"/> <!-- Change to page number of the actual manuscript -->
                 <div type="discourse" xml:lang="en">
-                    <head>Discourse 2.</head>
+                    <head><seg rend="italics">Discourse 2.</seg></head>
                     <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
                         <lb/><milestone unit="section" n="e02-01" />It is concluded by the <choice><orig>Peripateticks</orig><reg>Peripatetics</reg></choice>, and Orthodox Philosophers, that the<pc>-</pc> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
                         <lb/>thing nourishing is converted into the substance of the thing nourished, and<pc>-</pc>
@@ -96,14 +96,14 @@
                         
                         
                         
-                        <pb n="13"/><fw>Discourse 2.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <pb n="13"/><fw rend="italics">Discourse 2.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
                         <lb/><choice><orig>naturall</orig><reg>natural</reg></choice> heat by his furnaces for the hatching of eggs: <milestone unit="section" n="e02-16" />the Seeds of <choice><orig>Silke</orig><reg>silk</reg></choice>
                         <lb break="no"/>worms, yea even <choice><orig>henne</orig><reg>hen</reg></choice> eggs are <choice><orig>sayd</orig><reg>said</reg></choice> to be hatched by the warmth of a Virgins
                         <lb/>breasts: <milestone unit="section" n="e02-17" />Art therefore and Nature <choice><orig>doe</orig><reg>do</reg></choice> mutually <choice><orig>helpe</orig><reg>help</reg></choice>, <choice><orig>soe</orig><reg>so</reg></choice> as to officiate one for the<pc>-</pc>
                         <lb/>other: <choice><orig>neverthelesse</orig><reg>nevertheless</reg></choice> nature is <choice><orig>allways</orig><reg>always</reg></choice> the <choice><orig>Mistresse</orig><reg>Mistress</reg></choice>, and Art the servant. <milestone unit="section" n="e02-18" />But to say
                         <lb/>the earth is the <choice><orig>Nurce</orig><reg>Nurse</reg></choice> of the <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> babe, might create an objection to any
                         <lb/>one, the earth being of all the elements most dry and <choice><orig>voyd</orig><reg>void</reg></choice> of juice, to which siccity
-                        <lb/>as the proper quality appertains: <milestone unit="section" n="e02-19" />but it may be <choice><orig>answerd</orig><reg>answered</reg></choice>, <seg rend="underline">that the earth elemented</seg>
+                        <lb/>as the proper quality appertains: <milestone unit="section" n="e02-19" />but it may be <choice><orig>answerd</orig><reg>answered</reg></choice>, th<seg rend="underline" hand="2">at the earth elemented</seg>
                         <lb/>is here understood, not the Element, which <choice><orig>wee</orig><reg>we</reg></choice> <choice><orig>tooke</orig><reg>took</reg></choice> notice enough of in the first
                         <lb/>day of the <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> <choice><orig>weeke</orig><reg>week</reg></choice>, and explained nature: <milestone unit="section" n="e02-20" />This (earth) is the <choice><orig>Nurce</orig><reg>nurse</reg></choice>
                         <lb/>of Cælum, not in opening, washing or watering the babe, but coagulating, fix

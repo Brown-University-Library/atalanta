@@ -25,15 +25,15 @@
                 
                 <div type="title" xml:lang="en">
                     <head>
-                        <lb/><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 50. Of the Secrets of Nature.
+                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 50. Of the Secrets of Nature.
                         <lb/>The Dragon kills the woman, and <choice><orig>shee</orig><reg>she</reg></choice> him, and are both bloody
-                        <lb/>all over.
+                        <lb/>all over.</seg>
                     </head>
                 </div>
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 50.</head>
+                    <head><seg rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 50.</seg></head>
                     <lg>
                         <l><choice><orig>Fitt</orig><reg>Fit</reg></choice> for the Dragon <choice><orig>digge</orig><reg>dig</reg></choice> a cavous place,</l>
                         <l>And therewith <choice><orig>joyne</orig><reg>join</reg></choice> the woman face to face:</l>
@@ -47,7 +47,7 @@
                 
                 <pb n="156"/> <!-- Change to page number of the actual manuscript -->
                 <div type="discourse" xml:lang="en">
-                    <head>Discourse 50.</head>
+                    <head><seg rend="italics">Discourse 50.</seg></head>
                     <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
                         <lb/><milestone unit="section" n="e50-01" />The mansion of Dragons is in caverns of the earth, but the residence <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
                         <lb/>of men above the earth in the <choice><orig>iḿediate</orig><reg>immediate</reg></choice> <choice><orig>aire</orig><reg>air</reg></choice>; which two Elements
@@ -92,7 +92,7 @@
                         
                         
                         
-                        <pb n="157"/><fw>Discourse 50.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <pb n="157"/><fw rend="italics">Discourse 50.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
                         <lb/>spirit, and <choice><orig>vivifyes</orig><reg>vivifies</reg></choice> a dead thing, and makes matrimony between man and wo
                         <lb break="no"/>man: For it <choice><orig>conferrs</orig><reg>confers</reg></choice> the whole <choice><orig>benefitt</orig><reg>benefit</reg></choice> of the art: <milestone unit="section" n="e50-12" />Of the earth <choice><orig>allso</orig><reg>also</reg></choice> <choice><orig>hee</orig><reg>he</reg></choice> thus
                         <lb/>speaks. And moreover understand, that the particular earth, which <choice><orig>wee</orig><reg>we</reg></choice> tread
@@ -105,7 +105,7 @@
                         <lb break="no"/>with it <choice><orig>burnes</orig><reg>burns</reg></choice> the woman or eagle. <milestone unit="section" n="e50-14" />The woman or eagle is indeed an airy<pc>-</pc>
                         <lb/>water, which some call the white or <choice><orig>cælestiall</orig><reg>celestial</reg></choice> eagle, and will have it made
                         <lb/>of <choice><orig>coḿon</orig><reg>common</reg></choice> Mercury, or sublimed Salts, following therein the sense of some <choice><orig>cer
-                            <lb break="no"/>taine</orig><reg>certain</reg></choice> men blind in this art, <choice><orig>faigning</orig><reg>feigning</reg></choice> themselves to be quicksighted; <milestone unit="section" n="e50-15" />But<pc>-</pc>
+                        <lb break="no"/>taine</orig><reg>certain</reg></choice> men blind in this art, <choice><orig>faigning</orig><reg>feigning</reg></choice> themselves to be quicksighted; <milestone unit="section" n="e50-15" />But<pc>-</pc>
                         <lb/><choice><orig>sayth</orig><reg>says</reg></choice> Count Bernhard in his Epistle, I tell you <choice><orig>truely</orig><reg>truly</reg></choice>, that <choice><orig>noe</orig><reg>no</reg></choice> water dissolves
                         <lb/>a <choice><orig>metallicke</orig><reg>metallic</reg></choice> species by <choice><orig>naturall</orig><reg>natural</reg></choice> reduction, except that which continues with<pc>-</pc>
                         <lb/>it in matter and <choice><orig>forme</orig><reg>form</reg></choice>, and which the <choice><orig>metalls</orig><reg>metals</reg></choice> themselves can <choice><orig>recongeale</orig><reg>recongeal</reg></choice>:<pc>-</pc>

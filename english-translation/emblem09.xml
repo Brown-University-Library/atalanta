@@ -25,15 +25,15 @@
                 
                 <div type="title" xml:lang="en">
                     <head>
-                        <lb/><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 9. Of the Secrets of Nature.
+                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 9. Of the Secrets of Nature.
                         <lb/>Shut up the tree with the old man in the house of dew, and eating
-                        <lb/>of the fruit thereof <choice><orig>hee</orig><reg>he</reg></choice> will become young.  
+                        <lb/>of the fruit thereof <choice><orig>hee</orig><reg>he</reg></choice> will become young.</seg>
                     </head>
                 </div>
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 9.</head>
+                    <head><seg rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 9.</seg></head>
                     <lg>
                         <l>The Sophi have a tree with golden fruit,</l>
                         <l>And an old Senior of <choice><orig>noe</orig><reg>no</reg></choice> mean repute:</l>
@@ -47,7 +47,7 @@
                 
                 <pb n="33"/> <!-- Change to page number of the actual manuscript -->
                 <div type="discourse" xml:lang="en">
-                    <head>Discourse 9.</head>
+                    <head><seg rend="italics">Discourse 9.</seg></head>
                     <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
                         <lb/><milestone unit="section" n="e09-01" />All things whatsoever <choice><orig>doe</orig><reg>do</reg></choice> grow in length, breadth, and depth, that is, are <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
                         <lb/>propagated, nourished, and augmented to maturity, the same things <choice><orig>doe</orig><reg>do</reg></choice> all
@@ -85,7 +85,7 @@
                         <lb/><choice><orig>unlesse</orig><reg>unless</reg></choice> they are <choice><orig>sayd</orig><reg>said</reg></choice> to effect it by accident, as <choice><orig>allso</orig><reg>also</reg></choice> other things, which
                         <lb/>purge the <choice><orig>masse</orig><reg>mass</reg></choice> of blood from <choice><orig>fæces</orig><reg>feces</reg></choice> <choice><orig>mixd</orig><reg>mixed</reg></choice> with it, and dye gray <choice><orig>haire</orig><reg>hair</reg></choice>
                         <lb/>with <choice><orig>blacknesse</orig><reg>blackness</reg></choice>, with which Myrobalans are reported to <choice><orig>colour</orig><reg>color</reg></choice> the
-                        <lb/><choice><orig>haire</orig><reg>hair</reg></choice> <seg rend="underline">and ball of</seg> the eyes. <milestone unit="section" n="e09-12" />Marsilius Ficinus in his booke of <choice><orig>præser
+                        <lb/><choice><orig>haire</orig><reg>hair</reg></choice> a<seg rend="underline" hand="2">nd ball of</seg> the eyes. <milestone unit="section" n="e09-12" />Marsilius Ficinus in his booke of <choice><orig>præser
                         <lb break="no"/>ving</orig><reg>preserving</reg></choice> the life of students, writes, that in order to <choice><orig>attaine</orig><reg>attain</reg></choice> to long life
                         <lb/>it is <choice><orig>coḿodious</orig><reg>commodious</reg></choice> for a man <choice><orig>dayly</orig><reg>daily</reg></choice> to <choice><orig>sucke</orig><reg>suck</reg></choice> the <choice><orig>milke</orig><reg>milk</reg></choice> of some <choice><orig>certaine</orig><reg>certain</reg></choice>
                         <lb/><choice><orig>beautifull</orig><reg>beautiful</reg></choice> and young woman, instead of which others <choice><orig>doe</orig><reg>do</reg></choice> <choice><orig>coḿend</orig><reg>commend</reg></choice>
@@ -93,13 +93,13 @@
                         
                         
                         
-                        <pb n="34"/><fw>Discourse 9.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <pb n="34"/><fw rend="italics">Discourse 9.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
                         <lb/>more rigid than old age, and scarce to be used by one of a thousand,<pc>-</pc>
                         <lb/>though they Should not be without <choice><orig>certaine</orig><reg>certain</reg></choice> effect: It is written by Para
                         <lb break="no"/>celsus in his <choice><orig>booke</orig><reg>book</reg></choice> of long life, that a <choice><orig>sicke</orig><reg>sick</reg></choice> man may attract to <choice><orig>him
                         <lb break="no"/>selfe</orig><reg>himself</reg></choice> the health of another by imagination alone, as <choice><orig>allso</orig><reg>also</reg></choice> an old man
-                        <lb/>youth, but <seg rend="underline">this Author seems in this to use his imagination <choice><orig>onely</orig><reg>only</reg></choice>, not
-                            <lb/>experience:</seg> <milestone unit="section" n="e09-14" />It is thing <choice><orig>certaine</orig><reg>certain</reg></choice> of the Psylli who have two balls of the
+                        <lb/>youth, but<seg rend="underline" hand="2"> this Author seems in this</seg> to <seg rend="underline" hand="2">use his imagination <choice><orig>onely</orig><reg>only</reg></choice>, not
+                        <lb/>experience:</seg> <milestone unit="section" n="e09-14" />It is thing <choice><orig>certaine</orig><reg>certain</reg></choice> of the Psylli who have two balls of the
                         <lb/>eye, and of witches, that they bewitch children and cattle by aspect alone,
                         <lb/>from whence that of <choice><orig>Virgill</orig><reg>Virgil</reg></choice>: Nescio quis teneros oculus mihi fascinet agnos:
                         <lb/><milestone unit="section" n="e09-15" />but these things are done without contact, whereby the tree restores the<pc>-</pc>
@@ -128,7 +128,7 @@
                         <lb break="no"/>ration mollifying, filling up, and restoring his wrinkled and dry <choice><orig>Skinne</orig><reg>Skin</reg></choice>
                         <lb/>with temperate heat and moisture: <milestone unit="section" n="e09-23" />for <choice><orig>Physitians</orig><reg>Physicians</reg></choice> <choice><orig>doe</orig><reg>do</reg></choice> advisedly and with
                         <lb/>great utility <choice><orig>enjoyne</orig><reg>enjoin</reg></choice> and <choice><orig>præscribe</orig><reg>prescribe</reg></choice> <choice><orig>warme</orig><reg>warm</reg></choice> baths in the marasme and<pc>-</pc>
-                        <lb/>aged consumption: <milestone unit="section" n="e09-24" /><seg rend="underline">but if</seg> the thing be well considered that tree is the<pc>-</pc>
+                        <lb/>aged consumption: <milestone unit="section" n="e09-24" /><seg rend="underline" hand="2">but if</seg> the thing be well considered that tree is the<pc>-</pc>
                         <lb/>daughter of the old man, which as Daphne is transmuted into a vegetable
                         <lb/>of the like sort, and therefore the old man <choice><orig>doth</orig><reg>does</reg></choice> not without reason expect
                         <lb/>youth from it, which caused it to be effected<pc>. . . . . . .</pc>  

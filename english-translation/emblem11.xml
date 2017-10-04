@@ -25,14 +25,14 @@
                 
                 <div type="title" xml:lang="en">
                     <head>
-                        <lb/><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 11. Of the Secrets of Nature.
-                        <lb/>Whiten Latona and tear your books.
+                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 11. Of the Secrets of Nature.
+                        <lb/>Whiten Latona and tear your books.</seg>
                     </head>
                 </div>
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 11.</head>
+                    <head><seg rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 11.</seg></head>
                     <lg>
                         <l>Ancestors (of truth <choice><orig>noe</orig><reg>no</reg></choice> doubt) to us relate</l>
                         <l>Latona's <choice><orig>twinns</orig><reg>twins</reg></choice> <choice><orig>producd</orig><reg>produced</reg></choice> from Jove the great.</l>
@@ -46,7 +46,7 @@
                 
                 <pb n="39"/> <!-- Change to page number of the actual manuscript -->
                 <div type="discourse" xml:lang="en">
-                    <head>Discourse 11.</head>
+                    <head><seg rend="italics">Discourse 11.</seg></head>
                     <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
                         <lb/><milestone unit="section" n="e11-01" /><choice><orig>Soe</orig><reg>So</reg></choice> great is the diversity of Authors in writing, that the explorators of<pc>-</pc> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
                         <lb/>truth <choice><orig>doe</orig><reg>do</reg></choice> <choice><orig>allmost</orig><reg>almost</reg></choice> <choice><orig>despaire</orig><reg>despair</reg></choice> of finding the end of art: <milestone unit="section" n="e11-02" />for <choice><orig>Allegoricall</orig><reg>Allegorical</reg></choice> speeches
@@ -84,8 +84,8 @@
                         <lb break="no"/>ny other things, into act, in the <choice><orig>meane</orig><reg>mean</reg></choice> time consuming or diminishing his
                         <lb/>strength, time, reputation, wealth and riches, the Philosophers <choice><orig>doe</orig><reg>do</reg></choice> use this
                         <lb/><choice><orig>Emblematicall</orig><reg>Emblematical</reg></choice> speech, that Latona must be whitened, and those books
-                        <lb/><choice><orig>torne</orig><reg>torn</reg></choice>, lest their hearts be broken, <seg rend="underline">for there are many books <choice><orig>soe</orig><reg>so</reg></choice> obscurely</seg><pc>-</pc>
-                        <lb/>written, <seg rend="underline">as to be understood by their <choice><orig>owne</orig><reg>own</reg></choice> Authors <choice><orig>onely</orig><reg>only</reg></choice>:</seg> <milestone unit="section" n="e11-12" />not a few left out<note place="margin">!!</note>
+                        <lb/><choice><orig>torne</orig><reg>torn</reg></choice>, lest their hearts be broken, <seg rend="underline" hand="2">for there are many books <choice><orig>soe</orig><reg>so</reg></choice> obscurely</seg><pc>-</pc>
+                        <lb/>written, <seg rend="underline" hand="2">as to be understood by their <choice><orig>owne</orig><reg>own</reg></choice> Authors <choice><orig>onely</orig><reg>only</reg></choice>:</seg> <milestone unit="section" n="e11-12" />not a few left out<note place="margin" hand="2">!!</note>
                         <lb/>of envy to seduce others, or rather to retard them, that they may not <choice><orig>attaine</orig><reg>attain</reg></choice>
                         <lb/>to their end without difficulty, or to obscure those things written before by<pc>-</pc>
                         <lb/>themselves: <milestone unit="section" n="e11-13" />But what is the meaning of whitening Latona? this is the<pc>-</pc>
@@ -93,13 +93,13 @@
                         
                         
                         
-                        <pb n="40"/><fw>Discourse 11.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <pb n="40"/><fw rend="italics">Discourse 11.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
                         <lb/>imperfect body compounded of Sol and Luna. <milestone unit="section" n="e11-14" />The most ancient Poets and
                         <lb/>writers <choice><orig>affirme</orig><reg>affirm</reg></choice> Latona to be the mother of Sol and Luna, or Apollo and<pc>-</pc>
                         <lb/>Diana, others the <choice><orig>Nurce</orig><reg>Nurse</reg></choice>; and that Diana was first <choice><orig>borne</orig><reg>born</reg></choice> (for Luna and<pc>-</pc>
                         <lb/><choice><orig>whitenesse</orig><reg>whiteness</reg></choice> first appears) and did then <choice><orig>performe</orig><reg>perform</reg></choice> the office of a midwife<pc>-</pc>
                         <lb/>the same day in bringing forth her brother Apollo. <milestone unit="section" n="e11-15" />Latona was indeed one
-                        <note place="margin">!</note><lb/>of the <seg rend="underline">twelve</seg> divine <choice><orig>Hieroglyphicks</orig><reg>Hieroglyphics</reg></choice> of the <choice><orig>Ægyptians</orig><reg>Egyptians</reg></choice>, by <choice><orig>whome</orig><reg>whom</reg></choice> these<pc>-</pc>
+                        <note place="margin" hand="2">!</note><lb/>of the <seg rend="underline" hand="2">twelve</seg> divine <choice><orig>Hieroglyphicks</orig><reg>Hieroglyphics</reg></choice> of the <choice><orig>Ægyptians</orig><reg>Egyptians</reg></choice>, by <choice><orig>whome</orig><reg>whom</reg></choice> these<pc>-</pc>
                         <lb/>and other <choice><orig>Allegoryes</orig><reg>Allegories</reg></choice> were propagated amongst other nations, very few of<pc>-</pc>
                         <lb/>the <choice><orig>Ægyptians</orig><reg>Egyptians</reg></choice> <choice><orig>Preists</orig><reg>Priests</reg></choice>, and those <choice><orig>onely</orig><reg>only</reg></choice> understanding the true meaning<pc>-</pc>
                         <lb/>and sense of them, all the rest referring them to other subjects, which were<pc>-</pc>

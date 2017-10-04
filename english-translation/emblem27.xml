@@ -25,15 +25,15 @@
                 
                 <div type="title" xml:lang="en">
                     <head>
-                        <lb/><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 27. Of the Secrets of Nature.
+                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 27. Of the Secrets of Nature.
                         <lb/><choice><orig>Hee</orig><reg>He</reg></choice> that <choice><orig>endeavours</orig><reg>endeavors</reg></choice> to enter into the Philosophers Rosary without
-                        <lb/>a key, is like him that would <choice><orig>walke</orig><reg>walk</reg></choice> without feet.
+                        <lb/>a key, is like him that would <choice><orig>walke</orig><reg>walk</reg></choice> without feet.</seg>
                     </head>
                 </div>
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 27.</head>
+                    <head><seg rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 27.</seg></head>
                     <lg>
                         <l>Roses in <choice><orig>wisedom's</orig><reg>wisdom's</reg></choice> garden <choice><orig>doe</orig><reg>do</reg></choice> abound,</l>
                         <l>But <choice><orig>allwayes</orig><reg>always</reg></choice> under locks and bolts is found:</l>
@@ -47,7 +47,7 @@
                 
                 <pb n="87"/> <!-- Change to page number of the actual manuscript -->
                 <div type="discourse" xml:lang="en">
-                    <head>Discourse 27.</head>
+                    <head><seg rend="italics">Discourse 27.</seg></head>
                     <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
                         <lb/>Concerning Erichthonius they write, that <choice><orig>hee</orig><reg>he</reg></choice> sprung from the seed of Vulcan<pc>-</pc><milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
                         <lb/>cast upon the earth striving with Pallas the <choice><orig>Goddesse</orig><reg>Goddess</reg></choice> of <choice><orig>wisedome</orig><reg>wisdom</reg></choice>, with ser
@@ -93,7 +93,7 @@
                         <lb/>in <choice><orig>garlicke</orig><reg>garlic</reg></choice>, in which respect it is a remedy against cold <choice><orig>poysons</orig><reg>poisons</reg></choice>: for Roses<pc>-</pc>
                         
                         
-                        <pb n="88"/><fw>Discourse 27.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <pb n="88"/><fw rend="italics">Discourse 27.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
                         <lb/>require the heat of the <choice><orig>Sunne</orig><reg>Sun</reg></choice> and earth, before they can <choice><orig>attaine</orig><reg>attain</reg></choice> to <choice><orig>colour</orig><reg>color</reg></choice> and
                         <lb/>scent most <choice><orig>gratefull</orig><reg>grateful</reg></choice> to the eyes and nose: Moreover the fume of <choice><orig>coḿon</orig><reg>common</reg></choice> Sulphur
                         <lb/>makes red roses white, where it <choice><orig>toucheth</orig><reg>touches</reg></choice>, on the contrary the spirit of <choice><orig>Vitrioll</orig><reg>Vitriol</reg></choice>

@@ -25,14 +25,14 @@
             
             <div type="title" xml:lang="en">
                <head>
-                  <lb/><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 4. Of the Secrets of Nature.
-                  <lb/><choice><orig>Joyne</orig><reg>Join</reg></choice> the Brother with the Sister and give them a cup of love.                  
+                  <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 4. Of the Secrets of Nature.
+                  <lb/><choice><orig>Joyne</orig><reg>Join</reg></choice> the Brother with the Sister and give them a cup of love.</seg>                  
                </head>
             </div>
             
             
             <div type="epigram" xml:lang="en">
-               <head><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 4.</head>
+               <head><seg rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 4.</seg></head>
                <lg>
                   <l>To multiply the world with <choice><orig>humane</orig><reg>human</reg></choice> race,</l>
                   <l>The brother <subst><del>must</del><add>did</add></subst> his sister close embrace:</l>
@@ -46,7 +46,7 @@
             
             <pb n="18"/> <!-- Page number of the actual manuscript -->
             <div type="discourse" xml:lang="en">
-               <head>Discourse 4.</head>
+               <head><seg rend="italics">Discourse 4.</seg></head>
                <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
                   <lb/><milestone unit="section" n="e04-01" />The divine and <choice><orig>politicall</orig><reg>political</reg></choice> <choice><orig>lawes</orig><reg>laws</reg></choice> <choice><orig>doe</orig><reg>do</reg></choice> both forbid those people to marry, who are by <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
                   <lb/>nature <choice><orig>joyned</orig><reg>joined</reg></choice> in too near a degree of consanguinity, such namely as <add>directly</add>ascend and des
@@ -85,15 +85,15 @@
                   <lb/>in lib. de occ. nat. mirac. proves: the Sister therefore and brother are
                   <lb/>rightly <choice><orig>joyned</orig><reg>joined</reg></choice> together by the Philosophers: <milestone unit="section" n="e04-12" />If a man defines offspring
                   <lb/>from a <choice><orig>henne</orig><reg>hen</reg></choice>, bitch, <choice><orig>Shee</orig><reg>She</reg></choice> goat, Ewe, or other brutes, <choice><orig>hee</orig><reg>he</reg></choice> <choice><orig>joynes</orig><reg>joins</reg></choice> a <del><choice><orig>dogge</orig><reg>dog</reg></choice></del>
-                  <lb/><choice><orig>cocke</orig><reg>cock</reg></choice>, <choice><orig>dogge</orig><reg>dog</reg></choice>, <choice><orig>hee</orig><reg>he</reg></choice> goat, <choice><orig>ramme</orig><reg>ram</reg></choice>, every <choice><orig>animall</orig><reg>animal</reg></choice> <seg rend="underline">to its Species</seg>, to <seg rend="underline">which it is
-                  <lb/>most like</seg>, and <choice><orig>soe</orig><reg>so</reg></choice> is not frustrated of his desire; nor indeed <choice><orig>doth</orig><reg>does</reg></choice> <choice><orig>hee</orig><reg>he</reg></choice><pc>-</pc>
+                  <lb/><choice><orig>cocke</orig><reg>cock</reg></choice>, <choice><orig>dogge</orig><reg>dog</reg></choice>, <choice><orig>hee</orig><reg>he</reg></choice> goat, <choice><orig>ramme</orig><reg>ram</reg></choice>, every <choice><orig>animall</orig><reg>animal</reg></choice> <seg rend="underline" hand="2">to its Speci</seg>es, to w<seg rend="underline" hand="2">hich it is</seg>
+                  <lb/>m<seg rend="underline" hand="2">ost li</seg>ke, and <choice><orig>soe</orig><reg>so</reg></choice> is not frustrated of his desire; nor indeed <choice><orig>doth</orig><reg>does</reg></choice> <choice><orig>hee</orig><reg>he</reg></choice><pc>-</pc>
                   <lb/>respect the consanguinity of brutes, but <choice><orig>onely</orig><reg>only</reg></choice> the generosity of every
                   <lb/>one, and the congruity of nature: <choice><orig>Soe</orig><reg>So</reg></choice> may it be <choice><orig>sayd</orig><reg>said</reg></choice> of the body of a tree,
                   <lb/>and the <choice><orig>slippe</orig><reg>slip</reg></choice> to be therein grafted, <milestone unit="section" n="e04-13" />yea of the metallicke<pc>-</pc>
                   
                   
        
-                  <pb n="19"/><fw>Discourse 4.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                  <pb n="19"/><fw rend="italics">Discourse 4.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
                   <lb/>nature, which notwithstanding as it <choice><orig>hath</orig><reg>has</reg></choice> of all things the greatest<pc>-</pc>
                   <lb/>similitude and homogeneity of substance, <choice><orig>doth</orig><reg>does</reg></choice> <choice><orig>soe</orig><reg>so</reg></choice> require, where it
                   <lb/>desires a thing to be <choice><orig>joyned</orig><reg>joined</reg></choice> with it: <milestone unit="section" n="e04-14" />But brother and Sister being <choice><orig>joynd</orig><reg>joined</reg></choice>

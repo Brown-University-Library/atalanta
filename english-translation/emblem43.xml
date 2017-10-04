@@ -25,14 +25,14 @@
                 
                 <div type="title" xml:lang="en">
                     <head>
-                        <lb/><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 43. Of the Secrets of Nature.
-                        <lb/>Give ear to the <choice><orig>Vultur's</orig><reg>Vulture's</reg></choice> words, which are <choice><orig>noewise</orig><reg>nowise</reg></choice> false.
+                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 43. Of the Secrets of Nature.
+                        <lb/>Give ear to the <choice><orig>Vultur's</orig><reg>Vulture's</reg></choice> words, which are <choice><orig>noewise</orig><reg>nowise</reg></choice> false.</seg>
                     </head>
                 </div>
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 43.</head>
+                    <head><seg rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 43.</seg></head>
                     <lg>
                         <l>The <choice><orig>Vultur</orig><reg>Vulture</reg></choice> on the <choice><orig>mountaine</orig><reg>mountain</reg></choice> stands in sight,</l>
                         <l><choice><orig>Himselfe</orig><reg>Himself</reg></choice> proclaiming daily, <choice><orig>blacke</orig><reg>black</reg></choice>, and white,</l>
@@ -46,7 +46,7 @@
                 
                 <pb n="135"/> <!-- Change to page number of the actual manuscript -->
                 <div type="discourse" xml:lang="en">
-                    <head>Discourse 43.</head>
+                    <head><seg rend="italics">Discourse 43.</seg></head>
                     <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
                         <lb/><choice><orig>Wee</orig><reg>We</reg></choice> daily in many places hear birds prattling or imitating the <choice><orig>voyce</orig><reg>voice</reg></choice><milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
                         <lb/>of man, such as <choice><orig>Parrotts</orig><reg>Parrots</reg></choice>, Ravens, Dawes, and <choice><orig>Pyes</orig><reg>Pies</reg></choice>. <choice><orig>Soe</orig><reg>So</reg></choice> Pliny writes<pc>-</pc>
@@ -92,7 +92,7 @@
                         
                         
                         
-                        <pb n="136"/><fw>Discourse 43.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <pb n="136"/><fw rend="italics">Discourse 43.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
                         <lb/>perplexed with the East wind. When they begin to lay eggs, they<pc>-</pc>
                         <lb/>bring a thing out of the <choice><orig>Indyes</orig><reg>Indies</reg></choice>, which is as a <choice><orig>nutt</orig><reg>nut</reg></choice>, having within a<pc>-</pc>
                         <lb/>thing that may be moved, and forthwith <choice><orig>yeilds</orig><reg>yields</reg></choice> a sound, which when

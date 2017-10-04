@@ -25,16 +25,16 @@
                 
                 <div type="title" xml:lang="en">
                     <head>
-                        <lb/><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 37. Of the Secrets of Nature.
+                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 37. Of the Secrets of Nature.
                         <lb/>Three things are sufficient for the Magistery, the white fume, that
                         <lb/>is, water, the green <choice><orig>Lyon</orig><reg>Lion</reg></choice>, that is, the <choice><orig>brasse</orig><reg>brass</reg></choice> of Hermes, and aqua
-                        <lb/><choice><orig>fœtida</orig><reg>fetida</reg></choice>.
+                        <lb/><choice><orig>fœtida</orig><reg>fetida</reg></choice>.</seg>
                     </head>
                 </div>
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 37.</head>
+                    <head><seg rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 37.</seg></head>
                     <lg>
                         <l>The <choice><orig>Lyon</orig><reg>Lion</reg></choice> green, white fume, and stinking juice,</l>
                         <l>Are all that to our <choice><orig>Processe</orig><reg>Process</reg></choice> <choice><orig>doe</orig><reg>do</reg></choice> conduce:</l>
@@ -48,7 +48,7 @@
                 
                 <pb n="117"/> <!-- Change to page number of the actual manuscript -->
                 <div type="discourse" xml:lang="en">
-                    <head>Discourse 37.</head>
+                    <head><seg rend="italics">Discourse 37.</seg></head>
                     <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
                         <lb/>As three <choice><orig>essentiall</orig><reg>essential</reg></choice> things, which are the foundation, walls, and <choice><orig>roofe</orig><reg>roof</reg></choice>, are<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
                         <lb/>required to the building of every <choice><orig>ædifice</orig><reg>edifice</reg></choice>, whereof one being absent, there
@@ -100,7 +100,7 @@
                         
                         
                         
-                        <pb n="118"/><fw>Discourse 37.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <pb n="118"/><fw rend="italics">Discourse 37.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
                         <lb/>alone, which is in it: because that <choice><orig>greenesse</orig><reg>greenness</reg></choice> is by our Magistery suddenly
                         <lb/>turned into our most true gold, and this <choice><orig>wee</orig><reg>we</reg></choice> have had experience of:
                         <lb/>yet you can <choice><orig>noe</orig><reg>no</reg></choice> way <choice><orig>præpare</orig><reg>prepare</reg></choice> the Stone without Duenech green and

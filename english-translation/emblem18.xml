@@ -25,14 +25,14 @@
                 
                 <div type="title" xml:lang="en">
                     <head>
-                        <lb/><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 18. Of the Secrets of Nature.
-                        <lb/>Fire <choice><orig>louves</orig><reg>loves</reg></choice> to <choice><orig>burne</orig><reg>burn</reg></choice>, not to aurify, but gold.
+                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 18. Of the Secrets of Nature.
+                        <lb/>Fire <choice><orig>louves</orig><reg>loves</reg></choice> to <choice><orig>burne</orig><reg>burn</reg></choice>, not to aurify, but gold.</seg>
                     </head>
                 </div>
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 18.</head>
+                    <head><seg rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 18.</seg></head>
                     <lg>
                         <l>All Natures agents <choice><orig>doe</orig><reg>do</reg></choice> their seed diffuse,</l>
                         <l>That thus they may their species produce:</l>
@@ -46,7 +46,7 @@
                 
                 <pb n="60"/> <!-- Change to page number of the actual manuscript -->
                 <div type="discourse" xml:lang="en">
-                    <head>Discourse 18.</head>
+                    <head><seg rend="italics">Discourse 18.</seg></head>
                     <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
                         <lb/>Natures way of operating in all <choice><orig>individualls</orig><reg>individuals</reg></choice> of the universe is to use one<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
                         <lb/>single <choice><orig>processe</orig><reg>process</reg></choice> to complete and perfect one single motion, as appears in the
@@ -96,7 +96,7 @@
                         
                         
                         
-                        <pb n="61"/><!-- changed from orig 6i --><fw>Discourse 18.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <pb n="61"/><!-- changed from orig 6i --><fw rend="italics">Discourse 18.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
                         <lb/>likely to be true: I know not whether they are more confident or<pc>-</pc>
                         <lb/><choice><orig>successefull</orig><reg>successful</reg></choice>, who <choice><orig>endeavour</orig><reg>endeavor</reg></choice> to deduce gold from gold, according to the
                         <lb/>saying of the golden <choice><orig>Poett</orig><reg>Poet</reg></choice>: <choice><orig>Hee</orig><reg>He</reg></choice> that desires barley <choice><orig>sowes</orig><reg>sows</reg></choice> <choice><orig>onely</orig><reg>only</reg></choice> barley,

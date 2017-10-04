@@ -25,15 +25,15 @@
                 
                 <div type="title" xml:lang="en">
                     <head>
-                        <lb/><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 38. Of the Secrets of Nature.
+                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 38. Of the Secrets of Nature.
                         <lb/>Rebis is, as Hermaphroditus, produced from the two moun
-                        <lb break="no"/>tains of Mercury and Venus.
+                        <lb break="no"/>tains of Mercury and Venus.</seg>
                     </head>
                 </div>
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 38.</head>
+                    <head><seg rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 38.</seg></head>
                     <lg>
                         <l>Rebis is by the Ancients calld a <choice><orig>Twinne</orig><reg>Twin</reg></choice>,</l>
                         <l>Containing male and female sex therein:</l>
@@ -47,7 +47,7 @@
                 
                 <pb n="120"/> <!-- Change to page number of the actual manuscript -->
                 <div type="discourse" xml:lang="en">
-                    <head>Discourse 38.</head>
+                    <head><seg rend="italics">Discourse 38.</seg></head>
                     <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
                         <lb/>Socrates being demanded what Country man <choice><orig>hee</orig><reg>he</reg></choice> was, answered a<pc>-</pc><milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
                         <lb/>Citizen of the world: by which his intention was to signify, that though
@@ -92,7 +92,7 @@
                         
                         
                         
-                        <pb n="121"/><fw>Discourse 38.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <pb n="121"/><fw rend="italics">Discourse 38.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
                         <lb break="no"/>cuous, yet they are <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>veild</orig><reg>veiled</reg></choice> and clouded with intricacy and ob
                         <lb break="no"/>scurity, that by reason thereof it is very difficult to make distinction:
                         <lb/>Wherefore <choice><orig>wee</orig><reg>we</reg></choice> must cautiously proceed with them, that they, which are
