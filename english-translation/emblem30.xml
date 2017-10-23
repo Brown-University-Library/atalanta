@@ -32,7 +32,7 @@
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head><seg rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 30.</seg></head>
+                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 30.</head>
                     <lg>
                         <l>What can you <choice><orig>doe</orig><reg>do</reg></choice> dear Sol! alone, if I</l>
                         <l><choice><orig>Joyne</orig><reg>Join</reg></choice> not as <choice><orig>henne</orig><reg>hen</reg></choice> with <choice><orig>cocke</orig><reg>cock</reg></choice> to multiply?</l>
@@ -46,7 +46,7 @@
                 
                 <pb n="96"/> <!-- Change to page number of the actual manuscript -->
                 <div type="discourse" xml:lang="en">
-                    <head><seg rend="italics">Discourse 30.</seg></head>
+                    <head rend="italics">Discourse 30.</head>
                     <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
                         <lb/>Avicenne in his <choice><orig>booke</orig><reg>book</reg></choice> of the <choice><orig>Soule</orig><reg>Soul</reg></choice> <choice><orig>divers</orig><reg>diverse</reg></choice> times <choice><orig>admonisheth</orig><reg>admonishes</reg></choice>, that <choice><orig>noe</orig><reg>no</reg></choice> <pc>-</pc><milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
                         <lb/>eggs are to be taken for art, but <choice><orig>onely</orig><reg>only</reg></choice> of those <choice><orig>henns</orig><reg>hens</reg></choice>, which had a cock:

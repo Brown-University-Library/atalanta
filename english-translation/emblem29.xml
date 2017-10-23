@@ -32,7 +32,7 @@
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head><seg rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 29.</seg></head>
+                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 29.</head>
                     <lg>
                         <l>The Salamander sports in scorching heats,</l>
                         <l>And, Vulcan! bids <choice><orig>defyance</orig><reg>defiance</reg></choice> to your threats;</l>
@@ -46,7 +46,7 @@
                 
                 <pb n="93"/> <!-- Change to page number of the actual manuscript -->
                 <div type="discourse" xml:lang="en">
-                    <head><seg rend="italics">Discourse 29.</seg></head>
+                    <head rend="italics">Discourse 29.</head>
                     <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
                         <lb/>Two Elements there are, in which <choice><orig>animalls</orig><reg>animals</reg></choice> live, water and <choice><orig>aire</orig><reg>air</reg></choice>, and as ma<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
                         <lb break="no"/>ny in which <choice><orig>noe</orig><reg>no</reg></choice> animated thing can live, earth and fire: For as those are

@@ -32,7 +32,7 @@
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head><seg rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 45.</seg></head>
+                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 45.</head>
                     <lg>
                         <l>The <choice><orig>Sunne</orig><reg>Sun</reg></choice> <choice><orig>noe</orig><reg>no</reg></choice> <choice><orig>bodyes</orig><reg>bodies</reg></choice> dense can penetrate,</l>
                         <l>And <choice><orig>soe</orig><reg>so</reg></choice> the adverse parts a shade create:</l>
@@ -46,7 +46,7 @@
                 
                 <pb n="141"/> <!-- Change to page number of the actual manuscript -->
                 <div type="discourse" xml:lang="en">
-                    <head><seg rend="italics">Discourse 45.</seg></head>
+                    <head rend="italics">Discourse 45.</head>
                     <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
                         <lb/>As in a round or <choice><orig>Sphericall</orig><reg>Spherical</reg></choice> Palace, a fire kindled in one place illustrates<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
                         <lb/>the parts above and below round about all the walls, except those, where

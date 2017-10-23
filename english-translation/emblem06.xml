@@ -33,7 +33,7 @@
             
             
             <div type="epigram" xml:lang="en">
-               <head><seg rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 6.</seg></head>
+               <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 6.</head>
                <lg>
                   <l><choice><orig>Rusticks</orig><reg>Rustics</reg></choice> their seed to <choice><orig>th'</orig><reg>the</reg></choice> fertile earth <choice><orig>committ</orig><reg>commit</reg></choice>,</l>
                   <l>When with their harrows they have made it <choice><orig>fitt</orig><reg>fit</reg></choice>:</l>
@@ -47,7 +47,7 @@
             
             <pb n="24"/> <!-- Page number of the actual manuscript -->
             <div type="discourse" xml:lang="en">
-               <head><seg rend="italics">Discourse 6.</seg></head>
+               <head rend="italics">Discourse 6.</head>
                <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
                   <lb/><milestone unit="section" n="e06-01" />A City <choice><orig>sayth</orig><reg>says</reg></choice> Plato subsists not by <choice><orig>Physitian</orig><reg>Physician</reg></choice> and <choice><orig>Physitian</orig><reg>Physician</reg></choice>, but by <choice><orig>Physitian</orig><reg>Physician</reg></choice> and
                   <lb/>husbandman, that is, men of <choice><orig>divers</orig><reg>diverse</reg></choice> functions, but <choice><orig>hee</orig><reg>he</reg></choice> mentions the Husbandman

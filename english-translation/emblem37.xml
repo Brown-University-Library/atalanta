@@ -34,7 +34,7 @@
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head><seg rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 37.</seg></head>
+                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 37.</head>
                     <lg>
                         <l>The <choice><orig>Lyon</orig><reg>Lion</reg></choice> green, white fume, and stinking juice,</l>
                         <l>Are all that to our <choice><orig>Processe</orig><reg>Process</reg></choice> <choice><orig>doe</orig><reg>do</reg></choice> conduce:</l>
@@ -48,7 +48,7 @@
                 
                 <pb n="117"/> <!-- Change to page number of the actual manuscript -->
                 <div type="discourse" xml:lang="en">
-                    <head><seg rend="italics">Discourse 37.</seg></head>
+                    <head rend="italics">Discourse 37.</head>
                     <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
                         <lb/>As three <choice><orig>essentiall</orig><reg>essential</reg></choice> things, which are the foundation, walls, and <choice><orig>roofe</orig><reg>roof</reg></choice>, are<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
                         <lb/>required to the building of every <choice><orig>ædifice</orig><reg>edifice</reg></choice>, whereof one being absent, there

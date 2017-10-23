@@ -32,7 +32,7 @@
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head><seg rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 20.</seg></head>
+                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 20.</head>
                     <lg>
                         <l>Fire that insulting dragon is <choice><orig>præpard</orig><reg>prepared</reg></choice></l>
                         <l>To scorch the virgins beauty Sans regard:</l>
@@ -46,7 +46,7 @@
                 
                 <pb n="66"/> <!-- Change to page number of the actual manuscript -->
                 <div type="discourse" xml:lang="en">
-                    <head><seg rend="italics">Discourse 20.</seg></head>
+                    <head rend="italics">Discourse 20.</head>
                     <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
                         <lb/>The common token and <choice><orig>symboll</orig><reg>symbol</reg></choice>, by which the Philosophers know one another,<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
                         <lb/>is, that nature is guided, taught, governed, subdued and overcome by nature, as

@@ -33,7 +33,7 @@
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head><seg rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 9.</seg></head>
+                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 9.</head>
                     <lg>
                         <l>The Sophi have a tree with golden fruit,</l>
                         <l>And an old Senior of <choice><orig>noe</orig><reg>no</reg></choice> mean repute;</l>
@@ -47,7 +47,7 @@
                 
                 <pb n="33"/> <!-- Change to page number of the actual manuscript -->
                 <div type="discourse" xml:lang="en">
-                    <head><seg rend="italics">Discourse 9.</seg></head>
+                    <head rend="italics">Discourse 9.</head>
                     <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
                         <lb/><milestone unit="section" n="e09-01" />All things whatsoever <choice><orig>doe</orig><reg>do</reg></choice> grow in length, breadth, and depth, that is, are <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
                         <lb/>propagated, nourished, and augmented to maturity, the same things <choice><orig>doe</orig><reg>do</reg></choice> <choice><orig>all

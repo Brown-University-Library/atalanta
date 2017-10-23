@@ -33,7 +33,7 @@
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head><seg rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 36.</seg></head>
+                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 36.</head>
                     <lg>
                         <l>The Stone, as refuse, is by some <choice><orig>suppos'd</orig><reg>supposed</reg></choice></l>
                         <l><choice><orig>Throwne</orig><reg>Thrown</reg></choice> <choice><orig>upo'</orig><reg>upon</reg></choice> <choice><orig>th'</orig><reg>the</reg></choice> earth, to rich and <choice><orig>poore</orig><reg>poor</reg></choice> <choice><orig>disclosd</orig><reg>disclosed</reg></choice>:</l>
@@ -47,7 +47,7 @@
                 
                 <pb n="114"/> <!-- Change to page number of the actual manuscript -->
                 <div type="discourse" xml:lang="en">
-                    <head><seg rend="italics">Discourse 36.</seg></head>
+                    <head rend="italics">Discourse 36.</head>
                     <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
                         <lb/>All men, that have but once heard the name and power of the Stone,<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
                         <lb/><choice><orig>unlesse</orig><reg>unless</reg></choice>, they be such as are <choice><orig>alltogther</orig><reg>altogether</reg></choice> incredulous, <choice><orig>doe</orig><reg>do</reg></choice> <choice><orig>coḿonly</orig><reg>commonly</reg></choice> <choice><orig>aske</orig><reg>ask</reg></choice> <pc>-</pc>

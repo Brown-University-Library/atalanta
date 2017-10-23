@@ -71,7 +71,7 @@
                 
                 <pb n="02"/>
                 <div type="epigram" xml:lang="en">
-                    <head><seg rend="italics">the Author's <choice><orig>Epigramme</orig><reg>Epigram</reg></choice>.</seg></head>
+                    <head rend="italics">the Author's <choice><orig>Epigramme</orig><reg>Epigram</reg></choice>.</head>
                     <lg>
                         <l>The Hesperian apples of the Cyprian dame</l>
                         <l>Gave to the nimble youth a victors fame:</l>

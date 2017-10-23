@@ -33,7 +33,7 @@
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head><seg rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 44.</seg></head>
+                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 44.</head>
                     <lg>
                         <l>Adonis Syria, Greece, <choice><orig>hath</orig><reg>has</reg></choice> <choice><orig>Dionyse</orig><reg>Dionysus</reg></choice>,</l>
                         <l><choice><orig>Ægypt</orig><reg>Egypt</reg></choice>, <choice><orig>Osyris</orig><reg>Osiris</reg></choice>, all the <choice><orig>Sunne</orig><reg>Sun</reg></choice> <choice><orig>o'th</orig><reg>of the</reg></choice> wise:</l>
@@ -47,7 +47,7 @@
                 
                 <pb n="138"/> <!-- Change to page number of the actual manuscript -->
                 <div type="discourse" xml:lang="en">
-                    <head><seg rend="italics">Discourse 44.</seg></head>
+                    <head rend="italics">Discourse 44.</head>
                     <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
                         <lb/>The allegory of <choice><orig>Osyris</orig><reg>Osiris</reg></choice> <choice><orig>wee</orig><reg>we</reg></choice> have <choice><orig>elswhere</orig><reg>elsewhere</reg></choice> (namely in the first<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
                         <lb/><choice><orig>booke</orig><reg>book</reg></choice> of <choice><orig>Hieroglyphicks</orig><reg>Hieroglyphics</reg></choice>) reduced to its true <choice><orig>originall</orig><reg>original</reg></choice>, which is

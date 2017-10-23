@@ -33,7 +33,7 @@
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head><seg rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 21.</seg></head>
+                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 21.</head>
                     <lg>
                         <l>A circle for the man and wife provide,</l>
                         <l>Which make quadrangular with <choice><orig>æquall</orig><reg>equal</reg></choice> side,</l>
@@ -47,7 +47,7 @@
                 
                 <pb n="69"/> <!-- Change to page number of the actual manuscript -->
                 <div type="discourse" xml:lang="en">
-                    <head><seg rend="italics">Discourse 21.</seg></head>
+                    <head rend="italics">Discourse 21.</head>
                     <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
                         <lb/>It is the doctrine of that <seg rend="underline" hand="2">most famous Philosopher Plato th</seg>at knowledge is as<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
                         <lb/>it were actually engraven and imprinted in the mind of man, which is as the

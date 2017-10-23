@@ -33,7 +33,7 @@
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head><seg rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 13.</seg></head>
+                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 13.</head>
                     <lg>
                         <l>Humors <choice><orig>Hydropicall</orig><reg>Hydropical</reg></choice> the Sophian <choice><orig>brasse</orig><reg>brass</reg></choice></l>
                         <l>Infesting, has <choice><orig>noe</orig><reg>no</reg></choice> cure but one alas:</l>
@@ -47,7 +47,7 @@
                 
                 <pb n="45"/> <!-- Change to page number of the actual manuscript -->
                 <div type="discourse" xml:lang="en">
-                    <head><seg rend="italics">Discourse 13.</seg></head>
+                    <head rend="italics">Discourse 13.</head>
                     <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
                         <lb/>That Naaman the Syrian <choice><orig>betooke</orig><reg>betook</reg></choice> <choice><orig>himselfe</orig><reg>himself</reg></choice> to <choice><orig>Judæa</orig><reg>Judea</reg></choice> at the <choice><orig>perswasion</orig><reg>persuasion</reg></choice> of the<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
                         <lb/>Prophet, and <choice><orig>washd</orig><reg>washed</reg></choice> <choice><orig>himselfe</orig><reg>himself</reg></choice> seven times in the river Jordan, is to be <choice><orig>ascribd</orig><reg>ascribed</reg></choice>

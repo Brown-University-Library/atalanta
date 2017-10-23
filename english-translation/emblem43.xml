@@ -32,7 +32,7 @@
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head><seg rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 43.</seg></head>
+                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 43.</head>
                     <lg>
                         <l>The <choice><orig>Vultur</orig><reg>Vulture</reg></choice> on the <choice><orig>mountaine</orig><reg>mountain</reg></choice> stands in sight,</l>
                         <l><choice><orig>Himselfe</orig><reg>Himself</reg></choice> proclaiming daily, <choice><orig>blacke</orig><reg>black</reg></choice>, and white,</l>
@@ -46,7 +46,7 @@
                 
                 <pb n="135"/> <!-- Change to page number of the actual manuscript -->
                 <div type="discourse" xml:lang="en">
-                    <head><seg rend="italics">Discourse 43.</seg></head>
+                    <head rend="italics">Discourse 43.</head>
                     <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
                         <lb/><choice><orig>Wee</orig><reg>We</reg></choice> daily in many places hear birds prattling or imitating the <choice><orig>voyce</orig><reg>voice</reg></choice><milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
                         <lb/>of man, such as <choice><orig>Parrotts</orig><reg>Parrots</reg></choice>, Ravens, Dawes, and <choice><orig>Pyes</orig><reg>Pies</reg></choice>. <choice><orig>Soe</orig><reg>So</reg></choice> Pliny writes <pc>-</pc>

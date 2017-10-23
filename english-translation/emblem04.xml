@@ -32,7 +32,7 @@
             
             
             <div type="epigram" xml:lang="en">
-               <head><seg rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 4.</seg></head>
+               <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 4.</head>
                <lg>
                   <l>To multiply the world with <choice><orig>humane</orig><reg>human</reg></choice> race,</l>
                   <l>The brother <subst><del>must</del><add>did</add></subst> his sister close embrace:</l>
@@ -46,7 +46,7 @@
             
             <pb n="18"/> <!-- Page number of the actual manuscript -->
             <div type="discourse" xml:lang="en">
-               <head><seg rend="italics">Discourse 4.</seg></head>
+               <head rend="italics">Discourse 4.</head>
                <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
                   <lb/><milestone unit="section" n="e04-01" />The divine and <choice><orig>politicall</orig><reg>political</reg></choice> <choice><orig>lawes</orig><reg>laws</reg></choice> <choice><orig>doe</orig><reg>do</reg></choice> both forbid those people to marry, who are by <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
                   <lb/>nature <choice><orig>joyned</orig><reg>joined</reg></choice> in too near a degree of consanguinity, such namely as <add>directly</add>ascend and des

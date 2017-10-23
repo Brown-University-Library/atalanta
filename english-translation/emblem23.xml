@@ -33,7 +33,7 @@
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head><seg rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 23.</seg></head>
+                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 23.</head>
                     <lg>
                         <l>This prodigy seems more than strange to us,</l>
                         <l>Yet <choice><orig>Græce</orig><reg>Greece</reg></choice> for truth <choice><orig>hath</orig><reg>has</reg></choice> it affirmed thus:</l>
@@ -47,7 +47,7 @@
                 
                 <pb n="75"/> <!-- Change to page number of the actual manuscript -->
                 <div type="discourse" xml:lang="en">
-                    <head><seg rend="italics">Discourse 23.</seg></head>
+                    <head rend="italics">Discourse 23.</head>
                     <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
                         <lb/>It would be <choice><orig>madnesse</orig><reg>madness</reg></choice> to <choice><orig>affirme</orig><reg>affirm</reg></choice> that gold ever rained upon the earth, except<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
                         <lb/>it was allegorically understood: for there are <choice><orig>noe</orig><reg>no</reg></choice> golden rivers, or <choice><orig>Mynes</orig><reg>Mines</reg></choice> of <pc>-</pc>

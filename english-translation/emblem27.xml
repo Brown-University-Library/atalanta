@@ -33,7 +33,7 @@
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head><seg rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 27.</seg></head>
+                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 27.</head>
                     <lg>
                         <l>Roses in <choice><orig>wisedom's</orig><reg>wisdom's</reg></choice> garden <choice><orig>doe</orig><reg>do</reg></choice> abound,</l>
                         <l>But <choice><orig>allwayes</orig><reg>always</reg></choice> under locks and bolts is found:</l>
@@ -47,7 +47,7 @@
                 
                 <pb n="87"/> <!-- Change to page number of the actual manuscript -->
                 <div type="discourse" xml:lang="en">
-                    <head><seg rend="italics">Discourse 27.</seg></head>
+                    <head rend="italics">Discourse 27.</head>
                     <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
                         <lb/>Concerning Erichthonius they write, that <choice><orig>hee</orig><reg>he</reg></choice> sprung from the seed of Vulcan <pc>-</pc><milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
                         <lb/>cast upon the earth striving with Pallas the <choice><orig>Goddesse</orig><reg>Goddess</reg></choice> of <choice><orig>wisedome</orig><reg>wisdom</reg></choice>, with ser

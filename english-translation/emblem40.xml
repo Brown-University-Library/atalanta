@@ -32,7 +32,7 @@
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head><seg rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 40.</seg></head>
+                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 40.</head>
                     <lg>
                         <l>Two streaming fountains here you may behold,</l>
                         <l>One with <choice><orig>hott</orig><reg>hot</reg></choice> water, but the other cold:</l>
@@ -46,7 +46,7 @@
                 
                 <pb n="126"/> <!-- Change to page number of the actual manuscript -->
                 <div type="discourse" xml:lang="en">
-                    <head><seg rend="italics">Discourse 40.</seg></head>
+                    <head rend="italics">Discourse 40.</head>
                     <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
                         <lb/>The miracles of waters are <choice><orig>soe</orig><reg>so</reg></choice> many and <choice><orig>soe</orig><reg>so</reg></choice> great, as scarce to be <pc>-</pc><milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
                         <lb/>comprehended in a large volume, concerning which <choice><orig>severall</orig><reg>several</reg></choice> authors <pc>-</pc>

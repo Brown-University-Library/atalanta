@@ -32,7 +32,7 @@
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head><seg rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 11.</seg></head>
+                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 11.</head>
                     <lg>
                         <l>Ancestors (of truth <choice><orig>noe</orig><reg>no</reg></choice> doubt) to us relate</l>
                         <l>Latona's <choice><orig>twinns</orig><reg>twins</reg></choice> <choice><orig>producd</orig><reg>produced</reg></choice> from Jove the great.</l>
@@ -46,7 +46,7 @@
                 
                 <pb n="39"/> <!-- Change to page number of the actual manuscript -->
                 <div type="discourse" xml:lang="en">
-                    <head><seg rend="italics">Discourse 11.</seg></head>
+                    <head rend="italics">Discourse 11.</head>
                     <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
                         <lb/><milestone unit="section" n="e11-01" /><choice><orig>Soe</orig><reg>So</reg></choice> great is the diversity of Authors in writing, that the explorators of <pc>-</pc> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
                         <lb/>truth <choice><orig>doe</orig><reg>do</reg></choice> <choice><orig>allmost</orig><reg>almost</reg></choice> <choice><orig>despaire</orig><reg>despair</reg></choice> of finding the end of art: <milestone unit="section" n="e11-02" />for <choice><orig>Allegoricall</orig><reg>Allegorical</reg></choice> speeches
