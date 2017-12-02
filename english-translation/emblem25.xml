@@ -49,7 +49,7 @@
                 <div type="discourse" xml:lang="en">
                     <head rend="italics">Discourse 25.</head>
                     <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                        <lb/>In acquiring the golden fleece the Dragon was first of all to be killed, because<pc>-</pc><milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                        <lb/>In acquiring the golden fleece the Dragon was first of all to be killed, because <pc>-</pc><milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
                         <lb/>the <choice><orig>labour</orig><reg>labor</reg></choice> being attempted by many men, they were overcome by the Dragon <pc>-</pc>
                         <lb/>and <choice><orig>destroyd</orig><reg>destroyed</reg></choice> with deadly <choice><orig>poyson</orig><reg>poison</reg></choice>: the reason was, because they were not sufficiently
                         <lb/>armed against the dragons <choice><orig>poyson</orig><reg>poison</reg></choice>, nor instructed, by what <choice><orig>entrigue</orig><reg>intrigue</reg></choice> <choice><orig>hee</orig><reg>he</reg></choice> <pc>-</pc>
@@ -79,7 +79,7 @@
                         <lb break="no"/>luation of <choice><orig>gemms</orig><reg>gems</reg></choice>: his sight is very acute and clear, and therefore <choice><orig>hee</orig><reg>he</reg></choice> is much
                         <lb/>used for the keeping of treasures, as the apples of the Hesperides, and the gol
                         <lb break="no"/>den fleece at Colchos <choice><orig>aforesayd</orig><reg>aforesaid</reg></choice>: The Ancients <choice><orig>ascribed</orig><reg>ascribed</reg></choice> a dragon to <choice><orig>Æsculapius</orig><reg>Asculapius</reg></choice>
-                        <lb/>as a <choice><orig>Hieroglyphicke</orig><reg>Hieroglypics</reg></choice>: But the Chymists <choice><orig>doe</orig><reg>do</reg></choice> appropriate dragons to their opera
+                        <lb/>as a <choice><orig>Hieroglyphicke</orig><reg>Hieroglyphic</reg></choice>: But the Chymists <choice><orig>doe</orig><reg>do</reg></choice> appropriate dragons to their opera
                         <lb break="no"/>tions, not indeed really, but allegorically: for a dragon, whether <choice><orig>hee</orig><reg>he</reg></choice> be <choice><orig>fixd</orig><reg>fixed</reg></choice> <pc>-</pc>
                         <lb/>or volatile, <choice><orig>allwayes</orig><reg>always</reg></choice> denotes Mercury: for this reason Mercury is to be seen with
                         <lb/>two serpents twisted about his wand (the Dragon being a great Serpent) and <choice><orig>Sa
