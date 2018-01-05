@@ -17,6 +17,7 @@
       </fileDesc>
      <revisionDesc>
         <change when="2017-12-22" who="SJD">Start encoding</change>
+        <change when="2018-01-04" who="SJD">Finish draft</change>
      </revisionDesc>
   </teiHeader>
    
@@ -27,7 +28,7 @@
             <pb n="72"/>
             <head>
                <lb n="1"/><fw type="pageNum" place="top-left">72</fw> FUGA XVI. in 5. suprà.
-               <lb n="2"/>Dieser Löw keine Federn <pc>aber jener hat.</pc>
+               <lb n="2"/>Dieser Löw keine Federn <pc>/</pc>aber jener hat.
             </head>
             
             <div type="fugue">
@@ -54,7 +55,7 @@
             
             <div type="image-caption">
                <head>
-                  <lb n="1"/>Emblema XVI. De Secretis Natur<hi rend="ligature">ae</hi>.<!-- BC: how do we want to handle ligatures? --> <fw type="pageNum" place="top-right">69</fw>
+                  <lb n="1"/>Emblema XVI. De Secretis Natur<hi rend="ligature">ae</hi>.<!-- BC: how do we want to handle ligatures? --> <fw type="pageNum" place="top-right">73</fw>
                   <lb n="2"/>Hic leo, quas plumas non habet, alter habet.
                </head>
                
@@ -139,7 +140,7 @@
                      <lb n="19"/>observandum, apertis oculis. C<hi rend="grave">u</hi>m ver<hi rend="grave">o</hi> post partum Leones obli
                      <lb n="20" break="no"/>quo ingrediantur itinere, ne cubile deprehendatur, ide<hi rend="grave">o</hi> summ<hi rend="circumflex">a</hi> di
                      <lb n="21" break="no"/>ligenti<hi rend="circumflex">a</hi> <g type="ampersand">et</g> cur<hi rend="circumflex">a</hi> inquirendi, eorum<hi rend="acute">q</hi>ue pulli auferendi erunt.
-                     <lb/> <fw type="catchword" place="bottom-right" xml:lang="de">K ii Ein</fw>
+                     <lb/> <fw type="gathering" place="bottom-right">K ii</fw> <fw type="catchword" place="bottom-right" xml:lang="de"> Ein</fw>
                   </ab>                  
             </div>
             
