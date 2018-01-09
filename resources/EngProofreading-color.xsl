@@ -14,7 +14,7 @@
     </xd:doc>
     
 <!-- line break in output file; improves human readability of xml output -->
-<xsl:strip-space elements="*"/>
+<!-- <xsl:strip-space elements="*"/> -->
     <xsl:variable name="newline"><xsl:text> 
 </xsl:text></xsl:variable>
     
