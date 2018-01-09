@@ -18,7 +18,7 @@
     <xsl:variable name="newline"><xsl:text> 
 </xsl:text></xsl:variable>
     
-    <xsl:output method="xml" encoding="UTF-8" indent="yes"/>
+    <xsl:output method="xml" encoding="UTF-8" indent="no"/>
     
     <xsl:template match="/">
         
@@ -103,7 +103,7 @@
         </xsl:choose>      
     </xsl:template>
        
-    <xsl:template match="af:unclear | af:supplied | af:subst | af:add | af:del | af:pc | af:fw">
+    <xsl:template match="af:unclear | af:supplied | af:subst | af:add | af:del | af:fw">
        <span class="{name()}">
            <xsl:apply-templates/>
        </span>
@@ -128,11 +128,16 @@
         </xsl:if>
     </xsl:template>
     
-    <xsl:template match="c">
+    <xsl:template match="af:pc">
         <xsl:choose>
             <xsl:when test="@rend='double-hyphen'">
             <xsl:text>=</xsl:text>
             </xsl:when>
+            <xsl:otherwise>
+                <span class="{name()}">
+                    <xsl:apply-templates/>
+                </span>
+            </xsl:otherwise>
         </xsl:choose>
     </xsl:template>
     
