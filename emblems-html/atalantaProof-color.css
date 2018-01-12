@@ -19,19 +19,23 @@ body{
     font-family: "Garamond", "Georgia", serif;
 }
 
-.epigram {
+.epigram
+{
     text-align: center;
 }
 
-.verse{
-    margin-left: 1.5in;
+
+div.verse {
+    margin-top: -30px;
+    margin-left: 10%;
+    margin-bottom: -30px;
 }
 
 h2{
     color: #b5b5b5;
 }
 
-h3.title{
+h3.title, epigram {
     font-style: oblique;
 }
 
@@ -127,6 +131,10 @@ span.superscript{
 
 span.underline{
     text-decoration: underline;
+}
+
+span.italics{
+    font-style: italic;;
 }
 
 .pc{
