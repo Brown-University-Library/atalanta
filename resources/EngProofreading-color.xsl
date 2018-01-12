@@ -113,6 +113,10 @@
         <span class="underline"><xsl:apply-templates/></span>
     </xsl:template>
     
+    <xsl:template match="af:seg[@rend='italics']">
+        <span class="italics"><xsl:apply-templates/></span>
+    </xsl:template>
+    
     <xsl:template match="af:hi[@rend='superscript']">
         <span class="superscript"><xsl:apply-templates/></span>
     </xsl:template>
