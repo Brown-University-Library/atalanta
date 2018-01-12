@@ -5,6 +5,10 @@
  * HISTORY
  * EM initial styling 2017-03-31
  * EM work on improving styling for proofreading 2017-07-06
+ * EM styling improvements based on Donna's comments 2018-01-12
+ *     * remove vertical spaces before and after verses inside discourses
+ *     * observe italics in spans
+ *     * make title page resemble pages more (center title, try for some vertical space)
  */
 
 @page {
@@ -25,13 +29,21 @@ body{
 }
 
 
-div.verse {
+verse-epigram {
     margin-top: -30px;
     margin-left: 10%;
     margin-bottom: -30px;
 }
 
+verse-discourse {
+    margin-top: -30px;
+    margin-left: 10%;
+    margin-bottom: -30px;
+}
+
+/*  hiding own title. only show what's on the page */
 h2{
+    display: none;
     color: #b5b5b5;
 }
 
@@ -40,8 +52,8 @@ h3.title, epigram {
 }
 
 .pb{
-    display: block;
-    text-align: center;
+    
+    text-align: left;
 }
 
 .pb:before{

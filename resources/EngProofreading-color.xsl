@@ -61,9 +61,18 @@
     </xsl:template>
     
     <xsl:template match="af:lg">
-        <div class="verse">
-        <xsl:apply-templates/>
-        </div>
+        <xsl:choose>
+            <xsl:when test="parent::af:div[@type='epigram']">
+                <div class="verse-epigram">
+                    <xsl:apply-templates/>
+                </div>
+            </xsl:when>
+            <xsl:otherwise>
+                <div class="verse-discourse">
+                    <xsl:apply-templates/>
+                </div>
+            </xsl:otherwise>
+        </xsl:choose>
     </xsl:template>
     
     <xsl:template match="af:l">
