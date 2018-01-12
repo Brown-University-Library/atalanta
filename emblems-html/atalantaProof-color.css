@@ -172,7 +172,6 @@ span.italics{
 
 .fw{
     font-style: italic;
-    display: block;
     text-align:center;
 }
 
