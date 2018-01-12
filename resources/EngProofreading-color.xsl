@@ -98,7 +98,7 @@
     
     <xsl:template match="af:orig">      
         <xsl:choose>
-            <xsl:when test="parent::af:choice"><span class="orig"><xsl:apply-templates/></span></xsl:when>
+            <xsl:when test="parent::af:choice"><span class="orig"><xsl:apply-templates/><xsl:text> </xsl:text></span></xsl:when>
             <xsl:otherwise><span class="orig-solo"><xsl:apply-templates/></span></xsl:otherwise>
         </xsl:choose>      
     </xsl:template>
