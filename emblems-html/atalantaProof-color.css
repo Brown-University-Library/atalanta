@@ -25,20 +25,31 @@ body{
 
 .epigram
 {
+    margin-top: 100px;
     text-align: center;
+    font-style: italic;
 }
 
+.discourse
+{
+    text-align: center;
+    font-style: italic;
+}
 
-verse-epigram {
+.verse-epigram {
+    margin-top: -30px;
+    margin-left: 25%;
+    font-style: italic;
+}
+
+.verse-discourse {
     margin-top: -30px;
     margin-left: 10%;
     margin-bottom: -30px;
 }
 
-verse-discourse {
-    margin-top: -30px;
-    margin-left: 10%;
-    margin-bottom: -30px;
+.ab {
+    margin-top: -40px;
 }
 
 /*  hiding own title. only show what's on the page */
@@ -47,21 +58,27 @@ h2{
     color: #b5b5b5;
 }
 
-h3.title, epigram {
-    font-style: oblique;
+h3.title {
+    
+    margin-top: 100px;
+    text-align: center;
 }
 
 .pb{
-    
+    display: block;
     text-align: left;
+    color: #b5b5b5;
+    margin-top: 50px;
 }
 
 .pb:before{
     content: "––– Page: ";
+    color: #b5b5b5;
 }
 
 .pb:after{
-    content: " –––"
+    content: " –––";
+    color: #b5b5b5;
 }
 
 .milestone{
@@ -146,7 +163,7 @@ span.underline{
 }
 
 span.italics{
-    font-style: italic;;
+    font-style: italic;
 }
 
 .pc{
@@ -156,6 +173,7 @@ span.italics{
 .fw{
     font-style: italic;
     display: block;
+    text-align:center;
 }
 
 .margin-note{
