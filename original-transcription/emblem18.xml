@@ -66,7 +66,7 @@
             <div type="epigram" xml:lang="la">
                <head>Epigramma XVIII.</head>
                <lg>
-                  <lb n="1"/><l>Si wuod agens fuerit natur<hi rend="ligature">ae</hi>, mittit in orbem</l>
+                  <lb n="1"/><l>Si quod agens fuerit natur<hi rend="ligature">ae</hi>, mittit in orbem</l>
                   <lb n="2"/><l>Vires atque suas multiplicare cupit.</l>
                   <lb n="3"/><l>Obiva sic ignis facit ignea cuncta, nec est res,</l>
                   <lb n="4"/><l>Absque sua causa nobile qu<hi rend="ligature">ae</hi> det opus.</l>
@@ -75,7 +75,7 @@
                </lg>
             </div>
             
-            <fw type="gathering" place="bottom-right">:</fw> <fw type="catchword" place="bottom-right">Natur<hi rend="ligature">ae</hi></fw>
+            <fw type="gathering" place="bottom-right">L</fw> <fw type="catchword" place="bottom-right">Natur<hi rend="ligature">ae</hi></fw>
             
             <div type="discourse" xml:lang="la">
                <pb n="82"/>
