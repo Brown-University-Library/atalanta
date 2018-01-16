@@ -36,22 +36,23 @@
     </xsl:template>
     
     <xsl:template match="af:teiHeader"/>
+    
     <xsl:template match="text">
         <xsl:apply-templates/>
     </xsl:template>
     
     <xsl:template match="af:body">
         <xsl:apply-templates/>
-        
     </xsl:template>
+    
     <xsl:template match="af:div[@type='emblem']">
         <h2 class="pageTitle">Atalanta Fugiens: Emblem <xsl:value-of select="@n"/></h2>
         <xsl:apply-templates/>
     </xsl:template>
 
-    <xsl:template match="af:div[@type='title | epigram | discourse']">
-        <h3 class="label"><xsl:value-of select="upper-case(@type)"/></h3>
-        <div class="{name()}">
+    <xsl:template match="af:div[@type='title' or @type='epigram' or @type='discourse']">
+        <div class="{@type}">
+            <!--<h3 class="label"><xsl:value-of select="upper-case(@type)"/></h3>-->
             <xsl:apply-templates/>
         </div>
     </xsl:template>
