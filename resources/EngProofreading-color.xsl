@@ -120,7 +120,13 @@
    </xsl:template>
     
     <xsl:template match="af:seg[@rend='underline']">
-        <span class="underline"><xsl:apply-templates/></span>
+        <xsl:choose>
+            <xsl:when test="@hand">
+                <span class="underline{@hand}"><xsl:apply-templates/></span>
+            </xsl:when>
+            <xsl:otherwise><span class="underline"><xsl:apply-templates/></span></xsl:otherwise>
+        </xsl:choose>
+        
     </xsl:template>
     
     <xsl:template match="af:seg[@rend='italics']">
