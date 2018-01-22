@@ -163,6 +163,10 @@ span.underline{
     text-decoration: underline;
 }
 
+span.underline2{
+    border-bottom: 2px grey solid;
+}
+
 span.italics{
     font-style: italic;
 }
@@ -173,6 +177,7 @@ span.italics{
 
 .fw{
     font-style: italic;
+    display: block;
     text-align:center;
 }
 
