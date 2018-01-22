@@ -190,6 +190,7 @@ span.italics{
     color: #C67171;
     font-weight: bold;
     vertical-align: super;
+    text-decoration: none;
 }
 
 .help{
