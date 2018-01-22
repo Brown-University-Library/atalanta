@@ -30,7 +30,7 @@ body{
     font-style: italic;
 }
 
-.discourse
+h3.discourse
 {
     text-align: center;
     font-style: italic;
@@ -38,7 +38,8 @@ body{
 
 .verse-epigram {
     margin-top: -30px;
-    margin-left: 25%;
+    text-align: left;
+    margin-left: 33%;
     font-style: italic;
 }
 
@@ -189,6 +190,7 @@ span.italics{
     color: #C67171;
     font-weight: bold;
     vertical-align: super;
+    text-decoration: none;
 }
 
 .help{
