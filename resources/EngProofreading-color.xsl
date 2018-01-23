@@ -96,6 +96,15 @@
         <br />
     </xsl:template>
     
+   <!-- <xsl:template match="text()[following-sibling::node()[1][self::af:lb[@break eq 'no']]]">
+         <xsl:value-of select="substring-before(.,' ')"/>
+    </xsl:template>-->
+    
+    <xsl:template match="text()[following-sibling::node()[1][self::af:lb[@break eq 'no']]]">
+        <xsl:value-of select="substring( normalize-space( concat('␠',.)), 2 )"/>
+    </xsl:template>
+    
+    
     <xsl:template match="af:ab">
         <div class="ab">
             <xsl:apply-templates/>
