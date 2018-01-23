@@ -1,0 +1,149 @@
+/*
+ * CSS for Transcription of English translation of Atalanta. Designed mostly for proofreading.
+ * Almost all elements are styled, but often so that they can be proofread.
+ *
+ * HISTORY
+ * EM initial styling 2017-03-31
+ * EM work on improving styling for proofreading 2017-07-06
+ */
+
+ @page {
+     margin-top: 1in;
+ }
+
+ body {
+     width: 75%;
+     margin-left: 1in;
+     margin-right: 1in;
+     line-height: 175%;
+     font-family: "Garamond", "Georgia", serif;
+ }
+ 
+ .epigram {
+     text-align:center;
+ }
+ 
+ .verse {
+  margin-left: 2in;
+ }
+ 
+ h2 {
+     color: #b5b5b5;
+ }
+
+ h3.title {
+    font-style: oblique;
+ }
+
+  .pb {
+      color: #8E8E38;
+  }
+
+  .pb:before {
+      content: " [p. ";
+      color: #8E8E38;
+  }
+
+  .pb:after {
+      content: "] ";
+      color: #8E8E38;
+  }
+
+  .milestone {
+      font-style: italic;
+      color: grey;
+  }
+
+  .milestone:before {
+      content: " [§ ";
+  }
+
+    .milestone:after {
+      content: "] ";
+  }
+
+  .orig {
+  display: none;
+  }
+
+  .orig-solo {
+    color: #536878;
+}
+
+  .reg {
+  color: #595959;
+  }
+  
+ .subst {
+    background-color: #eeeeee;
+    margin-left: 2px;
+  }
+
+  .del {
+      text-decoration: line-through;
+  }
+
+  .add:before {
+      content: "<";
+      color: #8E8E38;
+}
+
+   .add:after {
+      content: ">";
+      color: #8E8E38;
+}
+
+  .unclear {
+      color: green;
+  }
+
+  .unclear:before {
+      content: "[? ";
+  }
+
+  .unclear:after {
+      content: "]";
+  }
+
+  .supplied {
+     color: #595959;
+}
+
+  span.superscript {
+      vertical-align: super;
+  }
+
+  span.underline {
+      text-decoration: underline;
+      font-size: smaller;
+  }
+
+  .fw {
+      /*font-style: italic; */
+      display:  none;
+  }
+  
+  .margin-note {
+  /*
+  position: absolute; 
+   right: 0;
+    */
+  float: right;
+  margin-left: 20px;
+  outline: .5px solid #b5b5b5;
+  top: auto; /* default */
+  width: 175px; 
+  padding-left: 10px;
+  
+}
+
+.note-mark {
+    color: #C67171;
+    font-weight: bold;
+    vertical-align: super;
+}
+
+.help {
+    color: red;
+    
+}
