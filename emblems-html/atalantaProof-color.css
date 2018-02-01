@@ -25,32 +25,20 @@ body{
 
 .epigram
 {
-    margin-top: 100px;
     text-align: center;
-    font-style: italic;
 }
 
-h3.discourse
-{
-    text-align: center;
-    font-style: italic;
-}
 
-.verse-epigram {
-    margin-top: -30px;
-    text-align: left;
-    margin-left: 33%;
-    font-style: italic;
-}
-
-.verse-discourse {
+verse-epigram {
     margin-top: -30px;
     margin-left: 10%;
     margin-bottom: -30px;
 }
 
-.ab {
-    margin-top: -40px;
+verse-discourse {
+    margin-top: -30px;
+    margin-left: 10%;
+    margin-bottom: -30px;
 }
 
 /*  hiding own title. only show what's on the page */
@@ -59,27 +47,21 @@ h2{
     color: #b5b5b5;
 }
 
-h3.title {
-    
-    margin-top: 100px;
-    text-align: center;
+h3.title, epigram {
+    font-style: oblique;
 }
 
 .pb{
-    display: block;
+    
     text-align: left;
-    color: #b5b5b5;
-    margin-top: 50px;
 }
 
 .pb:before{
     content: "––– Page: ";
-    color: #b5b5b5;
 }
 
 .pb:after{
-    content: " –––";
-    color: #b5b5b5;
+    content: " –––"
 }
 
 .milestone{
@@ -128,10 +110,6 @@ h3.title {
     color: #8E8E38;
 }
 
-.unclear{
-    color: green;
-}
-
 .unclear:before{
     content: "[? ";
 }
@@ -163,12 +141,8 @@ span.underline{
     text-decoration: underline;
 }
 
-span.underline2{
-    border-bottom: 2px grey solid;
-}
-
 span.italics{
-    font-style: italic;
+    font-style: italic;;
 }
 
 .pc{
@@ -178,7 +152,6 @@ span.italics{
 .fw{
     font-style: italic;
     display: block;
-    text-align:center;
 }
 
 .margin-note{
@@ -195,7 +168,6 @@ span.italics{
     color: #C67171;
     font-weight: bold;
     vertical-align: super;
-    text-decoration: none;
 }
 
 .help{
