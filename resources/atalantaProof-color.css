@@ -131,7 +131,6 @@ display: none;
     content: ">";
     color: #8E8E38;
 }
-
 span.superscript{
     vertical-align: super;
     font-size: smaller;
@@ -139,6 +138,10 @@ span.superscript{
 
 span.underline{
     text-decoration: underline;
+}
+
+span.underline2{
+    border-bottom: 2px grey solid;
 }
 
 span.italics{
