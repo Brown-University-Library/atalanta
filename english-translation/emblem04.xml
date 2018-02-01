@@ -20,7 +20,7 @@
    <text>
       <body>
          <div type="emblem" n="e04">
-            <pb n="17"/><!-- Page number of the actual manuscript -->
+            <pb n="17"/>
             
             
             <div type="title" xml:lang="en">
@@ -44,7 +44,7 @@
             </div>
             
             
-            <pb n="18"/> <!-- Page number of the actual manuscript -->
+            <pb n="18"/>
             <div type="discourse" xml:lang="en">
                <head rend="italics">Discourse 4.</head>
                <ab> 
@@ -93,7 +93,7 @@
                   
                   
        
-                  <pb n="19"/><fw rend="italics">Discourse 4.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                  <pb n="19"/><fw rend="italics">Discourse 4.</fw>
                   <lb/>nature, which notwithstanding as it <choice><orig>hath</orig><reg>has</reg></choice> of all things the greatest <pc>-</pc>
                   <lb/>similitude and homogeneity of substance, <choice><orig>doth</orig><reg>does</reg></choice> <choice><orig>soe</orig><reg>so</reg></choice> require, where it
                   <lb/>desires a thing to be <choice><orig>joyned</orig><reg>joined</reg></choice> with it: <milestone unit="section" n="e04-14" />But brother and Sister being <choice><orig>joynd</orig><reg>joined</reg></choice>

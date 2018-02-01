@@ -1,4 +1,4 @@
-/*
+g/*
  * CSS for Transcription of English translation of Atalanta. Designed mostly for proofreading.
  * Almost all elements are styled, but often so that they can be proofread.
  *
@@ -127,9 +127,6 @@ h3.title {
     color: #8E8E38;
 }
 
-.unclear{
-    color: green;
-}
 
 .unclear:before{
     content: "[? ";

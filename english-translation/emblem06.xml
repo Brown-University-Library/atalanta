@@ -20,7 +20,7 @@
    <text>
       <body>
          <div type="emblem" n="e06">
-            <pb n="23"/><!-- Page number of the actual manuscript -->
+            <pb n="23"/>
             
             
             <div type="title" xml:lang="en">
@@ -45,7 +45,7 @@
             </div>
             
             
-            <pb n="24"/> <!-- Page number of the actual manuscript -->
+            <pb n="24"/>
             <div type="discourse" xml:lang="en">
                <head rend="italics">Discourse 6.</head>
                <ab> 
@@ -97,7 +97,7 @@
                   <lb/>agriculture in the producing of <choice><orig>corne</orig><reg>corn</reg></choice> to the semination of gold, or generation of
                   
        
-                  <pb n="25"/><fw rend="italics">Discourse 6.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                  <pb n="25"/><fw rend="italics">Discourse 6.</fw>
                   <lb/>the tincture: <milestone unit="section" n="e06-15" />White earth, because sandy, <choice><orig>yeilds</orig><reg>yields</reg></choice> little fruit to the countrymen, by
                   <lb/><choice><orig>whome</orig><reg>whom</reg></choice> that which is <choice><orig>blacke</orig><reg>black</reg></choice> and <choice><orig>fatt</orig><reg>fat</reg></choice> is more desired, <milestone unit="section" n="e06-16" />but the white principally
                   <lb/><choice><orig>conduceth</orig><reg>conduces</reg></choice> to the Philosophers, if it be foliated, that is well <choice><orig>præpared</orig><reg>prepared</reg></choice>, because <pc>-</pc>

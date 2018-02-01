@@ -26,7 +26,7 @@
                 <div type="title" xml:lang="en">
                     <head>
                         <lb/><seg rend="italics">the first <choice><orig>Embleme</orig><reg>Emblem</reg></choice>. Of the Secrets of Nature.</seg>
-                        <lb/><del rend="strikethrough"><unclear reason="illegible">4 chars</unclear> </del>Wind <choice><orig>carryed</orig><reg>carried</reg></choice> him in his belly <pc>- - - -</pc>
+                        <lb/><del rend="strikethrough"><unclear reason="illegible">4 chars</unclear> </del><subst><del><unclear reason="illegible">1 char</unclear></del><add>W</add></subst>ind <choice><orig>carryed</orig><reg>carried</reg></choice> him in his belly <pc>- - - -</pc>
                     </head>
                 </div>
                 
@@ -96,7 +96,7 @@
                         <lb/>Zethe: <milestone unit="section" n="e01-13" />these <choice><orig>Sonns</orig><reg>Sons</reg></choice> of Boreas were (as Orpheus the <choice><orig>Chymicall</orig><reg>Chymical</reg></choice> poet writes)
                         
                         
-                        <pb n="10"/><fw rend="italics">Discourse <choice><orig><seg rend="underline">i</seg></orig><reg>I</reg></choice>.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <pb n="10"/><fw rend="italics">Discourse <choice><orig><seg rend="underline">i</seg></orig><reg>I</reg></choice>.</fw>
                         <lb/>with Jason among the Argonauts to carry away the golden fleece from Col
                         <lb break="no"/>chos: and P<seg rend="underline" hand="2">hineus</seg> the blind Prophet, infested by the <seg rend="underline" hand="2"><choice><orig>Harpyes</orig><reg>Harpies</reg></choice></seg>, could not be<note place="margin" hand="2"><unclear reason="illegible">Black </unclear></note>
                         <lb/>freed, but by the <choice><orig>sayd</orig><reg>said</reg></choice> <choice><orig>Sonns</orig><reg>sons</reg></choice> of Boreas, for which <choice><orig>benefitt</orig><reg>benefit</reg></choice> obtained from <pc>-</pc>
