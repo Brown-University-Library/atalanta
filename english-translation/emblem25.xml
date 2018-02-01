@@ -19,8 +19,8 @@
     
     <text>
         <body>
-            <div type="emblem" n="e25"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
-                <pb n="80"/><!-- Change to page number of the actual manuscript -->
+            <div type="emblem" n="e25">
+                <pb n="80"/>
                 
                 
                 <div type="title" xml:lang="en">
@@ -45,11 +45,11 @@
                 </div>
                 
                 
-                <pb n="81"/><!-- regularized from 8i --> <!-- Change to page number of the actual manuscript -->
+                <pb n="81"/><!-- regularized from 8i --> 
                 <div type="discourse" xml:lang="en">
                     <head rend="italics">Discourse 25.</head>
-                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                        <lb/>In acquiring the golden fleece the Dragon was first of all to be killed, because <pc>-</pc><milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                    <ab> 
+                        <lb/>In acquiring the golden fleece the Dragon was first of all to be killed, because <pc>-</pc><milestone unit="section" n="e03-01" /> 
                         <lb/>the <choice><orig>labour</orig><reg>labor</reg></choice> being attempted by many men, they were overcome by the Dragon <pc>-</pc>
                         <lb/>and <choice><orig>destroyd</orig><reg>destroyed</reg></choice> with deadly <choice><orig>poyson</orig><reg>poison</reg></choice>: the reason was, because they were not sufficiently
                         <lb/>armed against the dragons <choice><orig>poyson</orig><reg>poison</reg></choice>, nor instructed, by what <choice><orig>entrigue</orig><reg>intrigue</reg></choice> <choice><orig>hee</orig><reg>he</reg></choice> <pc>-</pc>
@@ -116,7 +116,7 @@
                         <lb break="no"/>stord</orig><reg>restored</reg></choice> to a dead dragon, and death to a living by course in <choice><orig>Chymicall</orig><reg>Chymical</reg></choice> processes <choice><orig>onely</orig><reg>only</reg></choice>:
                         <lb/>But some man may enquire, where and how the dragon must be taken? <pc>-</pc>
                         <lb/>The Philosophers answer by a verse most concisely,
-                        <quote rend="indent" xml:lang="lat">Dant Rebis montes, dracones, terraꝗ, fontes:</quote>
+                        <quote xml:lang="lat"><lg><l>Dant Rebis montes, dracones, terraꝗ, fontes:</l></lg></quote>
                         <lb/>But you may see Tacitus of the way of taking him, with what care and
                         <lb/>industry many men <choice><orig>watchd</orig><reg>watched</reg></choice> to take a mighty dragon <choice><orig>observd</orig><reg>observed</reg></choice> in Africa,
                         <lb/>and bring him to the <choice><orig>Emperour</orig><reg>Emperor</reg></choice> Tiberius, namely the dragons accusto

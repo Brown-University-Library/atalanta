@@ -19,8 +19,8 @@
     
     <text>
         <body>
-            <div type="emblem" n="e36"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
-                <pb n="113"/><!-- Change to page number of the actual manuscript -->
+            <div type="emblem" n="e36">
+                <pb n="113"/>
                 
                 
                 <div type="title" xml:lang="en">
@@ -45,11 +45,11 @@
                 </div>
                 
                 
-                <pb n="114"/> <!-- Change to page number of the actual manuscript -->
+                <pb n="114"/> 
                 <div type="discourse" xml:lang="en">
                     <head rend="italics">Discourse 36.</head>
-                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                        <lb/>All men, that have but once heard the name and power of the Stone,<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                    <ab> 
+                        <lb/>All men, that have but once heard the name and power of the Stone,<milestone unit="section" n="e03-01" /> 
                         <lb/><choice><orig>unlesse</orig><reg>unless</reg></choice> they be such as are <choice><orig>alltogther</orig><reg>altogether</reg></choice> incredulous, <choice><orig>doe</orig><reg>do</reg></choice> <choice><orig>coḿonly</orig><reg>commonly</reg></choice> <choice><orig>aske</orig><reg>ask</reg></choice> <pc>-</pc>
                         <lb/>where it is to be found, that they may <choice><orig>runne</orig><reg>run</reg></choice> as it were by a straight line
                         <lb/>to it? The Philosophers answer in two places: first, that Adam brought it

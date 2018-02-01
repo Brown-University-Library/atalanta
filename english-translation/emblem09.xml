@@ -19,8 +19,8 @@
     
     <text>
         <body>
-            <div type="emblem" n="e09"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
-                <pb n="32"/><!-- Change to page number of the actual manuscript -->
+            <div type="emblem" n="e09">
+                <pb n="32"/>
                 
                 
                 <div type="title" xml:lang="en">
@@ -45,11 +45,11 @@
                 </div>
                 
                 
-                <pb n="33"/> <!-- Change to page number of the actual manuscript -->
+                <pb n="33"/> 
                 <div type="discourse" xml:lang="en">
                     <head rend="italics">Discourse 9.</head>
-                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                        <lb/><milestone unit="section" n="e09-01" />All things whatsoever <choice><orig>doe</orig><reg>do</reg></choice> grow in length, breadth, and depth, that is, are <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                    <ab> 
+                        <lb/><milestone unit="section" n="e09-01" />All things whatsoever <choice><orig>doe</orig><reg>do</reg></choice> grow in length, breadth, and depth, that is, are 
                         <lb/>propagated, nourished, and augmented to maturity, the same things <choice><orig>doe</orig><reg>do</reg></choice> <choice><orig>all
                         <lb break="no"/>so</orig><reg>also</reg></choice> decrease, that is, are diminished in <choice><orig>facultyes</orig><reg>faculties</reg></choice>, <choice><orig>dye</orig><reg>die</reg></choice>, and are wholly demo
                         <lb break="no"/>lished, as is manifestly evident in all vegetables and <choice><orig>animalls</orig><reg>animals</reg></choice>: <milestone unit="section" n="e09-02" />wherefore man

@@ -19,8 +19,8 @@
     
     <text>
         <body>
-            <div type="emblem" n="e02"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
-                <pb n="11"/><!-- Change to page number of the actual manuscript -->
+            <div type="emblem" n="e02">
+                <pb n="11"/>
                 
                 
                 <div type="title" xml:lang="en">
@@ -45,11 +45,11 @@
                 </div>
                 
                 
-                <pb n="12"/> <!-- Change to page number of the actual manuscript -->
+                <pb n="12"/> 
                 <div type="discourse" xml:lang="en">
                     <head rend="italics">Discourse 2.</head>
-                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                        <lb/><milestone unit="section" n="e02-01" />It is concluded by the <choice><orig>Peripateticks</orig><reg>Peripatetics</reg></choice>, and Orthodox Philosophers, that the <pc>-</pc> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                    <ab> 
+                        <lb/><milestone unit="section" n="e02-01" />It is concluded by the <choice><orig>Peripateticks</orig><reg>Peripatetics</reg></choice>, and Orthodox Philosophers, that the <pc>-</pc> 
                         <lb/>thing nourishing is converted into the substance of the thing nourished, and <pc>-</pc>
                         <lb/>assimilated to it, not indeed before, but after the alteration of it, and that is ac
                         <lb break="no"/>counted an infallible <choice><orig>axiome</orig><reg>axiom</reg></choice>: <milestone unit="section" n="e02-02" />for how would the thing nourishing (which is all

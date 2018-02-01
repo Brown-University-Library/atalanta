@@ -47,7 +47,7 @@
             <pb n="15"/>
             <div type="discourse" xml:lang="en">
                <head rend="italics">Discourse 3.</head>
-               <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
+               <ab> 
                   <lb/><milestone unit="section" n="e03-01" />If <subst><del>some <choice><orig>certaine</orig><reg>certain</reg></choice></del><add>any</add></subst> <choice><orig>impurityes</orig><reg>impurities</reg></choice> happen to <choice><orig>linnen</orig><reg>linen</reg></choice> <choice><orig>cloaths</orig><reg>clothes</reg></choice>, whereby they are spot
                   <lb break="no" />ted and <choice><orig>blacke</orig><reg>black</reg></choice>, as with earthy recrements, they are <choice><orig>washd</orig><reg>washed</reg></choice> away by the next <pc>-</pc>
                   <lb/>Element, namely water, and the <choice><orig>cloaths</orig><reg>clothes</reg></choice> exposed to the <choice><orig>aire</orig><reg>air</reg></choice>, that the moisture <pc>-</pc>

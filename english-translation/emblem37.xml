@@ -19,8 +19,8 @@
     
     <text>
         <body>
-            <div type="emblem" n="e37"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
-                <pb n="116"/><!-- Change to page number of the actual manuscript -->
+            <div type="emblem" n="e37">
+                <pb n="116"/>
                 
                 
                 <div type="title" xml:lang="en">
@@ -46,11 +46,11 @@
                 </div>
                 
                 
-                <pb n="117"/> <!-- Change to page number of the actual manuscript -->
+                <pb n="117"/> 
                 <div type="discourse" xml:lang="en">
                     <head rend="italics">Discourse 37.</head>
-                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                        <lb/>As three <choice><orig>essentiall</orig><reg>essential</reg></choice> things, which are the foundation, walls, and <choice><orig>roofe</orig><reg>roof</reg></choice>, are<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                    <ab> 
+                        <lb/>As three <choice><orig>essentiall</orig><reg>essential</reg></choice> things, which are the foundation, walls, and <choice><orig>roofe</orig><reg>roof</reg></choice>, are<milestone unit="section" n="e03-01" /> 
                         <lb/>required to the building of every <choice><orig>ædifice</orig><reg>edifice</reg></choice>, whereof one being absent, there
                         <lb/>can be <choice><orig>noe</orig><reg>no</reg></choice> perfection of it, <choice><orig>soe</orig><reg>so</reg></choice> are <choice><orig>soe</orig><reg>so</reg></choice> many desired in order to <pc>-</pc>
                         <lb/>complete the Philosophers compound, which are here named by their

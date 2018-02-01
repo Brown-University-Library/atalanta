@@ -19,8 +19,8 @@
     
     <text>
         <body>
-            <div type="emblem" n="e33"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
-                <pb n="104"/><!-- Change to page number of the actual manuscript -->
+            <div type="emblem" n="e33">
+                <pb n="104"/>
                 
                 
                 <div type="title" xml:lang="en">
@@ -44,11 +44,11 @@
                 </div>
                 
                 
-                <pb n="105"/> <!-- Change to page number of the actual manuscript -->
+                <pb n="105"/> 
                 <div type="discourse" xml:lang="en">
                     <head rend="italics">Discourse 33.</head>
-                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                        <lb/>It is one of the secrets of Nature, that in the cold winter <choice><orig>Froggs</orig><reg>Frogs</reg></choice> and <pc>-</pc><milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                    <ab> 
+                        <lb/>It is one of the secrets of Nature, that in the cold winter <choice><orig>Froggs</orig><reg>Frogs</reg></choice> and <pc>-</pc><milestone unit="section" n="e03-01" /> 
                         <lb/>Horse<pc rend="double-hyphen">-</pc>leeches <choice><orig>lye</orig><reg>lie</reg></choice> as it were dead under water, and in the Spring new <pc>-</pc>
                         <lb/>heat of the <choice><orig>Sunne</orig><reg>Sun</reg></choice> operating recover sense and motion, or <choice><orig>performe</orig><reg>perform</reg></choice> <pc>-</pc>
                         <lb/>the actions of a <choice><orig>sensitiue</orig><reg>sensitive</reg></choice> life: But if they be found in the waters <pc>-</pc>

@@ -19,8 +19,8 @@
     
     <text>
         <body>
-            <div type="emblem" n="e10"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
-                <pb n="35"/><!-- Change to page number of the actual manuscript -->
+            <div type="emblem" n="e10">
+                <pb n="35"/>
                 
                 
                 <div type="title" xml:lang="en">
@@ -44,11 +44,11 @@
                 </div>
                 
                 
-                <pb n="36"/> <!-- Change to page number of the actual manuscript -->
+                <pb n="36"/> 
                 <div type="discourse" xml:lang="en">
                     <head rend="italics">Discourse 10.</head>
-                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                        <lb/><milestone unit="section" n="e10-01" />If this saying be taken literally, it <choice><orig>onely</orig><reg>only</reg></choice> <choice><orig>increaseth</orig><reg>increases</reg></choice> the quality of fire and Mer <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                    <ab> 
+                        <lb/><milestone unit="section" n="e10-01" />If this saying be taken literally, it <choice><orig>onely</orig><reg>only</reg></choice> <choice><orig>increaseth</orig><reg>increases</reg></choice> the quality of fire and Mer 
                         <lb break="no"/>cury, and <choice><orig>introduceth</orig><reg>introduces</reg></choice> <choice><orig>noe</orig><reg>no</reg></choice> new quality in the subject: for every like being added
                         <lb/>to its like makes a similar augmentation: <milestone unit="section" n="e10-02" />and therefore <choice><orig>Physitians</orig><reg>Physicians</reg></choice> <choice><orig>affirme</orig><reg>affirm</reg></choice> <pc>-</pc>
                         <lb/>that contrary diseases are cured and taken away by contrary medicines, <pc>-</pc>

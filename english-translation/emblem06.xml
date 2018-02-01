@@ -19,7 +19,7 @@
    
    <text>
       <body>
-         <div type="emblem" n="e06"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
+         <div type="emblem" n="e06">
             <pb n="23"/><!-- Page number of the actual manuscript -->
             
             
@@ -48,7 +48,7 @@
             <pb n="24"/> <!-- Page number of the actual manuscript -->
             <div type="discourse" xml:lang="en">
                <head rend="italics">Discourse 6.</head>
-               <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
+               <ab> 
                   <lb/><milestone unit="section" n="e06-01" />A City <choice><orig>sayth</orig><reg>says</reg></choice> Plato subsists not by <choice><orig>Physitian</orig><reg>Physician</reg></choice> and <choice><orig>Physitian</orig><reg>Physician</reg></choice>, but by <choice><orig>Physitian</orig><reg>Physician</reg></choice> and
                   <lb/>husbandman, that is, men of <choice><orig>divers</orig><reg>diverse</reg></choice> functions, but <choice><orig>hee</orig><reg>he</reg></choice> mentions the Husbandman
                   <lb/>and <choice><orig>Physitian</orig><reg>Physician</reg></choice> first, because their works are very conspicuous in the imitation, <pc>-</pc>

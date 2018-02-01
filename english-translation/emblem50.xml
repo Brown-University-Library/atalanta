@@ -19,8 +19,8 @@
     
     <text>
         <body>
-            <div type="emblem" n="e50"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
-                <pb n="155"/><!-- Change to page number of the actual manuscript -->
+            <div type="emblem" n="e50">
+                <pb n="155"/>
                 
                 
                 <div type="title" xml:lang="en">
@@ -45,11 +45,11 @@
                 </div>
                 
                 
-                <pb n="156"/> <!-- Change to page number of the actual manuscript -->
+                <pb n="156"/> 
                 <div type="discourse" xml:lang="en">
                     <head rend="italics">Discourse 50.</head>
-                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                        <lb/><milestone unit="section" n="e50-01" />The mansion of Dragons is in caverns of the earth, but the residence <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                    <ab> 
+                        <lb/><milestone unit="section" n="e50-01" />The mansion of Dragons is in caverns of the earth, but the residence 
                         <lb/>of men above the earth in the <choice><orig>iḿediate</orig><reg>immediate</reg></choice> <choice><orig>aire</orig><reg>air</reg></choice>; which two Elements
                         <lb/>are contrary, and appointed by the Philosophers to be <choice><orig>joynd</orig><reg>joined</reg></choice> together,
                         <lb/>that one may act upon the other: <milestone unit="section" n="e50-02" />But by the woman others <choice><orig>meane</orig><reg>mean</reg></choice>, as

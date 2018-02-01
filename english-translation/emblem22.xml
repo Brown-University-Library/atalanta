@@ -19,8 +19,8 @@
     
     <text>
         <body>
-            <div type="emblem" n="e22"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
-                <pb n="71"/><!-- Change to page number of the actual manuscript -->
+            <div type="emblem" n="e22">
+                <pb n="71"/>
                 
                 
                 <div type="title" xml:lang="en">
@@ -44,11 +44,11 @@
                 </div>
                 
                 
-                <pb n="72"/> <!-- Change to page number of the actual manuscript -->
+                <pb n="72"/> 
                 <div type="discourse" xml:lang="en">
                     <head rend="italics">Discourse 22.</head>
-                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                        <lb/>As <choice><orig>Mercuriall</orig><reg>Mercurial</reg></choice> Statues are <choice><orig>coḿonly</orig><reg>commonly</reg></choice> placed in roads where three <choice><orig>wayes</orig><reg>ways</reg></choice> meet, to<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                    <ab> 
+                        <lb/>As <choice><orig>Mercuriall</orig><reg>Mercurial</reg></choice> Statues are <choice><orig>coḿonly</orig><reg>commonly</reg></choice> placed in roads where three <choice><orig>wayes</orig><reg>ways</reg></choice> meet, to<milestone unit="section" n="e03-01" /> 
                         <lb break="no"/>gether with a title and inscription, to guide <choice><orig>doubtfull</orig><reg>doubtful</reg></choice> travellers into the right
                         <lb/>way, <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> are <choice><orig>certaine</orig><reg>certain</reg></choice> acute sentences inferred in many of their books
                         <lb/>and <choice><orig>volums</orig><reg>volumes</reg></choice> of the Philosophers, here and there <choice><orig>allegoricall</orig><reg>allegorical</reg></choice> and dubious, that

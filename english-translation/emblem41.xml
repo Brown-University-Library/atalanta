@@ -19,8 +19,8 @@
     
     <text>
         <body>
-            <div type="emblem" n="e41"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
-                <pb n="128"/><!-- Change to page number of the actual manuscript -->
+            <div type="emblem" n="e41">
+                <pb n="128"/>
                 
                 
                 <div type="title" xml:lang="en">
@@ -45,11 +45,11 @@
                 </div>
                 
                 
-                <pb n="129"/> <!-- Change to page number of the actual manuscript -->
+                <pb n="129"/> 
                 <div type="discourse" xml:lang="en">
                     <head rend="italics">Discourse 4i.</head>
-                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                        <lb/>How improperly some of the Mythologists resolve the Allegory of <pc>-</pc><milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                    <ab> 
+                        <lb/>How improperly some of the Mythologists resolve the Allegory of <pc>-</pc><milestone unit="section" n="e03-01" /> 
                         <lb/>Adonis, and ascribe him sometimes to the <choice><orig>Sunne</orig><reg>Sun</reg></choice>, the <choice><orig>Boare</orig><reg>Boar</reg></choice>, by which
                         <lb/><choice><orig>hee</orig><reg>he</reg></choice> was <choice><orig>slayne</orig><reg>slain</reg></choice>, to a hard winter, sometimes to the seed of wheat, <pc>-</pc>
                         <lb/>which is six <choice><orig>moneths</orig><reg>months</reg></choice> with Proserpina under the earth, and as many
@@ -58,8 +58,8 @@
                         <lb/><choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> <choice><orig>Sunne</orig><reg>Sun</reg></choice> to be meant by Adonis: From whence the Versicle:
                         <quote rend="indent">
                             <lg xml:lang="lat">
-                                <l>Omnia sunt idem, Dionysus, Sol, et Adonis:</l>
-                                <l>And Orpheus:<pc>------</pc>Qui vario lætaris nomine Adoni,</l>
+                                <l>Omnia sunt idem, Dionysus, Sol, et Adonis:</l></lg>
+                            And Orpheus:<pc>------</pc><lg xml:lang="lat"><l>Qui vario lætaris nomine Adoni,</l>
                                 <l>Germinum et idem author, pariter puer atꝗ puella.</l>
                             </lg>
                         </quote>

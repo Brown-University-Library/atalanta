@@ -19,8 +19,8 @@
     
     <text>
         <body>
-            <div type="emblem" n="e01"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
-                <pb n="8"/><!-- Change to page number of the actual manuscript -->
+            <div type="emblem" n="e01">
+                <pb n="8"/>
                 
                 
                 <div type="title" xml:lang="en">
@@ -44,11 +44,11 @@
                 </div>
                 
                 
-                <pb n="9"/> <!-- Change to page number of the actual manuscript -->
+                <pb n="9"/> 
                 <div type="discourse" xml:lang="en">
                     <head rend="italics">Discourse i.</head><note place="margin" hand="1">D Powell 1821</note>
-                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                        <lb/><milestone unit="section" n="e01-01" />Hermes the most industrious inquisitor into every <choice><orig>naturall</orig><reg>natural</reg></choice> secret doth<!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                    <ab> 
+                        <lb/><milestone unit="section" n="e01-01" />Hermes the most industrious inquisitor into every <choice><orig>naturall</orig><reg>natural</reg></choice> secret doth
                         <lb/>in his Smaragdine table elegantly, though concisely, describe the <choice><orig>naturalle</orig><reg>natural</reg></choice> <pc>-</pc>
                         <lb/><choice><orig>worke</orig><reg>work</reg></choice>, where amongst other things <choice><orig>hee</orig><reg>he</reg></choice> sayth: the wind <choice><orig>carrys</orig><reg>carries</reg></choice> him in his <pc>-</pc>
                         <lb/>belly: as if <choice><orig>hee</orig><reg>he</reg></choice> should say, <choice><orig>H<seg rend="underline" hand="2">ee</seg></orig><reg>H<seg rend="underline" hand="2">e</seg></reg></choice>, who<seg rend="underline" hand="2">se father</seg> is <seg rend="underline" hand="2">Sol,</seg> and mo<seg rend="underline" hand="2">ther</seg> L<seg rend="underline" hand="2">una</seg>, <pc>-</pc>

@@ -19,8 +19,8 @@
     
     <text>
         <body>
-            <div type="emblem" n="e21"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
-                <pb n="68"/><!-- Change to page number of the actual manuscript -->
+            <div type="emblem" n="e21">
+                <pb n="68"/>
                 
                 
                 <div type="title" xml:lang="en">
@@ -45,11 +45,11 @@
                 </div>
                 
                 
-                <pb n="69"/> <!-- Change to page number of the actual manuscript -->
+                <pb n="69"/> 
                 <div type="discourse" xml:lang="en">
                     <head rend="italics">Discourse 21.</head>
-                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                        <lb/>It is the doctrine of that <seg rend="underline" hand="2">most famous Philosopher Plato th</seg>at knowledge is as<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                    <ab> 
+                        <lb/>It is the doctrine of that <seg rend="underline" hand="2">most famous Philosopher Plato th</seg>at knowledge is as<milestone unit="section" n="e03-01" /> 
                         <lb/>it were actually engraven and imprinted in the mind of man, which is as the
                         <lb/>foundation of all arts and Sciences, by the remembrance and repetition of <pc>-</pc>
                         <lb/>which all learning may be <choice><orig>knowne</orig><reg>known</reg></choice> and apprehended by any man; which <pc>-</pc>

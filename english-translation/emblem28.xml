@@ -19,8 +19,8 @@
     
     <text>
         <body>
-            <div type="emblem" n="e28"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
-                <pb n="89"/><!-- Change to page number of the actual manuscript -->
+            <div type="emblem" n="e28">
+                <pb n="89"/>
                 
                 
                 <div type="title" xml:lang="en">
@@ -45,11 +45,11 @@
                 </div>
                 
                 
-                <pb n="90"/> <!-- Change to page number of the actual manuscript -->
+                <pb n="90"/> 
                 <div type="discourse" xml:lang="en">
                     <head rend="italics">Discourse 3.</head>
-                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                        <lb/>As there are three concoctions in man, the first in the <choice><orig>Stomacke</orig><reg>Stomach</reg></choice>, the second<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                    <ab> 
+                        <lb/>As there are three concoctions in man, the first in the <choice><orig>Stomacke</orig><reg>Stomach</reg></choice>, the second<milestone unit="section" n="e03-01" /> 
                         <lb/>in the Liver, the third in the veins, <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> <choice><orig>soe</orig><reg>so</reg></choice> many are the <choice><orig>universall</orig><reg>universal</reg></choice> <pc>-</pc>
                         <lb/>evacuations of the excrements, which are correspondent to them, and daily
                         <lb/>carry <choice><orig>of</orig><reg>off</reg></choice> their <choice><orig>superfluityes</orig><reg>superfluities</reg></choice>, namely the first by <choice><orig>Stoole</orig><reg>Stool</reg></choice>, which is proper to

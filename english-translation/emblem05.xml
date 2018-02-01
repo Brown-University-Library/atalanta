@@ -19,8 +19,8 @@
     
     <text>
         <body>
-            <div type="emblem" n="e05"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
-                <pb n="20"/><!-- Change to page number of the actual manuscript -->
+            <div type="emblem" n="e05">
+                <pb n="20"/>
                 
                 
                 <div type="title" xml:lang="en">
@@ -46,11 +46,11 @@
                 </div>
                 
                 
-                <pb n="21"/> <!-- Change to page number of the actual manuscript -->
+                <pb n="21"/> 
                 <div type="discourse" xml:lang="en">
                     <head rend="italics">Discourse 5.</head>
-                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                        <lb/><milestone unit="section" n="e05-01" />The whole troop of <del>the</del> Philosophers <choice><orig>doe</orig><reg>do</reg></choice> herein consent, that their <choice><orig>worke</orig><reg>work</reg></choice> is <pc>-</pc> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                    <ab> 
+                        <lb/><milestone unit="section" n="e05-01" />The whole troop of <del>the</del> Philosophers <choice><orig>doe</orig><reg>do</reg></choice> herein consent, that their <choice><orig>worke</orig><reg>work</reg></choice> is <pc>-</pc> 
                         <lb/>nothing <choice><orig>els</orig><reg>else</reg></choice>, but man and wife: the mans part is indeed to generate, and <choice><orig>governe</orig><reg>govern</reg></choice> <pc>-</pc>
                         <lb/>the wife, hers to conceive, be <choice><orig>imprægnated</orig><reg>impregnated</reg></choice>, bring forth, give <choice><orig>sucke</orig><reg>suck</reg></choice>, and educate
                         <lb/>the offspring, and be subject to the mans <choice><orig>coḿand</orig><reg>command</reg></choice>: <milestone unit="section" n="e05-02" />for as <choice><orig>Shee</orig><reg>She</reg></choice> <choice><orig>sustaines</orig><reg>sustains</reg></choice> and <pc>-</pc>
