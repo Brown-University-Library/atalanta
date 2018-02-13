@@ -19,24 +19,24 @@
     
     <text>
         <body>
-            <div type="emblem" n="e24"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
-                <pb n="77"/><!-- Change to page number of the actual manuscript -->
+            <div type="emblem" n="e24">
+                <pb n="77"/>
                 
                 
                 <div type="title" xml:lang="en">
                     <head>
-                        <lb/><orig>Embleme</orig> 24. Of the Secrets of Nature.
-                        <lb/>A <orig>wolfe</orig> devoured the King, and being burned restored him to life <seg>againe</seg>.
+                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 24. Of the Secrets of Nature.
+                        <lb/>A <choice><orig>wolfe</orig><reg>wolf</reg></choice> devoured the King, and being burned restored him to life <choice><orig>againe</orig><reg>again</reg></choice>.</seg>
                     </head>
                 </div>
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head><orig>Epigramme</orig> 24.</head>
+                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 24.</head>
                     <lg>
-                        <l>Take the rapacious <seg rend="underline"><orig>wolfe</orig></seg>, and let him feast</l>
-                        <l>His hungry <choice><orig>stomacke</orig><reg>stomach</reg></choice> on the <seg rend="underline">King <choice><orig>deceasd</orig><reg>deceased</reg></choice></seg>:</l>
-                        <l>Let <seg rend="underline">Vulcan</seg> then blow up a fire, that <orig>hee</orig></l>
+                        <l>Take the rapacious <seg rend="underline" hand="2"><choice><orig>wolfe</orig><reg>wolf</reg></choice></seg>, and let him feast</l>
+                        <l>His hungry <choice><orig>stomacke</orig><reg>stomach</reg></choice> on the <seg rend="underline" hand="2">King <choice><orig>deceasd</orig><reg>deceased</reg></choice></seg>:</l>
+                        <l>Let <seg rend="underline" hand="2">Vulcan</seg> then blow up a fire, that <choice><orig>hee</orig><reg>he</reg></choice></l>
                         <l>By <choice><orig>th'</orig><reg>the</reg></choice> flames to ashes may reduced be;</l>
                         <l>Repeat this method, which at length will bring</l>
                         <l>Life and a <choice><orig>Lyons</orig><reg>Lions</reg></choice> courage to the King.</l>
@@ -44,88 +44,88 @@
                 </div>
                 
                 
-                <pb n="78"/> <!-- Change to page number of the actual manuscript -->
+                <pb n="78"/> 
                 <div type="discourse" xml:lang="en">
-                    <head>Discourse 24.</head>
-                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                        <lb/>It is a thing <orig>comonly</orig> <orig>knowne</orig>, how great the hunger and voracity of a <orig>wolfe</orig> is:<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
-                        <note place="margin"><unclear reason="illegible">math the dxojo ancoction hungry</unclear></note><lb/>for when <orig>hee</orig> wants food, <seg rend="underline">in extreme hunger <orig>hee</orig> feeds upon the earth:</seg> which
-                        <lb/><orig>allso</orig> <orig>hee</orig> is <orig>sayd</orig> to disgorge, if <orig>hee</orig> come amongst great heards of beasts, that
-                        <lb/>being made more heavy with that <choice><orig>packe</orig><reg>pack</reg></choice> as it were, <orig>hee</orig> cannot be <orig>soe</orig> easily
+                    <head rend="italics">Discourse 24.</head>
+                    <ab> 
+                        <lb/>It is a thing <choice><orig>coḿonly</orig><reg>commonly</reg></choice> <choice><orig>knowne</orig><reg>known</reg></choice>, how great the hunger and voracity of a <choice><orig>wolfe</orig><reg>wolf</reg></choice> is:<milestone unit="section" n="e03-01" /> 
+                        <note place="margin" hand="2">neither the <g>℞</g> of <g>♁</g>, <pc>. . .</pc><lb/>nor<lb/><g>♂</g> are so extreme hungry</note><lb/>for when <choice><orig>hee</orig><reg>he</reg></choice> wants food, <seg rend="underline" hand="2">in extreme hunger</seg> <seg rend="underline" hand="2"><choice><orig>hee</orig><reg>he</reg></choice> feeds upon the earth:</seg> which
+                        <lb/><choice><orig>allso</orig><reg>also</reg></choice> <choice><orig>hee</orig><reg>he</reg></choice> is <choice><orig>sayd</orig><reg>said</reg></choice> to disgorge, if <choice><orig>hee</orig><reg>he</reg></choice> come amongst great heards of beasts, that
+                        <lb/>being made more heavy with that <choice><orig>packe</orig><reg>pack</reg></choice> as it were, <choice><orig>hee</orig><reg>he</reg></choice> cannot be <choice><orig>soe</orig><reg>so</reg></choice> easily
                         <lb/><choice><orig>Shak'd</orig><reg>Shaked</reg></choice> off, but resists more strongly and furiously. Having <choice><orig>entred</orig><reg>entered</reg></choice> into the
-                        <lb/>folds, <orig>hee</orig> not <orig>onely</orig> kills what is sufficient for his belly, but <orig>allso</orig> through
-                        <lb/><choice><orig>greedinesse</orig><reg>greediness</reg></choice> <choice><orig>destroyes</orig><reg>destroys</reg></choice> the whole <choice><orig>flocke</orig><reg>flock</reg></choice> on every side. <orig>Hee</orig> is consecrated to
-                        <lb/>Apollo and Latona, because <orig>hee</orig> stood by her when <orig>shee</orig> was in <orig>labour</orig>: for
-                        <lb/>neither could Latona have been delivered without the <orig>præsence</orig> of the
-                        <lb/><orig>wolfe</orig>: and therefore the <orig>wolfe</orig> is not without reason reported to be accep
-                        <lb break="no"/>table to Apollo, whose birth: day <orig>hee</orig> celebrated; as <orig>allso</orig> because <seg rend="underline">his eyes</seg><pc>-</pc>
-                        <lb/><seg rend="underline"><orig>doe</orig> shine and cast forth light by night. The <choice><orig>breathlesse</orig><reg>breathless</reg></choice> body of the<pc>-</pc>
-                        <lb/>King is cast to him being extreme hungry</seg>, not to the end that <orig>hee</orig> should
-                        <lb/><orig>wholy</orig> consume and annihilate it, but to restore life and strength to it
-                        <lb/>by his <orig>owne</orig> death: For there is I know not what <seg rend="underline">amatory virtue</seg> in the<pc>-</pc>
-                        <lb/><seg rend="underline"><orig>wolfes</orig> <orig>tayle</orig></seg>, which <seg rend="underline">is infused into the King being <orig>halfe</orig> dead,</seg> which makes
-                        <lb/>him very <choice><orig>desireable</orig><reg>desirable</reg></choice> to all men, <orig>hee</orig> restoring pristine health and beauty:<pc>-</pc>
-                        <lb/>The Hyrcanians brought up <orig>doggs</orig> for <orig>noe</orig> other use, than to <choice><orig>devoure</orig><reg>devour</reg></choice> the
-                        <lb/><orig>bodyes</orig> of dead men cast to them, as Cicero relates: <orig>Soe</orig> <orig>allso</orig> the Massage
-                        <lb break="no"/>tæ <orig>doe</orig> give men that <orig>dye</orig> of diseases as prey to <orig>doggs</orig>: But the Phi
-                        <lb break="no"/>losophers <seg rend="underline">expose their King to a <orig>wolfe</orig></seg> nor indeed did the <choice><orig>custome</orig><reg>custom</reg></choice> of the
+                        <lb/>folds, <choice><orig>hee</orig><reg>he</reg></choice> not <choice><orig>onely</orig><reg>only</reg></choice> kills what is sufficient for his belly, but <choice><orig>allso</orig><reg>also</reg></choice> through
+                        <lb/><choice><orig>greedinesse</orig><reg>greediness</reg></choice> <choice><orig>destroyes</orig><reg>destroys</reg></choice> the whole <choice><orig>flocke</orig><reg>flock</reg></choice> on every side. <choice><orig>Hee</orig><reg>He</reg></choice> is consecrated to
+                        <lb/>Apollo and Latona, because <choice><orig>hee</orig><reg>he</reg></choice> stood by her when <choice><orig>shee</orig><reg>she</reg></choice> was in <choice><orig>labour</orig><reg>labor</reg></choice>: for
+                        <lb/>neither could Latona have been delivered without the <choice><orig>præsence</orig><reg>presence</reg></choice> of the
+                        <lb/><choice><orig>wolfe</orig><reg>wolf</reg></choice>: and therefore the <choice><orig>wolfe</orig><reg>wolf</reg></choice> is not without reason reported to be accep
+                        <lb break="no"/>table to Apollo, whose birth<pc rend="double-hyphen">-</pc>day <choice><orig>hee</orig><reg>he</reg></choice> celebrated; as <choice><orig>allso</orig><reg>also</reg></choice> because <seg rend="underline" hand="2">his eyes</seg> <pc>-</pc>
+                        <lb/><seg rend="underline" hand="2"><choice><orig>doe</orig><reg>do</reg></choice> shine and cast forth light by night.</seg> Th<seg rend="underline" hand="2">e <choice><orig>breathlesse</orig><reg>breathless</reg></choice> body of the</seg> <pc>-</pc>
+                        <lb/><seg rend="underline" hand="2">King is cast to him be</seg>ing e<seg rend="underline" hand="2">xtreme hungry</seg>, not to the end that <choice><orig>hee</orig><reg>he</reg></choice> should
+                        <lb/><choice><orig>wholy</orig><reg>wholly</reg></choice> consume and annihilate it, but to restore life and strength to it
+                        <lb/>by his <choice><orig>owne</orig><reg>own</reg></choice> death: For there is I know not what <seg rend="underline" hand="2">amatory virtue</seg> in the <pc>-</pc>
+                        <lb/><seg rend="underline" hand="2"><choice><orig>wolfe's</orig><reg>wolves'</reg></choice> <choice><orig>tayle</orig><reg>tail</reg></choice></seg>, whi<seg rend="underline" hand="2">ch is infused</seg> <seg rend="underline" hand="2">into the King being <choice><orig>halfe</orig><reg>half</reg></choice> dead,</seg> which makes
+                        <lb/>him very <choice><orig>desireable</orig><reg>desirable</reg></choice> to all men, <choice><orig>hee</orig><reg>he</reg></choice> restoring pristine health and beauty: <pc>-</pc>
+                        <lb/>The Hyrcanians brought up <choice><orig>doggs</orig><reg>dogs</reg></choice> for <choice><orig>noe</orig><reg>no</reg></choice> other use, than to <choice><orig>devoure</orig><reg>devour</reg></choice> the
+                        <lb/><choice><orig>bodyes</orig><reg>bodies</reg></choice> of dead men cast to them, as Cicero relates: <choice><orig>Soe</orig><reg>So</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> the Massage
+                        <lb break="no"/>tæ <choice><orig>doe</orig><reg>do</reg></choice> give men that <choice><orig>dye</orig><reg>die</reg></choice> of diseases as prey to <choice><orig>doggs</orig><reg>dogs</reg></choice>: But the Phi
+                        <lb break="no"/>losophers ex<seg rend="underline" hand="2">pose their King to a <choice><orig>wolfe</orig><reg>wolf</reg></choice></seg> nor indeed did the <choice><orig>custome</orig><reg>custom</reg></choice> of the
                         <lb/><choice><orig>Sabæans</orig><reg>Sabeans</reg></choice> please them, in carrying out the <choice><orig>corps</orig><reg>corpses</reg></choice> of the deceased after the
-                        <lb/>same manner as dung, who <orig>allso</orig> threw their Kings amongst dung hills,<pc>-</pc>
-                        <lb/>nor of the Troglodytes, who <choice><orig>ty'd</orig><reg>tied</reg></choice> the <choice><orig>necke</orig><reg>neck</reg></choice> of a dead man to their feet,<pc>-</pc>
+                        <lb/>same manner as dung, who <choice><orig>allso</orig><reg>also</reg></choice> threw their Kings amongst dung hills, <pc>-</pc>
+                        <lb/>nor of the Troglodytes, who <choice><orig>ty'd</orig><reg>tied</reg></choice> the <choice><orig>necke</orig><reg>neck</reg></choice> of a dead man to their feet, <pc>-</pc>
                         <lb/>and <choice><orig>hurryd</orig><reg>hurried</reg></choice> him along with jests and laughter, and without any consi
-                        <lb break="no"/>deration of the place <orig>buryd</orig> him: But they had rather herein follow the
-                        <lb/><orig>custome</orig> of the Magi, who <seg rend="underline">did not bury their <orig>bodyes</orig>, before they were<pc>-</pc>
-                        <lb/><orig>torne</orig> to <choice><orig>peices</orig><reg>pieces</reg></choice> by wild beasts:</seg> Or of the Indians, who caused themselves
-                        <lb/>to be <orig>buryd</orig> alive, with Crowns on Singing, the <choice><orig>prayses</orig><reg>praises</reg></choice> of the Gods, lest old
-                        <lb/>age should <orig>prævent</orig>. but this <orig>custome</orig> was fatally <choice><orig>imposd</orig><reg>imposed</reg></choice> upon them all without
-                        <lb/>any hope of resurrection, or renovation of life: the Philosophers determine<pc>-</pc>
-                        <lb/><choice><orig>farre</orig><reg>far</reg></choice> otherwise: for they have most <orig>certaine</orig> knowledge, <seg rend="underline">that their dead King<pc>-</pc>
-                        <lb/>devoured by the <orig>wolfe</orig> will appear with life, strength, and youth, and the<pc>-</pc>
-                        <lb/><orig>wolfe</orig> must be burned in his stead:</seg> For the <orig>wolfe</orig> may easily be put to death,
-                        <lb/>if <orig>hee</orig> <orig>hath</orig> <orig>soe</orig> gorged his belly, <seg rend="underline">but the King, though dead, <orig>hath</orig> notwith
-                        <lb break="no"/>standing a <choice><orig>Martiall</orig><reg>Martial</reg></choice> or Swan=like virtue <orig>soe</orig> as not to be wounded nor con
-                        <lb break="no"/>sumed: But where must this <orig>wolfe</orig> be sought for, and from whence must
-                        <lb/>the King be had?</seg> The Philosophers answer, <seg rend="underline">that the <orig>wolfe</orig> wanders every
-                        <lb/>where in mountains and <choice><orig>vallyes</orig><reg>valleys</reg></choice>, to take his prey,</seg> who must be <orig>drawne</orig> out
-                        <lb/><seg rend="underline">of his harbours</seg>, and <seg rend="underline">præservd for use: The King allso coming from the<pc>-</pc>
-                        <lb/>East <choice><orig>wearyed</orig><reg>wearied</reg></choice> with a long and <choice><orig>tædious</orig><reg>tedious</reg></choice> journey at length falls <orig>downe</orig>, whose</seg>
-                        <lb/>death <orig>allso</orig> <choice><orig>greife</orig><reg>grief</reg></choice> accelerates, seeing <orig>himselfe</orig> <seg rend="underline">in <orig>noe</orig> <orig>honour</orig></seg>, and <seg rend="underline"><orig>soe</orig><pc>-</pc>
-                        <lb/>little <choice><orig>esteemd</orig><reg>esteemed</reg></choice></seg> amongst strangers and <choice><orig>forreigners</orig><reg>foreigners</reg></choice>, as to be sold into servi
+                        <lb break="no"/>deration of the place <choice><orig>buryd</orig><reg>buried</reg></choice> him: But they had rather herein follow the
+                        <lb/><choice><orig>custome</orig><reg>custom</reg></choice> of the Magi, <seg rend="underline" hand="2">who</seg> <seg rend="underline" hand="2">did not bury their <choice><orig>bodyes</orig><reg>bodies</reg></choice></seg>, be<seg rend="underline" hand="2">fore they were</seg> <pc>-</pc>
+                        <lb/><seg rend="underline" hand="2"><choice><orig>torne</orig><reg>torn</reg></choice> to <choice><orig>peices</orig><reg>pieces</reg></choice> by wild beasts:</seg> Or of the Indians, who caused themselves
+                        <lb/>to be <choice><orig>buryd</orig><reg>buried</reg></choice> alive, with Crowns on Singing, the <choice><orig>prayses</orig><reg>praises</reg></choice> of the Gods, lest old
+                        <lb/>age should <choice><orig>prævent</orig><reg>prevent</reg></choice>. but this <choice><orig>custome</orig><reg>custom</reg></choice> was fatally <choice><orig>imposd</orig><reg>imposed</reg></choice> upon them all without
+                        <lb/>any hope of resurrection, or renovation of life: the Philosophers determine <pc>-</pc>
+                        <lb/><choice><orig>farre</orig><reg>far</reg></choice> otherwise: for they have most <choice><orig>certaine</orig><reg>certain</reg></choice> knowledge, <seg rend="underline" hand="2">that their dead King</seg> <pc>-</pc>
+                        <lb/><seg rend="underline" hand="2">devoured by the <choice><orig>wolfe</orig><reg>wolf</reg></choice> will appear with life, strength, and youth, and the</seg> <pc>-</pc>
+                        <lb/><seg rend="underline" hand="2"><choice><orig>wolfe</orig><reg>wolf</reg></choice> must be burned in his stead:</seg> For the <choice><orig>wolfe</orig><reg>wolf</reg></choice> may easily be put to death,
+                        <lb/>if <choice><orig>hee</orig><reg>he</reg></choice> <choice><orig>hath</orig><reg>has</reg></choice> <choice><orig>soe</orig><reg>so</reg></choice> gorged his belly, <seg rend="underline" hand="2">but the King, though dead, <choice><orig>hath</orig><reg>has</reg></choice> notwit</seg>h
+                        <lb break="no"/><seg rend="underline" hand="2">standing a <choice><orig>Martiall</orig><reg>Martial</reg></choice> or Swan<pc rend="double-hyphen">-</pc>like virtue <choice><orig>soe</orig><reg>so</reg></choice> as not to be wounded nor con</seg>
+                        <lb break="no"/><seg rend="underline" hand="2">sumed: B</seg>ut <seg rend="underline" hand="2">where must this <choice><orig>wolfe</orig><reg>wolf</reg></choice> be sought fo</seg>r, and <seg rend="underline" hand="2">from whence must</seg>
+                        <lb/><seg rend="underline" hand="2">the King be had?</seg> The Philosophers answer, t<seg rend="underline" hand="2">hat the <choice><orig>wolfe</orig><reg>wolf</reg></choice> wanders every</seg>
+                        <lb/><seg rend="underline" hand="2">where in mountains and <choice><orig>vallyes</orig><reg>valleys</reg></choice>, to take his prey,</seg> who must be <choice><orig>drawne</orig><reg>drawn</reg></choice> out
+                        <lb/><seg rend="underline" hand="2">of his harbou</seg>rs, a<seg rend="underline" hand="2">nd<choice><orig>præservd</orig><reg>preserved</reg></choice> for use:</seg> <seg rend="underline" hand="2">The King <choice><orig>allso</orig><reg>also</reg></choice> coming from the</seg> <pc>-</pc>
+                        <lb/><seg rend="underline" hand="2">East <choice><orig>wearyed</orig><reg>wearied</reg></choice> with a long and <choice><orig>tædious</orig><reg>tedious</reg></choice> journey at length falls <choice><orig>downe</orig><reg>down</reg></choice>, w</seg>hose
+                        <lb/>death <choice><orig>allso</orig><reg>also</reg></choice> <choice><orig>greife</orig><reg>grief</reg></choice> accelerates, seeing <choice><orig>himselfe</orig><reg>himself</reg></choice> <seg rend="underline" hand="2">in <choice><orig>noe</orig><reg>no</reg></choice> <choice><orig>honour</orig><reg>honor</reg></choice></seg>, and <seg rend="underline" hand="2"><choice><orig>soe</orig><reg>so</reg></choice></seg> <pc>-</pc>
+                        <lb/><seg rend="underline" hand="2">little <choice><orig>esteemd</orig><reg>esteemed</reg></choice></seg> amongst strangers and <choice><orig>forreigners</orig><reg>foreigners</reg></choice>, as to be sold into servi
                         
                         
                         
-                        <pb n="79"/><fw>Discourse 3.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
-                        <lb break="no"/>tude for a little <choice><orig>mony</orig><reg>money</reg></choice>: But the <seg rend="underline"><orig>wolfe</orig></seg> must be had out <seg rend="underline">of a colder region</seg>, for
-                        <lb/>those that are bred in a cold climate are more fierce, than in Africa or <orig>Ægypt</orig>,
-                        <lb/>by reason of greater hunger <seg rend="underline"><orig>proceding</orig> from <orig>externall</orig> cold</seg>: the <seg rend="underline">devoured King<pc>-</pc>
-                        <lb/><orig>doth</orig> afterwards revive with a <choice><orig>Lyons</orig><reg>Lions</reg></choice> courage,</seg> who is then able to subdue all<pc>-</pc>
-                        <lb/>wild beasts; and though <orig>hee</orig> be in aspect the meanest amongst his six bre
-                        <lb break="no"/>thren, that is, the youngest of all, yet will <orig>hee</orig> after many tribulations and
-                        <lb/><choice><orig>miseryes</orig><reg>miseries</reg></choice> at length <choice><orig>attaine</orig><reg>attain</reg></choice> to a most <choice><orig>powerfull</orig><reg>powerful</reg></choice> <choice><orig>kingdome</orig><reg>kingdom</reg></choice>: Thereupon <orig>Sayth</orig><pc>-</pc>
-                        <lb/>Gratian in the Rosary: In <orig>Alchymy</orig> there <seg rend="underline">is a <orig>certaine</orig> noble body, which
-                        <lb/>is moved from master to master,</seg> in <seg rend="underline">whose <orig>begining</orig> will be misery and<pc>-</pc>
-                        <lb/><choice><orig>sharpnesse</orig><reg>sharpness</reg></choice></seg>, but <seg rend="underline">in the end joy and <choice><orig>gladnesse</orig><reg>gladness</reg></choice>: and</seg> Alanus in the same:<pc>-</pc>
-                        <lb/>One thing is to be chosen and <choice><orig>præferrd</orig><reg>preferred</reg></choice> before all, which is <seg rend="underline">of a livid <orig>colour</orig>,</seg>
-                        <lb/>having a <seg rend="underline">clear and liquid <choice><orig>metallicke</orig><reg>metallic</reg></choice> Species,</seg> and is a <seg rend="underline">thing <orig>hott</orig> and moist
-                        <lb/><orig>watry</orig> and adustive</seg>, and is <seg rend="underline">a living <orig>oyle</orig></seg> and <seg rend="underline">a living tincture, a <orig>Mine
-                        <lb break="no"/>rall</orig> stone</seg> and aqua vitæ of <choice><orig>wonderfull</orig><reg>wonderful</reg></choice> efficacy. It is not <orig>allwayes</orig> Safe for
+                        <pb n="79"/><fw rend="italics">Discourse 24.</fw>
+                        <lb break="no"/>tude for a little <choice><orig>mony</orig><reg>money</reg></choice>: But the <seg rend="underline" hand="2"><choice><orig>wolfe</orig><reg>wolf</reg></choice> </seg>must be had out <seg rend="underline" hand="2">of a colder region,</seg> for
+                        <lb/>those that are bred in a cold climate are more fierce, than in Africa or <choice><orig>Ægypt</orig><reg>Egypt</reg></choice>,
+                        <lb/>by reason of greater hunger <seg rend="underline" hand="2"><choice><orig>proceding</orig><reg>proceeding</reg></choice> from <choice><orig>externall</orig><reg>external</reg></choice> col</seg>d: th<seg rend="underline" hand="2">e devoured King</seg> <pc>-</pc>
+                        <lb/><seg rend="underline"><choice><orig>doth</orig><reg>does</reg></choice> afterwards revive with a <choice><orig>Lyons</orig><reg>Lions</reg></choice> courage,</seg> who is then able to subdue all <pc>-</pc>
+                        <lb/>wild beasts; and though <choice><orig>hee</orig><reg>he</reg></choice> be in aspect the meanest amongst his six bre
+                        <lb break="no"/>thren, that is, the youngest of all, yet will <choice><orig>hee</orig><reg>he</reg></choice> after many tribulations and
+                        <lb/><choice><orig>miseryes</orig><reg>miseries</reg></choice> at length <choice><orig>attaine</orig><reg>attain</reg></choice> to a most <choice><orig>powerfull</orig><reg>powerful</reg></choice> <choice><orig>kingdome</orig><reg>kingdom</reg></choice>: Thereupon <choice><orig>Sayth</orig><reg>Says</reg></choice> <pc>-</pc>
+                        <lb/>Gratian in the Rosary: In <choice><orig>Alchymy</orig><reg>Alchemy</reg></choice> there <seg rend="underline" hand="2">is a <choice><orig>certaine</orig><reg>certain</reg></choice> noble body, whic</seg>h
+                        <lb/>i<seg rend="underline" hand="2">s moved from master to master,</seg> in who<seg rend="underline" hand="2">se <choice><orig>begining</orig><reg>beginning</reg></choice> will be misery and</seg> <pc>-</pc>
+                        <lb/><seg rend="underline" hand="2"><choice><orig>sharpnesse</orig><reg>sharpness</reg></choice></seg>, but i<seg rend="underline" hand="2">n the end joy and <choice><orig>gladnesse</orig><reg>gladness</reg></choice>: an</seg>d Alanus in the same: <pc>-</pc>
+                        <lb/>One thing is to be chosen and <choice><orig>præferrd</orig><reg>preferred</reg></choice> before all, which is of<seg rend="underline" hand="2"> a livid <choice><orig>colour</orig><reg>color</reg></choice>,</seg>
+                        <lb/>having a cl<seg rend="underline" hand="2">ear and liquid <choice><orig>metallicke</orig><reg>metallic</reg></choice> Species,</seg> and is a th<seg rend="underline" hand="2">ing <choice><orig>hott</orig><reg>hot</reg></choice> and mois</seg>t
+                        <lb/><seg rend="underline" hand="2"><choice><orig>watry</orig><reg>watery</reg></choice></seg> and<seg rend="underline" hand="2"> adustive</seg>, and is <seg rend="underline" hand="2">a living <choice><orig>oyle</orig><reg>oil</reg></choice></seg> and <seg rend="underline" hand="2">a living tincture,</seg> <seg rend="underline" hand="2">a <choice><orig>Mine
+                        <lb break="no"/>rall</orig><reg>Mineral</reg></choice> stone</seg> and aqua vitæ of <choice><orig>wonderfull</orig><reg>wonderful</reg></choice> efficacy. It is not <choice><orig>allwayes</orig><reg>always</reg></choice> Safe for
                         <lb/>Kings to <choice><orig>travayle</orig><reg>travel</reg></choice> out of the confines of their <choice><orig>kingdomes</orig><reg>kingdoms</reg></choice>, for if they abscond
                         <lb/>and be discovered, they are by their <choice><orig>adversaryes</orig><reg>adversaries</reg></choice> taken for <choice><orig>Spyes</orig><reg>Spies</reg></choice> and im
-                        <lb break="no"/>prisoned; if <orig>allso</orig> being detected they proceed without an army they are<pc>-</pc>
-                        <lb/>after the same manner in danger: <orig>soe</orig> <orig>allso</orig> <orig>hath</orig> it happened, or would have
-                        <lb/>happened <seg rend="underline">to this Indian King, death not being <orig>prævented</orig>.</seg> This is the first
-                        <lb/>sublimation, lotion, and nobilitation, which the Philosophers use,<pc>-</pc>
-                        <lb/>that the second and third may be <choice><orig>performd</orig><reg>performed</reg></choice> with the greater <orig>successe</orig>:
-                        <lb/>for those without this are not of any efficacy, <seg rend="underline">the King being as yet
-                        <lb/>pusillanimous, somnolent, and <choice><orig>sicke</orig><reg>sick</reg></choice>. For <orig>hee</orig> must of necessity first
-                        <lb/>require <choice><orig>subsidyes</orig><reg>subsidies</reg></choice> and tribute from his subjects, whereby <orig>hee</orig> may pur
-                        <lb break="no"/>chase <orig>himselfe</orig> garments and other <orig>necessaryes</orig></seg>, and afterwards <orig>hee</orig><pc>-</pc>
-                        <lb/>will be rich enough, <orig>soe</orig> as to be able to bestow new garments upon all
-                        <lb/>his subjects, <orig>soe</orig> often as <orig>hee</orig> please: for great things for the most part
-                        <lb/><orig>proceding</orig> from small <orig>beginings</orig> may then advance small things, or<pc>-</pc>
-                        <lb/><orig>allso</orig> <choice><orig>suppresse</orig><reg>suppress</reg></choice> great things, if they will: as for example, Small <choice><orig>Cityes</orig><reg>Cities</reg></choice>
-                        <lb/>at the <orig>begining</orig>, which have afterwards governed great Kings, and<pc>-</pc>
-                        <lb/>of villages have made spacious and populous towns<pc>. . . . . . .</pc>  
+                        <lb break="no"/>prisoned; if <choice><orig>allso</orig><reg>also</reg></choice> being detected they proceed without an army they are <pc>-</pc>
+                        <lb/>after the same manner in danger: <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> <choice><orig>hath</orig><reg>has</reg></choice> it happened, or would have
+                        <lb/>happened <seg rend="underline" hand="2">to this Indian King, death not being <choice><orig>prævented</orig><reg>prevented</reg></choice>.</seg> This is the first
+                        <lb/>sublimation, lotion, and nobilitation, which the Philosophers use, <pc>-</pc>
+                        <lb/>that the second and third may be <choice><orig>performd</orig><reg>performed</reg></choice> with the greater <choice><orig>successe</orig><reg>success</reg></choice>:
+                        <lb/>for those without this are not of any efficacy, th<seg rend="underline" hand="2">e King being as yet</seg>
+                        <lb/><seg rend="underline" hand="2">pusillanimous, somnolent,</seg> an<seg rend="underline" hand="2">d <choice><orig>sicke</orig><reg>sick</reg></choice>. For</seg> <choice><orig>hee</orig><reg>he</reg></choice><seg rend="underline" hand="2"> must of necessity first</seg>
+                        <lb/><seg rend="underline" hand="2">require <choice><orig>subsidyes</orig><reg>subsidies</reg></choice> and tribute from his subjects, whereby <choice><orig>hee</orig><reg>he</reg></choice> may p</seg>ur<note place="margin" hand="2">N.B.</note>
+                        <lb break="no"/><seg rend="underline" hand="2">chase <choice><orig>himselfe</orig><reg>himself</reg></choice> garments and other <choice><orig>necessaryes</orig><reg>necessaries</reg></choice></seg>, and afterwards <choice><orig>hee</orig><reg>he</reg></choice> <pc>-</pc>
+                        <lb/>wi<seg rend="underline" hand="2">ll be rich enough,</seg> <choice><orig>soe</orig><reg>so</reg></choice> as <seg rend="underline" hand="2">to be able to bestow new garments upon all
+                        <lb/>his subjects,</seg> <choice><orig>soe</orig><reg>so</reg></choice> often as <choice><orig>hee</orig><reg>he</reg></choice> please: for great things for the most part
+                        <lb/><choice><orig>proceding</orig><reg>proceeding</reg></choice> from small <choice><orig>beginings</orig><reg>beginnings</reg></choice> may then advance small things, or <pc>-</pc>
+                        <lb/><choice><orig>allso</orig><reg>also</reg></choice> <choice><orig>suppresse</orig><reg>suppress</reg></choice> great things, if they will: as for example, Small <choice><orig>Cityes</orig><reg>Cities</reg></choice>
+                        <lb/>at the <choice><orig>begining</orig><reg>beginning</reg></choice>, which have afterwards governed great Kings, and <pc>-</pc>
+                        <lb/>of villages have made <choice><orig>spatious</orig><reg>spacious</reg></choice> and populous towns <pc>. . . . . . .</pc>  
                     </ab>   
                 </div>
                 

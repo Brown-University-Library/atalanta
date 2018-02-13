@@ -19,72 +19,39 @@ comixtion
 
 ## Emblem 1
 -strange symbols on first page of emblem in title, look like tracks
-"comon" with lengtehning mark present
-significant underlining
-search for "onely"
-
-Emblem 2
-"comon" present
-search for "onely"
-
-Emblem 3
-"comon" present
-
-Emblem 4
-"comon" present
-some underlining
 
 Emblem 5
-many shortening marks, imediately, comon, etc
 unusual word seireth
-
-Emblem 6
-no issues
-
-Emblem 7
-no issues
-
-Emblem 8
-no issues
-
-Emblem 9
-no issues
-
-Emblem 10
-no issues
-
-Emblem 11
-hand=labour
-
-Emblem 18
-load=stone
-circle=wise
-
-Emblem 20
-monster=killing
-
-Emblem 23
-earth=quake
-spells rayne raine sometimes Is he differentiating between rein, reign, rain?
-
-Emblem 24
-swan=like
 
 Emblem 25
 line indented, how to code this?
 
 Emblem 29
-four=footed
 contraction on first page, unsure of what it is
 
-Emblem 31
-Noble=men
-
 Emblem 32
-Sea=plant
-ambar=grise
 note at the end of the second page?
 
 Emblem 33
-horse=leeches
-abbreviation ct.?
+abbreviation etc.?
+
+Emblem 35
+Law=maker
+
+Emblem 36
+track marks on the emblem page again
+
+Emblem 37
+indentation on several lines
+
+Emblem 38
+splits word Whoever
+
+Emblem 41
+indented section
+
+Emblem 43
+noewise on emblem page has symbol to separate into two words
+
+Emblem 44
+crossed out Achilles, not sure what words are above
