@@ -57,7 +57,7 @@
             
             <div type="image-caption">
                <head>
-                  <lb n="1"/>Emblema <num value="35" type="cardinal">XXXV</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi> <fw type="pageNum" place="top-right">149</fw>
+                  <lb n="1"/>Emblema <num value="35" type="cardinal">XXXV</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>. <fw type="pageNum" place="top-right">149</fw>
                   <lb n="2"/><persName type="divinity">Ceres</persName> <persName>Triptolemum</persName>, <persName type="divinity">Thetis</persName> <persName>Achillem</persName>, sub igne
                   <lb n="3"/>morari assuescit, sic artifex lapidem.
                </head>
