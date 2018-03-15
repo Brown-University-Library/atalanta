@@ -18,6 +18,7 @@
      <revisionDesc>
         <change when="2018-03-14" who="SJD">Start encoding</change>
         <change when="2018-03-14" who="SJD">Finish draft</change>
+        <change when="2018-03-15" who="SJD">Capitalization corrections</change>
      </revisionDesc>
   </teiHeader>
    
@@ -122,7 +123,7 @@
                <pb n="155"/>
                <head><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="36">XXXVI</num>. <fw type="pageNum" place="top-right">155</fw></head>
                   <ab>
-                     <lb n="1"/>sed exaltatur ad montes, utpote <placeName>Athum</placeName>, <placeName>Vesuvius</placeName>, <placeName><hi rend="ligature">ae</hi>thnam</placeName>, <g type="ampersand">et</g>
+                     <lb n="1"/>sed exaltatur ad montes, utpote <placeName>Athum</placeName>, <placeName>Vesuvius</placeName>, <placeName><hi rend="ligature">Ae</hi>thnam</placeName>, <g type="ampersand">et</g>
                      <lb n="2"/>his similes flammivomos, quales in diversis orbis partibus permulti
                      <lb n="3"/>visuntur. <milestone unit="section" n="e36-15"/>In his enim ignis perpetuus ardet, qui lapidem sublimat, <g type="ampersand">et</g>
                      <lb n="4"/>ad summam dignitatem evehit. In montibus, ut crescit, in rudi for
@@ -139,9 +140,9 @@
                      <lb n="15" break="no"/>sam <persName type="divinity">Mercurius</persName> triceps quoque dicebatur, utpote marinus, c<hi rend="ligature">oe</hi>lestis
                      <lb n="16"/><g type="ampersand">et</g> terrestris, quia aqu<hi rend="ligature">ae</hi>, terr<hi rend="ligature">ae</hi> <g type="ampersand">et</g> aëri adesset. <milestone unit="section" n="e36-19"/>A <persName type="divinity">Vulcano</persName> educatus
                      <lb n="17"/>traditur, furacitate insignis, quia <persName type="divinity">Mercurius</persName> igni assuefieri docetur,
-                     <lb n="18"/>qui volatilis est, <g type="ampersand">et</g> secum aufert id, cui miscetur. <milestone unit="section" n="e36-20"/><orgName><hi rend="ligature">ae</hi>gyptiis</orgName> leges <g type="ampersand">et</g>
+                     <lb n="18"/>qui volatilis est, <g type="ampersand">et</g> secum aufert id, cui miscetur. <milestone unit="section" n="e36-20"/><orgName><hi rend="ligature">Ae</hi>gyptiis</orgName> leges <g type="ampersand">et</g>
                      <lb n="19"/>disciplinam, im<hi rend="grave">o</hi> <orgName>Thebanis</orgName> quoque sacerdotibus <g type="ampersand">et</g> magn<hi rend="ligature">ae</hi> mundi
-                     <lb n="20"/>parti, antiquitus, religionem dictavit, quia <hi rend="grave">a</hi> chymicis institutis <orgName><hi rend="ligature">ae</hi>
+                     <lb n="20"/>parti, antiquitus, religionem dictavit, quia <hi rend="grave">a</hi> chymicis institutis <orgName><hi rend="ligature">Ae</hi>
                      <lb n="21" break="no"/>gyptii</orgName> politiam, <g type="ampersand">et</g> res sacras habuerunt, ab his <orgName>Gr<hi rend="ligature">ae</hi>ci</orgName>, ab his <orgName>Roma
                      <lb n="22" break="no"/>ni</orgName>, ab illis qu<hi rend="grave">a</hi>mplurim<hi rend="ligature">ae</hi> ali<hi rend="ligature">ae</hi> gentes, ut lati<hi rend="grave">u</hi>s alibi demonstratum
                      <lb n="23"/>est. <milestone unit="section" n="e36-21"/><persName>Argum</persName> saxo occ<hi rend="circumflex">i</hi>dit, seu lapide <g type="ampersand">et</g> <persName>Battum</persName> in lapidem indicem
