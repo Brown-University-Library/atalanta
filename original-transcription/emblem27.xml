@@ -32,7 +32,7 @@
                <lb n="4"/>ohne Füssen.
             </head>
             
-            <div type="fugue">
+            <div type="fugue" xml:lang="de">
                <head>
                   
                </head>
@@ -54,7 +54,7 @@
             
             <pb n="117"/>
             
-            <div type="image-caption">
+            <div type="image" xml:lang="la">
                <head>
                   <lb n="1"/>Emblema <num value="27" type="cardinal">XXVII</num>. De Secretis Natur<hi rend="ligature">ae</hi>.<!-- BC: how do we want to handle ligatures? --> <fw type="pageNum" place="top-right">117</fw>
                   <lb n="2"/>Qui Rosarium intrare conatur Philosophicum absque clave,

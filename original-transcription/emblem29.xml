@@ -32,7 +32,7 @@
                <lb n="3"/>also auch der Stein.
             </head>
             
-            <div type="fugue">
+            <div type="fugue" xml:lang="de">
                <head>
                   
                </head>
@@ -54,7 +54,7 @@
             
             <pb n="125"/>
             
-            <div type="image-caption">
+            <div type="image" xml:lang="la">
                <head>
                   <lb n="1"/>Emblema <num value="29" type="cardinal">XXIX</num>. De Secretis Natur<hi rend="ligature">ae</hi>.<!-- BC: how do we want to handle ligatures? --> <fw type="pageNum" place="top-right">125</fw>
                   <lb n="2"/>Ut Salamandra vivit igne sic lapis:

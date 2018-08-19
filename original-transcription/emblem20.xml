@@ -31,7 +31,7 @@
                <lb n="3"/>bald werden sie sterben all.
             </head>
             
-            <div type="fugue">
+            <div type="fugue" xml:lang="de">
                <head>
                   
                </head>
@@ -53,7 +53,7 @@
             
             <pb n="89"/>
             
-            <div type="image-caption">
+            <div type="image" xml:lang="la">
                <head>
                   <lb n="1"/>Emblema XX. De Secretis Natur<hi rend="ligature">ae</hi>.<!-- BC: how do we want to handle ligatures? --> <fw type="pageNum" place="top-right">89</fw>
                   <lb n="2"/>Naturam natura docet, debellet ut ignem.

@@ -33,7 +33,7 @@
                <lb n="4"/>den Stein gewehnen.
             </head>
             
-            <div type="fugue">
+            <div type="fugue" xml:lang="de">
                <head>
                   
                </head>
@@ -55,7 +55,7 @@
             
             <pb n="149"/>
             
-            <div type="image-caption">
+            <div type="image" xml:lang="la">
                <head>
                   <lb n="1"/>Emblema <num value="35" type="cardinal">XXXV</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>. <fw type="pageNum" place="top-right">149</fw>
                   <lb n="2"/><persName type="divinity">Ceres</persName> <persName>Triptolemum</persName>, <persName type="divinity">Thetis</persName> <persName>Achillem</persName>, sub igne

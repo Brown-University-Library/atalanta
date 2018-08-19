@@ -33,7 +33,7 @@
                <lb n="4"/>auff den Berg <placeName><hi rend="roman">Heliconem</hi></placeName> gesetzet.
             </head>
             
-            <div type="fugue">
+            <div type="fugue" xml:lang="de">
                <head>
                   
                </head>
@@ -55,7 +55,7 @@
             
             <pb n="57"/> 
             
-            <div type="image-caption">
+            <div type="image" xml:lang="la">
                <head>
                   <lb n="1"/>Emblema XII. <hi rend="italic">De secretis Natur<hi rend="ligature">ae</hi></hi>.<!-- BC: how do we want to handle ligatures? --> <fw type="pageNum" place="top-right">57</fw>
                   <lb n="2"/>Lapis, quem <persName>Saturnus</persName>, pro <persName>Jove</persName> filio devoratum, evomuit,
@@ -79,7 +79,7 @@
             
            <fw type="gathering">H </fw> <fw type="catchword" place="bottom-right">Saturni</fw>
             
-            <div type="discourse">
+            <div type="discourse" xml:lang="la">
                <pb n="58"/>
                <head><fw type="pageNum" place="top-left">58</fw> <hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="12">XII</num>.</head>
                   <ab>

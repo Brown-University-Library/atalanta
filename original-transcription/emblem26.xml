@@ -32,7 +32,7 @@
                <lb n="3"/>deß Lebbens ist.
             </head>
             
-            <div type="fugue">
+            <div type="fugue" xml:lang="de">
                <head>
                   
                </head>
@@ -54,7 +54,7 @@
             
             <pb n="113"/> 
             
-            <div type="image-caption">
+            <div type="image" xml:lang="la">
                <head>
                   <lb n="1"/>Emblema XXVI. <hi rend="italic">De secretis Natur<hi rend="ligature">ae</hi></hi>.<!-- BC: how do we want to handle ligatures? --> <fw type="pageNum" place="top-right">113</fw>
                   <lb n="2"/>Sapienti<hi rend="ligature">ae</hi> human<hi rend="ligature">ae</hi> fructus Lignum vit<hi rend="ligature">ae</hi> est.
@@ -77,7 +77,7 @@
             
            <fw type="gathering">P</fw> <fw type="catchword" place="bottom-right">Pr<hi rend="ligature">ae</hi>-</fw>
             
-            <div type="discourse">
+            <div type="discourse" xml:lang="la">
                <pb n="114"/>
                <head><fw type="pageNum" place="top-left">114</fw> <hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="26">XXVI</num>.</head>
                   <ab>

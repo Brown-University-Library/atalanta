@@ -34,7 +34,7 @@
                <lb n="4"/>du wirst haben den Schein der Weisen.
             </head>
             
-            <div type="fugue">
+            <div type="fugue" xml:lang="de">
                <head>
                   
                </head>
@@ -56,7 +56,7 @@
             
             <pb n="93"/>
             
-            <div type="image-caption">
+            <div type="image" xml:lang="la">
                <head>
                   <lb n="1"/>Emblema XXI. De Secretis Natur<hi rend="ligature">ae</hi>.<!-- BC: how do we want to handle ligatures? --> <fw type="pageNum" place="top-right">93</fw>
                   <lb n="2"/>Fac ex mare <g type="ampersand">et</g> f<hi rend="ligature">oe</hi>mina circulum, inde quadrangulum, hinc trian

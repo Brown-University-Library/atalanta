@@ -34,7 +34,7 @@
                <lb n="4"/>das ist der <persName type="divinity"><hi rend="latin">Mercurius</hi></persName>.
             </head>
             
-            <div type="fugue">
+            <div type="fugue" xml:lang="de">
                <head>
                   
                </head>
@@ -56,7 +56,7 @@
             
             <pb n="153"/>
             
-            <div type="image-caption">
+            <div type="image" xml:lang="la">
                <head>
                   <lb n="1"/>Emblema <num value="36" type="cardinal">XXXVI</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>. <fw type="pageNum" place="top-right">153</fw>
                   <lb n="2"/>Lapis projectus est in terras, <g type="ampersand">et</g> in montibus exaltatus, <g type="ampersand">et</g> in

@@ -32,7 +32,7 @@
                <lb n="3"/>kommende <pc>/</pc> haben sich unter einander gebissen.
             </head>
             
-            <div type="fugue">
+            <div type="fugue" xml:lang="de">
                <head>
                   
                </head>
@@ -54,7 +54,7 @@
             
             <pb n="197"/>
             
-            <div type="image-caption">
+            <div type="image" xml:lang="la">
                <head>
                   <lb n="1"/>Emblema <num value="47" type="cardinal">XLVII</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>. <fw type="pageNum" place="top-right">197</fw>
                   <lb n="2"/>Lupus ab Oriente <g type="ampersand">et</g> Canis ab Occidente venientes se

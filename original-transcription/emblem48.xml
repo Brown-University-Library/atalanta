@@ -33,7 +33,7 @@
                <lb n="4"/>die Gesundheit.
             </head>
             
-            <div type="fugue">
+            <div type="fugue" xml:lang="de">
                <head>
                   
                </head>
@@ -55,7 +55,7 @@
             
             <pb n="201"/>
             
-            <div type="image-caption">
+            <div type="image" xml:lang="la">
                <head>
                   <lb n="1"/>Emblema <num value="48" type="cardinal">XLVIII</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>. <fw type="pageNum" place="top-right">201</fw>
                   <lb n="2"/>Rex ab aquis potatis morbum, <hi rend="grave">a</hi> medicis curatus

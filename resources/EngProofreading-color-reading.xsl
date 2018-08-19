@@ -24,7 +24,7 @@
         <html>
             <head>
                 <title>Atalanta Fugiens (Beinecke Ms. transcription) Facsimile Copy. Emblem
-                        <xsl:value-of select="af:div[@type = 'emblem/@n']"/></title>
+                    <xsl:value-of select="af:div[@type = 'emblem']/@n"/></title>
                 <link rel="stylesheet" type="text/css" href="atalantaProof-color-reading.css"/>
             </head>
 
@@ -37,7 +37,7 @@
 
     <xsl:template match="af:teiHeader"/>
 
-    <xsl:template match="text">
+    <xsl:template match="af:text">
         <xsl:apply-templates/>
     </xsl:template>
 

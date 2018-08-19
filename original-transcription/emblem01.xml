@@ -26,14 +26,11 @@
       <body>
          <div type="emblem" n="e1">
             <pb n="12"/>
-            <head>
-               <lb n="1"/><fw type="pageNum" place="top-left">12</fw> FUGA I. in Quarta, infr<hi rend="grave">a</hi>.
-               <lb n="2"/>Es hat ihn der Wind getragen im Bauche.
-            </head>
+            <fw type="pageNum" place="top-left">12</fw> <fw type="header" place="top-center">FUGA I. in Quarta, infr<hi rend="grave">a</hi>.</fw>
             
-            <div type="fugue">
+            <div type="fugue" xml:lang="de">
                <head>
-                  
+                  <lb n="1"/>Es hat ihn der Wind getragen im Bauche.
                </head>
                
             </div>
@@ -52,15 +49,15 @@
             <fw type="catchword" place="bottom-right">Emble-</fw>
             
             <pb n="13"/>
-            
-            <div type="image-caption">
+            <fw type="header" place="top-center">Emblema I. De secretis Natur<hi rend="ligature">ae</hi>.</fw><!-- BC: how do we want to handle ligatures? --> <fw type="pageNum" place="top-right">13</fw>
+            <div type="image" xml:lang="la">
                <head>
-                  <lb n="1"/>Emblema I. De secretis Natur<hi rend="ligature">ae</hi>.<!-- BC: how do we want to handle ligatures? --> <fw type="pageNum" place="top-right">13</fw>
-                  <lb n="2"/>Portavit eum ventus in ventre suo.
+                  <lb n="1"/>Portavit eum ventus in ventre suo.
                </head>
+               <figure><graphic url=""></graphic></figure>
             </div>
             
-            <figure><graphic url=""></graphic></figure>
+            
             
             <div type="epigram" xml:lang="la">
                <head>Epigramma I.</head>
@@ -76,9 +73,10 @@
             
            <fw type="gathering">B 3</fw> <fw type="catchword" place="bottom-right">HER-</fw>
             
-            <div type="discourse">
-               <pb n="14"/>
-               <head><fw type="pageNum" place="top-left">14</fw> <hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="1">I</num></head>
+            <div type="discourse" xml:lang="la">
+     <div type="discourse-p1">
+        <pb n="14"/>
+        <fw type="pageNum" place="top-left">14</fw> <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="1">I</num></fw>
                   <ab>
                      <lb n="1"/><milestone unit="section" n="e01-01"/><persName ref="https://viaf.org/viaf/24571510/">Hermes</persName> omnis secreti naturalis indagator diligentissimus in
                      <lb n="2"/>tabula sua smaragdina graphic<hi rend="grave">e</hi>, lic<hi rend="grave">e</hi>t succinct<hi rend="grave">e</hi>, describit opus
@@ -132,8 +130,10 @@
                      <lb break="no"/>
                   </ab>
                   <fw type="catchword" place="bottom-right">vincitur</fw>
-               <pb n="15"/>
-               <head><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="1">I</num>. <fw type="pageNum" place="top-right">15</fw></head>
+               </div>
+               <div type="discourse-p2">
+                  <pb n="15"/>
+               <fw type="header" place="center-top"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="1">I</num>.</fw> <fw type="pageNum" place="top-right">15</fw>
                   <ab>
                      <lb n="1"/>vincitur: <milestone unit="section" n="e01-10"/> At quia caduceum gestet binis serpentibus transversim
                      <lb n="2"/>cinctum, qui animas ex corporibus ducat <g type="ampersand">et</g> reducat, <g type="ampersand">et></g> multa eius
@@ -166,9 +166,11 @@
                      <lb n="29" break="no"/>niti nostri fit in aëre <g type="ampersand">et</g> nascens in aëre sapienter nascitur: Ascendit enim <hi rend="grave">a></hi>
                      <lb n="30"/>terra in c<hi rend="ligature">oe</hi>lum, iter<hi rend="acute">u</hi>mque descendit in terram conquirendo vim superio
                      <lb n="31" break="no"/>rem <g type="ampersand">et</g> inferiorem.</hi></quote>
+                  </ab>
                                           <lb/> 
                      <fw type="catchword" place="bottom-right" xml:lang="de">Sein</fw>
-                  </ab>                  
+               </div>
+                                    
             </div>
             
          </div>

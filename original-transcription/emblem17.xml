@@ -30,7 +30,7 @@
                <lb n="2"/>Ein vierfältige Feiuer Kugel regiret diß Werck.
             </head>
             
-            <div type="fugue">
+            <div type="fugue" xml:lang="de">
                <head>
                   
                </head>
@@ -52,7 +52,7 @@
             
             <pb n="77"/>
             
-            <div type="image-caption">
+            <div type="image" xml:lang="la">
                <head>
                   <lb n="1"/>Emblema XVII. De Secretis Natur<hi rend="ligature">ae</hi>.<!-- BC: how do we want to handle ligatures? --> <fw type="pageNum" place="top-right">77</fw>
                   <lb n="2"/>Orbita quadruplex hoc regit ignis opus.

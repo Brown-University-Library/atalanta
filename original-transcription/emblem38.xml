@@ -32,7 +32,7 @@
                <lb n="3"/>zween Bergen deß <persName type="divinity"><hi rend="latin">Mercurii</hi></persName> und <persName type="divinit"><hi rend="latin">Veneris</hi></persName>.
             </head>
             
-            <div type="fugue">
+            <div type="fugue" xml:lang="de">
                <head>
                   
                </head>
@@ -54,7 +54,7 @@
             
             <pb n="161"/>
             
-            <div type="image-caption">
+            <div type="image" xml:lang="la">
                <head>
                   <lb n="1"/>Emblema <num value="38" type="cardinal">XXXVIII</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>. <fw type="pageNum" place="top-right">161</fw>
                   <lb n="2"/><persName>Rebis</persName>, ut <persName>Hermaphroditus</persName>, nascitur ex duobus montibus,

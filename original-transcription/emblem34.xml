@@ -33,7 +33,7 @@
                <lb n="3"/>wenner aber roht worden <pc>/</pc> gehet er auff dem Wasser.
             </head>
             
-            <div type="fugue">
+            <div type="fugue" xml:lang="de">
                <head>
                   
                </head>
@@ -55,7 +55,7 @@
             
             <pb n="145"/>
             
-            <div type="image-caption">
+            <div type="image" xml:lang="la">
                <head>
                   <lb n="1"/>Emblema <num value="34" type="cardinal">XXXIV</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi> <fw type="pageNum" place="top-right">145</fw>
                   <lb n="2"/>In balneis concipitur, <g type="ampersand">et</g> in aëre nascitur, rubeus ver<hi rend="grave">o</hi>

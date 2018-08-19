@@ -32,7 +32,7 @@
                <lb n="3"/>schwarzen Gallen entlediget durch <persName>Pharut</persName>.
             </head>
             
-            <div type="fugue">
+            <div type="fugue" xml:lang="de">
                <head>
                   
                </head>
@@ -54,7 +54,7 @@
             
             <pb n="121"/>
             
-            <div type="image-caption">
+            <div type="image" xml:lang="la">
                <head>
                   <lb n="1"/>Emblema <num value="28" type="cardinal">XXVIII</num>. De Secretis Natur<hi rend="ligature">ae</hi>.<!-- BC: how do we want to handle ligatures? --> <fw type="pageNum" place="top-right">121</fw>
                   <lb n="2"/>Rex balneatur in Laconico sedens,

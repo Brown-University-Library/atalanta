@@ -32,7 +32,7 @@
                <lb n="3"/>das Wasser der Gesundheit.
             </head>
             
-            <div type="fugue">
+            <div type="fugue" xml:lang="de">
                <head>
                   
                </head>
@@ -54,7 +54,7 @@
             
             <pb n="169"/>
             
-            <div type="image-caption">
+            <div type="image" xml:lang="la">
                <head>
                   <lb n="1"/>Emblema <num value="40" type="cardinal">XL</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>. <fw type="pageNum" place="top-right">169</fw>
                   <lb n="2"/>Ex duabus aquis, fac unam, <g type="ampersand">et</g> erit aqua sanctitatis.

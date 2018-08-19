@@ -32,7 +32,7 @@
                <lb n="3"/>und Schwester getödtet <pc>/</pc> welche seijnd Sonn und Mond.
             </head>
          </div>
-            <div type="fugue">
+            <div type="fugue" xml:lang="de">
                <head>
                   
                </head>
@@ -54,7 +54,7 @@
             
             <pb n="109"/>
             
-            <div type="image-caption">
+            <div type="image" xml:lang="la">
                <head>
                   <lb n="1"/><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="25">XXV</num>. <fw type="pageNum" place="top-right">109</fw>
                   <lb n="2"/>Draco non moritur, nisi cum fratre <g type="ampersand">et</g> sorore sua inter

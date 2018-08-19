@@ -32,7 +32,7 @@
                <lb n="3"/>ligende <pc>/</pc> bedarff deß Feiurs.
             </head>
             
-            <div type="fugue">
+            <div type="fugue" xml:lang="de">
                <head>
                   
                </head>
@@ -54,7 +54,7 @@
             
             <pb n="141"/>
             
-            <div type="image-caption">
+            <div type="image" xml:lang="la">
                <head>
                   <lb n="1"/>Emblema <num value="33" type="cardinal">XXXIII</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi> <fw type="pageNum" place="top-right">141</fw>
                   <lb n="2"/><persName>Hermaphroditus</persName> mortuo similis, in tenebris jacens, igne indiget.

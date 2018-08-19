@@ -33,7 +33,7 @@
                <lb n="4"/>so weit berümbt.
             </head>
             
-            <div type="fugue">
+            <div type="fugue" xml:lang="de">
                <head>
                   
                </head>
@@ -55,7 +55,7 @@
             
             <pb n="185"/>
             
-            <div type="image-caption">
+            <div type="image" xml:lang="la">
                <head>
                   <lb n="1"/>Emblema <num value="44" type="cardinal">XLIV</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>. <fw type="pageNum" place="top-right">185</fw>
                   <lb n="2"/>Dolo <persName type="divinity">Typhon</persName> <persName type="divinity">Osyridem</persName> trucidat, art<hi rend="acute">u</hi>sque illius

@@ -33,7 +33,7 @@
                <lb n="4"/>empfangen.
             </head>
             
-            <div type="fugue">
+            <div type="fugue" xml:lang="de">
                <head>
                   
                </head>
@@ -55,7 +55,7 @@
             
             <pb n="133"/>
             
-            <div type="image-caption">
+            <div type="image" xml:lang="la">
                <head>
                   <lb n="1"/>Emblema <num value="31" type="cardinal">XXXI</num>. <fw type="pageNum" place="top-right">133</fw>
                   <lb n="2"/>Rex natans in mari, clamans alt<hi rend="circumflex">a</hi> voce: Qui me eripiet,

@@ -32,7 +32,7 @@
                <lb n="3"/>der Hänen.
             </head>
             
-            <div type="fugue">
+            <div type="fugue" xml:lang="de">
                <head>
                   
                </head>
@@ -54,7 +54,7 @@
             
             <pb n="129"/>
             
-            <div type="image-caption">
+            <div type="image" xml:lang="la">
                <head>
                   <lb n="1"/>Emblema <num value="30" type="cardinal">XXX</num>. De Secretis Natur<hi rend="ligature">ae</hi>.<!-- BC: how do we want to handle ligatures? --> <fw type="pageNum" place="top-right">129</fw>
                   <lb n="2"/>Sol indiget lun<hi rend="circumflex">a</hi>, ut gallus gallin<hi rend="circumflex">a</hi>.

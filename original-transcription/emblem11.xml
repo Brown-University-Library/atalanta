@@ -32,7 +32,7 @@
                <lb n="3"/>die Bücher.
             </head>
             
-            <div type="fugue">
+            <div type="fugue" xml:lang="de">
                <head>
                   
                </head>
@@ -54,7 +54,7 @@
             
             <pb n="53"/> 
             
-            <div type="image-caption">
+            <div type="image" xml:lang="la">
                <head>
                   <lb n="1"/>Emblema XI. <hi rend="italic">De secretis Natur<hi rend="ligature">ae</hi></hi>.<!-- BC: how do we want to handle ligatures? --> <fw type="pageNum" place="top-right">53</fw>
                   <lb n="2"/>Dealbate <persName>Latonam</persName> <g type="ampersand">et</g> rumpite libros.
@@ -77,7 +77,7 @@
             
            <fw type="gathering">G <unclear cert="high">3</unclear></fw> <fw type="catchword" place="bottom-right">Tanta</fw>
             
-            <div type="discourse">
+            <div type="discourse" xml:lang="la">
                <pb n="54"/>
                <head><fw type="pageNum" place="top-left">54</fw> <hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="11">XI</num>.</head>
                   <ab>

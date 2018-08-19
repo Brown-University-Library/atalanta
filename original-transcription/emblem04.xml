@@ -32,7 +32,7 @@
                <lb n="3"/>den Becher der Liebe.
             </head>
             
-            <div type="fugue">
+            <div type="fugue" xml:lang="de">
                <head>
                   
                </head>
@@ -54,7 +54,7 @@
             
             <pb n="25"/> <fw type="pageNum" place="top-right">25</fw>
             
-            <div type="image-caption">
+            <div type="image" xml:lang="la">
                <head>
                   <lb n="1"/>Emblema IV.<hi rend="italic">De secretis Natur<hi rend="ligature">ae</hi></hi>.<!-- BC: how do we want to handle ligatures? -->
                   <lb n="2"/>Conjunge fratrem cum sorore <g type="ampersand">et</g> propina illis poculum amoris:
@@ -77,7 +77,7 @@
             
            <fw type="gathering">D</fw> <fw type="catchword" place="bottom-right">Lex</fw>
             
-            <div type="discourse">
+            <div type="discourse" xml:lang="la">
                <pb n="26"/>
                <head><fw type="pageNum" place="top-left">26</fw> <hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="4">IV</num>.</head>
                   <ab>

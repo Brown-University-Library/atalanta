@@ -32,7 +32,7 @@
                <lb n="3"/>und das Weib sterbe <pc>/</pc> so wirt die Kröte von Milch sehr groß.
             </head>
             
-            <div type="fugue">
+            <div type="fugue" xml:lang="de">
                <head>
                   
                </head>
@@ -54,7 +54,7 @@
             
             <pb n="29"/> 
             
-            <div type="image-caption">
+            <div type="image" xml:lang="la">
                <head>
                   <lb n="1"/>Emblema V.<hi rend="italic">De secretis Natur<hi rend="ligature">ae</hi></hi>.<!-- BC: how do we want to handle ligatures? --> <fw type="pageNum" place="top-right">29</fw>
                   <lb n="2"/>Appone mulieri super mammas bufonem, ut ablactet eum,
@@ -78,7 +78,7 @@
             
            <fw type="gathering">D 3</fw> <fw type="catchword" place="bottom-right">Tota</fw>
             
-            <div type="discourse">
+            <div type="discourse" xml:lang="la">
                <pb n="30"/>
                <head><fw type="pageNum" place="top-left">30</fw> <hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="5">V</num>.</head>
                   <ab>

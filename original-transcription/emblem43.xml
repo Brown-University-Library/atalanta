@@ -32,7 +32,7 @@
                <lb n="3"/>dich nicht sezet an.
             </head>
             
-            <div type="fugue">
+            <div type="fugue" xml:lang="de">
                <head>
                   
                </head>
@@ -54,7 +54,7 @@
             
             <pb n="181"/>
             
-            <div type="image-caption">
+            <div type="image" xml:lang="la">
                <head>
                   <lb n="1"/>Emblema <num value="43" type="cardinal">XLIII</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>. <fw type="pageNum" place="top-right">181</fw>
                   <lb n="2"/>Audi loquacem vulturem, qui neutiquam te decipit.

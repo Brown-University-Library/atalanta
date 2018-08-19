@@ -31,7 +31,7 @@
                <lb n="3"/>verbrant <pc>/</pc> wider gegeben.
             </head>
             
-            <div type="fugue">
+            <div type="fugue" xml:lang="de">
                <head>
                   
                </head>
@@ -53,7 +53,7 @@
             
             <pb n="105"/>
             
-            <div type="image-caption">
+            <div type="image" xml:lang="la">
                <head>
                   <lb n="1"/>Emblema XXIV. De Secretis Natur<hi rend="ligature">ae</hi>.<!-- BC: how do we want to handle ligatures? --> <fw type="pageNum" place="top-right">105</fw>
                   <lb n="2"/>Regem lupus voravit <g type="ampersand">et</g> vit<hi rend="ligature">ae</hi> crematus reddidit.

@@ -32,7 +32,7 @@
                <lb n="3"/>Feuchte <pc>/</pc> laß dich lehren.
             </head>
             
-            <div type="fugue">
+            <div type="fugue" xml:lang="de">
                <head>
                   
                </head>
@@ -54,7 +54,7 @@
             
             <pb n="69"/>
             
-            <div type="image-caption">
+            <div type="image" xml:lang="la">
                <head>
                   <lb n="1"/>Emblema XV. De Secretis Natur<hi rend="ligature">ae</hi>.<!-- BC: how do we want to handle ligatures? --> <fw type="pageNum" place="top-right">69</fw>
                   <lb n="2"/>Opus figuli, consistens in sicco <g type="ampersand">et</g> humido, te doceat.

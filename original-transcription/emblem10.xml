@@ -32,7 +32,7 @@
                <lb n="3"/>und es ist dir genug.
             </head>
             
-            <div type="fugue">
+            <div type="fugue" xml:lang="de">
                <head>
                   
                </head>
@@ -54,7 +54,7 @@
             
             <pb n="49"/> 
             
-            <div type="image-caption">
+            <div type="image" xml:lang="la">
                <head>
                   <lb n="1"/>Emblema X. <hi rend="italic">De secretis Natur<hi rend="ligature">ae</hi></hi>.<!-- BC: how do we want to handle ligatures? --> <fw type="pageNum" place="top-right">49</fw>
                   <lb n="2"/>Da ignem igni, Mercurium Mercurio, <g type="ampersand">et</g> sufficit tibi.
@@ -77,7 +77,7 @@
             
            <fw type="gathering">G</fw> <fw type="catchword" place="bottom-right">H<hi rend="ligature">ae</hi>c</fw>
             
-            <div type="discourse">
+            <div type="discourse" xml:lang="la">
                <pb n="50"/>
                <head><fw type="pageNum" place="top-left">50</fw> <hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="10">X</num>.</head>
                   <ab>

@@ -34,7 +34,7 @@
                <lb n="5"/>und ein Vierangel in der Qualität.
             </head>
             
-            <div type="fugue">
+            <div type="fugue" xml:lang="de">
                <head>
                   
                </head>
@@ -56,7 +56,7 @@
             
             <pb n="165"/>
             
-            <div type="image-caption">
+            <div type="image" xml:lang="la">
                <head>
                   <lb n="1"/>Emblema <num value="39" type="cardinal">XXXIX</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>. <fw type="pageNum" place="top-right">165</fw>
                   <lb n="2"/><persName>Oedypus</persName> Sphynge superata <g type="ampersand">et</g> trucidato <persName>Lajo</persName> patre

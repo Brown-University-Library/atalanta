@@ -32,7 +32,7 @@
                <lb n="3"/>das Werck.
             </head>
             
-            <div type="fugue">
+            <div type="fugue" xml:lang="de">
                <head>
                   
                </head>
@@ -54,7 +54,7 @@
             
             <pb n="189"/>
             
-            <div type="image-caption">
+            <div type="image" xml:lang="la">
                <head>
                   <lb n="1"/>Emblema <num value="45" type="cardinal">XLV</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>. <fw type="pageNum" place="top-right">189</fw>
                   <lb n="2"/>Sol <g type="ampersand">et</g> ejus umbra perficiunt opus.

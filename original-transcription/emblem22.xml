@@ -31,7 +31,7 @@
                <lb n="3"/>das ist <pc>/</pc> koche.
             </head>
             
-            <div type="fugue">
+            <div type="fugue" xml:lang="de">
                <head>
                   
                </head>
@@ -53,7 +53,7 @@
             
             <pb n="97"/>
             
-            <div type="image-caption">
+            <div type="image" xml:lang="la">
                <head>
                   <lb n="1"/>Emblema XXII. De Secretis Natur<hi rend="ligature">ae</hi>.<!-- BC: how do we want to handle ligatures? --> <fw type="pageNum" place="top-right">97</fw>
                   <lb n="2"/>Plumbo habito candido fac opus mulierum, hoc est, <hi rend="caps">coque</hi>:

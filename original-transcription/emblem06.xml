@@ -31,7 +31,7 @@
                <lb n="2"/>Säet nur Goldt in die weisse geblätterte Erden.
             </head>
             
-            <div type="fugue">
+            <div type="fugue" xml:lang="de">
                <head>
                   
                </head>
@@ -53,7 +53,7 @@
             
             <pb n="33"/> <fw type="pageNum" place="top-right">33</fw>
             
-            <div type="image-caption">
+            <div type="image" xml:lang="la">
                <head>
                   <lb n="1"/>Emblema VI.<hi rend="italic">De secretis Natur<hi rend="ligature">ae</hi></hi>.<!-- BC: how do we want to handle ligatures? -->
                   <lb n="2"/>Seminate aurum vestrum in terram albam foliatam.
@@ -76,7 +76,7 @@
             
            <fw type="gathering">E</fw> <fw type="catchword" place="bottom-right">Plato</fw>
             
-            <div type="discourse">
+            <div type="discourse" xml:lang="la">
                <pb n="34"/>
                <head><fw type="pageNum" place="top-left">34</fw> <hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="6">VI</num>.</head>
                   <ab>

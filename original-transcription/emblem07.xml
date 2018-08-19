@@ -32,7 +32,7 @@
                <lb n="3"/>wider ins Nest.
             </head>
             
-            <div type="fugue">
+            <div type="fugue" xml:lang="de">
                <head>
                   
                </head>
@@ -54,7 +54,7 @@
             
             
             
-            <div type="image-caption">
+            <div type="image" xml:lang="la">
                <head>
                   <lb n="1"/>Emblema VII.<hi rend="italic">De secretis Natur<hi rend="ligature">ae</hi></hi>.<!-- BC: how do we want to handle ligatures? --> <pb n="37"/> <fw type="pageNum" place="top-right">37</fw>
                   <lb n="2"/>Fit pullus <hi rend="grave">a</hi> nido volans, qui iter<hi rend="grave">u</hi>m cadit in nidum.
@@ -77,7 +77,7 @@
             
            <fw type="gathering">E 3</fw> <fw type="catchword" place="bottom-right">Quod</fw>
             
-            <div type="discourse">
+            <div type="discourse" xml:lang="la">
                <pb n="38"/>
                <head><fw type="pageNum" place="top-left">38</fw> <hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="7">VII</num>.</head>
                   <ab>

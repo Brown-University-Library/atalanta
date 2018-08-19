@@ -33,7 +33,7 @@
                <lb n="4"/><persName><hi rend="latin">Hermetis</hi></persName>, und das stinckende Wassser.
             </head>
             
-            <div type="fugue">
+            <div type="fugue" xml:lang="de">
                <head>
                   
                </head>
@@ -55,7 +55,7 @@
             
             <pb n="157"/>
             
-            <div type="image-caption">
+            <div type="image" xml:lang="la">
                <head>
                   <lb n="1"/>Emblema <num value="37" type="cardinal">XXXVII</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>. <fw type="pageNum" place="top-right">157</fw>
                   <lb n="2"/>Tria sufficiunt ad magisterium, fumus, albus, hoc est, aqua, leo

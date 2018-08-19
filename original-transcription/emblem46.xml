@@ -32,7 +32,7 @@
                <lb n="3"/>kommen zusammen.
             </head>
             
-            <div type="fugue">
+            <div type="fugue" xml:lang="de">
                <head>
                   
                </head>
@@ -54,7 +54,7 @@
             
             <pb n="193"/>
             
-            <div type="image-caption">
+            <div type="image" xml:lang="la">
                <head>
                   <lb n="1"/>Emblema <num value="46" type="cardinal">XLVI</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>. <fw type="pageNum" place="top-right">193</fw>
                   <lb n="2"/>Aquil<hi rend="ligature">ae</hi> du<hi rend="ligature">ae</hi>, una ab ortu, altera ab occasu conveniunt.

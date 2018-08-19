@@ -32,7 +32,7 @@
                <lb n="3"/>Glüenden Schwerdt.
             </head>
             
-            <div type="fugue">
+            <div type="fugue" xml:lang="de">
                <head>
                   
                </head>
@@ -54,7 +54,7 @@
             
             <pb n="41"/> 
             
-            <div type="image-caption">
+            <div type="image" xml:lang="la">
                <head>
                   <lb n="1"/>Emblema VIII.<hi rend="italic">De secretis Natur<hi rend="ligature">ae</hi></hi>. <fw type="pageNum" place="top-right">41</fw>
                   <lb n="2"/>Accipe ovum <g type="ampersand">et</g> igneo percute gladio.<!-- BC: how do we want to handle ligatures? -->
@@ -77,7 +77,7 @@
             
            <fw type="gathering">F</fw> <fw type="catchword" place="bottom-right">Multa</fw>
             
-            <div type="discourse">
+            <div type="discourse" xml:lang="la">
                <pb n="42"/>
                <head><fw type="pageNum" place="top-left">42</fw> <hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="8">VIII</num>,</head>
                   <ab>

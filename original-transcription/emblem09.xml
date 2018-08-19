@@ -33,7 +33,7 @@
                <lb n="4"/>wirt sich erjungen.
             </head>
             
-            <div type="fugue">
+            <div type="fugue" xml:lang="de">
                <head>
                   
                </head>
@@ -55,7 +55,7 @@
             
             <pb n="45"/> 
             
-            <div type="image-caption">
+            <div type="image" xml:lang="la">
                <head>
                   <lb n="1"/>Emblema IX. <hi rend="italic">De secretis Natur<hi rend="ligature">ae</hi></hi>.<!-- BC: how do we want to handle ligatures? --> <fw type="pageNum" place="top-right">45</fw>
                   <lb n="2"/>Arborem cum sene conclude in rorida domo, <g type="ampersand">et</g> comedens
@@ -79,7 +79,7 @@
             
            <fw type="gathering">F 3</fw> <fw type="catchword" place="bottom-right">Qu<hi rend="ligature">ae</hi></fw>
             
-            <div type="discourse">
+            <div type="discourse" xml:lang="la">
                <pb n="46"/>
                <head><fw type="pageNum" place="top-left">46</fw> <hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="9">IX</num>.</head>
                   <ab>

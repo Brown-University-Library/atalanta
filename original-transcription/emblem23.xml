@@ -31,7 +31,7 @@
                <lb n="3"/>und die Sonn beij <persName><hi rend="latin">Venere</hi></persName> ligt.
             </head>
             
-            <div type="fugue">
+            <div type="fugue" xml:lang="de">
                <head>
                   
                </head>
@@ -53,7 +53,7 @@
             
             <pb n="101"/>
             
-            <div type="image-caption">
+            <div type="image" xml:lang="la">
                <head>
                   <lb n="1"/>Emblema XXIII. De Secretis Natur<hi rend="ligature">ae</hi>.<!-- BC: how do we want to handle ligatures? --> <fw type="pageNum" place="top-right">101</fw>
                   <lb n="2"/>Aurum pluit, dum nascitur <persName>Pallas</persName> <placeName>Rhodi</placeName>, <g type="ampersand">et</g> <persName>Sol</persName> concumbit <persName>Veneri</persName>.

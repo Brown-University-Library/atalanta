@@ -33,7 +33,7 @@
                <lb n="4"/>roht gefärbet.
             </head>
             
-            <div type="fugue">
+            <div type="fugue" xml:lang="de">
                <head>
                   
                </head>
@@ -55,7 +55,7 @@
             
             <pb n="173"/>
             
-            <div type="image-caption">
+            <div type="image" xml:lang="la">
                <head>
                   <lb n="1"/>Emblema <num value="41" type="cardinal">XLI</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>. <fw type="pageNum" place="top-right">173</fw>
                   <lb n="2"/><persName>Adonis</persName> ab apro occiditur, cui <persName type="divinity">Venus</persName> accurrens tinxit

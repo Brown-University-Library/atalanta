@@ -31,7 +31,7 @@
                <lb n="2"/>Dieser Löw keine Federn <pc>/</pc>aber jener hat.
             </head>
             
-            <div type="fugue">
+            <div type="fugue" xml:lang="de">
                <head>
                   
                </head>
@@ -53,7 +53,7 @@
             
             <pb n="73"/>
             
-            <div type="image-caption">
+            <div type="image" xml:lang="la">
                <head>
                   <lb n="1"/>Emblema XVI. De Secretis Natur<hi rend="ligature">ae</hi>.<!-- BC: how do we want to handle ligatures? --> <fw type="pageNum" place="top-right">73</fw>
                   <lb n="2"/>Hic leo, quas plumas non habet, alter habet.
