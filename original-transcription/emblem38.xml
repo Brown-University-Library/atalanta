@@ -18,6 +18,7 @@
      <revisionDesc>
         <change when="2018-03-15" who="SJD">Start encoding</change>
         <change when="2018-03-15" who="SJD">Finish draft</change>
+        <change when="2018-08-18" who="EM">structural changes. See Github.</change> 
      </revisionDesc>
   </teiHeader>
    
@@ -25,9 +26,10 @@
   <text>
       <body>
          <div type="emblem" n="e38">
-            <pb n="160"/>
+            <pb n="160" edRef="Maier1618"/>
             <head>
-               <lb n="1"/><fw type="pageNum" place="top-left">160</fw> FUGA <num value="38" type="cardinal">XXXVIII</num>. in <num value="7">7</num>. suprà.
+               <lb n="1"/><fw type="pageNum" place="top-left">160</fw> <fw type="header" place="top-center">FUGA <num value="38" type="cardinal">XXXVIII</num>. in <num value="7">7</num>. suprà.</fw>
+
                <lb n="2"/>Das <persName><hi rend="latin">Rebis</hi></persName> wie ein <hi rend="latin">Hermaphrodit</hi> wirt gebohren auß
                <lb n="3"/>zween Bergen deß <persName type="divinity"><hi rend="latin">Mercurii</hi></persName> und <persName type="divinit"><hi rend="latin">Veneris</hi></persName>.
             </head>
@@ -52,19 +54,18 @@
             </div>
             <fw type="catchword">Emble-</fw>
             
-            <pb n="161"/>
+            <pb n="161" edRef="Maier1618"/>
             
             <div type="image" xml:lang="la">
                <head>
-                  <lb n="1"/>Emblema <num value="38" type="cardinal">XXXVIII</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>. <fw type="pageNum" place="top-right">161</fw>
+                  <fw type="header" place="top-center">Emblema <num value="38" type="cardinal">XXXVIII</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw> <fw type="pageNum" place="top-right">161</fw>
                   <lb n="2"/><persName>Rebis</persName>, ut <persName>Hermaphroditus</persName>, nascitur ex duobus montibus,
                   <lb n="3"/><persName type="divinity">Mercurii</persName> <g type="ampersand">et</g> <persName type="divinity">Veneris</persName>.
                </head>
+               <figure><graphic url=""></graphic></figure>
+
                
-            </div>
-            
-            <figure><graphic url=""></graphic></figure>
-            
+            </div>            
             <div type="epigram" xml:lang="la">
                <head>Epigramma <num value="38" type="cardinal">XXXVIII</num>.</head>
                <lg>
@@ -80,7 +81,7 @@
             <fw type="gathering" place="bottom-right">X</fw> <fw type="catchword" place="bottom-right">So-</fw>
             
             <div type="discourse" xml:lang="la">
-               <pb n="162"/>
+               <pb n="162" edRef="Maier1618"/>
                <head><fw type="pageNum" place="top-left"><choice><sic>163</sic><corr>162</corr></choice></fw> <hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="38">XXXVIII</num>.</head>
                   <ab>
                      <lb n="1"/><milestone unit="section" n="e38-01"/><persName ref="https://viaf.org/viaf/88039167">Socrates</persName> interrogatus, cujas esset, Cosmopolitam seu mundi
@@ -118,7 +119,7 @@
                      <lb n="33" break="no"/>gistris, hanc rem, hoc est, <expan><abbr>natal<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> <expan><abbr>loc<hi rend="tilde">u</hi></abbr><ex>m</ex></expan>, <persName>Rebis</persName> didicerit <g type="ampersand">et</g> <expan><abbr>cor<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> viderit<supplied reason="omitted">.</supplied>
                   </ab>
                   <fw type="catchword" place="bottom-right">Non</fw>
-               <pb n="163"/>
+               <pb n="163" edRef="Maier1618"/>
                <head><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="38">XXXVIII</num>. <fw type="pageNum" place="top-right">163</fw></head>
                   <ab>
                      <lb n="1"/><milestone unit="section" n="e38-10"/>Non minori assiduitate <g type="ampersand">et</g> diligentia uti debent illi, qui patriam <persName>Re

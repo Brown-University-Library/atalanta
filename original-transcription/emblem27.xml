@@ -17,6 +17,7 @@
       </fileDesc>
      <revisionDesc>
         <change when="2018-02-06" who="SJD">Start encoding</change>
+        <change when="2018-08-18" who="EM">structural changes. See Github.</change> 
      </revisionDesc>
   </teiHeader>
    
@@ -24,9 +25,10 @@
   <text>
       <body>
          <div type="emblem" n="e27">
-            <pb n="116"/>
+            <pb n="116" edRef="Maier1618"/>
             <head>
-               <lb n="1"/><fw type="pageNum" place="top-left">116</fw> FUGA <num value="27" type="cardinal">XXVII</num>. in <num value="8">8</num>. suprà.
+               <lb n="1"/><fw type="pageNum" place="top-left">116</fw> <fw type="header" place="top-center">FUGA <num value="27" type="cardinal">XXVII</num>. in <num value="8">8</num>. suprà.</fw>
+
                <lb n="2"/>Welcher n der Philosophen Rosen Garten wil gehen ohne
                <lb n="3"/>den Schlüssel <pc>/</pc> ist gleich einem Manne <pc>/</pc> der gehen wil
                <lb n="4"/>ohne Füssen.
@@ -52,19 +54,18 @@
             </div>
             <fw type="catchword">Emble-</fw>
             
-            <pb n="117"/>
+            <pb n="117" edRef="Maier1618"/>
             
             <div type="image" xml:lang="la">
                <head>
-                  <lb n="1"/>Emblema <num value="27" type="cardinal">XXVII</num>. De Secretis Natur<hi rend="ligature">ae</hi>.<!-- BC: how do we want to handle ligatures? --> <fw type="pageNum" place="top-right">117</fw>
+                  <fw type="header" place="top-center">Emblema <num value="27" type="cardinal">XXVII</num>. De Secretis Natur<hi rend="ligature">ae</hi>.</fw> <fw type="pageNum" place="top-right">117</fw>
                   <lb n="2"/>Qui Rosarium intrare conatur Philosophicum absque clave,
                   <lb n="3"/>assimilatur homini ambulare volenti <expan><abbr>absq<am>;</am></abbr><ex>ue</ex></expan> pedibus:
                </head>
+               <figure><graphic url=""></graphic></figure>
+
                
-            </div>
-            
-            <figure><graphic url=""></graphic></figure>
-            
+            </div>            
             <div type="epigram" xml:lang="la">
                <head>Epigramma <num value="27" type="cardinal">XXVII</num>.</head>
                <lg>
@@ -80,7 +81,7 @@
             <fw type="gathering" place="bottom-right">P 3</fw> <fw type="catchword" place="bottom-right">De</fw>
             
             <div type="discourse" xml:lang="la">
-               <pb n="118"/>
+               <pb n="118" edRef="Maier1618"/>
                <head><fw type="pageNum" place="top-left"><supplied reason="omitted">1</supplied>18</fw> <hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="27">XXVII</num>.</head>
                   <ab>
                      <lb n="1"/><milestone unit="section" n="e27-01"/>De <persName>Erichthonio</persName> <expan><abbr>scrib<hi rend="tilde">u</hi></abbr><ex>n</ex><abbr>t</abbr></expan>, eum ex semine <persName>Vulcani</persName> cum <persName>Pallade</persName> sa
@@ -119,7 +120,7 @@
                      <lb break="no"/>
                   </ab>
                   <fw type="catchword" place="bottom-right">pten</fw>
-               <pb n="119"/>
+               <pb n="119" edRef="Maier1618"/>
                <head><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="27">XXVII</num>. <fw type="pageNum" place="top-right">119</fw></head>
                   <ab>
                      <lb n="1"/>ptentrionali rever<hi rend="grave">a</hi> inveniet si signa bene numerare <g type="ampersand">et</g> discernere

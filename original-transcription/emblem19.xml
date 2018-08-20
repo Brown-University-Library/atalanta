@@ -17,6 +17,7 @@
       </fileDesc>
      <revisionDesc>
         <change when="2018-01-14" who="SJD">Start encoding</change>
+        <change when="2018-08-18" who="EM">structural changes. See Github.</change> 
      </revisionDesc>
   </teiHeader>
    
@@ -24,9 +25,10 @@
   <text>
       <body>
          <div type="emblem" n="e19">
-            <pb n="84"/>
+            <pb n="84" edRef="Maier1618"/>
             <head>
-               <lb n="1"/><fw type="pageNum" place="top-left">84</fw> FUGA XIX. in 6. infrà.
+               <lb n="1"/><fw type="pageNum" place="top-left">84</fw> <fw type="header" place="top-center">FUGA XIX. in 6. infrà.</fw>
+
                <lb n="2"/>So du von vieren ein ertödest <pc>/</pc> bald werden
                <lb n="3"/>sie sterben all.
             </head>
@@ -51,18 +53,17 @@
             </div>
             <fw type="catchword">Emble-</fw>
             
-            <pb n="85"/>
+            <pb n="85" edRef="Maier1618"/>
             
             <div type="image" xml:lang="la">
                <head>
-                  <lb n="1"/>Emblema XIX. De Secretis Natur<hi rend="ligature">ae</hi>.<!-- BC: how do we want to handle ligatures? --> <fw type="pageNum" place="top-right">85</fw>
+                  <fw type="header" place="top-center">Emblema XIX. De Secretis Natur<hi rend="ligature">ae</hi>.</fw> <fw type="pageNum" place="top-right">85</fw>
                   <lb n="2"/>Si de quattuor unum Occidas, subit<hi rend="grave">o</hi> mortuus omnis erit.
                </head>
+               <figure><graphic url=""></graphic></figure>
+
                
-            </div>
-            
-            <figure><graphic url=""></graphic></figure>
-            
+            </div>            
             <div type="epigram" xml:lang="la">
                <head>Epigramma XIX.</head>
                <lg>
@@ -78,7 +79,7 @@
             <fw type="gathering" place="bottom-right">L 3</fw> <fw type="catchword" place="bottom-right">Poët<hi rend="ligature">ae</hi></fw>
             
             <div type="discourse" xml:lang="la">
-               <pb n="86"/>
+               <pb n="86" edRef="Maier1618"/>
                <head><fw type="pageNum" place="top-left">86</fw> <hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="19">XIX</num>.</head>
                   <ab>
                      <lb n="1"/><milestone unit="section" n="e19-01"/>Poët<hi rend="ligature">ae</hi> fingunt <persName>Geryonem</persName> <placeName>Hispani<hi rend="ligature">ae</hi></placeName> regem tricorporem exti
@@ -116,7 +117,7 @@
                      <lb n="33"/>quia non sol<hi rend="grave">u</hi>m animis, sed <g type="ampersand">et</g> corporis <expan><abbr>artub<am>.</am></abbr><ex>us</ex></expan> coh<hi rend="ligature">ae</hi>reant, vel mentis
                   </ab>
                   <fw type="catchword" place="bottom-right">conster-</fw>
-               <pb n="87"/>
+               <pb n="87" edRef="Maier1618"/>
                <head><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="19">XIX</num>. <fw type="pageNum" place="top-right"><choice><sic>67</sic><corr>87</corr></choice></fw></head>
                   <ab>
                      <lb n="1"/>consternatione, forti imaginatione in pestifera lue, vel ex f<hi rend="ligature">oe</hi>deris

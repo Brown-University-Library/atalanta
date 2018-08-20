@@ -17,6 +17,7 @@
       </fileDesc>
      <revisionDesc>
         <change when="2018-01-14" who="SJD">Start encoding</change>
+        <change when="2018-08-18" who="EM">structural changes. See Github.</change> 
      </revisionDesc>
   </teiHeader>
    
@@ -24,9 +25,10 @@
   <text>
       <body>
          <div type="emblem" n="e18">
-            <pb n="80"/>
+            <pb n="80" edRef="Maier1618"/>
             <head>
-               <lb n="1"/><fw type="pageNum" place="top-left">80</fw> FUGA XVIII. in 7. suprà.
+               <lb n="1"/><fw type="pageNum" place="top-left">80</fw> <fw type="header" place="top-center">FUGA XVIII. in 7. suprà.</fw>
+
                <lb n="2"/>Das Feiuer macht feiurig <pc>/</pc> nicht güldin <pc>/</pc>
                <lb n="3"/>sondern das Gold.
             </head>
@@ -51,18 +53,17 @@
             </div>
             <fw type="catchword">Emble-</fw>
             
-            <pb n="81"/>
+            <pb n="81" edRef="Maier1618"/>
             
             <div type="image" xml:lang="la">
                <head>
-                  <lb n="1"/>Emblema XVIII. De Secretis Natur<hi rend="ligature">ae</hi>.<!-- BC: how do we want to handle ligatures? --> <fw type="pageNum" place="top-right">81</fw>
+                  <fw type="header" place="top-center">Emblema XVIII. De Secretis Natur<hi rend="ligature">ae</hi>.</fw> <fw type="pageNum" place="top-right">81</fw>
                   <lb n="2"/>Ignire ignis amat, non aurificare, sed aurum:
                </head>
+               <figure><graphic url=""></graphic></figure>
+
                
-            </div>
-            
-            <figure><graphic url=""></graphic></figure>
-            
+            </div>            
             <div type="epigram" xml:lang="la">
                <head>Epigramma XVIII.</head>
                <lg>
@@ -78,7 +79,7 @@
             <fw type="gathering" place="bottom-right">L</fw> <fw type="catchword" place="bottom-right">Natur<hi rend="ligature">ae</hi></fw>
             
             <div type="discourse" xml:lang="la">
-               <pb n="82"/>
+               <pb n="82" edRef="Maier1618"/>
                <head><fw type="pageNum" place="top-left">82</fw> <hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi>. <num value="18">XVIII</num>.</head>
                   <ab>
                      <lb n="1"/><milestone unit="section" n="e18-01"/>Natur<hi rend="ligature">ae</hi> <expan><abbr>oper<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>di</abbr></expan> ratio est in <expan><abbr>omnib<am>.</am></abbr><ex>us</ex></expan> universi individuis, ut sim
@@ -116,7 +117,7 @@
                      <lb n="33" break="no"/>xit <g type="ampersand">et</g> sustinuit, <expan><abbr><hi rend="stroke">q</hi></abbr><ex>uod</ex></expan> impossibile fuisset, nisi vis auctior <g type="ampersand">et</g> fortior reddita
                   </ab>
                   <fw type="catchword" place="bottom-right">in</fw>
-               <pb n="83"/>
+               <pb n="83" edRef="Maier1618"/>
                <head><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi>. <num value="18">XVIII</num>. <fw type="pageNum" place="top-right">83</fw></head>
                   <ab>
                      <lb n="1"/>in eo extitisset; <milestone unit="section" n="e18-12"/>quuod absque dubio per revocationem dispersarum

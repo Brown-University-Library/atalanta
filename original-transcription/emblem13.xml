@@ -18,6 +18,7 @@
      <revisionDesc>
         <change when="2018-03-15" who="SJD">Created</change>
         <change when="2018-03-15" who="SJD">Completed draft</change>
+        <change when="2018-08-18" who="EM">structural changes. See Github.</change> 
      </revisionDesc>
   </teiHeader>
    
@@ -25,9 +26,10 @@
   <text>
       <body>
          <div type="emblem" n="e13">
-            <pb n="60"/>
+            <pb n="60" edRef="Maier1618"/>
             <head>
-               <lb n="1"/><fw type="pageNum" place="top-left">60</fw> FUGA XIII. in <num value="4">4</num>. seu <num value="11">11</num>. supr<hi rend="grave">a</hi>.
+               <lb n="1"/><fw type="pageNum" place="top-left">60</fw> <fw type="header" place="top-center">FUGA XIII. in <num value="4">4</num>. seu <num value="11">11</num>. supr<hi rend="grave">a</hi>.</fw>
+
                <lb n="2"/>Das Erz der Weisen ist wassersüchtig <pc>/</pc> und wil gebadet
                <lb n="3"/>seijn siebenmal im Fluß <pc>/</pc> wie der aussenzige <persName><hi rend="latin">Naaman</hi></persName>
                <lb n="4"/>im <placeName>Jordan</placeName>.
@@ -53,18 +55,17 @@
             </div>
             <fw type="catchword" place="bottom-right">Emble-</fw>
             
-            <pb n="61"/> 
+            <pb n="61" edRef="Maier1618"/> 
             
             <div type="image" xml:lang="la">
                <head>
-                  <lb n="1"/>Emblema XIII. <hi rend="italic">De secretis Natur<hi rend="ligature">ae</hi></hi>.<!-- BC: how do we want to handle ligatures? --> <fw type="pageNum" place="top-right">61</fw>
+                  <fw type="header" place="top-center">Emblema XIII. <hi rend="italic">De secretis Natur<hi rend="ligature">ae</hi></hi>.</fw> <fw type="pageNum" place="top-right">61</fw>
                   <lb n="2"/><hi rend="ligature">Ae</hi>s Philosophorum hydropicum est, <g type="ampersand">et</g> vul lavari septies in
                   <lb n="3"/>fluvio, ut <persName>Naaman</persName> leprosus in <placeName>Jordane</placeName>.
                </head>
-            </div>
-            
-            <figure><graphic url=""></graphic></figure>
-            
+               <figure><graphic url=""></graphic></figure>
+
+            </div>            
             <div type="epigram" xml:lang="la">
                <head>Epigramma XIII.</head>
                <lg>
@@ -80,7 +81,7 @@
            <fw type="gathering">H 3</fw> <fw type="catchword" place="bottom-right">Quod</fw>
             
             <div type="discourse" xml:lang="la">
-               <pb n="62"/>
+               <pb n="62" edRef="Maier1618"/>
                <head><fw type="pageNum" place="top-left"><choice><corr>62</corr><sic>61</sic></choice></fw> <hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="13">XIII</num>.</head>
                   <ab>
                      <lb n="1"/><milestone unit="section" n="e13-01"/>Quod <persName>Naaman</persName> <orgName>Syrus</orgName> ex Prophet<hi rend="ligature">ae</hi> jussu in <placeName>Jud<hi rend="ligature">ae</hi>am</placeName> se contule
@@ -120,7 +121,7 @@
                   </ab>
                <fw type="catchword" place="bottom-right">abluen-</fw>
                   
-               <pb n="63"/>
+               <pb n="63" edRef="Maier1618"/>
                <head><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="13">XIII</num>. <fw type="pageNum" place="top-right">63</fw></head>
                   <ab>
                      <lb n="1"/>abluendum <hi rend="grave">a</hi> superfluis suis <expan><abbr>humiditatib<am>.</am></abbr><ex>us</ex></expan> id est, <expan><abbr>exiccand<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> erit: <milestone unit="section" n="e13-12"/>De

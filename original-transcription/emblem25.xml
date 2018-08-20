@@ -18,6 +18,7 @@
      <revisionDesc>
         <change when="2018-02-03" who="SJD">Start encoding</change>
         <change when="2018-02-06" who="SJD">Draft finished</change>
+        <change when="2018-08-18" who="EM">structural changes. See Github.</change> 
      </revisionDesc>
   </teiHeader>
    
@@ -25,9 +26,10 @@
   <text>
       <body>
          <div type="emblem" n="e25">
-            <pb n="108"/>
+            <pb n="108" edRef="Maier1618"/>
             <head>
-               <lb n="1"/><fw type="pageNum" place="top-left">108</fw> FUGA XXV. in 5. seu 12. infrà.
+               <lb n="1"/><fw type="pageNum" place="top-left">108</fw> <fw type="header" place="top-center">FUGA XXV. in 5. seu 12. infrà.</fw>
+
                <lb n="2"/>DerDrache stirbet nicht <pc>/</pc> er werde dann von seinem Bruder
                <lb n="3"/>und Schwester getödtet <pc>/</pc> welche seijnd Sonn und Mond.
             </head>
@@ -52,7 +54,7 @@
             </div>
             <fw type="catchword">Emble-</fw>
             
-            <pb n="109"/>
+            <pb n="109" edRef="Maier1618"/>
             
             <div type="image" xml:lang="la">
                <head>
@@ -61,10 +63,7 @@
                   <lb n="3" break="no"/>ficiatur, qui sunt <persName>Sol</persName> <g type="ampersand">et</g> <persName>Luna</persName>. 
                </head>
                
-            </div>
-            
-            <figure><graphic url=""></graphic></figure>
-            
+            </div>            
             <div type="epigram" xml:lang="la">
                <head>Epigramma XXV.</head>
                <lg>
@@ -80,7 +79,7 @@
             <fw type="gathering" place="bottom-right">O 3</fw> <fw type="catchword" place="bottom-right">In</fw>
             
             <div type="discourse" xml:lang="la">
-               <pb n="110"/>
+               <pb n="110" edRef="Maier1618"/>
                <head><fw type="pageNum" place="top-left">110</fw> <hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="25">XXV</num>.</head>
                   <ab>
                      <lb n="1"/><milestone unit="section" n="e25-01"/>In occupatione aurei velleris Draco omnium prim<hi rend="grave">o</hi> <expan><abbr>interim<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>dus</abbr></expan>
@@ -119,7 +118,7 @@
                      <lb break="no"/>
                   </ab>
                   <fw type="catchword" place="bottom-right">nus</fw>
-               <pb n="111"/>
+               <pb n="111" edRef="Maier1618"/>
                <head><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="25">XXV</num>. <fw type="pageNum" place="top-right">111</fw></head>
                   <ab>
                      <lb n="1"/>nus: <milestone unit="section" n="e25-15"/><persName><hi rend="ligature">Ae</hi>sculapio</persName> <persName>Apollinis</persName> filio, medicin<hi rend="ligature">ae</hi> inventori (Medicin<hi rend="ligature">ae</hi> <expan><abbr>Phi

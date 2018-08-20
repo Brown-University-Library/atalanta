@@ -18,6 +18,7 @@
      <revisionDesc>
         <change when="2018-03-13" who="SJD">Start encoding</change>
         <change when="2018-03-13" who="SJD">Finish draft</change>
+        <change when="2018-08-18" who="EM">structural changes. See Github.</change> 
      </revisionDesc>
   </teiHeader>
    
@@ -25,9 +26,10 @@
   <text>
       <body>
          <div type="emblem" n="e35">
-            <pb n="148"/>
+            <pb n="148" edRef="Maier1618"/>
             <head>
-               <lb n="1"/><fw type="pageNum" place="top-left">148</fw> FUGA <num value="35" type="cardinal">XXXV</num>. in <num value="7">7</num> suprà.
+               <lb n="1"/><fw type="pageNum" place="top-left">148</fw> <fw type="header" place="top-center">FUGA <num value="35" type="cardinal">XXXV</num>. in <num value="7">7</num> suprà.</fw>
+
                <lb n="2"/>Wie <persName type="divinity"><hi rend="latin">Ceres</hi></persName> <persName><hi rend="latin">Triptolemum</hi></persName>, die <persName type="divinity"><hi rend="latin">Thetis</hi></persName> <persName><hi rend="latin">Achillem</hi></persName> unterm
                <lb n="3"/>Feiur zu tawren gewehnet hat <pc>/</pc> also sol der Künstler
                <lb n="4"/>den Stein gewehnen.
@@ -53,19 +55,18 @@
             </div>
             <fw type="catchword">Emble-</fw>
             
-            <pb n="149"/>
+            <pb n="149" edRef="Maier1618"/>
             
             <div type="image" xml:lang="la">
                <head>
-                  <lb n="1"/>Emblema <num value="35" type="cardinal">XXXV</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>. <fw type="pageNum" place="top-right">149</fw>
+                  <fw type="header" place="top-center">Emblema <num value="35" type="cardinal">XXXV</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw> <fw type="pageNum" place="top-right">149</fw>
                   <lb n="2"/><persName type="divinity">Ceres</persName> <persName>Triptolemum</persName>, <persName type="divinity">Thetis</persName> <persName>Achillem</persName>, sub igne
                   <lb n="3"/>morari assuescit, sic artifex lapidem.
                </head>
+               <figure><graphic url=""></graphic></figure>
+
                
-            </div>
-            
-            <figure><graphic url=""></graphic></figure>
-            
+            </div>            
             <div type="epigram" xml:lang="la">
                <head>Epigramma <num value="35" type="cardinal">XXXV</num>.</head>
                <lg>
@@ -81,7 +82,7 @@
             <fw type="gathering" place="bottom-right">T 3</fw> <fw type="catchword" place="bottom-right">Ly-</fw>
             
             <div type="discourse" xml:lang="la">
-               <pb n="150"/>
+               <pb n="150" edRef="Maier1618"/>
                <head><fw type="pageNum" place="top-left">150</fw> <hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="35">XXXV</num>.</head>
                   <ab>
                      <lb n="1"/><milestone unit="section" n="e35-01"/><persName>Lycurgus</persName> ille <orgName>Spartanorum</orgName> legislator, quantum consuetudo
@@ -119,7 +120,7 @@
                      <lb n="33"/>interemit, <g type="ampersand">et</g> puero <persName>Triptolemo</persName> currum donavit, <expan><abbr>anguib<am>.</am></abbr><ex>us</ex></expan> tractum,
                   </ab>
                   <fw type="catchword" place="bottom-right">quo</fw>
-               <pb n="151"/>
+               <pb n="151" edRef="Maier1618"/>
                <head><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="35">XXXV</num>. <fw type="pageNum" place="top-right">151</fw></head>
                   <ab>
                      <lb n="1"/>quo ille per aërem in omnes mundi partes contendit, <g type="ampersand">et</g> mortales

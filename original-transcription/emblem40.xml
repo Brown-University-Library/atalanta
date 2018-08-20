@@ -18,6 +18,7 @@
      <revisionDesc>
         <change when="2018-03-16" who="SJD">Start encoding</change>
         <change when="2018-03-16" who="SJD">Finish draft</change>
+        <change when="2018-08-18" who="EM">structural changes. See Github.</change> 
      </revisionDesc>
   </teiHeader>
    
@@ -25,9 +26,10 @@
   <text>
       <body>
          <div type="emblem" n="e40">
-            <pb n="168"/>
+            <pb n="168" edRef="Maier1618"/>
             <head>
-               <lb n="1"/><fw type="pageNum" place="top-left">168</fw> FUGA <num value="40" type="cardinal">XL</num>. in <num value="6">6</num>. infrà.
+               <lb n="1"/><fw type="pageNum" place="top-left">168</fw> <fw type="header" place="top-center">FUGA <num value="40" type="cardinal">XL</num>. in <num value="6">6</num>. infrà.</fw>
+
                <lb n="2"/>Auß zweijen Wassern mach eins <pc>/</pc> und es wirt seijn
                <lb n="3"/>das Wasser der Gesundheit.
             </head>
@@ -52,18 +54,17 @@
             </div>
             <fw type="catchword">Emble-</fw>
             
-            <pb n="169"/>
+            <pb n="169" edRef="Maier1618"/>
             
             <div type="image" xml:lang="la">
                <head>
-                  <lb n="1"/>Emblema <num value="40" type="cardinal">XL</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>. <fw type="pageNum" place="top-right">169</fw>
+                  <fw type="header" place="top-center">Emblema <num value="40" type="cardinal">XL</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw> <fw type="pageNum" place="top-right">169</fw>
                   <lb n="2"/>Ex duabus aquis, fac unam, <g type="ampersand">et</g> erit aqua sanctitatis.
                </head>
+               <figure><graphic url=""></graphic></figure>
+
                
-            </div>
-            
-            <figure><graphic url=""></graphic></figure>
-            
+            </div>            
             <div type="epigram" xml:lang="la">
                <head>Epigramma <num value="40" type="cardinal">XL</num>.</head>
                <lg>
@@ -79,7 +80,7 @@
             <fw type="gathering" place="bottom-right">Y</fw> <fw type="catchword" place="bottom-right">Tot</fw>
             
             <div type="discourse" xml:lang="la">
-               <pb n="170"/>
+               <pb n="170" edRef="Maier1618"/>
                <head><fw type="pageNum" place="top-left">170</fw> <hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi>. <num value="40">XL</num>.</head>
                   <ab>
                      <lb n="1"/><milestone unit="section" n="e40-01"/>Tot <g type="ampersand">et</g> tanta sunt aquarum miracula, ut vix magno volumine
@@ -117,7 +118,7 @@
                      <lb n="33" break="no"/>nerarum virtutibus confundit <g type="ampersand">et</g> miscet, qu<hi rend="ligature">ae</hi> plurimis <hi rend="ligature">ae</hi>gris sint
                   </ab>
                   <fw type="catchword" place="bottom-right">saluti-</fw>
-               <pb n="171"/>
+               <pb n="171" edRef="Maier1618"/>
                <head><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="40">XL</num>. <fw type="pageNum" place="top-right"><choice><sic>155</sic><corr>171</corr></choice></fw></head>
                   <ab>
                      <lb n="1"/>salutifer<hi rend="ligature">ae</hi>, sed si ars accedat cum debito regimine, pr<hi rend="ligature">ae</hi>missis univer

@@ -18,6 +18,7 @@
      <revisionDesc>
         <change when="2018-03-17" who="SJD">Start encoding</change>
         <change when="2018-03-18" who="SJD">Finish draft</change>
+        <change when="2018-08-18" who="EM">structural changes. See Github.</change> 
      </revisionDesc>
   </teiHeader>
    
@@ -25,9 +26,10 @@
   <text>
       <body>
          <div type="emblem" n="e44">
-            <pb n="184"/>
+            <pb n="184" edRef="Maier1618"/>
             <head>
-               <lb n="1"/><fw type="pageNum" place="top-left">184</fw> FUGA <num value="44" type="cardinal">XLIV</num>. in <num value="5">5</num>. seu <num value="12">12</num> suprà. Basi sola proportione existente.
+               <lb n="1"/><fw type="pageNum" place="top-left">184</fw> <fw type="header" place="top-center">FUGA <num value="44" type="cardinal">XLIV</num>. in <num value="5">5</num>. seu <num value="12">12</num> suprà. Basi sola proportione existente.</fw>
+
                <lb n="2"/>Durch Betrug <persName type="divinity"><hi rend="latin">Typhon</hi></persName> <persName type="divinity"><hi rend="latin">Osirim</hi></persName> tödtet <pc>/</pc> und seine Glieder
                <lb n="3"/>zerstrewet <pc>/</pc> welche widerumb zusammen bringt die <persName type="divinity"><hi rend="latin">Isis</hi></persName>,
                <lb n="4"/>so weit berümbt.
@@ -53,19 +55,18 @@
             </div>
             <fw type="catchword">Emble-</fw>
             
-            <pb n="185"/>
+            <pb n="185" edRef="Maier1618"/>
             
             <div type="image" xml:lang="la">
                <head>
-                  <lb n="1"/>Emblema <num value="44" type="cardinal">XLIV</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>. <fw type="pageNum" place="top-right">185</fw>
+                  <fw type="header" place="top-center">Emblema <num value="44" type="cardinal">XLIV</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw> <fw type="pageNum" place="top-right">185</fw>
                   <lb n="2"/>Dolo <persName type="divinity">Typhon</persName> <persName type="divinity">Osyridem</persName> trucidat, art<hi rend="acute">u</hi>sque illius
                   <lb n="3"/>Hinc inde dissipat, sed hos collegit <persName type="divinity">Isis</persName> inclyta.
                </head>
+               <figure><graphic url=""></graphic></figure>
+
                
-            </div>
-            
-            <figure><graphic url=""></graphic></figure>
-            
+            </div>            
             <div type="epigram" xml:lang="la">
                <head>Epigramma <num value="44" type="cardinal">XLIV</num>.</head>
                <lg>
@@ -81,7 +82,7 @@
             <fw type="gathering" place="bottom-right">Aa</fw> <fw type="catchword" place="bottom-right">Osyri-</fw>
             
             <div type="discourse" xml:lang="la">
-               <pb n="186"/>
+               <pb n="186" edRef="Maier1618"/>
                <head><fw type="pageNum" place="top-left">186</fw> <hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="44">XLIV</num>.</head>
                   <ab>
                      <lb n="1"/><milestone unit="section" n="e44-01"/><persName type="divinity">Osyridis</persName> allegoriam alibi, nempe in <num value="1" type="ordinal">1</num>. <expan><abbr>lib<am>.</am></abbr><ex>ro</ex></expan> <title><expan><abbr>Hieroglyph<am>.</am></abbr><ex>icorum</ex></expan></title> ad suam
@@ -119,7 +120,7 @@
                      <lb n="33" break="no"/>turandus in femore <persName type="divinity">Jovis</persName> patris, <persName type="divinity"><hi rend="ligature">Ae</hi>sculapius</persName> ex <persName>Coronide</persName> matre:
                   </ab>
                   <fw type="catchword" place="bottom-right">Diony-</fw>
-               <pb n="187"/>
+               <pb n="187" edRef="Maier1618"/>
                <head><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="44">XLIV</num>. <fw type="pageNum" place="top-right">187</fw></head>
                   <ab>
                      <lb n="1"/><milestone unit="section" n="e44-13"/><persName type="divinity">Dionysus</persName> adultus novam vini potionem monstrat hominibus <expan><abbr>usq<am>;</am></abbr><ex>ue</ex></expan>

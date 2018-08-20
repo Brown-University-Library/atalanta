@@ -18,6 +18,7 @@
      <revisionDesc>
         <change when="2018-03-15" who="SJD">Start encoding</change>
         <change when="2018-03-15" who="SJD">Finish draft</change>
+        <change when="2018-08-18" who="EM">structural changes. See Github.</change> 
      </revisionDesc>
   </teiHeader>
    
@@ -25,9 +26,10 @@
   <text>
       <body>
          <div type="emblem" n="e37">
-            <pb n="156"/>
+            <pb n="156" edRef="Maier1618"/>
             <head>
-               <lb n="1"/><fw type="pageNum" place="top-left">156</fw> FUGA <num value="37" type="cardinal">XXXVII</num>. in <num value="8">8</num> suprà.
+               <lb n="1"/><fw type="pageNum" place="top-left">156</fw> <fw type="header" place="top-center">FUGA <num value="37" type="cardinal">XXXVII</num>. in <num value="8">8</num> suprà.</fw>
+
                <lb n="2"/>Dreij Dinge seijnd genug zur Meisterschafft <pc>/</pc> der weisse
                <lb n="3"/>Rauch <pc>/</pc> das ist Wasser <pc>/</pc> der grüne Löw <pc>/</pc> das ist das Erz
                <lb n="4"/><persName><hi rend="latin">Hermetis</hi></persName>, und das stinckende Wassser.
@@ -53,19 +55,18 @@
             </div>
             <fw type="catchword">Emble-</fw>
             
-            <pb n="157"/>
+            <pb n="157" edRef="Maier1618"/>
             
             <div type="image" xml:lang="la">
                <head>
-                  <lb n="1"/>Emblema <num value="37" type="cardinal">XXXVII</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>. <fw type="pageNum" place="top-right">157</fw>
+                  <fw type="header" place="top-center">Emblema <num value="37" type="cardinal">XXXVII</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw> <fw type="pageNum" place="top-right">157</fw>
                   <lb n="2"/>Tria sufficiunt ad magisterium, fumus, albus, hoc est, aqua, leo
                   <lb n="3"/>viridis, id est, <hi rend="ligature">ae</hi>s <persName>Hermetis</persName>, <g type="ampersand">et</g> aqua f<hi rend="ligature">oe</hi>tida.
                </head>
+               <figure><graphic url=""></graphic></figure>
+
                
-            </div>
-            
-            <figure><graphic url=""></graphic></figure>
-            
+            </div>            
             <div type="epigram" xml:lang="la">
                <head>Epigramma <num value="37" type="cardinal">XXXVII</num>.</head>
                <lg>
@@ -81,7 +82,7 @@
             <fw type="gathering" place="bottom-right">V 3</fw> <fw type="catchword" place="bottom-right">Ut</fw>
             
             <div type="discourse" xml:lang="la">
-               <pb n="158"/>
+               <pb n="158" edRef="Maier1618"/>
                <head><fw type="pageNum" place="top-left">158</fw> <hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="37">XXXVII</num>.</head>
                   <ab>
                      <lb n="1"/><milestone unit="section" n="e37-01"/>Ut tria essentialia ad cujusque <hi rend="ligature">ae</hi>dificii constructionem requirun
@@ -120,7 +121,7 @@
                      <lb n="34"/>Miscebat, <expan><abbr><g type="ampersand">et</g>c<am>.</am></abbr><ex>aetera</ex></expan>.</quote>
                   </ab>
                   <fw type="catchword" place="bottom-right">Post</fw>
-               <pb n="159"/>
+               <pb n="159" edRef="Maier1618"/>
                <head><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="37">XXXVII</num>. <fw type="pageNum" place="top-right">159</fw></head>
                   <ab>
                      <lb n="1"/><milestone unit="section" n="e37-11"/>Post aquam f<hi rend="ligature">oe</hi>tidam Leo viridis occurrit: de quo <title ref="http://viaf.org/viaf/191597728">Rosarius</title>, qu<hi rend="ligature">ae</hi>si

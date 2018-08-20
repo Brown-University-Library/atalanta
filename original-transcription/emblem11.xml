@@ -18,6 +18,7 @@
      <revisionDesc>
         <change when="2017-07-12" who="SJD">Created</change>
         <change when="2017-07-12" who="SJD">Completed draft</change>
+        <change when="2018-08-18" who="EM">structural changes. See Github.</change> 
      </revisionDesc>
   </teiHeader>
    
@@ -25,9 +26,10 @@
   <text>
       <body>
          <div type="emblem" n="e11">
-            <pb n="52"/>
+            <pb n="52" edRef="Maier1618"/>
             <head>
-               <lb n="1"/><fw type="pageNum" place="top-left">52</fw> FUGA XI. in 6. supr<hi rend="grave">a</hi>.
+               <lb n="1"/><fw type="pageNum" place="top-left">52</fw> <fw type="header" place="top-center">FUGA XI. in 6. supr<hi rend="grave">a</hi>.</fw>
+
                <lb n="2"/>Machet weiß die <persName><hi rend="roman">Latonam</hi></persName> <pc>/</pc> und zerreisset
                <lb n="3"/>die Bücher.
             </head>
@@ -52,17 +54,16 @@
             </div>
             <fw type="catchword" place="bottom-right">Emblema</fw>
             
-            <pb n="53"/> 
+            <pb n="53" edRef="Maier1618"/> 
             
             <div type="image" xml:lang="la">
                <head>
-                  <lb n="1"/>Emblema XI. <hi rend="italic">De secretis Natur<hi rend="ligature">ae</hi></hi>.<!-- BC: how do we want to handle ligatures? --> <fw type="pageNum" place="top-right">53</fw>
+                  <fw type="header" place="top-center">Emblema XI. <hi rend="italic">De secretis Natur<hi rend="ligature">ae</hi></hi>.</fw> <fw type="pageNum" place="top-right">53</fw>
                   <lb n="2"/>Dealbate <persName>Latonam</persName> <g type="ampersand">et</g> rumpite libros.
                </head>
-            </div>
-            
-            <figure><graphic url=""></graphic></figure>
-            
+               <figure><graphic url=""></graphic></figure>
+
+            </div>            
             <div type="epigram" xml:lang="la">
                <head>Epigramma XI.</head>
                <lg>
@@ -78,7 +79,7 @@
            <fw type="gathering">G <unclear cert="high">3</unclear></fw> <fw type="catchword" place="bottom-right">Tanta</fw>
             
             <div type="discourse" xml:lang="la">
-               <pb n="54"/>
+               <pb n="54" edRef="Maier1618"/>
                <head><fw type="pageNum" place="top-left">54</fw> <hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="11">XI</num>.</head>
                   <ab>
                      <lb n="1"/><milestone unit="section" n="e11-01"/> Tanta est authorum in scribendo diversitas, ut fer<hi rend="grave">e</hi> inquisitores
@@ -117,7 +118,7 @@
                   </ab>
                <fw type="catchword" place="bottom-right">d<hi rend="ligature">tur</hi></fw>
                   
-               <pb n="55"/>
+               <pb n="55" edRef="Maier1618"/>
                <head><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="11">XI</num>. <fw type="pageNum" place="top-right">55</fw></head>
                   <ab>
                      <lb n="1"/>tur (licet frustra) vires, corporis <hi rend="ligature">ae</hi>tatem, famam, opes <g type="ampersand">et</g> facultates
@@ -155,7 +156,6 @@
                      <lb n="33"/>est in <expan><abbr>digior<hi rend="tilde">e</hi></abbr><ex>m</ex></expan>, si ver<hi rend="grave">o</hi> ex digniori, in <expan><abbr>vilior<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> <expan><abbr>submerg<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>da</abbr></expan>, <expan><abbr>n<hi rend="tilde">e</hi></abbr><ex>m</ex><abbr>pe</abbr></expan> in <expan><abbr>fi
                      <lb n="34" break="no"/>m<hi rend="tilde">u</hi></abbr><ex>m</ex></expan>: Ibi <expan><abbr>n<am>.</am></abbr><ex>m</ex></expan> albescet rever<hi rend="grave">a</hi> <g type="ampersand">et</g> fiet <expan><abbr>pl<hi rend="tilde">u</hi></abbr><ex>m</ex><abbr>b<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> <expan><abbr>alb<hi rend="tilde">u</hi></abbr><ex>m</ex></expan>, quo habito, <expan><abbr>n<hi rend="tilde">o</hi></abbr><ex>n</ex></expan> est, <expan><abbr><hi rend="stroke">q</hi></abbr><ex>uod</ex></expan> du
                      <lb n="35" break="no"/>bitetur de successu, seu <expan><abbr>pl<hi rend="tilde">u</hi></abbr><ex>m</ex><abbr>o</abbr></expan> rubeo, <expan><abbr><hi rend="stroke">q</hi></abbr><ex>uod</ex></expan> est opis <expan><abbr>initi<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> <g type="ampersand">et</g> finis.
-                     <lb/> 
                   </ab> 
                 <fw type="catchword" place="bottom-right" xml:lang="de"><hi rend="gothic">Der</hi></fw>
                 </div>

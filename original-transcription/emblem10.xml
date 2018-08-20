@@ -18,6 +18,7 @@
      <revisionDesc>
         <change when="2017-06-21" who="SJD">Created</change>
         <change when="2017-06-21" who="SJD">Completed draft</change>
+        <change when="2018-08-18" who="EM">structural changes. See Github.</change> 
      </revisionDesc>
   </teiHeader>
    
@@ -25,9 +26,10 @@
   <text>
       <body>
          <div type="emblem" n="e10">
-            <pb n="48"/>
+            <pb n="48" edRef="Maier1618"/>
             <head>
-               <lb n="1"/><fw type="pageNum" place="top-left">48</fw> FUGA X. in 2. infr<hi rend="grave">a</hi>.
+               <lb n="1"/><fw type="pageNum" place="top-left">48</fw> <fw type="header" place="top-center">FUGA X. in 2. infr<hi rend="grave">a</hi>.</fw>
+
                <lb n="2"/>Gib Feiuer zum Feiuer <pc>/</pc> Mercurium zum Mercurio,
                <lb n="3"/>und es ist dir genug.
             </head>
@@ -52,17 +54,16 @@
             </div>
             <fw type="catchword" place="bottom-right">Emble-</fw>
             
-            <pb n="49"/> 
+            <pb n="49" edRef="Maier1618"/> 
             
             <div type="image" xml:lang="la">
                <head>
-                  <lb n="1"/>Emblema X. <hi rend="italic">De secretis Natur<hi rend="ligature">ae</hi></hi>.<!-- BC: how do we want to handle ligatures? --> <fw type="pageNum" place="top-right">49</fw>
+                  <fw type="header" place="top-center">Emblema X. <hi rend="italic">De secretis Natur<hi rend="ligature">ae</hi></hi>.</fw> <fw type="pageNum" place="top-right">49</fw>
                   <lb n="2"/>Da ignem igni, Mercurium Mercurio, <g type="ampersand">et</g> sufficit tibi.
                </head>
-            </div>
-            
-            <figure><graphic url=""></graphic></figure>
-            
+               <figure><graphic url=""></graphic></figure>
+
+            </div>            
             <div type="epigram" xml:lang="la">
                <head>Epigramma X.</head>
                <lg>
@@ -78,7 +79,7 @@
            <fw type="gathering">G</fw> <fw type="catchword" place="bottom-right">H<hi rend="ligature">ae</hi>c</fw>
             
             <div type="discourse" xml:lang="la">
-               <pb n="50"/>
+               <pb n="50" edRef="Maier1618"/>
                <head><fw type="pageNum" place="top-left">50</fw> <hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="10">X</num>.</head>
                   <ab>
                      <lb n="1"/><milestone unit="section" n="e10-01"/> H<hi rend="ligature">ae</hi>c sententia, si, ut sonat, accipitur, <expan><abbr>quantitat<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> ignis <g type="ampersand">et</g> <persName>Mercurii</persName>
@@ -119,7 +120,7 @@
                   </ab>
                <fw type="catchword" place="bottom-right">d<hi rend="ligature">ae</hi></fw>
                   
-               <pb n="51"/>
+               <pb n="51" edRef="Maier1618"/>
                <head><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="10">X</num>. <fw type="pageNum" place="top-right">51</fw></head>
                   <ab>
                      <lb n="1"/>d<hi rend="ligature">ae</hi>, ex <expan><abbr>quib<am>.</am></abbr><ex>us</ex></expan> crud<hi rend="ligature">ae</hi> per <expan><abbr>coction<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> <expan><abbr>matur<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>d<hi rend="ligature">ae></hi></abbr></expan> sunt, aut matur<hi rend="ligature">ae</hi> <hi rend="grave">a</hi> super
@@ -155,7 +156,6 @@
                      <lb n="31"/>Leonem procedens sensim calorem rebus crescentibus adauget,
                      <lb n="32"/>semper propri<hi rend="grave">u</hi>s accedendo, sic hic necesse est fieri: Infans enim <expan><abbr>Phi
                      <lb n="33" break="no"/>los<am>.</am></abbr><ex>ophi</ex></expan> igne, ut lacte, nutriendus est, qu<hi rend="grave">o</hi> magis crescat, e<hi rend="grave">o</hi> uberiore.
-                     <lb/> 
                   </ab> 
                 <fw type="gathering" place="bottom-right"><hi rend="gothic">G ii</hi></fw> <fw type="catchword" place="bottom-right" xml:lang="de"><hi rend="gothic">Machet</hi></fw>
                 </div>

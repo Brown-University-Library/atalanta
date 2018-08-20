@@ -18,6 +18,7 @@
      <revisionDesc>
         <change when="2018-03-18" who="SJD">Start encoding</change>
         <change when="2018-03-18" who="SJD">Finish draft</change>
+        <change when="2018-08-18" who="EM">structural changes. See Github.</change> 
      </revisionDesc>
   </teiHeader>
    
@@ -25,9 +26,10 @@
   <text>
       <body>
          <div type="emblem" n="e46">
-            <pb n="192"/>
+            <pb n="192" edRef="Maier1618"/>
             <head>
-               <lb n="1"/><fw type="pageNum" place="top-left">192</fw> FUGA <num value="46" type="cardinal">XLVI</num>. Reciproca.
+               <lb n="1"/><fw type="pageNum" place="top-left">192</fw> <fw type="header" place="top-center">FUGA <num value="46" type="cardinal">XLVI</num>. Reciproca.</fw>
+
                <lb n="2"/>Zween Adler <pc>/</pc> einer von Often <pc>/</pc> der ander von Westen
                <lb n="3"/>kommen zusammen.
             </head>
@@ -52,18 +54,17 @@
             </div>
             <fw type="catchword">Emble-</fw>
             
-            <pb n="193"/>
+            <pb n="193" edRef="Maier1618"/>
             
             <div type="image" xml:lang="la">
                <head>
-                  <lb n="1"/>Emblema <num value="46" type="cardinal">XLVI</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>. <fw type="pageNum" place="top-right">193</fw>
+                  <fw type="header" place="top-center">Emblema <num value="46" type="cardinal">XLVI</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw> <fw type="pageNum" place="top-right">193</fw>
                   <lb n="2"/>Aquil<hi rend="ligature">ae</hi> du<hi rend="ligature">ae</hi>, una ab ortu, altera ab occasu conveniunt.
                </head>
+               <figure><graphic url=""></graphic></figure>
+
                
-            </div>
-            
-            <figure><graphic url=""></graphic></figure>
-            
+            </div>            
             <div type="epigram" xml:lang="la">
                <head>Epigramma <num value="46" type="cardinal">XLVI</num>.</head>
                <lg>
@@ -79,7 +80,7 @@
             <fw type="gathering" place="bottom-right">Bb</fw> <fw type="catchword" place="bottom-right"><hi rend="caps">Apollinem</hi></fw>
             
             <div type="discourse" xml:lang="la">
-               <pb n="194"/>
+               <pb n="194" edRef="Maier1618"/>
                <head><fw type="pageNum" place="top-left">194</fw> <hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="46">XLVI</num>.</head>
                   <ab>
                      <lb n="1"/><milestone unit="section" n="e46-01"/><persName type="divinity"><hi rend="caps">Apollinem</hi></persName> antiquissimum ex <persName type="divinity">Vulcano</persName> natum, <placeName>Athenarum</placeName> cu
@@ -117,7 +118,7 @@
                      <lb n="33" break="no"/>mirandi appensum tholo templi fuisse ab <persName ref="https://viaf.org/viaf/287984736">Hippocrate</persName>: <persName type="divinity">Apollini</persName>
                   </ab>
                   <fw type="catchword" place="bottom-right">quoque</fw>
-               <pb n="195"/>
+               <pb n="195" edRef="Maier1618"/>
                <head><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="46">XLVI</num>. <fw type="pageNum" place="top-right">195</fw></head>
                   <ab>
                      <lb n="1"/>quoque sacratus fuit ille celebris tripes, <hi rend="grave">a</hi> <persName>Pelope</persName>, dum uxorem <persName>Hip

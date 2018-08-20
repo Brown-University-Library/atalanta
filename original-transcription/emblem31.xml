@@ -18,6 +18,7 @@
      <revisionDesc>
         <change when="2018-02-27" who="SJD">Start encoding</change>
         <change when="2018-02-27" who="SJD">Finish draft</change>
+        <change when="2018-08-18" who="EM">structural changes. See Github.</change> 
      </revisionDesc>
   </teiHeader>
    
@@ -25,9 +26,10 @@
   <text>
       <body>
          <div type="emblem" n="e31">
-            <pb n="132"/>
+            <pb n="132" edRef="Maier1618"/>
             <head>
-               <lb n="1"/><fw type="pageNum" place="top-left">132</fw> FUGA <num value="31" type="cardinal">XXXI</num>. in <num value="4">4</num> suprà.
+               <lb n="1"/><fw type="pageNum" place="top-left">132</fw> <fw type="header" place="top-center">FUGA <num value="31" type="cardinal">XXXI</num>. in <num value="4">4</num> suprà.</fw>
+
                <lb n="2"/>Der König <pc>/</pc> schwimmende im Meer <pc>/</pc> schreijet mit lauter
                <lb n="3"/>Stimm <pc>/</pc> wer mich errettet <pc>/</pc> wirt ein groß Geschenck
                <lb n="4"/>empfangen.
@@ -53,19 +55,18 @@
             </div>
             <fw type="catchword">Emble-</fw>
             
-            <pb n="133"/>
+            <pb n="133" edRef="Maier1618"/>
             
             <div type="image" xml:lang="la">
                <head>
-                  <lb n="1"/>Emblema <num value="31" type="cardinal">XXXI</num>. <fw type="pageNum" place="top-right">133</fw>
+                  <fw type="header" place="top-center">Emblema <num value="31" type="cardinal">XXXI</num>.</fw> <fw type="pageNum" place="top-right">133</fw>
                   <lb n="2"/>Rex natans in mari, clamans alt<hi rend="circumflex">a</hi> voce: Qui me eripiet,
                   <lb n="3"/>ingens pr<hi rend="ligature">ae</hi>mium habebit.
                </head>
+               <figure><graphic url=""></graphic></figure>
+
                
-            </div>
-            
-            <figure><graphic url=""></graphic></figure>
-            
+            </div>            
             <div type="epigram" xml:lang="la">
                <head>Epigramma <num value="31" type="cardinal">XXXI</num>.</head>
                <lg>
@@ -81,7 +82,7 @@
             <fw type="gathering" place="bottom-right">R 3</fw> <fw type="catchword" place="bottom-right">Prima</fw>
             
             <div type="discourse" xml:lang="la">
-               <pb n="134"/>
+               <pb n="134" edRef="Maier1618"/>
                <head><fw type="pageNum" place="top-left">134</fw> <hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="31">XXXI</num>.</head>
                   <ab>
                      <lb n="1"/><milestone unit="section" n="e31-01"/>Prima omnis disciplin<hi rend="ligature">ae</hi> rudimenta antiquitus fu<hi rend="circumflex">e</hi>re natandi
@@ -119,7 +120,7 @@
                      <lb n="33" break="no"/>pico Cancri subjectum; <milestone unit="section" n="e31-11"/>in quo cum magnetes abunddantissimi sint
                   </ab>
                   <fw type="catchword" place="bottom-right">in<hi rend="grave">es</hi></fw>
-               <pb n="135"/>
+               <pb n="135" edRef="Maier1618"/>
                <head><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi>. <num value="31">XXXI</num>. <fw type="pageNum" place="top-right">135</fw></head>
                   <ab>
                      <lb n="1"/>in fundo, unde non tutum est navibus ferro compactis aut oneratis

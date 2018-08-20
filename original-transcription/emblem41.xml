@@ -18,6 +18,7 @@
      <revisionDesc>
         <change when="2018-03-17" who="SJD">Start encoding</change>
         <change when="2018-03-17" who="SJD">Finish draft</change>
+        <change when="2018-08-18" who="EM">structural changes. See Github.</change> 
      </revisionDesc>
   </teiHeader>
    
@@ -25,9 +26,10 @@
   <text>
       <body>
          <div type="emblem" n="e41">
-            <pb n="172"/>
+            <pb n="172" edRef="Maier1618"/>
             <head>
-               <lb n="1"/><fw type="pageNum" place="top-left">172</fw> FUGA <num value="41" type="cardinal">XLI</num>. in <num value="3">3</num>. infrà. retrograda existente simplici seu Basi.
+               <lb n="1"/><fw type="pageNum" place="top-left">172</fw> <fw type="header" place="top-center">FUGA <num value="41" type="cardinal">XLI</num>. in <num value="3">3</num>. infrà. retrograda existente simplici seu Basi.</fw>
+
                <lb n="2"/><persName><hi rend="latin">Adonis</hi></persName> wit von einer wilden Saw erlegt <pc>/</pc> welchem wie die
                <lb n="3"/><persName type="divinity"><hi rend="latin">Venus</hi></persName> wolt Hülffe thun <pc>/</pc> hat sie mit Blut die Rosen
                <lb n="4"/>roht gefärbet.
@@ -53,19 +55,18 @@
             </div>
             <fw type="catchword">Emble-</fw>
             
-            <pb n="173"/>
+            <pb n="173" edRef="Maier1618"/>
             
             <div type="image" xml:lang="la">
                <head>
-                  <lb n="1"/>Emblema <num value="41" type="cardinal">XLI</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>. <fw type="pageNum" place="top-right">173</fw>
+                  <fw type="header" place="top-center">Emblema <num value="41" type="cardinal">XLI</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw> <fw type="pageNum" place="top-right">173</fw>
                   <lb n="2"/><persName>Adonis</persName> ab apro occiditur, cui <persName type="divinity">Venus</persName> accurrens tinxit
                   <lb n="3"/>Rosas sanguine.
                </head>
+               <figure><graphic url=""></graphic></figure>
+
                
-            </div>
-            
-            <figure><graphic url=""></graphic></figure>
-            
+            </div>            
             <div type="epigram" xml:lang="la">
                <head>Epigramma <num value="41" type="cardinal">XLI</num>.</head>
                <lg>
@@ -81,7 +82,7 @@
             <fw type="gathering" place="bottom-right">Y 3</fw> <fw type="catchword" place="bottom-right">Ado-</fw>
             
             <div type="discourse" xml:lang="la">
-               <pb n="174"/>
+               <pb n="174" edRef="Maier1618"/>
                <head><fw type="pageNum" place="top-left">174</fw> <hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="41">XLI</num>.</head>
                   <ab>
                      <lb n="1"/><milestone unit="section" n="e41-01"/><persName><hi rend="caps">Adonidis</hi></persName> allegoriam qu<hi rend="grave">a</hi>m impropri<hi rend="grave">e</hi> quidam ex mythologis
@@ -119,7 +120,7 @@
                      <lb n="33" break="no"/>pinquiores, in primo gradu consanguinitatis, vel secundo, e<hi rend="grave">o</hi> sunt
                   </ab>
                   <fw type="catchword" place="bottom-right">f<hi rend="ligature">oe</hi>cun-</fw>
-               <pb n="175"/>
+               <pb n="175" edRef="Maier1618"/>
                <head><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="41">XLI</num>. <fw type="pageNum" place="top-right">175</fw></head>
                   <ab>
                      <lb n="1"/>f<hi rend="ligature">oe</hi>cundiores <g type="ampersand">et</g> <hi rend="grave">e</hi>converso, quo remotiores, e<hi rend="grave">o</hi> in f<hi rend="ligature">oe</hi>cundiores, quod

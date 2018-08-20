@@ -19,6 +19,7 @@
         <change when="2018-03-14" who="SJD">Start encoding</change>
         <change when="2018-03-14" who="SJD">Finish draft</change>
         <change when="2018-03-15" who="SJD">Capitalization corrections</change>
+        <change when="2018-08-18" who="EM">structural changes. See Github.</change> 
      </revisionDesc>
   </teiHeader>
    
@@ -26,9 +27,10 @@
   <text>
       <body>
          <div type="emblem" n="e36">
-            <pb n="152"/>
+            <pb n="152" edRef="Maier1618"/>
             <head>
-               <lb n="1"/><fw type="pageNum" place="top-left">152</fw> FUGA <num value="36" type="cardinal">XXXVI</num>. in <num value="7">7</num> infrà.
+               <lb n="1"/><fw type="pageNum" place="top-left">152</fw> <fw type="header" place="top-center">FUGA <num value="36" type="cardinal">XXXVI</num>. in <num value="7">7</num> infrà.</fw>
+
                <lb n="2"/>Dieser Stein ist verworffen auff der Erden <pc>/</pc> und erhoben auff
                <lb n="3"/>Bergen <pc>/</pc> wohnet in der Lufft <pc>/</pc> und wirt ernehret in Flüssen <pc>/</pc>
                <lb n="4"/>das ist der <persName type="divinity"><hi rend="latin">Mercurius</hi></persName>.
@@ -54,19 +56,18 @@
             </div>
             <fw type="catchword">Emble-</fw>
             
-            <pb n="153"/>
+            <pb n="153" edRef="Maier1618"/>
             
             <div type="image" xml:lang="la">
                <head>
-                  <lb n="1"/>Emblema <num value="36" type="cardinal">XXXVI</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>. <fw type="pageNum" place="top-right">153</fw>
+                  <fw type="header" place="top-center">Emblema <num value="36" type="cardinal">XXXVI</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw> <fw type="pageNum" place="top-right">153</fw>
                   <lb n="2"/>Lapis projectus est in terras, <g type="ampersand">et</g> in montibus exaltatus, <g type="ampersand">et</g> in
                   <lb n="3"/>aëre habitat, <g type="ampersand">et</g> in flumine pascitur, id est, <persName type="divinity">Mercurius</persName>.
                </head>
+               <figure><graphic url=""></graphic></figure>
+
                
-            </div>
-            
-            <figure><graphic url=""></graphic></figure>
-            
+            </div>            
             <div type="epigram" xml:lang="la">
                <head>Epigramma <num value="36" type="cardinal">XXXVI</num>.</head>
                <lg>
@@ -82,7 +83,7 @@
             <fw type="gathering" place="bottom-right">V</fw> <fw type="catchword" place="bottom-right">Ab</fw>
             
             <div type="discourse" xml:lang="la">
-               <pb n="154"/>
+               <pb n="154" edRef="Maier1618"/>
                <head><fw type="pageNum" place="top-left">154</fw> <hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="36">XXXVI</num>.</head>
                   <ab>
                      <lb n="1"/><milestone unit="section" n="e36-01"/>Ab omnibus, qui lapidis nomen <g type="ampersand">et</g> potentiam vel semel audive
@@ -120,7 +121,7 @@
                      <lb n="33"/>lapis projicitur in terras, in quibus tamen abjectus non permanet,
                   </ab>
                   <fw type="catchword" place="bottom-right">sed</fw>
-               <pb n="155"/>
+               <pb n="155" edRef="Maier1618"/>
                <head><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="36">XXXVI</num>. <fw type="pageNum" place="top-right">155</fw></head>
                   <ab>
                      <lb n="1"/>sed exaltatur ad montes, utpote <placeName>Athum</placeName>, <placeName>Vesuvius</placeName>, <placeName><hi rend="ligature">Ae</hi>thnam</placeName>, <g type="ampersand">et</g>

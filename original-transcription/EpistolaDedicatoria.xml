@@ -24,7 +24,7 @@
   <text>
       <body>
          <div type="dedication">
-            <pb n="3"/>   
+            <pb n="3" edRef="Maier1618"/>   
             <fw type="pageNum" place="top-center">3</fw>
             <figure><graphic url=""><!--floral border  --></graphic></figure>
             <div type="dedication" xml:lang="la" rend="center">
@@ -58,7 +58,7 @@
                   <lb break="no"/>
                </ab>
                <fw type="gathering" place="bottom-right">A 2</fw> <fw type="catchword" place="bottom-right">dita</fw>
-               <pb n="4"/>
+               <pb n="4" edRef="Maier1618"/>
                <fw type="pageNum" place="top-left">4</fw> <head>EPISTOLA</head>
                <ab>
                   <lb n="1"/>dita: <milestone unit="section" n="ded-03"/>Ita c<hi rend="grave">u</hi>m mihi hic <hi rend="caps">Tripes</hi> <hi rend="grave">a</hi> <persName type="divinity">Vulcano</persName> elaboratus
@@ -89,7 +89,7 @@
                   <lb n="26" break="no"/>dio manum aut mentem, quantum sciam, adhibueritis,
                </ab>
                <fw type="catchword" place="bottom-right">(nec</fw>
-               <pb n="5"/>
+               <pb n="5" edRef="Maier1618"/>
                <head>DEDICATORIA.</head> <fw type="pageNum" place="top-right">5</fw>
                <ab>
                   <lb n="1"/>(nec enim <hi rend="grave">a</hi> gravissimis negotiis tant<hi rend="grave">u</hi>m superfuit otii)

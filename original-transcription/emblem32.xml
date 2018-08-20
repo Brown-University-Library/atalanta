@@ -18,6 +18,7 @@
      <revisionDesc>
         <change when="2018-03-12" who="SJD">Start encoding</change>
         <change when="2018-03-12" who="SJD">Finish draft</change>
+        <change when="2018-08-18" who="EM">structural changes. See Github.</change> 
      </revisionDesc>
   </teiHeader>
    
@@ -25,9 +26,10 @@
   <text>
       <body>
          <div type="emblem" n="e32">
-            <pb n="136"/>
+            <pb n="136" edRef="Maier1618"/>
             <head>
-               <lb n="1"/><fw type="pageNum" place="top-left"><choice><sic>126</sic><corr>136</corr></choice></fw> FUGA <num value="32" type="cardinal">XXXII</num>. in <num value="5">5</num> suprà.
+               <lb n="1"/><fw type="pageNum" place="top-left"><choice><sic>126</sic><corr>136</corr></choice></fw> <fw type="header" place="top-center">FUGA <num value="32" type="cardinal">XXXII</num>. in <num value="5">5</num> suprà.</fw>
+
                <lb n="2"/>Die Corallen <pc>/</pc> wie sie wachsen unterm Wasser <pc>/</pc> und durch
                <lb n="3"/>die Lufft erhartet werden <pc>/</pc> also auch der Stein.
             </head>
@@ -52,18 +54,17 @@
             </div>
             <fw type="catchword">Emble-</fw>
             
-            <pb n="137"/>
+            <pb n="137" edRef="Maier1618"/>
             
             <div type="image" xml:lang="la">
                <head>
-                  <lb n="1"/>Emblema <num value="32" type="cardinal">XXXII</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi> <fw type="pageNum" place="top-right">137</fw>
+                  <fw type="header" place="top-center">Emblema <num value="32" type="cardinal">XXXII</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi> </fw><fw type="pageNum" place="top-right">137</fw>
                   <lb n="2"/>Corallus sub aquis ut crescit <g type="ampersand">et</g> aëre induratur, sic lapis.
                </head>
+               <figure><graphic url=""></graphic></figure>
+
                
-            </div>
-            
-            <figure><graphic url=""></graphic></figure>
-            
+            </div>            
             <div type="epigram" xml:lang="la">
                <head>Epigramma <num value="32" type="cardinal">XXXII</num>.</head>
                <lg>
@@ -79,7 +80,7 @@
             <fw type="gathering" place="bottom-right">S</fw> <fw type="catchword" place="bottom-right">Phi-</fw>
             
             <div type="discourse" xml:lang="la">
-               <pb n="138"/>
+               <pb n="138" edRef="Maier1618"/>
                <head><fw type="pageNum" place="top-left">138</fw> <hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="32">XXXII</num>.</head>
                   <ab>
                      <lb n="1"/><milestone unit="section" n="e32-01"/>Philosophi vocant lapidem suum vegetabilem, quia instar
@@ -117,7 +118,7 @@
                      <lb n="33" break="no"/>fluentia <g type="ampersand">et</g> imaginatione c<hi rend="ligature">oe</hi>li accidit; ut alibi demonstravimus.
                   </ab>
                   <fw type="catchword" place="bottom-right">Ambra</fw>
-               <pb n="139"/>
+               <pb n="139" edRef="Maier1618"/>
                <head><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi>. <num value="32">XXXII</num>. <fw type="pageNum" place="top-right">139</fw></head>
                   <ab>
                      <lb n="1"/><milestone unit="section" n="e32-09"/>Ambra Grysea quo <expan><abbr>eod<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> modo in <placeName>Indi<hi rend="ligature">ae</hi></placeName> orientalis <g type="ampersand">et</g> occidentalis

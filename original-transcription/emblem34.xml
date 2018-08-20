@@ -19,6 +19,7 @@
         <change when="2018-03-13" who="SJD">Start encoding</change>
         <change when="2018-03-13" who="SJD">Finish draft</change>
         <change when="2018-03-13" who="SJD">Bulk add ligatures</change>
+        <change when="2018-08-18" who="EM">structural changes. See Github.</change> 
      </revisionDesc>
   </teiHeader>
    
@@ -26,9 +27,10 @@
   <text>
       <body>
          <div type="emblem" n="e34">
-            <pb n="144"/>
+            <pb n="144" edRef="Maier1618"/>
             <head>
-               <lb n="1"/><fw type="pageNum" place="top-left">144</fw> FUGA <num value="34" type="cardinal">XXXIV</num>. in <num value="8">8</num> infrà.
+               <lb n="1"/><fw type="pageNum" place="top-left">144</fw> <fw type="header" place="top-center">FUGA <num value="34" type="cardinal">XXXIV</num>. in <num value="8">8</num> infrà.</fw>
+
                <lb n="2"/>Im Wasserbad wirt er empfangen <pc>/</pc> und in der Lufft geboren <pc>/</pc>
                <lb n="3"/>wenner aber roht worden <pc>/</pc> gehet er auff dem Wasser.
             </head>
@@ -53,19 +55,18 @@
             </div>
             <fw type="catchword">Emble-</fw>
             
-            <pb n="145"/>
+            <pb n="145" edRef="Maier1618"/>
             
             <div type="image" xml:lang="la">
                <head>
-                  <lb n="1"/>Emblema <num value="34" type="cardinal">XXXIV</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi> <fw type="pageNum" place="top-right">145</fw>
+                  <fw type="header" place="top-center">Emblema <num value="34" type="cardinal">XXXIV</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi> </fw><fw type="pageNum" place="top-right">145</fw>
                   <lb n="2"/>In balneis concipitur, <g type="ampersand">et</g> in aëre nascitur, rubeus ver<hi rend="grave">o</hi>
                   <lb n="3"/>factus graditur super aquas.
                </head>
+               <figure><graphic url=""></graphic></figure>
+
                
-            </div>
-            
-            <figure><graphic url=""></graphic></figure>
-            
+            </div>            
             <div type="epigram" xml:lang="la">
                <head>Epigramma <num value="34" type="cardinal">XXXIV</num>.</head>
                <lg>
@@ -81,7 +82,7 @@
             <fw type="gathering" place="bottom-right">T</fw> <fw type="catchword" place="bottom-right">Ho-</fw>
             
             <div type="discourse" xml:lang="la">
-               <pb n="146"/>
+               <pb n="146" edRef="Maier1618"/>
                <head><fw type="pageNum" place="top-left"><choice><sic>149</sic><corr>146</corr></choice></fw> <hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="34">XXXIV</num></head>
                   <ab>
                      <lb n="1"/><milestone unit="section" n="e34-01"/>Hominum opinion vel adulatio quibusdam pr<hi rend="ligature">ae</hi> reliquis mira
@@ -120,7 +121,7 @@
                      <lb break="no"/>
                   </ab>
                   <fw type="catchword" place="bottom-right">trefactio</fw>
-               <pb n="147"/>
+               <pb n="147" edRef="Maier1618"/>
                <head><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="34">XXXIV</num>. <fw type="pageNum" place="top-right">147</fw></head>
                   <ab>
                      <lb n="1"/>trefactio fiat igne lentissimo fimi calidi <g type="ampersand">et</g> humidi, <g type="ampersand">et</g> nequaquam

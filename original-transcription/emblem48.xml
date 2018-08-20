@@ -18,6 +18,7 @@
      <revisionDesc>
         <change when="2018-03-20" who="SJD">Start encoding</change>
         <change when="2018-03-20" who="SJD">Finish draft</change>
+        <change when="2018-08-18" who="EM">structural changes. See Github.</change> 
      </revisionDesc>
   </teiHeader>
    
@@ -25,9 +26,10 @@
   <text>
       <body>
          <div type="emblem" n="e48">
-            <pb n="200"/>
+            <pb n="200" edRef="Maier1618"/>
             <head>
-               <lb n="1"/><fw type="pageNum" place="top-left"><choice><sic>184</sic><corr>200</corr></choice></fw> FUGA <num value="48" type="cardinal">XLVIII</num>. in <num value="5">5</num>. seu <num value="12">12</num>. suprà. vertendo simplicem. ac initio.
+               <lb n="1"/><fw type="pageNum" place="top-left"><choice><sic>184</sic><corr>200</corr></choice></fw> <fw type="header" place="top-center">FUGA <num value="48" type="cardinal">XLVIII</num>. in <num value="5">5</num>. seu <num value="12">12</num>. suprà. vertendo simplicem. ac initio.</fw>
+
                <lb n="2"/>Der König von getrunckenem Wasser bekompt ein
                <lb n="3"/>Kranckheit <pc>/</pc> von Arzten aber <foreign xml:lang="la"><hi rend="latin">curiret</hi></foreign>,
                <lb n="4"/>die Gesundheit.
@@ -53,19 +55,18 @@
             </div>
             <fw type="catchword">Emble-</fw>
             
-            <pb n="201"/>
+            <pb n="201" edRef="Maier1618"/>
             
             <div type="image" xml:lang="la">
                <head>
-                  <lb n="1"/>Emblema <num value="48" type="cardinal">XLVIII</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>. <fw type="pageNum" place="top-right">201</fw>
+                  <fw type="header" place="top-center">Emblema <num value="48" type="cardinal">XLVIII</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw> <fw type="pageNum" place="top-right">201</fw>
                   <lb n="2"/>Rex ab aquis potatis morbum, <hi rend="grave">a</hi> medicis curatus
                   <lb n="3"/>sanitatem obtinet.
                </head>
+               <figure><graphic url=""></graphic></figure>
+
                
-            </div>
-            
-            <figure><graphic url=""></graphic></figure>
-            
+            </div>            
             <div type="epigram" xml:lang="la">
                <head>Epigramma <num value="48" type="cardinal">XLVIII</num>.</head>
                <lg>
@@ -81,7 +82,7 @@
             <fw type="gathering" place="bottom-right">Cc</fw> <fw type="catchword" place="bottom-right"><hi rend="caps">Xer-</hi></fw>
             
             <div type="discourse" xml:lang="la">
-               <pb n="202"/>
+               <pb n="202" edRef="Maier1618"/>
                <head><fw type="pageNum" place="top-left">202</fw> <hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="48">XLVIII</num>.</head>
                   <ab>
                      <lb n="1"/><milestone unit="section" n="e48-01"/><persName ref="https://viaf.org/viaf/282770127"><hi rend="caps">Xerxes</hi></persName> ille potentissimus <orgName>Persarum</orgName> rex, c<hi rend="grave">u</hi>m per sicca <g type="ampersand">et</g> inculta
@@ -119,7 +120,7 @@
                      <lb n="33"/><quote>Est ita dives habens <expan><abbr>lapid<hi rend="tilde">e</hi></abbr><ex>m</ex></expan>, de quo Elixir fit, sicut qui habet ignem,</quote>
                   </ab>
                   <fw type="catchword" place="bottom-right">potest</fw>
-               <pb n="203"/>
+               <pb n="203" edRef="Maier1618"/>
                <head><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="48">XLVIII</num>. <fw type="pageNum" place="top-right">203</fw></head>
                   <ab>
                      <lb n="1"/><quote>potest dare ignem, cui vult, <g type="ampersand">et</g> quando vult, <g type="ampersand">et</g> quantum vult sine su<hi rend="raised">o</hi>

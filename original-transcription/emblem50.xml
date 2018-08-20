@@ -18,6 +18,7 @@
      <revisionDesc>
         <change when="2017-07-20" who="SJD">Created</change>
         <change when="2017-07-20" who="SJD">Completed draft</change>
+        <change when="2018-08-18" who="EM">structural changes. See Github.</change> 
      </revisionDesc>
   </teiHeader>
    
@@ -25,9 +26,10 @@
   <text>
       <body>
          <div type="emblem" n="e50">
-            <pb n="208"/>
+            <pb n="208" edRef="Maier1618"/>
             <head>
-               <lb n="1"/><fw type="pageNum" place="top-left">208</fw> FUGA <num value="50" type="cardinal">L</num>. in 3. seu 10. infr<hi rend="grave">a</hi>.
+               <lb n="1"/><fw type="pageNum" place="top-left">208</fw> <fw type="header" place="top-center">FUGA <num value="50" type="cardinal">L</num>. in 3. seu 10. infr<hi rend="grave">a</hi>.</fw>
+
                <lb n="2"/>Der Drache hat das Weib und sie ihn umgebracht <pc>/</pc>
                <lb n="3"/>und werden beijde mit Blut ubergossen.
             </head>
@@ -52,18 +54,17 @@
             </div>
             <fw type="catchword" place="bottom-right">Emble-</fw>
             
-            <pb n="209"/> 
+            <pb n="209" edRef="Maier1618"/> 
             
             <div type="image" xml:lang="la">
                <head>
-                  <lb n="1"/>Emblema L. <hi rend="italic">De secretis Natur<hi rend="ligature">ae</hi></hi>.<!-- BC: how do we want to handle ligatures? --> <fw type="pageNum" place="top-right">209</fw>
+                  <fw type="header" place="top-center">Emblema L. <hi rend="italic">De secretis Natur<hi rend="ligature">ae</hi></hi>.</fw> <fw type="pageNum" place="top-right">209</fw>
                   <lb n="2"/>Draco mulierem, <g type="ampersand">et></g> h<hi rend="ligature">ae</hi>c illum interimit, simulque
                   <lb n="3"/>saunguine perfunduntur.
                </head>
-            </div>
-            
-            <figure><graphic url=""></graphic></figure>
-            
+               <figure><graphic url=""></graphic></figure>
+
+            </div>            
             <div type="epigram" xml:lang="la">
                <head>Epigramma L.</head>
                <lg>
@@ -79,7 +80,7 @@
            <fw type="gathering">Dd</fw> <fw type="catchword" place="bottom-right">Draco-</fw>
             
             <div type="discourse" xml:lang="la">
-               <pb n="210"/>
+               <pb n="210" edRef="Maier1618"/>
                <head><fw type="pageNum" place="top-left">210</fw> <hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="50">L</num>.</head>
                   <ab>
                      <lb n="1"/><milestone unit="section" n="e50-01"/> Draconum mansio in cavernis terr<hi rend="ligature">ae</hi> est, hominum ver<hi rend="grave">o</hi> supra
@@ -115,11 +116,10 @@
                      <lb n="31"/>ex vulneribus, quo perfunduntur. Intelligitur ver<hi rend="grave">o</hi> h<hi rend="circumflex">i</hi>c per draco
                      <lb n="32" break="no"/>ne, elementum terr<hi rend="ligature">ae</hi> <g type="ampersand">et></g> ignis, <g type="ampersand">et></g> per mulierem, aëris <g type="ampersand">et></g> aqu<hi rend="ligature">ae</hi>; <milestone unit="section" n="e50-10"/> Un
                      <lb n="33" break="no"/>de <title ref="http://viaf.org/viaf/100393705">Clangor buccin<hi rend="ligature">ae</hi></title> dicit, <q rend="italic">quod draco est materia in fundo remanens</q> 
-                     <lb/>
                   </ab>
                <fw type="catchword" place="bottom-right"><hi rend="italic">post</hi></fw>
                   
-               <pb n="211"/>
+               <pb n="211" edRef="Maier1618"/>
                <head><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="50">L</num>. <fw type="pageNum" place="top-right">211</fw></head>
                   <ab>
                      <lb n="1"/><q rend="italic">post distillationem aqu<hi rend="ligature">ae</hi> ab ea:</q> <milestone unit="section" n="e50-11"/> Et ex <persName ref="http://viaf.org/viaf/24571510">Hermete</persName>: <q rend="italic">Aqua aëris inter c<hi rend="ligature">oe</hi>lum <g type="ampersand">et></g>
@@ -146,7 +146,6 @@
                      <lb n="22"/>fer<hi rend="grave">e</hi> artis arcana hoc percepto, intelliguntur, qu<hi rend="ligature">ae</hi> fort<hi rend="grave">e</hi> nimis aper
                      <lb n="23" break="no"/>to natur<hi rend="ligature">ae</hi> gremio hactenus doctrin<hi rend="ligature">ae</hi> filiis exposuimus <g type="ampersand">et></g> declaravi
                      <lb n="24" break="no"/>mus, ut hinc <hi rend="caps">Deo sit gloria</hi>.
-                     <lb/> 
                   </ab> 
                 <fw type="gathering" place="bottom-right"><hi rend="italic">Dd</hi> 2</fw> <fw type="catchword" place="bottom-right"><hi rend="italic">INDEX</hi></fw>
                 </div>

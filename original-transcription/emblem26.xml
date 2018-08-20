@@ -18,6 +18,7 @@
      <revisionDesc>
         <change when="2017-07-12" who="SJD">Created</change>
         <change when="2017-07-13" who="SJD">Completed draft</change>
+        <change when="2018-08-18" who="EM">structural changes. See Github.</change> 
      </revisionDesc>
   </teiHeader>
    
@@ -25,7 +26,7 @@
   <text>
       <body>
          <div type="emblem" n="e26">
-            <pb n="112"/>
+            <pb n="112" edRef="Maier1618"/>
             <head>
                <lb n="1"/><fw type="pageNum" place="top-left">112</fw> <surplus>g</surplus>FUGA <choice><corr><num value="26" type="cardinal">XXVI</num></corr><sic><num value="22" type="cardinal">XXII</num></sic></choice>. in 8. duplici; infr<hi rend="grave">a</hi>.
                <lb n="2"/>Der Menschlichen Weißheit Frucht das Holz
@@ -52,17 +53,16 @@
             </div>
             <fw type="catchword" place="bottom-right">Emble-</fw>
             
-            <pb n="113"/> 
+            <pb n="113" edRef="Maier1618"/> 
             
             <div type="image" xml:lang="la">
                <head>
-                  <lb n="1"/>Emblema XXVI. <hi rend="italic">De secretis Natur<hi rend="ligature">ae</hi></hi>.<!-- BC: how do we want to handle ligatures? --> <fw type="pageNum" place="top-right">113</fw>
+                  <fw type="header" place="top-center">Emblema XXVI. <hi rend="italic">De secretis Natur<hi rend="ligature">ae</hi></hi>.</fw> <fw type="pageNum" place="top-right">113</fw>
                   <lb n="2"/>Sapienti<hi rend="ligature">ae</hi> human<hi rend="ligature">ae</hi> fructus Lignum vit<hi rend="ligature">ae</hi> est.
                </head>
-            </div>
-            
-            <figure><graphic url=""></graphic></figure>
-            
+               <figure><graphic url=""></graphic></figure>
+
+            </div>            
             <div type="epigram" xml:lang="la">
                <head>Epigramma XXVI.</head>
                <lg>
@@ -78,7 +78,7 @@
            <fw type="gathering">P</fw> <fw type="catchword" place="bottom-right">Pr<hi rend="ligature">ae</hi>-</fw>
             
             <div type="discourse" xml:lang="la">
-               <pb n="114"/>
+               <pb n="114" edRef="Maier1618"/>
                <head><fw type="pageNum" place="top-left">114</fw> <hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="26">XXVI</num>.</head>
                   <ab>
                      <lb n="1"/><milestone unit="section" n="e26-01"/> Pr<hi rend="ligature">ae</hi>clar<hi rend="grave">e</hi> <persName ref="http://viaf.org/viaf/78769600"><hi rend="italic">Tullius</hi></persName> hominis differentiam essentialem, qu<hi rend="circumflex">a</hi> <hi rend="grave">a></hi> reli
@@ -119,11 +119,10 @@
                      <lb n="31"/><g type="ampersand">et></g> qui diligenter eam inquiret, magnum gaudium capiet: Nam <expan><abbr>null<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> est <expan><abbr>t<hi rend="ligature">ae</hi>
                         <lb n="32" break="no"/>di<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> versari cum sapientia nec <expan><abbr>fastidi<hi rend="tilde">u</hi></abbr><ex>m</ex></expan>, illi adesse, sed l<hi rend="ligature">ae</hi>titia <g type="ampersand">et></g> gaudium: <milestone unit="section" n="e26-09"/> Et
                      <lb n="33"/>quamvis vinum <g type="ampersand">et></g> musica <expan><abbr>quo<hi rend="stroke">q</hi></abbr><ex>ue</ex></expan> l<hi rend="ligature">ae</hi>tificent cor hominis tamen sapientia his</q>
-                     <lb/>
                   </ab>
                <fw type="catchword" place="bottom-right"><hi rend="italic">jucundior</hi></fw>
                   
-               <pb n="115"/>
+               <pb n="115" edRef="Maier1618"/>
                <head><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="26"><choice><corr>X</corr><sic>Y</sic></choice>VI</num>. <fw type="pageNum" place="top-right">115</fw></head>
                   <ab>
                      <lb n="1"/><q rend="italic">jucundior est: Est <expan><ex>e</ex><abbr>n<am>.</am></abbr><ex>im</ex></expan> arbor vit<hi rend="ligature">ae</hi> <expan><abbr>omnib<am>.</am></abbr><ex>us</ex></expan> qui apprehendunt eam <g type="ampersand">et</g> beati sunt,
@@ -176,7 +175,6 @@
                      <lb n="30"/><g type="ampersand">et></g> animi; Absque his enim homo vel vivens mortuus est, brut<hi rend="acute">o</hi>que
                      <lb n="31"/>non absimilis, etiamsi extern<hi rend="circumflex">a</hi> eum, qui esse deberet <g type="ampersand">et></g> non est po
                      <lb n="32" break="no"/>tiore sui parte, repr<hi rend="ligature">ae</hi>sentet.
-                     <lb/> 
                   </ab> 
                 <fw type="gathering" place="bottom-right"><hi rend="gothic">P ii</hi></fw> <fw type="catchword" place="bottom-right" xml:lang="de"><hi rend="gothic">Welcher</hi></fw>
                 </div>

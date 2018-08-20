@@ -18,6 +18,7 @@
      <revisionDesc>
         <change when="2018-03-21" who="SJD">Start encoding</change>
         <change when="2018-03-21" who="SJD">Finish draft</change>
+        <change when="2018-08-18" who="EM">structural changes. See Github.</change> 
      </revisionDesc>
   </teiHeader>
    
@@ -25,9 +26,10 @@
   <text>
       <body>
          <div type="emblem" n="e49">
-            <pb n="204"/>
+            <pb n="204" edRef="Maier1618"/>
             <head>
-               <lb n="1"/><fw type="pageNum" place="top-left">204</fw> FUGA <num value="49" type="cardinal">XLIX</num>. in <num value="5">5</num>. suprà. vertendo Basin seu fugientem vocem
+               <lb n="1"/><fw type="pageNum" place="top-left">204</fw> <fw type="header" place="top-center">FUGA <num value="49" type="cardinal">XLIX</num>. in <num value="5">5</num>. suprà. vertendo Basin seu fugientem vocem</fw>
+
                <lb n="2"/><g type="ampersand">et</g> incipiendo ab initio in d. sic vertendo simplicem
                <lb n="3"/><g type="ampersand">et</g> incipiendo in fine g.
                <lb n="4"/>Der Philosophische Kind erkennet drey Vätter <pc>/</pc>
@@ -54,18 +56,17 @@
             </div>
             <fw type="catchword">Emble-</fw>
             
-            <pb n="205"/>
+            <pb n="205" edRef="Maier1618"/>
             
             <div type="image" xml:lang="la">
                <head>
-                  <lb n="1"/>Emblema <num value="49" type="cardinal">XLIX</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>. <fw type="pageNum" place="top-right">205</fw>
+                  <fw type="header" place="top-center">Emblema <num value="49" type="cardinal">XLIX</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw> <fw type="pageNum" place="top-right">205</fw>
                   <lb n="2"/>Infans Philosophicus tres agnoscit patres, ut <persName>Orion</persName>.
                </head>
+               <figure><graphic url=""></graphic></figure>
+
                
-            </div>
-            
-            <figure><graphic url=""></graphic></figure>
-            
+            </div>            
             <div type="epigram" xml:lang="la">
                <head>Epigramma <num value="49" type="cardinal">XLIX</num>.</head>
                <lg>
@@ -81,7 +82,7 @@
             <fw type="gathering" place="bottom-right">Cc 3</fw> <fw type="catchword" place="bottom-right"><hi rend="caps">Mulie-</hi></fw>
             
             <div type="discourse" xml:lang="la">
-               <pb n="206"/>
+               <pb n="206" edRef="Maier1618"/>
                <head><fw type="pageNum" place="top-left">206</fw> <hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="49">XLIX</num>.</head>
                   <ab>
                      <lb n="1"/><milestone unit="section" n="e49-01"/><hi rend="caps">Mulieres</hi>, qu<hi rend="ligature">ae</hi> se variis prostituunt viris, rar<hi rend="grave">o</hi> sobolem viva
@@ -119,7 +120,7 @@
                      <lb n="33"/>tot <g type="ampersand">et</g> fer<hi rend="grave">e</hi> eosdem attribuit patres, nempe Solem, qui est <persName type="divinity">Apollo></persName>
                   </ab>
                   <fw type="catchword" place="bottom-right">sive</fw>
-               <pb n="207"/>
+               <pb n="207" edRef="Maier1618"/>
                <head><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="49">XLIX</num>. <fw type="pageNum" place="top-right"><choice><corr>207</corr><sic>107</sic></choice></fw></head>
                   <ab>
                      <lb n="1"/>sive Sol c<hi rend="ligature">oe</hi>lestis est primus hujus generationis author, qui virtute

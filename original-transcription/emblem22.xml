@@ -17,6 +17,7 @@
       </fileDesc>
      <revisionDesc>
         <change when="2018-01-27" who="SJD">Start encoding</change>
+        <change when="2018-08-18" who="EM">structural changes. See Github.</change> 
      </revisionDesc>
   </teiHeader>
    
@@ -24,9 +25,10 @@
   <text>
       <body>
          <div type="emblem" n="e22">
-            <pb n="96"/>
+            <pb n="96" edRef="Maier1618"/>
             <head>
-               <lb n="1"/><fw type="pageNum" place="top-left">96</fw> FUGA XXII. in 7. suprà.
+               <lb n="1"/><fw type="pageNum" place="top-left">96</fw> <fw type="header" place="top-center">FUGA XXII. in 7. suprà.</fw>
+
                <lb n="2"/>Wenn du hast das weisse Bleij <pc>/</pc> so mache der Weiberwerck <pc>/</pc>
                <lb n="3"/>das ist <pc>/</pc> koche.
             </head>
@@ -51,18 +53,17 @@
             </div>
             <fw type="catchword">Emble-</fw>
             
-            <pb n="97"/>
+            <pb n="97" edRef="Maier1618"/>
             
             <div type="image" xml:lang="la">
                <head>
-                  <lb n="1"/>Emblema XXII. De Secretis Natur<hi rend="ligature">ae</hi>.<!-- BC: how do we want to handle ligatures? --> <fw type="pageNum" place="top-right">97</fw>
+                  <fw type="header" place="top-center">Emblema XXII. De Secretis Natur<hi rend="ligature">ae</hi>.</fw> <fw type="pageNum" place="top-right">97</fw>
                   <lb n="2"/>Plumbo habito candido fac opus mulierum, hoc est, <hi rend="caps">coque</hi>:
                </head>
+               <figure><graphic url=""></graphic></figure>
+
                
-            </div>
-            
-            <figure><graphic url=""></graphic></figure>
-            
+            </div>            
             <div type="epigram" xml:lang="la">
                <head>Epigramma XXII.</head>
                <lg>
@@ -78,7 +79,7 @@
             <fw type="gathering" place="bottom-right">N</fw> <fw type="catchword" place="bottom-right">Quem-</fw>
             
             <div type="discourse" xml:lang="la">
-               <pb n="98"/>
+               <pb n="98" edRef="Maier1618"/>
                <head><fw type="pageNum" place="top-left">98</fw> <hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="22">XXII</num>.</head>
                   <ab>
                      <lb n="1"/><milestone unit="section" n="e22-01"/>Quemadmodum in triviis statu<hi rend="ligature">ae</hi> Mercuriales un<hi rend="grave">a</hi> cum indice
@@ -116,7 +117,7 @@
                      <lb n="33"/><persName>Latona</persName>: qui quatuor sol<hi rend="circumflex">a</hi> coctione seu opere mulierum, in lucem
                   </ab>
                   <fw type="catchword" place="bottom-right">pro-</fw>
-               <pb n="99"/>
+               <pb n="99" edRef="Maier1618"/>
                <head><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="22">XXII</num>. <fw type="pageNum" place="top-right">99</fw></head>
                   <ab>
                      <lb n="1"/>prodeunt. <milestone unit="section" n="e22-12"/>Per coctionem ver<hi rend="grave">o</hi> maturatio, <g type="ampersand">et</g> crudiorum partium

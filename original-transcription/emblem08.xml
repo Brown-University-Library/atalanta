@@ -18,6 +18,7 @@
      <revisionDesc>
         <change when="2017-05-09" who="SJD">Created</change>
         <change when="2017-05-09" who="SJD">Completed draft</change>
+        <change when="2018-08-18" who="EM">structural changes. See Github.</change> 
      </revisionDesc>
   </teiHeader>
    
@@ -25,9 +26,10 @@
   <text>
       <body>
          <div type="emblem" n="e8">
-            <pb n="40"/>
+            <pb n="40" edRef="Maier1618"/>
             <head>
-               <lb n="1"/><fw type="pageNum" place="top-left">40</fw> FUGA <choice><sic>IV</sic><corr>VIII</corr></choice>. in 8 supr<hi rend="grave">a</hi>.
+               <lb n="1"/><fw type="pageNum" place="top-left">40</fw> <fw type="header" place="top-center">FUGA <choice><sic>IV</sic><corr>VIII</corr></choice>. in 8 supr<hi rend="grave">a</hi>.</fw>
+
                <lb n="2"/>Nimm das Eij <pc>/</pc> und Schalge es mit einem
                <lb n="3"/>Glüenden Schwerdt.
             </head>
@@ -52,17 +54,16 @@
             </div>
             <fw type="catchword" place="bottom-right">Emble</fw>
             
-            <pb n="41"/> 
+            <pb n="41" edRef="Maier1618"/> 
             
             <div type="image" xml:lang="la">
                <head>
-                  <lb n="1"/>Emblema VIII.<hi rend="italic">De secretis Natur<hi rend="ligature">ae</hi></hi>. <fw type="pageNum" place="top-right">41</fw>
-                  <lb n="2"/>Accipe ovum <g type="ampersand">et</g> igneo percute gladio.<!-- BC: how do we want to handle ligatures? -->
+                  <fw type="header" place="top-center">Emblema VIII.<hi rend="italic">De secretis Natur<hi rend="ligature">ae</hi></hi>.</fw> <fw type="pageNum" place="top-right">41</fw>
+                  <lb n="2"/>Accipe ovum <g type="ampersand">et</g> igneo percute gladio.
                </head>
-            </div>
-            
-            <figure><graphic url=""></graphic></figure>
-            
+               <figure><graphic url=""></graphic></figure>
+
+            </div>            
             <div type="epigram" xml:lang="la">
                <head>Epigramma VIII.</head>
                <lg>
@@ -78,7 +79,7 @@
            <fw type="gathering">F</fw> <fw type="catchword" place="bottom-right">Multa</fw>
             
             <div type="discourse" xml:lang="la">
-               <pb n="42"/>
+               <pb n="42" edRef="Maier1618"/>
                <head><fw type="pageNum" place="top-left">42</fw> <hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="8">VIII</num>,</head>
                   <ab>
                      <lb n="1"/><milestone unit="section" n="e08-01"/> Multa <g type="ampersand">et</g> varia sunt avium genera, qu<hi rend="ligature">ae</hi> ut numero indefi
@@ -114,11 +115,10 @@
                      <lb n="31"/>fruebatur) defuncto, alia perfectior per transitum in hanc lucem
                      <lb n="32"/>mundanam sive per nativitatem accedit. <milestone unit="section" n="e08-14"/> Im<hi rend="grave">o</hi> et nobis hac pr<hi rend="ligature">ae</hi>senti
                      <lb n="33"/>vit<hi rend="circumflex">a</hi>, quam agimus, privatis, alia perfectissima <g type="ampersand">et</g> <hi rend="ligature">ae</hi>terna imminet,
-                     <lb/>
                   </ab>
                <fw type="catchword" place="bottom-right">sic</fw>
                   
-               <pb n="43"/>
+               <pb n="43" edRef="Maier1618"/>
                <head><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="8">VIII</num>. <fw type="pageNum" place="top-right">43</fw></head>
                   <ab>
                      <lb n="1"/>sic <persName ref="http://viaf.org/viaf/120696927">Lullius</persName> hunc gladium igneum, acutam lanceam vocat multis in
@@ -142,7 +142,6 @@
                      <lb n="19" break="no"/>ta fiunt, nisi ex nostro pulvere albo, stellato, splendido <g type="ampersand">et</g> ex lapide candido, <hi rend="grave">e</hi>
                      <lb n="20"/>quo pulvere apta fiunt instrumenta pro ovo; non tamen nominaverunt o
                      <lb n="21" break="no"/>vum, vel cujus avis ovum sit.</hi></quote>
-                     <lb/>
                   </ab> 
                 <fw type="gathering" place="bottom-right">F iii</fw> <fw type="catchword" place="bottom-right" xml:lang="de"><hi rend="gothic">Schließ</hi></fw>
                 </div>
