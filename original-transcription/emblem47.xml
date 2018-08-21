@@ -28,7 +28,7 @@
          <div type="emblem" n="e47">
             <pb n="196" edRef="Maier1618"/>
             <head>
-               <lb n="1"/><fw type="pageNum" place="top-left">196</fw> <fw type="header" place="top-center">FUGA <num value="47" type="cardinal">XLVII</num>. in <num value="8">8</num>. duplici suprà.</fw>
+               <fw type="pageNum" place="top-left">196</fw> <fw type="header" place="top-center">FUGA <num value="47" type="cardinal">XLVII</num>. in <num value="8">8</num>. duplici suprà.</fw>
 
                <lb n="2"/>Der Wolff von Auffgange <pc>/</pc> und der Hund vom Nidergange
                <lb n="3"/>kommende <pc>/</pc> haben sich unter einander gebissen.
@@ -82,7 +82,7 @@
             
             <div type="discourse" xml:lang="la">
                <pb n="198" edRef="Maier1618"/>
-               <head><fw type="pageNum" place="top-left">198</fw> <hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi>. <num value="47">XLVII</num>.</head>
+               <fw type="pageNum" place="top-left">198</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi>. <num value="47">XLVII</num>.</fw>
                   <ab>
                      <lb n="1"/><milestone unit="section" n="e47-01"/><hi rend="caps">Philosophi</hi> multis in locis duorum memin<hi rend="circumflex">e</hi>re lapidum gratis
                      <lb n="2"/>nobis datorum, ut <persName>Isaac</persName>, <persName ref="http://viaf.org/viaf/100189814">Arnoldus</persName> <g type="ampersand">et</g> ali<hi rend="circumflex">i</hi>, inter quos <persName ref="https://viaf.org/viaf/89770781">Avicenna</persName>
@@ -120,7 +120,7 @@
                   </ab>
                   <fw type="catchword" place="bottom-right">com-</fw>
                <pb n="199" edRef="Maier1618"/>
-               <head><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="47">XLVII</num>. <fw type="pageNum" place="top-right">199</fw></head>
+               <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="47">XLVII</num>.</fw> <fw type="pageNum" place="top-right">199</fw>
                   <ab>
                      <lb n="1"/><quote rend="italic">comparem ut inimicum: H<hi rend="ligature">ae</hi>c ille.</quote> <milestone unit="section" n="e47-11"/>Et mox: <quote rend="italic">quod sulphur</quote>, inquit, <quote rend="italic">fortissimam
                         <lb n="2"/>est <g type="ampersand">et</g> ad versus ignem pugnans quod continet <g type="ampersand">et</g> continetur: Ex his nam

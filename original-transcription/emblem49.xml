@@ -28,7 +28,7 @@
          <div type="emblem" n="e49">
             <pb n="204" edRef="Maier1618"/>
             <head>
-               <lb n="1"/><fw type="pageNum" place="top-left">204</fw> <fw type="header" place="top-center">FUGA <num value="49" type="cardinal">XLIX</num>. in <num value="5">5</num>. suprà. vertendo Basin seu fugientem vocem</fw>
+               <fw type="pageNum" place="top-left">204</fw> <fw type="header" place="top-center">FUGA <num value="49" type="cardinal">XLIX</num>. in <num value="5">5</num>. suprà. vertendo Basin seu fugientem vocem</fw>
 
                <lb n="2"/><g type="ampersand">et</g> incipiendo ab initio in d. sic vertendo simplicem
                <lb n="3"/><g type="ampersand">et</g> incipiendo in fine g.
@@ -83,7 +83,7 @@
             
             <div type="discourse" xml:lang="la">
                <pb n="206" edRef="Maier1618"/>
-               <head><fw type="pageNum" place="top-left">206</fw> <hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="49">XLIX</num>.</head>
+               <fw type="pageNum" place="top-left">206</fw> <fw type="header" place="top-center"><fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="49">XLIX</num>.</fw></fw>
                   <ab>
                      <lb n="1"/><milestone unit="section" n="e49-01"/><hi rend="caps">Mulieres</hi>, qu<hi rend="ligature">ae</hi> se variis prostituunt viris, rar<hi rend="grave">o</hi> sobolem viva
                      <lb n="2" break="no"/>cem concipiunt ex confusione diversorum seminum. <milestone unit="section" n="e49-02"/>Natura
@@ -121,7 +121,7 @@
                   </ab>
                   <fw type="catchword" place="bottom-right">sive</fw>
                <pb n="207" edRef="Maier1618"/>
-               <head><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="49">XLIX</num>. <fw type="pageNum" place="top-right"><choice><corr>207</corr><sic>107</sic></choice></fw></head>
+               <fw type="header" place="top-center"><fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="49">XLIX</num>.</fw></fw> <fw type="pageNum" place="top-right"><choice><corr>207</corr><sic>107</sic></choice></fw>
                   <ab>
                      <lb n="1"/>sive Sol c<hi rend="ligature">oe</hi>lestis est primus hujus generationis author, qui virtute
                      <lb n="2"/>sua inenarrabili <g type="ampersand">et</g> occulta seu astrali operatur in materiam quan

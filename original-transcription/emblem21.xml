@@ -29,7 +29,7 @@
          <div type="emblem" n="e21">
             <pb n="92" edRef="Maier1618"/>
             <head>
-               <lb n="1"/><fw type="pageNum" place="top-left">92</fw> <fw type="header" place="top-center">FUGA XXI. in 4. suprà.</fw>
+               <fw type="pageNum" place="top-left">92</fw> <fw type="header" place="top-center">FUGA XXI. in 4. suprà.</fw>
 
                <lb n="2"/>Mache von Mann und Weib einen Circkel <pc>/</pc> darauß ein
                <lb n="3"/>Quadrangel <pc>/</pc> hierauß ein Triangel <pc>/</pc> mache ein Circkel <pc>/</pc> und
@@ -84,7 +84,7 @@
             
             <div type="discourse" xml:lang="la">
                <pb n="94" edRef="Maier1618"/>
-               <head><fw type="pageNum" place="top-left">94</fw> <hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="21">XXI</num>.</head>
+               <fw type="pageNum" place="top-left">94</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="21">XXI</num>.</fw>
                   <ab>
                      <lb n="1"/><milestone unit="section" n="e21-01"/><persName ref="https://viaf.org/viaf/108159964">Plato</persName> Philosophus ille celeberimus menti human<hi rend="ligature">ae</hi> noticias,
                      <lb n="2"/>qu<hi rend="ligature">ae</hi> sunt artium <g type="ampersand">et</g> scientiarum omnium fundamenta, esse quasi
@@ -123,7 +123,7 @@
                   </ab>
                   <fw type="catchword" place="bottom-right">runt?</fw>
                <pb n="95" edRef="Maier1618"/>
-               <head><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="21">XXI</num>. <fw type="pageNum" place="top-right">95</fw></head>
+               <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="21">XXI</num>.</fw> <fw type="pageNum" place="top-right">95</fw>
                   <ab>
                      <lb n="1"/>runt? <milestone unit="section" n="e21-09"/>Id non opinandum erit; quia videmus brutam <hi rend="grave">a</hi> natura edo
                      <lb n="2" break="no"/>cta abhorrere <g type="ampersand">et</g> cavere pericula ab igne, aqua, casu pr<hi rend="ligature">ae</hi>cipiti <g type="ampersand">et</g>

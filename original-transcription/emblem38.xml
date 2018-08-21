@@ -28,7 +28,7 @@
          <div type="emblem" n="e38">
             <pb n="160" edRef="Maier1618"/>
             <head>
-               <lb n="1"/><fw type="pageNum" place="top-left">160</fw> <fw type="header" place="top-center">FUGA <num value="38" type="cardinal">XXXVIII</num>. in <num value="7">7</num>. suprà.</fw>
+               <fw type="pageNum" place="top-left">160</fw> <fw type="header" place="top-center">FUGA <num value="38" type="cardinal">XXXVIII</num>. in <num value="7">7</num>. suprà.</fw>
 
                <lb n="2"/>Das <persName><hi rend="latin">Rebis</hi></persName> wie ein <hi rend="latin">Hermaphrodit</hi> wirt gebohren auß
                <lb n="3"/>zween Bergen deß <persName type="divinity"><hi rend="latin">Mercurii</hi></persName> und <persName type="divinit"><hi rend="latin">Veneris</hi></persName>.
@@ -82,7 +82,7 @@
             
             <div type="discourse" xml:lang="la">
                <pb n="162" edRef="Maier1618"/>
-               <head><fw type="pageNum" place="top-left"><choice><sic>163</sic><corr>162</corr></choice></fw> <hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="38">XXXVIII</num>.</head>
+               <fw type="pageNum" place="top-left"><choice><sic>163</sic><corr>162</corr></choice></fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="38">XXXVIII</num>.</fw>
                   <ab>
                      <lb n="1"/><milestone unit="section" n="e38-01"/><persName ref="https://viaf.org/viaf/88039167">Socrates</persName> interrogatus, cujas esset, Cosmopolitam seu mundi
                      <lb n="2"/>civem, respondit: Quo innuere voluit, se, etsi <placeName>Athenis</placeName> natus sit
@@ -120,7 +120,7 @@
                   </ab>
                   <fw type="catchword" place="bottom-right">Non</fw>
                <pb n="163" edRef="Maier1618"/>
-               <head><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="38">XXXVIII</num>. <fw type="pageNum" place="top-right">163</fw></head>
+               <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="38">XXXVIII</num>.</fw> <fw type="pageNum" place="top-right">163</fw>
                   <ab>
                      <lb n="1"/><milestone unit="section" n="e38-10"/>Non minori assiduitate <g type="ampersand">et</g> diligentia uti debent illi, qui patriam <persName>Re
                         <lb n="2" break="no"/>bis</persName> ex sese qu<hi rend="ligature">ae</hi>runt, ratione <g type="ampersand">et</g> librorum indicio edocti: Ver<hi rend="grave">u</hi>m li

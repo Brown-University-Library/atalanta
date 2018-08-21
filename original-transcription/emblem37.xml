@@ -28,7 +28,7 @@
          <div type="emblem" n="e37">
             <pb n="156" edRef="Maier1618"/>
             <head>
-               <lb n="1"/><fw type="pageNum" place="top-left">156</fw> <fw type="header" place="top-center">FUGA <num value="37" type="cardinal">XXXVII</num>. in <num value="8">8</num> suprà.</fw>
+               <fw type="pageNum" place="top-left">156</fw> <fw type="header" place="top-center">FUGA <num value="37" type="cardinal">XXXVII</num>. in <num value="8">8</num> suprà.</fw>
 
                <lb n="2"/>Dreij Dinge seijnd genug zur Meisterschafft <pc>/</pc> der weisse
                <lb n="3"/>Rauch <pc>/</pc> das ist Wasser <pc>/</pc> der grüne Löw <pc>/</pc> das ist das Erz
@@ -83,7 +83,7 @@
             
             <div type="discourse" xml:lang="la">
                <pb n="158" edRef="Maier1618"/>
-               <head><fw type="pageNum" place="top-left">158</fw> <hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="37">XXXVII</num>.</head>
+               <fw type="pageNum" place="top-left">158</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="37">XXXVII</num>.</fw>
                   <ab>
                      <lb n="1"/><milestone unit="section" n="e37-01"/>Ut tria essentialia ad cujusque <hi rend="ligature">ae</hi>dificii constructionem requirun
                      <lb n="2" break="no"/>tur, quorum uno absente, ejus nulla adesse potest perfectio, <expan><abbr>qu</abbr><ex>a</ex><abbr><hi rend="hook">e</hi></abbr></expan>
@@ -122,7 +122,7 @@
                   </ab>
                   <fw type="catchword" place="bottom-right">Post</fw>
                <pb n="159" edRef="Maier1618"/>
-               <head><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="37">XXXVII</num>. <fw type="pageNum" place="top-right">159</fw></head>
+               <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="37">XXXVII</num>.</fw> <fw type="pageNum" place="top-right">159</fw>
                   <ab>
                      <lb n="1"/><milestone unit="section" n="e37-11"/>Post aquam f<hi rend="ligature">oe</hi>tidam Leo viridis occurrit: de quo <title ref="http://viaf.org/viaf/191597728">Rosarius</title>, qu<hi rend="ligature">ae</hi>si
                      <lb n="2" break="no"/>visti autem de viriditate, putans, quod <hi rend="ligature">ae</hi>s esset corpus leprosum pro

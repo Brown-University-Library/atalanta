@@ -27,7 +27,7 @@
          <div type="emblem" n="e27">
             <pb n="116" edRef="Maier1618"/>
             <head>
-               <lb n="1"/><fw type="pageNum" place="top-left">116</fw> <fw type="header" place="top-center">FUGA <num value="27" type="cardinal">XXVII</num>. in <num value="8">8</num>. suprà.</fw>
+               <fw type="pageNum" place="top-left">116</fw> <fw type="header" place="top-center">FUGA <num value="27" type="cardinal">XXVII</num>. in <num value="8">8</num>. suprà.</fw>
 
                <lb n="2"/>Welcher n der Philosophen Rosen Garten wil gehen ohne
                <lb n="3"/>den Schlüssel <pc>/</pc> ist gleich einem Manne <pc>/</pc> der gehen wil
@@ -82,7 +82,7 @@
             
             <div type="discourse" xml:lang="la">
                <pb n="118" edRef="Maier1618"/>
-               <head><fw type="pageNum" place="top-left"><supplied reason="omitted">1</supplied>18</fw> <hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="27">XXVII</num>.</head>
+               <fw type="pageNum" place="top-left"><supplied reason="omitted">1</supplied>18</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="27">XXVII</num>.</fw>
                   <ab>
                      <lb n="1"/><milestone unit="section" n="e27-01"/>De <persName>Erichthonio</persName> <expan><abbr>scrib<hi rend="tilde">u</hi></abbr><ex>n</ex><abbr>t</abbr></expan>, eum ex semine <persName>Vulcani</persName> cum <persName>Pallade</persName> sa
                      <lb n="2" break="no"/>pienti<hi rend="ligature">ae</hi> Dea luctatnis in terram emisso natum serpentis <g type="ampersand">et</g>
@@ -121,7 +121,7 @@
                   </ab>
                   <fw type="catchword" place="bottom-right">pten</fw>
                <pb n="119" edRef="Maier1618"/>
-               <head><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="27">XXVII</num>. <fw type="pageNum" place="top-right">119</fw></head>
+               <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="27">XXVII</num>.</fw> <fw type="pageNum" place="top-right">119</fw>
                   <ab>
                      <lb n="1"/>ptentrionali rever<hi rend="grave">a</hi> inveniet si signa bene numerare <g type="ampersand">et</g> discernere
                      <lb n="2"/>sciat, <g type="ampersand">et</g> lorum pessuli in meridionali: Quibus occupatis, facil<hi rend="grave">e</hi> erit

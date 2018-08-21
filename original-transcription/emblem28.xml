@@ -28,7 +28,7 @@
          <div type="emblem" n="e28">
             <pb n="120" edRef="Maier1618"/>
             <head>
-               <lb n="1"/><fw type="pageNum" place="top-left">120</fw> <fw type="header" place="top-center">FUGA <num value="28" type="cardinal">XXVIII</num>. in <num value="9">9</num> seu <num value="12">12</num>. suprà.</fw>
+               <fw type="pageNum" place="top-left">120</fw> <fw type="header" place="top-center">FUGA <num value="28" type="cardinal">XXVIII</num>. in <num value="9">9</num> seu <num value="12">12</num>. suprà.</fw>
 
                <lb n="2"/>Der König badet im lüfftigen Bade <pc>/</pc> und wirt der
                <lb n="3"/>schwarzen Gallen entlediget durch <persName>Pharut</persName>.
@@ -82,7 +82,7 @@
             
             <div type="discourse" xml:lang="la">
                <pb n="122" edRef="Maier1618"/>
-               <head><fw type="pageNum" place="top-left">122</fw> <hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="28">XXVIII</num>.</head>
+               <fw type="pageNum" place="top-left">122</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="28">XXVIII</num>.</fw>
                   <ab>
                      <lb n="1"/><milestone unit="section" n="e28-01"/>Ut tres sunt in homine concoctiones, prima in ventriculo, <expan><abbr>sec<hi rend="tilde">u</hi></abbr><ex>n</ex>
                         <lb n="2" break="no"/><abbr>da</abbr></expan> in epate, teria in venis, ita <g type="ampersand">et</g> totidem sunt universales excre
@@ -120,7 +120,7 @@
                   </ab>
                   <fw type="catchword" place="bottom-right">itaque</fw>
                <pb n="123" edRef="Maier1618"/>
-               <head><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="28">XXVIII</num>. <fw type="pageNum" place="top-right">123</fw></head>
+               <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="28">XXVIII</num>.</fw> <fw type="pageNum" place="top-right">123</fw>
                   <ab>
                      <lb n="1"/><expan><abbr>itaq<am>;</am></abbr><ex>ue</ex></expan> <hi rend="grave">a</hi> <persName>Pharut></persName> in Laconicum introducitur, ut ibi sudet, <g type="ampersand">et</g> terti<hi rend="ligature">ae</hi> <expan><abbr>c<hi rend="tilde">o</hi></abbr><ex>n</ex>
                      <lb n="2" break="no"/><abbr>coctionis</abbr></expan> f<hi rend="ligature">oe</hi>ces per poros excernat: Est autem hujus regis affectus

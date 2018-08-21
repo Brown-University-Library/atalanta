@@ -28,7 +28,7 @@
          <div type="emblem" n="e43">
             <pb n="180" edRef="Maier1618"/>
             <head>
-               <lb n="1"/><fw type="pageNum" place="top-left">180</fw> <fw type="header" place="top-center">FUGA <num value="43" type="cardinal">XLIII</num>. in <num value="5">5</num>. seu <num value="12">12</num> infrà. Contrapunctum.</fw>
+               <fw type="pageNum" place="top-left">180</fw> <fw type="header" place="top-center">FUGA <num value="43" type="cardinal">XLIII</num>. in <num value="5">5</num>. seu <num value="12">12</num> infrà. Contrapunctum.</fw>
 
                <lb n="2"/>Hörzu gen Geijer so reden kan <pc>/</pc> der fälschlich
                <lb n="3"/>dich nicht sezet an.
@@ -81,7 +81,7 @@
             
             <div type="discourse" xml:lang="la">
                <pb n="182" edRef="Maier1618"/>
-               <head><fw type="pageNum" place="top-left">182</fw> <hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="43">XLIII</num>.</head>
+               <fw type="pageNum" place="top-left">182</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="43">XLIII</num>.</fw>
                   <ab>
                      <lb n="1"/><milestone unit="section" n="e43-01"/><hi rend="caps">Loquaces</hi> seu vocis humanae aemulas volucres, videlicet Psitta
                      <lb n="2" break="no"/>cos, corvos, monedulas, <g type="ampersand">et</g> picas quodtidi<hi rend="grave">e</hi> passim audimus. <milestone unit="section" n="e43-02"/>Sic
@@ -120,7 +120,7 @@
                   </ab>
                   <fw type="catchword" place="bottom-right">junctione</fw>
                <pb n="183" edRef="Maier1618"/>
-               <head><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="43">XLIII</num>. <fw type="pageNum" place="top-right">183</fw></head>
+               <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="43">XLIII</num>.</fw> <fw type="pageNum" place="top-right">183</fw>
                   <ab>
                      <lb n="1"/>junctione generare, nat<hi rend="acute">o</hi>sque ex iis in multam aetatem procedere
                      <lb n="2"/>ad annum usque centesimum. Nidificant in altis rupibus, nidos ne

@@ -26,18 +26,15 @@
   <text>
       <body>
          <div type="emblem" n="e13">
-            <pb n="60" edRef="Maier1618"/>
-            <head>
-               <lb n="1"/><fw type="pageNum" place="top-left">60</fw> <fw type="header" place="top-center">FUGA XIII. in <num value="4">4</num>. seu <num value="11">11</num>. supr<hi rend="grave">a</hi>.</fw>
-
-               <lb n="2"/>Das Erz der Weisen ist wassersüchtig <pc>/</pc> und wil gebadet
-               <lb n="3"/>seijn siebenmal im Fluß <pc>/</pc> wie der aussenzige <persName><hi rend="latin">Naaman</hi></persName>
-               <lb n="4"/>im <placeName>Jordan</placeName>.
-            </head>
             
+            <pb n="60" edRef="Maier1618"/>
+            <fw type="pageNum" place="top-left">60</fw> <fw type="header" place="top-center">FUGA XIII. in <num value="4">4</num>. seu <num value="11">11</num>. supr<hi rend="grave">a</hi>.</fw>
+                        
             <div type="fugue" xml:lang="de">
                <head>
-                  
+                  <lb n="1"/>Das Erz der Weisen ist wassersüchtig <pc>/</pc> und wil gebadet
+                  <lb n="2"/>seijn siebenmal im Fluß <pc>/</pc> wie der aussenzige <persName><hi rend="latin">Naaman</hi></persName>
+                  <lb n="3"/>im <placeName>Jordan</placeName>.
                </head>
                
             </div>
@@ -53,15 +50,15 @@
                   <lb n="6"/><l>So wirtes in Kranckheit bald seiner Hülff geniessen.</l>
                </lg>
             </div>
-            <fw type="catchword" place="bottom-right">Emble-</fw>
             
+            <fw type="catchword" place="bottom-right">Emble-</fw>
             <pb n="61" edRef="Maier1618"/> 
+            <fw type="header" place="top-center">Emblema XIII. <hi rend="italic">De secretis Natur<hi rend="ligature">ae</hi></hi>.</fw> <fw type="pageNum" place="top-right">61</fw>
             
             <div type="image" xml:lang="la">
                <head>
-                  <fw type="header" place="top-center">Emblema XIII. <hi rend="italic">De secretis Natur<hi rend="ligature">ae</hi></hi>.</fw> <fw type="pageNum" place="top-right">61</fw>
-                  <lb n="2"/><hi rend="ligature">Ae</hi>s Philosophorum hydropicum est, <g type="ampersand">et</g> vul lavari septies in
-                  <lb n="3"/>fluvio, ut <persName>Naaman</persName> leprosus in <placeName>Jordane</placeName>.
+                  <lb n="1"/><hi rend="ligature">Ae</hi>s Philosophorum hydropicum est, <g type="ampersand">et</g> vul lavari septies in
+                  <lb n="2"/>fluvio, ut <persName>Naaman</persName> leprosus in <placeName>Jordane</placeName>.
                </head>
                <figure><graphic url=""></graphic></figure>
 
@@ -79,11 +76,11 @@
             </div>
             
            <fw type="gathering">H 3</fw> <fw type="catchword" place="bottom-right">Quod</fw>
+            <pb n="62" edRef="Maier1618"/>
+            <fw type="pageNum" place="top-left"><choice><corr>62</corr><sic>61</sic></choice></fw> <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="13">XIII</num>.</fw>
             
             <div type="discourse" xml:lang="la">
-               <pb n="62" edRef="Maier1618"/>
-               <head><fw type="pageNum" place="top-left"><choice><corr>62</corr><sic>61</sic></choice></fw> <hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="13">XIII</num>.</head>
-                  <ab>
+                 <div type="discourse-p1"><ab>
                      <lb n="1"/><milestone unit="section" n="e13-01"/>Quod <persName>Naaman</persName> <orgName>Syrus</orgName> ex Prophet<hi rend="ligature">ae</hi> jussu in <placeName>Jud<hi rend="ligature">ae</hi>am</placeName> se contule
                      <lb n="2" break="no"/>rit, in<hi rend="acute">q</hi>ue <placeName>amne Jordane</placeName> septies se abluerit, ejus confidenti<hi rend="ligature">ae</hi> in
                      <lb n="3"/>Prophet<hi rend="ligature">ae</hi> verba ascribendum, <expan><abbr><hi rend="stroke">q</hi></abbr><ex>uod</ex></expan> ver<hi rend="grave">o</hi> <hi rend="grave">a</hi> lepra e<hi rend="circumflex">a</hi> lotione liberatus
@@ -118,12 +115,14 @@
                      <lb n="32"/><expan><abbr>abluend<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> sit: Hoc <expan><ex>e</ex><abbr>n<am>.</am></abbr><ex>im</ex></expan> est, <expan><abbr><hi rend="stroke">q</hi></abbr><ex>uod</ex></expan> <expan><abbr>dic<hi rend="tilde">u</hi></abbr><ex>n</ex><abbr>t</abbr></expan>, lava igne <g type="ampersand">et</g> <expan><abbr>c<hi rend="tilde">o</hi></abbr><ex>m</ex><abbr>bure</abbr></expan> aqua: <milestone unit="section" n="e13-11"/><expan><abbr>N<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> ignis,
                      <lb n="33"/>qui lavat, <g type="ampersand">et</g> aqua, qu<hi rend="ligature">ae</hi> <expan><abbr>c<hi rend="tilde">o</hi></abbr><ex>m</ex><abbr>burit</abbr></expan>, <expan><abbr>n<hi rend="tilde">o</hi></abbr><ex>n</ex></expan> nisi nomine ab <expan><abbr>invic<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> <expan><abbr>dist<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>t</abbr></expan>, effe
                      <lb n="34"/>ctu <g type="ampersand">et</g> operatione conveniunt: Hac <expan><abbr>ita<am>;</am></abbr><ex>ue</ex></expan> aqua, vel hoc igne illud <hi rend="ligature">ae</hi>s
-                  </ab>
+                  </ab></div>
                <fw type="catchword" place="bottom-right">abluen-</fw>
                   
                <pb n="63" edRef="Maier1618"/>
-               <head><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="13">XIII</num>. <fw type="pageNum" place="top-right">63</fw></head>
-                  <ab>
+               <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="13">XIII</num>.</fw> <fw type="pageNum" place="top-right">63</fw>
+               
+ <div type="discourse-p2">
+    <ab>
                      <lb n="1"/>abluendum <hi rend="grave">a</hi> superfluis suis <expan><abbr>humiditatib<am>.</am></abbr><ex>us</ex></expan> id est, <expan><abbr>exiccand<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> erit: <milestone unit="section" n="e13-12"/>De
                      <lb n="2"/>hyropicis curatis per <expan><abbr>semestr<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> <expan><abbr>abstin<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>ti<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> ab omni potu, per <expan><abbr>sepeli
                      <lb n="3" break="no"/>ion<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> in arena calida aut fimo bubulo, per <expan><abbr>inclusion<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> in furno calido,
@@ -158,7 +157,7 @@
                      <lb n="32"/>essentialis aut primarius, dummod<hi rend="grave">o</hi> caut<hi rend="grave">e</hi> incipiatur, ut de copia se
                      <lb n="33" break="no"/>re diximus in quartana, ne scilict nimi<hi rend="circumflex">a</hi> exiccatione in <expan><abbr>tab<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> aut hu
                      <lb n="34" break="no"/>mectatione in hydropem curatu difficilimem incidat.
-                  </ab> 
+                  </ab> </div>
                 <fw type="catchword" place="bottom-right" xml:lang="de"><hi rend="gothic">Diß</hi></fw>
                 </div>
             

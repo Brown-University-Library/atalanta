@@ -28,7 +28,7 @@
          <div type="emblem" n="e41">
             <pb n="172" edRef="Maier1618"/>
             <head>
-               <lb n="1"/><fw type="pageNum" place="top-left">172</fw> <fw type="header" place="top-center">FUGA <num value="41" type="cardinal">XLI</num>. in <num value="3">3</num>. infrà. retrograda existente simplici seu Basi.</fw>
+               <fw type="pageNum" place="top-left">172</fw> <fw type="header" place="top-center">FUGA <num value="41" type="cardinal">XLI</num>. in <num value="3">3</num>. infrà. retrograda existente simplici seu Basi.</fw>
 
                <lb n="2"/><persName><hi rend="latin">Adonis</hi></persName> wit von einer wilden Saw erlegt <pc>/</pc> welchem wie die
                <lb n="3"/><persName type="divinity"><hi rend="latin">Venus</hi></persName> wolt Hülffe thun <pc>/</pc> hat sie mit Blut die Rosen
@@ -83,7 +83,7 @@
             
             <div type="discourse" xml:lang="la">
                <pb n="174" edRef="Maier1618"/>
-               <head><fw type="pageNum" place="top-left">174</fw> <hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="41">XLI</num>.</head>
+               <fw type="pageNum" place="top-left">174</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="41">XLI</num>.</fw>
                   <ab>
                      <lb n="1"/><milestone unit="section" n="e41-01"/><persName><hi rend="caps">Adonidis</hi></persName> allegoriam qu<hi rend="grave">a</hi>m impropri<hi rend="grave">e</hi> quidam ex mythologis
                      <lb n="2"/>explicent, <g type="ampersand">et</g> eum nunc ad Solem, aprum, <hi rend="grave">a</hi> quo occisus est, ad
@@ -121,7 +121,7 @@
                   </ab>
                   <fw type="catchword" place="bottom-right">f<hi rend="ligature">oe</hi>cun-</fw>
                <pb n="175" edRef="Maier1618"/>
-               <head><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="41">XLI</num>. <fw type="pageNum" place="top-right">175</fw></head>
+               <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="41">XLI</num>.</fw> <fw type="pageNum" place="top-right">175</fw>
                   <ab>
                      <lb n="1"/>f<hi rend="ligature">oe</hi>cundiores <g type="ampersand">et</g> <hi rend="grave">e</hi>converso, quo remotiores, e<hi rend="grave">o</hi> in f<hi rend="ligature">oe</hi>cundiores, quod
                      <lb n="2"/>in hominum matrimonio tolerabile non est. <milestone unit="section" n="e41-13"/>Hinc <persName>Oedypus</persName> pro

@@ -28,7 +28,7 @@
          <div type="emblem" n="e32">
             <pb n="136" edRef="Maier1618"/>
             <head>
-               <lb n="1"/><fw type="pageNum" place="top-left"><choice><sic>126</sic><corr>136</corr></choice></fw> <fw type="header" place="top-center">FUGA <num value="32" type="cardinal">XXXII</num>. in <num value="5">5</num> suprà.</fw>
+               <fw type="pageNum" place="top-left"><choice><sic>126</sic><corr>136</corr></choice></fw> <fw type="header" place="top-center">FUGA <num value="32" type="cardinal">XXXII</num>. in <num value="5">5</num> suprà.</fw>
 
                <lb n="2"/>Die Corallen <pc>/</pc> wie sie wachsen unterm Wasser <pc>/</pc> und durch
                <lb n="3"/>die Lufft erhartet werden <pc>/</pc> also auch der Stein.
@@ -81,7 +81,7 @@
             
             <div type="discourse" xml:lang="la">
                <pb n="138" edRef="Maier1618"/>
-               <head><fw type="pageNum" place="top-left">138</fw> <hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="32">XXXII</num>.</head>
+               <fw type="pageNum" place="top-left">138</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="32">XXXII</num>.</fw>
                   <ab>
                      <lb n="1"/><milestone unit="section" n="e32-01"/>Philosophi vocant lapidem suum vegetabilem, quia instar
                      <lb n="2"/>plant<hi rend="ligature">ae</hi> vegetet, crescat, augmentetur <g type="ampersand">et</g> multiplicetur: quod
@@ -119,7 +119,7 @@
                   </ab>
                   <fw type="catchword" place="bottom-right">Ambra</fw>
                <pb n="139" edRef="Maier1618"/>
-               <head><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi>. <num value="32">XXXII</num>. <fw type="pageNum" place="top-right">139</fw></head>
+               <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi>. <num value="32">XXXII</num>.</fw> <fw type="pageNum" place="top-right">139</fw>
                   <ab>
                      <lb n="1"/><milestone unit="section" n="e32-09"/>Ambra Grysea quo <expan><abbr>eod<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> modo in <placeName>Indi<hi rend="ligature">ae</hi></placeName> orientalis <g type="ampersand">et</g> occidentalis
                      <lb n="2"/>littoribus inveniatur, negari non potest <g type="ampersand">et</g> quamvis quidam ad ar

@@ -28,7 +28,7 @@
          <div type="emblem" n="e14">
             <pb n="64" edRef="Maier1618"/>
             <head>
-               <lb n="1"/>FUGA XIV. in 8. infrà.
+               FUGA XIV. in 8. infrà.
                <lb n="2"/>Diß ist der Drache<pc>/</pc><!-- BC: There's a back slash between "Drache" and "welcher" that is unclear for its intent -->welcher sein eigenen Schwanz 
                <lb n="3"/>aufffrißt.
             </head>
@@ -80,7 +80,7 @@
             
             <div type="discourse" xml:lang="la">
                <pb n="66" edRef="Maier1618"/>
-               <head><fw type="pageNum">66</fw> <hi rend="italic">Disc</hi>u<hi rend="italic">rs</hi>u<hi rend="italic">s</hi>. <num value="14">XIV</num>.</head>
+               <fw type="pageNum">66</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>u<hi rend="italic">rs</hi>u<hi rend="italic">s</hi>. <num value="14">XIV</num>.</fw>
                   <ab>
                      <lb n="1"/><hi rend="tall">V</hi>eteres dix<hi rend="circumflex">e</hi>re, quod serpens, qui serpentem devorarit, fiat
                      <lb n="2"/>draco: s<hi rend="ligature">ae</hi>vit enim in proprium genus ut latro <g type="ampersand">et</g> sicarius in su
@@ -119,7 +119,7 @@
                   </ab>
                   <fw type="catchword" place="bottom-right">midam</fw>
                <pb n="67" edRef="Maier1618"/>
-               <head><hi rend="italic">Disc</hi>u<hi rend="italic">rs</hi>u<hi rend="italic">s</hi>. <num value="14">XIV</num>. <fw type="pageNum" place="top-right">67</fw></head>
+               <fw type="header" place="top-center"><hi rend="italic">Disc</hi>u<hi rend="italic">rs</hi>u<hi rend="italic">s</hi>. <num value="14">XIV</num>.</fw> <fw type="pageNum" place="top-right">67</fw>
                   <ab>
                      <lb n="1"/>midam absumat, ut post absque cauda videatur corpulentior <g type="ampersand">et</g> tar
                      <lb n="2" break="no"/>ior, si quidem motus <g type="ampersand">et</g> volubilitas eius magna ex parte ratione

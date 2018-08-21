@@ -27,7 +27,7 @@
       <body>
          <div type="emblem" n="e5">
             <pb n="28" edRef="Maier1618"/>
-            <fw type="pageNum" place="top-left">28</fw> <fw>FUGA V. in Quinta, supr<hi rend="grave">a</hi>.</fw>
+            <fw type="pageNum" place="top-left">28</fw> <fw type="header" place="top-center">FUGA V. in Quinta, supr<hi rend="grave">a</hi>.</fw>
             
             <div type="fugue" xml:lang="de">
                <head>
@@ -50,7 +50,7 @@
             
             <fw type="catchword" place="bottom-right">Emble</fw>
             <pb n="29" edRef="Maier1618"/> 
-            <fw>Emblema V.<hi rend="italic">De secretis Natur<hi rend="ligature">ae</hi></hi>.</fw> <fw type="pageNum" place="top-right">29</fw>
+            <fw type="header" place="top-center">Emblema V.<hi rend="italic">De secretis Natur<hi rend="ligature">ae</hi></hi>.</fw> <fw type="pageNum" place="top-right">29</fw>
             
             <div type="image" xml:lang="la">
                <head>
@@ -74,7 +74,7 @@
             
            <fw type="gathering">D 3</fw> <fw type="catchword" place="bottom-right">Tota</fw>
             <pb n="30" edRef="Maier1618"/>
-            <fw type="pageNum" place="top-left">30</fw> <fw><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="5">V</num>.</fw>
+            <fw type="pageNum" place="top-left">30</fw> <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="5">V</num>.</fw>
             
             <div type="discourse" xml:lang="la">
                   <div type="discourse-p1">
@@ -117,7 +117,7 @@
                
                <fw type="catchword" place="bottom-right">venas</fw>
                <pb n="31" edRef="Maier1618"/>
-               <fw><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="5">V</num>.</fw> <fw type="pageNum" place="top-right">31</fw>
+               <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="5">V</num>.</fw> <fw type="pageNum" place="top-right">31</fw>
      <div type="discourse-p2">
         <ab>
                      <lb n="1"/>venas pectorales communicatur cordi, id<hi rend="acute">q</hi>ue inficit <g type="ampersand">et</g> extinguit,

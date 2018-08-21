@@ -28,7 +28,7 @@
          <div type="emblem" n="e45">
             <pb n="188" edRef="Maier1618"/>
             <head>
-               <lb n="1"/><fw type="pageNum" place="top-left">188</fw> <fw type="header" place="top-center">FUGA <num value="45" type="cardinal">XLV</num>. in <num value="3">3</num>. <expan><abbr>sup</abbr><ex>rà</ex></expan>. vertendo <expan><abbr>Bas<am>.</am></abbr><ex>sum</ex></expan> <g type="ampersand">et</g> <expan><abbr>incip<am>.</am></abbr><ex>e</ex></expan> ab initio in clave d.</fw>
+               <fw type="pageNum" place="top-left">188</fw> <fw type="header" place="top-center">FUGA <num value="45" type="cardinal">XLV</num>. in <num value="3">3</num>. <expan><abbr>sup</abbr><ex>rà</ex></expan>. vertendo <expan><abbr>Bas<am>.</am></abbr><ex>sum</ex></expan> <g type="ampersand">et</g> <expan><abbr>incip<am>.</am></abbr><ex>e</ex></expan> ab initio in clave d.</fw>
 
                <lb n="2"/>Die Sonn und ihr Schatten vollnbringen
                <lb n="3"/>das Werck.
@@ -81,7 +81,7 @@
             
             <div type="discourse" xml:lang="la">
                <pb n="190" edRef="Maier1618"/>
-               <head><fw type="pageNum" place="top-left">190</fw> <hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="45">XLV</num>.</head>
+               <fw type="pageNum" place="top-left">190</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="45">XLV</num>.</fw>
                   <ab>
                      <lb n="1"/><milestone unit="section" n="e45-01"/><hi rend="caps">Quemadmodum</hi> in Palatio rotundo seu form<hi rend="ligature">ae</hi> sph<hi rend="ligature">ae</hi>ric<hi rend="ligature">ae</hi>, uno
                      <lb n="2"/>loco ignis incensus illustrat circum circa omnes parietes supe
@@ -120,7 +120,7 @@
                   </ab>
                   <fw type="catchword" place="bottom-right">buit:</fw>
                <pb n="191" edRef="Maier1618"/>
-               <head><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="45">XLV</num>. <fw type="pageNum" place="top-right">191</fw></head>
+               <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="45">XLV</num>.</fw> <fw type="pageNum" place="top-right">191</fw>
                   <ab>
                      <lb n="1"/>buit: <milestone unit="section" n="e45-10"/>Umbra autem illa <g type="ampersand">et</g> sol diem <g type="ampersand">et</g> noctem faciunt simul, quod
                      <lb n="2"/>sol per se solus non posset, cujus est illuminare omnia opposita loca

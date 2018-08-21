@@ -28,7 +28,7 @@
          <div type="emblem" n="e31">
             <pb n="132" edRef="Maier1618"/>
             <head>
-               <lb n="1"/><fw type="pageNum" place="top-left">132</fw> <fw type="header" place="top-center">FUGA <num value="31" type="cardinal">XXXI</num>. in <num value="4">4</num> suprà.</fw>
+               <fw type="pageNum" place="top-left">132</fw> <fw type="header" place="top-center">FUGA <num value="31" type="cardinal">XXXI</num>. in <num value="4">4</num> suprà.</fw>
 
                <lb n="2"/>Der König <pc>/</pc> schwimmende im Meer <pc>/</pc> schreijet mit lauter
                <lb n="3"/>Stimm <pc>/</pc> wer mich errettet <pc>/</pc> wirt ein groß Geschenck
@@ -83,7 +83,7 @@
             
             <div type="discourse" xml:lang="la">
                <pb n="134" edRef="Maier1618"/>
-               <head><fw type="pageNum" place="top-left">134</fw> <hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="31">XXXI</num>.</head>
+               <fw type="pageNum" place="top-left">134</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="31">XXXI</num>.</fw>
                   <ab>
                      <lb n="1"/><milestone unit="section" n="e31-01"/>Prima omnis disciplin<hi rend="ligature">ae</hi> rudimenta antiquitus fu<hi rend="circumflex">e</hi>re natandi
                      <lb n="2"/>peritia <g type="ampersand">et</g> in literis institutio: Hinc de homine rudi dici <g type="ampersand">et</g> impolito
@@ -121,7 +121,7 @@
                   </ab>
                   <fw type="catchword" place="bottom-right">in<hi rend="grave">es</hi></fw>
                <pb n="135" edRef="Maier1618"/>
-               <head><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi>. <num value="31">XXXI</num>. <fw type="pageNum" place="top-right">135</fw></head>
+               <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi>. <num value="31">XXXI</num>.</fw> <fw type="pageNum" place="top-right">135</fw>
                   <ab>
                      <lb n="1"/>in fundo, unde non tutum est navibus ferro compactis aut oneratis
                      <lb n="2"/>per id transire: Facil<hi rend="grave">e</hi> enim in fundum magnetis vi attrahi possent.

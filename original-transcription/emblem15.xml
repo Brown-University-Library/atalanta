@@ -28,7 +28,7 @@
          <div type="emblem" n="e15">
             <pb n="68" edRef="Maier1618"/>
             <head>
-               <lb n="1"/><fw type="pageNum" place="top-left">68</fw> <fw type="header" place="top-center">FUGA XV. in 3. infrà.</fw>
+               <fw type="pageNum" place="top-left">68</fw> <fw type="header" place="top-center">FUGA XV. in 3. infrà.</fw>
 
                <lb n="2"/>Deß Töpffers Werck <pc>/</pc> so bestehet in Trucken und
                <lb n="3"/>Feuchte <pc>/</pc> laß dich lehren.
@@ -81,7 +81,7 @@
             
             <div type="discourse" xml:lang="la">
                <pb n="70" edRef="Maier1618"/>
-               <head><fw type="pageNum" place="top-left">70</fw> <hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi>. <num value="15">XV</num>.</head>
+               <fw type="pageNum" place="top-left">70</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi>. <num value="15">XV</num>.</fw>
                   <ab>
                      <lb n="1"/><milestone unit="section" n="e15-01"/> Ut orbis hic terr<hi rend="ligature">ae</hi> <g type="ampersand">et</g> aqu<hi rend="ligature">ae</hi> complexu conglobatus est in unum
                      <lb n="2"/>corpus rotundum, sic <expan><abbr>quoq<am>;</am></abbr><ex>ue</ex></expan> figulinum opus ex iisdem <expan><abbr>elem<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>tis</abbr></expan>
@@ -120,7 +120,7 @@
                   </ab>
                   <fw type="catchword" place="bottom-right">rem</fw>
                <pb n="71" edRef="Maier1618"/>
-               <head><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi>. <num value="15">XV</num>. <fw type="pageNum" place="top-right">71</fw></head>
+               <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi>. <num value="15">XV</num>.</fw> <fw type="pageNum" place="top-right">71</fw>
                   <ab>
                      <lb n="1"/>rem mors finiit: <milestone unit="section" n="e15-11"/> Non enim inde, in quo naturaliter non inest, peti
                      <lb n="2"/>debet aurum vel argentum, c<hi rend="grave">u</hi>m Magia diabolica in operibus hisce

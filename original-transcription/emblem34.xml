@@ -29,7 +29,7 @@
          <div type="emblem" n="e34">
             <pb n="144" edRef="Maier1618"/>
             <head>
-               <lb n="1"/><fw type="pageNum" place="top-left">144</fw> <fw type="header" place="top-center">FUGA <num value="34" type="cardinal">XXXIV</num>. in <num value="8">8</num> infrà.</fw>
+               <fw type="pageNum" place="top-left">144</fw> <fw type="header" place="top-center">FUGA <num value="34" type="cardinal">XXXIV</num>. in <num value="8">8</num> infrà.</fw>
 
                <lb n="2"/>Im Wasserbad wirt er empfangen <pc>/</pc> und in der Lufft geboren <pc>/</pc>
                <lb n="3"/>wenner aber roht worden <pc>/</pc> gehet er auff dem Wasser.
@@ -83,8 +83,9 @@
             
             <div type="discourse" xml:lang="la">
                <pb n="146" edRef="Maier1618"/>
-               <head><fw type="pageNum" place="top-left"><choice><sic>149</sic><corr>146</corr></choice></fw> <hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="34">XXXIV</num></head>
-                  <ab>
+               <fw type="pageNum" place="top-left"><choice><sic>149</sic><corr>146</corr></choice></fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="34">XXXIV</num>
+               </fw>
+               <ab>
                      <lb n="1"/><milestone unit="section" n="e34-01"/>Hominum opinion vel adulatio quibusdam pr<hi rend="ligature">ae</hi> reliquis mira
                      <lb n="2" break="no"/>biles ortus, at cert<hi rend="grave">e</hi> fabulosos attribuit, veluti, <persName ref="https://viaf.org/viaf/101353608">Alexandro
                      <lb n="3"/>Magno</persName>, non <hi rend="grave">a</hi> <persName ref="https://viaf.org/viaf/262339539">Philippo</persName> <orgName><expan><abbr>Macedon<hi rend="tilde">u</hi></abbr><ex>m</ex></expan></orgName> rege, sed <persName type="divinity">Jove Hammonio</persName>, geni
@@ -122,7 +123,7 @@
                   </ab>
                   <fw type="catchword" place="bottom-right">trefactio</fw>
                <pb n="147" edRef="Maier1618"/>
-               <head><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="34">XXXIV</num>. <fw type="pageNum" place="top-right">147</fw></head>
+               <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="34">XXXIV</num>.</fw> <fw type="pageNum" place="top-right">147</fw>
                   <ab>
                      <lb n="1"/>trefactio fiat igne lentissimo fimi calidi <g type="ampersand">et</g> humidi, <g type="ampersand">et</g> nequaquam
                      <lb n="2"/>alio, ita quod nihil ascendat: quia si aliquid ascenderet, fieret separa

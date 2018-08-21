@@ -27,7 +27,7 @@
          <div type="emblem" n="e23">
             <pb n="100" edRef="Maier1618"/>
             <head>
-               <lb n="1"/><fw type="pageNum" place="top-left">100</fw> <fw type="header" place="top-center">FUGA XXIII. in 5. seu 12. suprà.</fw>
+               <fw type="pageNum" place="top-left">100</fw> <fw type="header" place="top-center">FUGA XXIII. in 5. seu 12. suprà.</fw>
 
                <lb n="2"/>Es regnet Gold <pc>/</pc> die weil <persName><hi rend="latin">Pallas</hi></persName> wirt geboren <pc>/</pc> zu <placeName>Rhodijs</placeName> <pc>/</pc>
                <lb n="3"/>und die Sonn beij <persName><hi rend="latin">Venere</hi></persName> ligt.
@@ -80,7 +80,7 @@
             
             <div type="discourse" xml:lang="la">
                <pb n="102" edRef="Maier1618"/>
-               <head><fw type="pageNum" place="top-left">102</fw> <hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="23">XXIII</num>.</head>
+               <fw type="pageNum" place="top-left">102</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="23">XXIII</num>.</fw>
                   <ab>
                      <lb n="1"/><milestone unit="section" n="e23-01"/>Aurum aliquando in terras pluisse, nisi allegoric<hi rend="grave">e</hi> intelligere
                      <lb n="2" break="no"/>tur, insania esset, affirmare: Non enim sunt fluvii auriferi aut
@@ -119,7 +119,7 @@
                   </ab>
                   <fw type="catchword" place="bottom-right">lem</fw>
                <pb n="103" edRef="Maier1618"/>
-               <head><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="23">XXIII</num>. <fw type="pageNum" place="top-right">103</fw></head>
+               <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="23">XXIII</num>.</fw> <fw type="pageNum" place="top-right">103</fw>
                   <ab>
                      <lb n="1"/>lem hinc natam <placeName>Rhodum</placeName> revera esse oportet: <milestone unit="section" n="e23-14"/>Hic est formosus, ro
                      <lb n="2" break="no"/>sis similis, Philosophorum filius, qui omnium oculos <g type="ampersand">et</g> mentem ad

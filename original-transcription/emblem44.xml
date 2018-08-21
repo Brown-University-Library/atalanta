@@ -28,7 +28,7 @@
          <div type="emblem" n="e44">
             <pb n="184" edRef="Maier1618"/>
             <head>
-               <lb n="1"/><fw type="pageNum" place="top-left">184</fw> <fw type="header" place="top-center">FUGA <num value="44" type="cardinal">XLIV</num>. in <num value="5">5</num>. seu <num value="12">12</num> suprà. Basi sola proportione existente.</fw>
+               <fw type="pageNum" place="top-left">184</fw> <fw type="header" place="top-center">FUGA <num value="44" type="cardinal">XLIV</num>. in <num value="5">5</num>. seu <num value="12">12</num> suprà. Basi sola proportione existente.</fw>
 
                <lb n="2"/>Durch Betrug <persName type="divinity"><hi rend="latin">Typhon</hi></persName> <persName type="divinity"><hi rend="latin">Osirim</hi></persName> tödtet <pc>/</pc> und seine Glieder
                <lb n="3"/>zerstrewet <pc>/</pc> welche widerumb zusammen bringt die <persName type="divinity"><hi rend="latin">Isis</hi></persName>,
@@ -83,7 +83,7 @@
             
             <div type="discourse" xml:lang="la">
                <pb n="186" edRef="Maier1618"/>
-               <head><fw type="pageNum" place="top-left">186</fw> <hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="44">XLIV</num>.</head>
+               <fw type="pageNum" place="top-left">186</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="44">XLIV</num>.</fw>
                   <ab>
                      <lb n="1"/><milestone unit="section" n="e44-01"/><persName type="divinity">Osyridis</persName> allegoriam alibi, nempe in <num value="1" type="ordinal">1</num>. <expan><abbr>lib<am>.</am></abbr><ex>ro</ex></expan> <title><expan><abbr>Hieroglyph<am>.</am></abbr><ex>icorum</ex></expan></title> ad suam
                      <lb n="2"/>veram originem, qu<hi rend="ligature">ae</hi> Chymica est, reduximus <g type="ampersand">et</g> plenari<hi rend="grave">e</hi> ex
@@ -121,7 +121,7 @@
                   </ab>
                   <fw type="catchword" place="bottom-right">Diony-</fw>
                <pb n="187" edRef="Maier1618"/>
-               <head><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="44">XLIV</num>. <fw type="pageNum" place="top-right">187</fw></head>
+               <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="44">XLIV</num>.</fw> <fw type="pageNum" place="top-right">187</fw>
                   <ab>
                      <lb n="1"/><milestone unit="section" n="e44-13"/><persName type="divinity">Dionysus</persName> adultus novam vini potionem monstrat hominibus <expan><abbr>usq<am>;</am></abbr><ex>ue</ex></expan>
                      <lb n="2"/>in <placeName>Indiam</placeName> expeditionem suscipiens; <persName type="divinity">Osiris</persName> <g type="ampersand">et</g> <persName>Triptolemus</persName>, frugum

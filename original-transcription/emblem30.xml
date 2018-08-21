@@ -28,7 +28,7 @@
          <div type="emblem" n="e30">
             <pb n="128" edRef="Maier1618"/>
             <head>
-               <lb n="1"/><fw type="pageNum" place="top-left">128</fw> <fw type="header" place="top-center">FUGA <num value="30" type="cardinal">XXX</num>. in <num value="7">7</num> seu  <num value="14">14</num> infrà.</fw>
+               <fw type="pageNum" place="top-left">128</fw> <fw type="header" place="top-center">FUGA <num value="30" type="cardinal">XXX</num>. in <num value="7">7</num> seu  <num value="14">14</num> infrà.</fw>
 
                <lb n="2"/>Die Sonn bedarff deß Monds <pc>/</pc> wie der Han
                <lb n="3"/>der Hänen.
@@ -81,7 +81,7 @@
             
             <div type="discourse" xml:lang="la">
                <pb n="130" edRef="Maier1618"/>
-               <head><fw type="pageNum" place="top-left">130</fw> <hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="30">XXX</num>.</head>
+               <fw type="pageNum" place="top-left">130</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="30">XXX</num>.</fw>
                   <ab>
                      <lb n="1"/><milestone unit="section" n="e30-01"/><persName ref="https://viaf.org/viaf/89770781">Avicenna</persName> in <expan><abbr>lib<am>.</am></abbr><ex>ro</ex></expan> <title>de anima</title> aliquotiens monet, ova <expan><abbr>n<hi rend="tilde">o</hi></abbr><ex>n</ex></expan> esse ad <expan><abbr>art<hi rend="tilde">e</hi></abbr><ex>m</ex></expan>
                      <lb n="2"/>sumenda, nisi <expan><abbr>ear<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> <expan><abbr>gallinar<hi rend="tilde">u</hi></abbr><ex>m</ex></expan>, <expan><abbr>quib<am>.</am></abbr><ex>us</ex></expan> gallus adfuerit: hoc est, <expan><abbr>absq<am>;</am></abbr><ex>ue</ex></expan>
@@ -119,7 +119,7 @@
                   </ab>
                   <fw type="catchword" place="bottom-right">provid<hi rend="grave">es</hi></fw>
                <pb n="131" edRef="Maier1618"/>
-               <head><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="30">XXX</num>. <fw type="pageNum" place="top-right">131</fw></head>
+               <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="30">XXX</num>.</fw> <fw type="pageNum" place="top-right">131</fw>
                   <ab>
                      <lb n="1"/>provid<hi rend="grave">e</hi> <expan><abbr>omnib<am>.</am></abbr><ex>us</ex></expan> suis <expan><abbr>operationib<am>.</am></abbr><ex>us</ex></expan> procedit; Ova <expan><ex>e</ex><abbr>n<am>.</am></abbr><ex>im</ex></expan> ex suis locis, <expan><abbr>quib<am>.</am></abbr><ex>us</ex></expan>
                      <lb n="2"/>gallus adfuerit, <expan><abbr>c<hi rend="tilde">o</hi></abbr><ex>n</ex><abbr><hi rend="stroke">q</hi></abbr><ex>ui</ex><abbr>rit</abbr></expan>, ea ne sint <expan><abbr>subv<hi rend="tilde">e></hi></abbr><ex>n</ex><abbr>tanea</abbr></expan> rimatus, postea purgat,

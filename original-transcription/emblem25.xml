@@ -28,7 +28,7 @@
          <div type="emblem" n="e25">
             <pb n="108" edRef="Maier1618"/>
             <head>
-               <lb n="1"/><fw type="pageNum" place="top-left">108</fw> <fw type="header" place="top-center">FUGA XXV. in 5. seu 12. infrà.</fw>
+               <fw type="pageNum" place="top-left">108</fw> <fw type="header" place="top-center">FUGA XXV. in 5. seu 12. infrà.</fw>
 
                <lb n="2"/>DerDrache stirbet nicht <pc>/</pc> er werde dann von seinem Bruder
                <lb n="3"/>und Schwester getödtet <pc>/</pc> welche seijnd Sonn und Mond.
@@ -58,7 +58,7 @@
             
             <div type="image" xml:lang="la">
                <head>
-                  <lb n="1"/><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="25">XXV</num>. <fw type="pageNum" place="top-right">109</fw>
+                  <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="25">XXV</num>.</fw> <fw type="pageNum" place="top-right">109</fw>
                   <lb n="2"/>Draco non moritur, nisi cum fratre <g type="ampersand">et</g> sorore sua inter
                   <lb n="3" break="no"/>ficiatur, qui sunt <persName>Sol</persName> <g type="ampersand">et</g> <persName>Luna</persName>. 
                </head>
@@ -80,7 +80,7 @@
             
             <div type="discourse" xml:lang="la">
                <pb n="110" edRef="Maier1618"/>
-               <head><fw type="pageNum" place="top-left">110</fw> <hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="25">XXV</num>.</head>
+               <fw type="pageNum" place="top-left">110</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="25">XXV</num>.</fw>
                   <ab>
                      <lb n="1"/><milestone unit="section" n="e25-01"/>In occupatione aurei velleris Draco omnium prim<hi rend="grave">o</hi> <expan><abbr>interim<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>dus</abbr></expan>
                      <lb n="2"/>erat, <expan><abbr><hi rend="stroke">q</hi></abbr><ex>ui</ex></expan> labor c<hi rend="grave">u</hi>m multis tentatus esset frustr<hi rend="grave">a</hi>, <hi rend="grave">a</hi> Dracone <expan><abbr>su<hi rend="stroke">p</hi></abbr><ex>er</ex><abbr>ati</abbr></expan> <g type="ampersand">et</g>
@@ -119,7 +119,7 @@
                   </ab>
                   <fw type="catchword" place="bottom-right">nus</fw>
                <pb n="111" edRef="Maier1618"/>
-               <head><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="25">XXV</num>. <fw type="pageNum" place="top-right">111</fw></head>
+               <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="25">XXV</num>.</fw> <fw type="pageNum" place="top-right">111</fw>
                   <ab>
                      <lb n="1"/>nus: <milestone unit="section" n="e25-15"/><persName><hi rend="ligature">Ae</hi>sculapio</persName> <persName>Apollinis</persName> filio, medicin<hi rend="ligature">ae</hi> inventori (Medicin<hi rend="ligature">ae</hi> <expan><abbr>Phi
                      <lb n="2" break="no"/>los<am>.</am></abbr><ex>phicae</ex></expan> <expan><abbr>serp<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>s</abbr></expan> dicatur, in qua forma ex <placeName>Epidauro</placeName> <persName><expan><abbr>Rom<hi rend="tilde">a</hi></abbr><ex>m</ex></expan></persName> advectus cre

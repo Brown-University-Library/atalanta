@@ -28,7 +28,7 @@
          <div type="emblem" n="e42">
             <pb n="176" edRef="Maier1618"/>
             <head>
-               <lb n="1"/><fw type="pageNum" place="top-left">176</fw> <fw type="header" place="top-center">FUGA <num value="42" type="cardinal">XLII</num>. in 4. supr<hi rend="grave">a</hi>. Contrapunctum.</fw>
+               <fw type="pageNum" place="top-left">176</fw> <fw type="header" place="top-center">FUGA <num value="42" type="cardinal">XLII</num>. in 4. supr<hi rend="grave">a</hi>. Contrapunctum.</fw>
 
                <lb n="2"/>Dem <pc>/</pc> der <hi rend="latin">in Chymicis versiret</hi>, sen di Natur <pc>/</pc> Bernunfft <pc>/</pc>
                <lb n="3"/>Erfahrenheit und Lefen <pc>/</pc> wie ein Führer <pc>/</pc> Stab <pc>/</pc>
@@ -82,7 +82,7 @@
             
             <div type="discourse" xml:lang="la">
                <pb n="178" edRef="Maier1618"/>
-               <head><fw type="pageNum" place="top-left">178</fw> <hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="42">XLII</num>.</head>
+               <fw type="pageNum" place="top-left">178</fw> <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="42">XLII</num>.</fw>
                   <ab>
                      <lb n="1"/><milestone unit="section" n="e42-01"/> Casus, qui peregrinantibus accidere possunt, innumeri sunt,
                      <lb n="2"/>pr<hi rend="ligature">ae</hi>sertim si pedibus noctu per loca lubrica <g type="ampersand">et></g> periculosa iter fa
@@ -122,7 +122,7 @@
                <fw type="catchword" place="bottom-right">ne</fw>
                   
                <pb n="179" edRef="Maier1618"/>
-               <head><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="42">XLII</num>. <fw type="pageNum" place="top-right">179</fw></head>
+               <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="42">XLII</num>.</fw> <fw type="pageNum" place="top-right">179</fw>
                   <ab>
                      <lb n="1"/>ne enim quis ad lapsum in errores erit proclivis, Unde dicunt Philo
                      <lb n="2" break="no"/>sophi; Quicquid audis, ratiocinare, num ita esse possit, nec ne. <milestone unit="section" n="e42-14"/> Ad im

@@ -28,7 +28,7 @@
          <div type="emblem" n="e48">
             <pb n="200" edRef="Maier1618"/>
             <head>
-               <lb n="1"/><fw type="pageNum" place="top-left"><choice><sic>184</sic><corr>200</corr></choice></fw> <fw type="header" place="top-center">FUGA <num value="48" type="cardinal">XLVIII</num>. in <num value="5">5</num>. seu <num value="12">12</num>. suprà. vertendo simplicem. ac initio.</fw>
+               <fw type="pageNum" place="top-left"><choice><sic>184</sic><corr>200</corr></choice></fw> <fw type="header" place="top-center">FUGA <num value="48" type="cardinal">XLVIII</num>. in <num value="5">5</num>. seu <num value="12">12</num>. suprà. vertendo simplicem. ac initio.</fw>
 
                <lb n="2"/>Der König von getrunckenem Wasser bekompt ein
                <lb n="3"/>Kranckheit <pc>/</pc> von Arzten aber <foreign xml:lang="la"><hi rend="latin">curiret</hi></foreign>,
@@ -83,7 +83,7 @@
             
             <div type="discourse" xml:lang="la">
                <pb n="202" edRef="Maier1618"/>
-               <head><fw type="pageNum" place="top-left">202</fw> <hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="48">XLVIII</num>.</head>
+               <fw type="pageNum" place="top-left">202</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="48">XLVIII</num>.</fw>
                   <ab>
                      <lb n="1"/><milestone unit="section" n="e48-01"/><persName ref="https://viaf.org/viaf/282770127"><hi rend="caps">Xerxes</hi></persName> ille potentissimus <orgName>Persarum</orgName> rex, c<hi rend="grave">u</hi>m per sicca <g type="ampersand">et</g> inculta
                      <lb n="2"/>loca sub <hi rend="ligature">ae</hi>stu exercitum duceret sitibundus haustum aqu<hi rend="ligature">ae</hi> tur
@@ -121,7 +121,7 @@
                   </ab>
                   <fw type="catchword" place="bottom-right">potest</fw>
                <pb n="203" edRef="Maier1618"/>
-               <head><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="48">XLVIII</num>. <fw type="pageNum" place="top-right">203</fw></head>
+               <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="48">XLVIII</num>.</fw> <fw type="pageNum" place="top-right">203</fw>
                   <ab>
                      <lb n="1"/><quote>potest dare ignem, cui vult, <g type="ampersand">et</g> quando vult, <g type="ampersand">et</g> quantum vult sine su<hi rend="raised">o</hi>
                         <lb n="2"/>periculo <g type="ampersand">et</g> defectu.</quote> <milestone unit="section" n="e48-12"/><persName ref="http://viaf.org/viaf/228724785">Democriti</persName> pater ade<hi rend="grave">o</hi> dives fuit, ut exercitui

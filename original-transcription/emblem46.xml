@@ -28,7 +28,7 @@
          <div type="emblem" n="e46">
             <pb n="192" edRef="Maier1618"/>
             <head>
-               <lb n="1"/><fw type="pageNum" place="top-left">192</fw> <fw type="header" place="top-center">FUGA <num value="46" type="cardinal">XLVI</num>. Reciproca.</fw>
+               <fw type="pageNum" place="top-left">192</fw> <fw type="header" place="top-center">FUGA <num value="46" type="cardinal">XLVI</num>. Reciproca.</fw>
 
                <lb n="2"/>Zween Adler <pc>/</pc> einer von Often <pc>/</pc> der ander von Westen
                <lb n="3"/>kommen zusammen.
@@ -81,7 +81,7 @@
             
             <div type="discourse" xml:lang="la">
                <pb n="194" edRef="Maier1618"/>
-               <head><fw type="pageNum" place="top-left">194</fw> <hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="46">XLVI</num>.</head>
+               <fw type="pageNum" place="top-left">194</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="46">XLVI</num>.</fw>
                   <ab>
                      <lb n="1"/><milestone unit="section" n="e46-01"/><persName type="divinity"><hi rend="caps">Apollinem</hi></persName> antiquissimum ex <persName type="divinity">Vulcano</persName> natum, <placeName>Athenarum</placeName> cu
                      <lb n="2" break="no"/>stodem tradit <persName ref="https://viaf.org/viaf/78769600">Cicero</persName> <expan><abbr>lib<am>.</am></abbr><ex>ro</ex></expan> <title ref="https://viaf.org/viaf/178863840">de natura Deorum</title>. <milestone unit="section" n="e46-02"/>Qu<hi rend="ligature">ae</hi> quidem o
@@ -119,7 +119,7 @@
                   </ab>
                   <fw type="catchword" place="bottom-right">quoque</fw>
                <pb n="195" edRef="Maier1618"/>
-               <head><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="46">XLVI</num>. <fw type="pageNum" place="top-right">195</fw></head>
+               <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="46">XLVI</num>.</fw> <fw type="pageNum" place="top-right">195</fw>
                   <ab>
                      <lb n="1"/>quoque sacratus fuit ille celebris tripes, <hi rend="grave">a</hi> <persName>Pelope</persName>, dum uxorem <persName>Hip
                      <lb n="2" break="no"/>podamiam</persName> duceret <persName>Oenomai</persName> regis <placeName>Elidis</placeName> filiam, quem Tripodem

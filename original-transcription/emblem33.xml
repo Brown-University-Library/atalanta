@@ -28,7 +28,7 @@
          <div type="emblem" n="e33">
             <pb n="140" edRef="Maier1618"/>
             <head>
-               <lb n="1"/><fw type="pageNum" place="top-left">140</fw> <fw type="header" place="top-center">FUGA <num value="33" type="cardinal">XXXIII</num>. in <num value="5">5</num> infrà.</fw>
+               <fw type="pageNum" place="top-left">140</fw> <fw type="header" place="top-center">FUGA <num value="33" type="cardinal">XXXIII</num>. in <num value="5">5</num> infrà.</fw>
 
                <lb n="2"/>Der <persName><hi rend="latin">Hermaphrodit</hi></persName> einem Todten gleich <pc>/</pc> im finstern
                <lb n="3"/>ligende <pc>/</pc> bedarff deß Feiurs.
@@ -81,7 +81,7 @@
             
             <div type="discourse" xml:lang="la">
                <pb n="142" edRef="Maier1618"/>
-               <head><fw type="pageNum" place="top-left">142</fw> <hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="33">XXXIII</num>.</head>
+               <fw type="pageNum" place="top-left">142</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="33">XXXIII</num>.</fw>
                   <ab>
                      <lb n="1"/><milestone unit="section" n="e33-01"/>Ex arcanis natur<hi rend="ligature">ae</hi> est, qu<hi rend="grave">o</hi>d, ingruente hyeme, ran<hi rend="ligature">ae</hi> <g type="ampersand">et</g> hirundi
                      <lb n="2" break="no"/>nes, aquis submers<hi rend="ligature">ae</hi>, veluti mortu<hi rend="ligature">ae</hi> jaceant, <g type="ampersand">et</g> vere novo calore
@@ -120,7 +120,7 @@
                   </ab>
                   <fw type="catchword" place="bottom-right">P<hi rend="ligature">oe</hi>niteat</fw>
                <pb n="143" edRef="Maier1618"/>
-               <head><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi>. <num value="33">XXXIII</num>. <fw type="pageNum" place="top-right"><choice><sic>133</sic><corr>143</corr></choice></fw></head>
+               <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi>. <num value="33">XXXIII</num>.</fw> <fw type="pageNum" place="top-right"><choice><sic>133</sic><corr>143</corr></choice></fw>
                   <ab>
                      <lb n="1"/><quote rend="indent" ana="http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2011.01.0513">P<hi rend="ligature">oe</hi>niteat generis tamen <g type="ampersand">et</g> se <persName><hi rend="italic">Cenea</hi></persName> malint,
                      <lb n="2" rend="indent"/>Aut in f<hi rend="ligature">oe</hi>mineam penit<hi rend="grave">u</hi>, transire figuram</quote>: Et <persName ref="https://viaf.org/viaf/109786483">Ausonius</persName>:

@@ -28,7 +28,7 @@
          <div type="emblem" n="e16">
             <pb n="72" edRef="Maier1618"/>
             <head>
-               <lb n="1"/><fw type="pageNum" place="top-left">72</fw> <fw type="header" place="top-center">FUGA XVI. in 5. suprà.</fw>
+               <fw type="pageNum" place="top-left">72</fw> <fw type="header" place="top-center">FUGA XVI. in 5. suprà.</fw>
 
                <lb n="2"/>Dieser Löw keine Federn <pc>/</pc>aber jener hat.
             </head>
@@ -80,7 +80,7 @@
             
             <div type="discourse" xml:lang="la">
                <pb n="74" edRef="Maier1618"/>
-               <head><fw type="pageNum" place="top-left">74</fw> <hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi>. <num value="16">XVI</num>.</head>
+               <fw type="pageNum" place="top-left">74</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi>. <num value="16">XVI</num>.</fw>
                   <ab>
                      <lb n="1"/><milestone unit="section" n="e16-01"/>Leonem non tam magnitudine <g type="ampersand">et</g> robore corporis qu<hi rend="grave">a</hi>m gene
                      <lb n="2" break="no"/>rositate c<hi rend="ligature">ae</hi>teris pr<hi rend="ligature">ae</hi>valere animalibus, ab <expan><abbr>experi<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>tia</abbr></expan> notum est.
@@ -118,7 +118,7 @@
                   </ab>
                   <fw type="catchword" place="bottom-right">quando</fw>
                <pb n="75" edRef="Maier1618"/>
-               <head><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi>. <num value="16">XVI</num>. <fw type="pageNum" place="top-right">75</fw></head>
+               <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi>. <num value="16">XVI</num>.</fw> <fw type="pageNum" place="top-right">75</fw>
                   <ab>
                      <lb n="1"/>quando absque causa in furorem incidat, fugam meditari. <milestone unit="section" n="e16-15"/>Ipse
                      <lb n="2"/>enim dum fugituram moratur, majori erga eam amore incita

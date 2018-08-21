@@ -28,7 +28,7 @@
          <div type="emblem" n="e40">
             <pb n="168" edRef="Maier1618"/>
             <head>
-               <lb n="1"/><fw type="pageNum" place="top-left">168</fw> <fw type="header" place="top-center">FUGA <num value="40" type="cardinal">XL</num>. in <num value="6">6</num>. infrà.</fw>
+               <fw type="pageNum" place="top-left">168</fw> <fw type="header" place="top-center">FUGA <num value="40" type="cardinal">XL</num>. in <num value="6">6</num>. infrà.</fw>
 
                <lb n="2"/>Auß zweijen Wassern mach eins <pc>/</pc> und es wirt seijn
                <lb n="3"/>das Wasser der Gesundheit.
@@ -81,7 +81,7 @@
             
             <div type="discourse" xml:lang="la">
                <pb n="170" edRef="Maier1618"/>
-               <head><fw type="pageNum" place="top-left">170</fw> <hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi>. <num value="40">XL</num>.</head>
+               <fw type="pageNum" place="top-left">170</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi>. <num value="40">XL</num>.</fw>
                   <ab>
                      <lb n="1"/><milestone unit="section" n="e40-01"/>Tot <g type="ampersand">et</g> tanta sunt aquarum miracula, ut vix magno volumine
                      <lb n="2"/>comprehendi possint, de quibus sparsim varii egerunt authores.
@@ -119,7 +119,7 @@
                   </ab>
                   <fw type="catchword" place="bottom-right">saluti-</fw>
                <pb n="171" edRef="Maier1618"/>
-               <head><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="40">XL</num>. <fw type="pageNum" place="top-right"><choice><sic>155</sic><corr>171</corr></choice></fw></head>
+               <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="40">XL</num>.</fw> <fw type="pageNum" place="top-right"><choice><sic>155</sic><corr>171</corr></choice></fw>
                   <ab>
                      <lb n="1"/>salutifer<hi rend="ligature">ae</hi>, sed si ars accedat cum debito regimine, pr<hi rend="ligature">ae</hi>missis univer
                      <lb n="2" break="no"/>salibus evacuationibus ali<hi rend="acute">i</hi>sque pr<hi rend="ligature">ae</hi>mittendis, <g type="ampersand">et</g> misceat inter se

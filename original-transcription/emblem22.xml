@@ -27,7 +27,7 @@
          <div type="emblem" n="e22">
             <pb n="96" edRef="Maier1618"/>
             <head>
-               <lb n="1"/><fw type="pageNum" place="top-left">96</fw> <fw type="header" place="top-center">FUGA XXII. in 7. suprà.</fw>
+               <fw type="pageNum" place="top-left">96</fw> <fw type="header" place="top-center">FUGA XXII. in 7. suprà.</fw>
 
                <lb n="2"/>Wenn du hast das weisse Bleij <pc>/</pc> so mache der Weiberwerck <pc>/</pc>
                <lb n="3"/>das ist <pc>/</pc> koche.
@@ -80,7 +80,7 @@
             
             <div type="discourse" xml:lang="la">
                <pb n="98" edRef="Maier1618"/>
-               <head><fw type="pageNum" place="top-left">98</fw> <hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="22">XXII</num>.</head>
+               <fw type="pageNum" place="top-left">98</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="22">XXII</num>.</fw>
                   <ab>
                      <lb n="1"/><milestone unit="section" n="e22-01"/>Quemadmodum in triviis statu<hi rend="ligature">ae</hi> Mercuriales un<hi rend="grave">a</hi> cum indice
                      <lb n="2"/><g type="ampersand">et</g> inscriptione poni solent ad deducendum ancipites viatores
@@ -118,7 +118,7 @@
                   </ab>
                   <fw type="catchword" place="bottom-right">pro-</fw>
                <pb n="99" edRef="Maier1618"/>
-               <head><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="22">XXII</num>. <fw type="pageNum" place="top-right">99</fw></head>
+               <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="22">XXII</num>.</fw> <fw type="pageNum" place="top-right">99</fw>
                   <ab>
                      <lb n="1"/>prodeunt. <milestone unit="section" n="e22-12"/>Per coctionem ver<hi rend="grave">o</hi> maturatio, <g type="ampersand">et</g> crudiorum partium
                      <lb n="2"/>dispersio intelligitur, qu<hi rend="ligature">ae</hi> fit per <persName><expan><abbr>Vulcan<hi rend="tilde">u</hi></abbr><ex>m</ex></expan></persName> in Philosophi<hi rend="ligature">ae</hi> vasis: Non
