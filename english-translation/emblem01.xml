@@ -24,6 +24,7 @@
                 <milestone unit="page" ed="Meier" n="0013"/>
                 
                 <div type="title" xml:lang="en">
+                    <milestone unit="page" ed="Meier" n="013"/>
                     <head>
                         <lb/><seg rend="italics">the first <choice><orig>Embleme</orig><reg>Emblem</reg></choice>. Of the Secrets of Nature.</seg>
                         <lb/><del rend="strikethrough"><unclear reason="illegible">4 chars</unclear> </del><subst><del><unclear reason="illegible">1 char</unclear></del><add>W</add></subst>ind <choice><orig>carryed</orig><reg>carried</reg></choice> him in his belly <pc>- - - -</pc>
@@ -49,7 +50,7 @@
                 <div type="discourse" xml:lang="en">
                     <head rend="italics">Discourse i.</head><note place="margin" hand="1">D Powell 1821</note>
                     <ab> 
-                        <lb/><milestone unit="section" n="e01-01" />Hermes the most industrious inquisitor into every <choice><orig>naturall</orig><reg>natural</reg></choice> secret doth
+                        <lb/><milestone unit="page" ed="Meier" n="014"/><milestone unit="section" n="e01-01" />Hermes the most industrious inquisitor into every <choice><orig>naturall</orig><reg>natural</reg></choice> secret doth
                         <lb/>in his Smaragdine table elegantly, though concisely, describe the <choice><orig>naturalle</orig><reg>natural</reg></choice> <pc>-</pc>
                         <lb/><choice><orig>worke</orig><reg>work</reg></choice>, where amongst other things <choice><orig>hee</orig><reg>he</reg></choice> sayth: the wind <choice><orig>carrys</orig><reg>carries</reg></choice> him in his <pc>-</pc>
                         <lb/>belly: as if <choice><orig>hee</orig><reg>he</reg></choice> should say, <choice><orig>H<seg rend="underline" hand="2">ee</seg></orig><reg>H<seg rend="underline" hand="2">e</seg></reg></choice>, who<seg rend="underline" hand="2">se father</seg> is <seg rend="underline" hand="2">Sol,</seg> and mo<seg rend="underline" hand="2">ther</seg> L<seg rend="underline" hand="2">una</seg>, <pc>-</pc>
