@@ -24,6 +24,7 @@
                 
                 
                 <div type="title" xml:lang="en">
+                    <milestone unit="page" ed="Meier" n="001"/>
                     <head>
                         <lb/><seg rend="italics">Atalanta running,
                         <lb/>that is,</seg>
@@ -75,6 +76,7 @@
                 
                 <pb n="02"/>
                 <div type="epigram" xml:lang="en">
+                    <milestone unit="page" ed="Meier" n="002"/>
                     <head rend="italics">the Author's <choice><orig>Epigramme</orig><reg>Epigram</reg></choice>.</head>
                     <lg>
                         <l>The Hesperian apples of the Cyprian dame</l>
@@ -109,6 +111,7 @@
                 
                 <pb n="03"/> 
                 <div type="title" xml:lang="en">
+                    <milestone unit="page" ed="Meier" n="003"/>
                     <head>
                         <lb/><seg rend="italics">Michael Majerus Doctor of <choice><orig>Physicke</orig><reg>Physic</reg></choice>, <choice><orig>Præsident</orig><reg>President</reg></choice> of
                         <lb/>the <choice><orig>Imperiall</orig><reg>Imperial</reg></choice> Consistory, Knight etc. most humbly
@@ -142,7 +145,7 @@
                         <lb break="no"/>damia the daughter of Oënomaus King of Elis, they report, that, being of
                         <lb/>singular artifice, it was <choice><orig>againe</orig><reg>again</reg></choice> presented by Pelops to Apollo Pythius at
                         <lb/>Delphos, upon which oracles were by the inspiration of that God from <pc>-</pc>
-                        <lb/>thenceforth uttered by a Virgin: <choice><orig>Soe</orig><reg>So</reg></choice> this Tripes (curiously wrought by <pc>-</pc>
+                        <lb/>thenceforth uttered by a Virgin: <milestone unit="page" ed="Meier" n="004"/><choice><orig>Soe</orig><reg>So</reg></choice> this Tripes (curiously wrought by <pc>-</pc>
                         <lb/>Vulcan) coming to my hand, moved by the example of Pelops, I resolved
                         <lb/>to present and consecrate it to the most worthy place and order, and in
                         <lb break="no"/>deed before all others, to your <choice><orig>Honours</orig><reg>Honors</reg></choice> and <choice><orig>Excellencyes</orig><reg>Excellencies</reg></choice>, yet not to the
@@ -164,7 +167,7 @@
                         
                 <pb n="04"/>
                         <lb/>may <choice><orig>terme</orig><reg>term</reg></choice> you the patrons of this little <choice><orig>worke</orig><reg>work</reg></choice>, not that you have exer
-                        <lb break="no"/>cised either hand or mind, <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>farre</orig><reg>far</reg></choice> as I know, in this study (for neither <pc>-</pc>
+                        <lb break="no"/>cised either hand or mind, <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>farre</orig><reg>far</reg></choice> as I know, in this study <milestone unit="page" ed="Meier" n="005"/>(for neither <pc>-</pc>
                         <lb/>have you <choice><orig>soe</orig><reg>so</reg></choice> much leisure from most weighty affairs) but because you <pc>-</pc>
                         <lb/>seem to <choice><orig>mee</orig><reg>me</reg></choice> able to defend any branch of learning, and as the case stands
                         <lb/>I have not <choice><orig>mett</orig><reg>met</reg></choice> with any matter more worthy, or more honest, abuse ex
