@@ -48,9 +48,10 @@
                 
                 <pb n="99"/> 
                 <div type="discourse" xml:lang="en">
+                    <milestone unit="page" ed="Meier" n="134"/>
                     <head rend="italics">Discourse 31.</head>
                     <ab> 
-                        <lb/><milestone unit="page" ed="Meier" n="134"/>The first rudiments of all discipline were anciently the knowledge of <pc>-</pc><milestone unit="section" n="e03-01" /> 
+                        <lb/>The first rudiments of all discipline were anciently the knowledge of <pc>-</pc><milestone unit="section" n="e03-01" /> 
                         <lb/>swimming, and instruction in learning: hereupon because the proverb of an
                         <lb/>ignorant and <choice><orig>unpolishd</orig><reg>unpolished</reg></choice> man, that <choice><orig>hee</orig><reg>he</reg></choice> could neither <choice><orig>swimme</orig><reg>swim</reg></choice> nor read:
                         <lb/>For the Ancients <choice><orig>considerd</orig><reg>considered</reg></choice> swimming as a means often times to save and <pc>-</pc>

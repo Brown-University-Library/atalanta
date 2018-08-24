@@ -48,9 +48,10 @@
                 
                 <pb n="132"/> 
                 <div type="discourse" xml:lang="en">
+                    <milestone unit="page" ed="Meier" n="178"/>
                     <head rend="italics">Discourse 42.</head>
                     <ab> 
-                        <lb/><milestone unit="page" ed="Meier" n="178"/><milestone unit="section" n="e42-01" />The chances, which may happen to <choice><orig>travellers</orig><reg>travelers</reg></choice>, are innumerable, es 
+                        <lb/><milestone unit="section" n="e42-01" />The chances, which may happen to <choice><orig>travellers</orig><reg>travelers</reg></choice>, are innumerable, es 
                         <lb break="no"/>pecially if they take a journey on foot by night through slippery <pc>-</pc>
                         <lb/>and dangerous places; to which four things are requisite as <choice><orig>cheife
                         <lb break="no"/>ly</orig><reg>chiefly</reg></choice> necessary, not to <choice><orig>speake</orig><reg>speak</reg></choice> of the victuals provided, and a strong <pc>-</pc>

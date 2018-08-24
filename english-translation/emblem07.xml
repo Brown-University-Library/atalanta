@@ -48,9 +48,10 @@
                 
                 <pb n="27"/> 
                 <div type="discourse" xml:lang="en">
+                    <milestone unit="page" ed="Meier" n="038"/>
                     <head rend="italics">Discourse 7.</head>
                     <ab> 
-                        <lb/><milestone unit="page" ed="Meier" n="038"/><milestone unit="section" n="e07-01" />What Hippocrates, the defender and propugnator of <choice><orig>Physitians</orig><reg>Physicians</reg></choice>, affirms of hu 
+                        <lb/><milestone unit="section" n="e07-01" />What Hippocrates, the defender and propugnator of <choice><orig>Physitians</orig><reg>Physicians</reg></choice>, affirms of hu 
                         <lb break="no"/>mors, that they are different and many in man, and not one <choice><orig>onely</orig><reg>only</reg></choice>, otherwise
                         <lb/>various diseases, could not arise, that <choice><orig>wee</orig><reg>we</reg></choice> perceive to be true of the elements
                         <lb/>of the world: <milestone unit="section" n="e07-02" />for if there was but one <choice><orig>onely</orig><reg>only</reg></choice> element, there could be <choice><orig>noe</orig><reg>no</reg></choice> <pc>-</pc>

@@ -47,9 +47,10 @@
                 
                 <pb n="39"/> 
                 <div type="discourse" xml:lang="en">
+                    <milestone unit="page" ed="Meier" n="054"/>
                     <head rend="italics">Discourse 11.</head>
                     <ab> 
-                        <lb/><milestone unit="page" ed="Meier" n="054"/><milestone unit="section" n="e11-01" /><choice><orig>Soe</orig><reg>So</reg></choice> great is the diversity of Authors in writing, that the explorators of <pc>-</pc> 
+                        <lb/><milestone unit="section" n="e11-01" /><choice><orig>Soe</orig><reg>So</reg></choice> great is the diversity of Authors in writing, that the explorators of <pc>-</pc> 
                         <lb/>truth <choice><orig>doe</orig><reg>do</reg></choice> <choice><orig>allmost</orig><reg>almost</reg></choice> <choice><orig>despaire</orig><reg>despair</reg></choice> of finding the end of art: <milestone unit="section" n="e11-02" />for <choice><orig>Allegoricall</orig><reg>Allegorical</reg></choice> speeches
                         <lb/>being of themselves difficult to be understood, and the causes of many errors,
                         <lb/>especially then, if the same words be <choice><orig>applyd</orig><reg>applied</reg></choice> to different things, and diffe

@@ -47,9 +47,10 @@
                 
                 <pb n="72"/> 
                 <div type="discourse" xml:lang="en">
+                    <milestone unit="page" ed="Meier" n="098"/>
                     <head rend="italics">Discourse 22.</head>
                     <ab> 
-                        <lb/><milestone unit="page" ed="Meier" n="098"/>As <choice><orig>Mercuriall</orig><reg>Mercurial</reg></choice> Statues are <choice><orig>coḿonly</orig><reg>commonly</reg></choice> placed in roads where three <choice><orig>wayes</orig><reg>ways</reg></choice> meet, to<milestone unit="section" n="e03-01" /> 
+                        <lb/>As <choice><orig>Mercuriall</orig><reg>Mercurial</reg></choice> Statues are <choice><orig>coḿonly</orig><reg>commonly</reg></choice> placed in roads where three <choice><orig>wayes</orig><reg>ways</reg></choice> meet, to<milestone unit="section" n="e03-01" /> 
                         <lb break="no"/>gether with a title and inscription, to guide <choice><orig>doubtfull</orig><reg>doubtful</reg></choice> travellers into the right
                         <lb/>way, <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> are <choice><orig>certaine</orig><reg>certain</reg></choice> acute sentences inferred in many of their books
                         <lb/>and <choice><orig>volums</orig><reg>volumes</reg></choice> of the Philosophers, here and there <choice><orig>allegoricall</orig><reg>allegorical</reg></choice> and dubious, that

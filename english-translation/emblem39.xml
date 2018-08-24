@@ -48,9 +48,10 @@
                 
                 <pb n="123"/> 
                 <div type="discourse" xml:lang="en">
+                    <milestone unit="page" ed="Meier" n="166"/>
                     <head rend="italics">Discourse 39.</head>
                     <ab> 
-                        <lb/><milestone unit="page" ed="Meier" n="166"/>Bacasser a Philosopher in Turba <choice><orig>sayth</orig><reg>says</reg></choice>, that which you <choice><orig>seeke</orig><reg>seek</reg></choice> for is of <choice><orig>noe</orig><reg>no</reg></choice> small<milestone unit="section" n="e03-01" /> 
+                        <lb/>Bacasser a Philosopher in Turba <choice><orig>sayth</orig><reg>says</reg></choice>, that which you <choice><orig>seeke</orig><reg>seek</reg></choice> for is of <choice><orig>noe</orig><reg>no</reg></choice> small<milestone unit="section" n="e03-01" /> 
                         <lb/>value, for you <choice><orig>seeke</orig><reg>seek</reg></choice> the greatest treasure, and most excellent gift of God. <pc>-</pc>
                         <lb/>And <choice><orig>learne</orig><reg>learn</reg></choice>, O yee students, that which the Philosophers have long since inti
                         <lb break="no"/>mated, saying, The truth is not discerned but by <choice><orig>errour</orig><reg>error</reg></choice>, and nothing begets <pc>-</pc>

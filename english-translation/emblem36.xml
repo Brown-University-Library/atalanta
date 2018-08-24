@@ -48,9 +48,10 @@
                 
                 <pb n="114"/> 
                 <div type="discourse" xml:lang="en">
+                    <milestone unit="page" ed="Meier" n="154"/>
                     <head rend="italics">Discourse 36.</head>
                     <ab> 
-                        <lb/><milestone unit="page" ed="Meier" n="154"/>All men, that have but once heard the name and power of the Stone,<milestone unit="section" n="e03-01" /> 
+                        <lb/>All men, that have but once heard the name and power of the Stone,<milestone unit="section" n="e03-01" /> 
                         <lb/><choice><orig>unlesse</orig><reg>unless</reg></choice> they be such as are <choice><orig>alltogther</orig><reg>altogether</reg></choice> incredulous, <choice><orig>doe</orig><reg>do</reg></choice> <choice><orig>coḿonly</orig><reg>commonly</reg></choice> <choice><orig>aske</orig><reg>ask</reg></choice> <pc>-</pc>
                         <lb/>where it is to be found, that they may <choice><orig>runne</orig><reg>run</reg></choice> as it were by a straight line
                         <lb/>to it? The Philosophers answer in two places: first, that Adam brought it

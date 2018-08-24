@@ -47,9 +47,10 @@
                 
                 <pb n="57"/> 
                 <div type="discourse" xml:lang="en">
+                    <milestone unit="page" ed="Meier" n="078"/>
                     <head rend="italics">Discourse 17.</head>
                     <ab> 
-                        <lb/><milestone unit="page" ed="Meier" n="078"/>The Philosophers have in many places made mention of four sorts of fire<milestone unit="section" n="e03-01" /> 
+                        <lb/>The Philosophers have in many places made mention of four sorts of fire<milestone unit="section" n="e03-01" /> 
                         <lb/>necessary to the <choice><orig>naturall</orig><reg>natural</reg></choice> <choice><orig>worke</orig><reg>work</reg></choice>, namely Lully, the Author of Scala, Ripley,
                         <lb/>and many others: and to this end Raymund speaking of fires (<choice><orig>Sayth</orig><reg>Says</reg></choice> Scala).
                         <lb/>You must note, that here are contrary operations: because as the fire <pc>-</pc>

@@ -48,9 +48,10 @@
                 
                 <pb n="51"/> 
                 <div type="discourse" xml:lang="en">
+                    <milestone unit="page" ed="Meier" n="070"/>
                     <head rend="italics">Discourse 15.</head>
                     <ab> 
-                        <lb/><milestone unit="page" ed="Meier" n="070"/>As this <choice><orig>orbe</orig><reg>orb</reg></choice> is by the <choice><orig>connexion</orig><reg>connection</reg></choice> of earth and water conglobated into one<milestone unit="section" n="e03-01" /> 
+                        <lb/>As this <choice><orig>orbe</orig><reg>orb</reg></choice> is by the <choice><orig>connexion</orig><reg>connection</reg></choice> of earth and water conglobated into one<milestone unit="section" n="e03-01" /> 
                         <lb/>round body, <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> the Potters <choice><orig>worke</orig><reg>work</reg></choice> seems to be compounded of the
                         <lb/>same Elements particularly, namely of siccity and moisture, that one
                         <lb/>may regulate the other: for if the earth should be without water, nei

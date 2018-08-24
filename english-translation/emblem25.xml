@@ -48,9 +48,10 @@
                 
                 <pb n="81"/><!-- regularized from 8i --> 
                 <div type="discourse" xml:lang="en">
+                    <milestone unit="page" ed="Meier" n="110"/>
                     <head rend="italics">Discourse 25.</head>
                     <ab> 
-                        <lb/><milestone unit="page" ed="Meier" n="110"/>In acquiring the golden fleece the Dragon was first of all to be killed, because <pc>-</pc><milestone unit="section" n="e03-01" /> 
+                        <lb/>In acquiring the golden fleece the Dragon was first of all to be killed, because <pc>-</pc><milestone unit="section" n="e03-01" /> 
                         <lb/>the <choice><orig>labour</orig><reg>labor</reg></choice> being attempted by many men, they were overcome by the Dragon <pc>-</pc>
                         <lb/>and <choice><orig>destroyd</orig><reg>destroyed</reg></choice> with deadly <choice><orig>poyson</orig><reg>poison</reg></choice>: the reason was, because they were not sufficiently
                         <lb/>armed against the dragons <choice><orig>poyson</orig><reg>poison</reg></choice>, nor instructed, by what <choice><orig>entrigue</orig><reg>intrigue</reg></choice> <choice><orig>hee</orig><reg>he</reg></choice> <pc>-</pc>

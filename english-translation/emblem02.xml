@@ -48,9 +48,10 @@
                 
                 <pb n="12"/> 
                 <div type="discourse" xml:lang="en">
+                    <milestone unit="page" ed="Meier" n="018"/>
                     <head rend="italics">Discourse 2.</head>
                     <ab> 
-                        <lb/><milestone unit="page" ed="Meier" n="018"/><milestone unit="section" n="e02-01" />It is concluded by the <choice><orig>Peripateticks</orig><reg>Peripatetics</reg></choice>, and Orthodox Philosophers, that the <pc>-</pc> 
+                        <lb/><milestone unit="section" n="e02-01" />It is concluded by the <choice><orig>Peripateticks</orig><reg>Peripatetics</reg></choice>, and Orthodox Philosophers, that the <pc>-</pc> 
                         <lb/>thing nourishing is converted into the substance of the thing nourished, and <pc>-</pc>
                         <lb/>assimilated to it, not indeed before, but after the alteration of it, and that is ac
                         <lb break="no"/>counted an infallible <choice><orig>axiome</orig><reg>axiom</reg></choice>: <milestone unit="section" n="e02-02" />for how would the thing nourishing (which is all

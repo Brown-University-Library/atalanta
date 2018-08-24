@@ -47,9 +47,10 @@
             
             <pb n="18"/>
             <div type="discourse" xml:lang="en">
+               <milestone unit="page" ed="Meier" n="026"/>
                <head rend="italics">Discourse 4.</head>
                <ab> 
-                  <lb/><milestone unit="page" ed="Meier" n="026"/><milestone unit="section" n="e04-01" />The divine and <choice><orig>politicall</orig><reg>political</reg></choice> <choice><orig>lawes</orig><reg>laws</reg></choice> <choice><orig>doe</orig><reg>do</reg></choice> both forbid those people to marry, who are by 
+                  <lb/><milestone unit="section" n="e04-01" />The divine and <choice><orig>politicall</orig><reg>political</reg></choice> <choice><orig>lawes</orig><reg>laws</reg></choice> <choice><orig>doe</orig><reg>do</reg></choice> both forbid those people to marry, who are by 
                   <lb/>nature <choice><orig>joyned</orig><reg>joined</reg></choice> in too near a degree of consanguinity, such namely as <add>directly</add> ascend and des
                   <lb break="no"/>cend in a <choice><orig>genealogicall</orig><reg>genealogical</reg></choice> line, and that for very good considerations; <milestone unit="section" n="e04-02" />but when the <pc>-</pc>
                   <lb/>Philosophers <choice><orig>speake</orig><reg>speak</reg></choice> of the mother to be <choice><orig>joynd</orig><reg>joined</reg></choice> with the <choice><orig>Sonne</orig><reg>Son</reg></choice>, or father with the
