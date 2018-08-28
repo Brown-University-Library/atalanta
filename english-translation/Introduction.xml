@@ -24,6 +24,7 @@
                 
                 
                 <div type="title" xml:lang="en">
+                    <milestone unit="page" ed="Meier" n="001"/>
                     <head>
                         <lb/><seg rend="italics">Atalanta running,
                         <lb/>that is,</seg>
@@ -75,6 +76,7 @@
                 
                 <pb n="02"/>
                 <div type="epigram" xml:lang="en">
+                    <milestone unit="page" ed="Meier" n="002"/>
                     <head rend="italics">the Author's <choice><orig>Epigramme</orig><reg>Epigram</reg></choice>.</head>
                     <lg>
                         <l>The Hesperian apples of the Cyprian dame</l>
@@ -109,6 +111,7 @@
                 
                 <pb n="03"/> 
                 <div type="title" xml:lang="en">
+                    <milestone unit="page" ed="Meier" n="003"/>
                     <head>
                         <lb/><seg rend="italics">Michael Majerus Doctor of <choice><orig>Physicke</orig><reg>Physic</reg></choice>, <choice><orig>Præsident</orig><reg>President</reg></choice> of
                         <lb/>the <choice><orig>Imperiall</orig><reg>Imperial</reg></choice> Consistory, Knight etc. most humbly
@@ -142,7 +145,7 @@
                         <lb break="no"/>damia the daughter of Oënomaus King of Elis, they report, that, being of
                         <lb/>singular artifice, it was <choice><orig>againe</orig><reg>again</reg></choice> presented by Pelops to Apollo Pythius at
                         <lb/>Delphos, upon which oracles were by the inspiration of that God from <pc>-</pc>
-                        <lb/>thenceforth uttered by a Virgin: <choice><orig>Soe</orig><reg>So</reg></choice> this Tripes (curiously wrought by <pc>-</pc>
+                        <lb/>thenceforth uttered by a Virgin: <milestone unit="page" ed="Meier" n="004"/><choice><orig>Soe</orig><reg>So</reg></choice> this Tripes (curiously wrought by <pc>-</pc>
                         <lb/>Vulcan) coming to my hand, moved by the example of Pelops, I resolved
                         <lb/>to present and consecrate it to the most worthy place and order, and in
                         <lb break="no"/>deed before all others, to your <choice><orig>Honours</orig><reg>Honors</reg></choice> and <choice><orig>Excellencyes</orig><reg>Excellencies</reg></choice>, yet not to the
@@ -164,7 +167,7 @@
                         
                 <pb n="04"/>
                         <lb/>may <choice><orig>terme</orig><reg>term</reg></choice> you the patrons of this little <choice><orig>worke</orig><reg>work</reg></choice>, not that you have exer
-                        <lb break="no"/>cised either hand or mind, <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>farre</orig><reg>far</reg></choice> as I know, in this study (for neither <pc>-</pc>
+                        <lb break="no"/>cised either hand or mind, <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>farre</orig><reg>far</reg></choice> as I know, in this study <milestone unit="page" ed="Meier" n="005"/>(for neither <pc>-</pc>
                         <lb/>have you <choice><orig>soe</orig><reg>so</reg></choice> much leisure from most weighty affairs) but because you <pc>-</pc>
                         <lb/>seem to <choice><orig>mee</orig><reg>me</reg></choice> able to defend any branch of learning, and as the case stands
                         <lb/>I have not <choice><orig>mett</orig><reg>met</reg></choice> with any matter more worthy, or more honest, abuse ex
@@ -176,7 +179,7 @@
                         <lb/>Frankfurt ad Mænum
                         <lb/>1617. August<pc>. . . .</pc>
                         <lb/>
-                        <lb/><seg rend="italics">The <choice><orig>Præface</orig><reg>Preface</reg></choice> to the Reader.</seg>
+                        <lb/><milestone unit="page" ed="Meier" n="006"/><seg rend="italics">The <choice><orig>Præface</orig><reg>Preface</reg></choice> to the Reader.</seg>
                         <lb/>Candid Reader!
                         <lb rend="indent"/>It is a truth <choice><orig>denyd</orig><reg>denied</reg></choice> by none that man in his composition
                         <lb/><choice><orig>repræsents</orig><reg>represents</reg></choice> a compendium of the universe, and is destinated to live three kinds
@@ -196,7 +199,7 @@
                             <lb/>and the like.</note> Now to instruct <pc>-</pc>
                         <lb/>and perfect the understanding God <choice><orig>hath</orig><reg>has</reg></choice> hidden infinite secrets in nature, <pc>-</pc>
                         <lb/>which are <choice><orig>forc'd</orig><reg>forced</reg></choice> out <subst><del>of</del><add>by</add></subst> innumerable arts and Sciences, as fire out of a flint, <pc>-</pc>
-                        <lb/>and <choice><orig>transferrd</orig><reg>transferred</reg></choice> to use: amongst these <choice><orig>Chymicall</orig><reg>Chymical</reg></choice> secrets are not the mea
+                        <lb/>and <choice><orig>transferrd</orig><reg>transferred</reg></choice> to use: amongst these <choice><orig>Chymicall</orig><reg>Chymical</reg></choice> <milestone unit="page" ed="Meier" n="007"/>secrets are not the mea
                         <lb break="no"/>nest, but next to the indagation of divine things, the <choice><orig>principall</orig><reg>principal</reg></choice> and most <pc>-</pc>
                         <lb/><choice><orig>pretious</orig><reg>precious</reg></choice> of all, not to be investigated by circumforaneous impostors, and <pc>-</pc>
                         <lb/><choice><orig>pseudochymicall</orig><reg>pseudochymical</reg></choice> drones (who in these things are asini ad Lyram, because <pc>-</pc>
@@ -224,7 +227,7 @@
                         <lb/>by the <choice><orig>Græks</orig><reg>Greeks</reg></choice> termed <choice><orig>warrlike</orig><reg>warlike</reg></choice>, because it was sung in <choice><orig>warre</orig><reg>war</reg></choice>, and upon en
                         <lb break="no"/>gagement, and had a singular virtue in stirring up the Spirits of the <pc>-</pc>
                         <lb/>Soldiers; instead of which the <choice><orig>Jonicke</orig><reg>Ionic</reg></choice> is sometimes used for the same pur
-                        <lb break="no"/>pose, which was formerly esteemed amatory (as the Phrygian is <subst><del>sometimes</del><add>now</add></subst> re
+                        <lb break="no"/>pose, which was formerly esteemed <milestone unit="page" ed="Meier" n="008"/>amatory (as the Phrygian is <subst><del>sometimes</del><add>now</add></subst> re
                         <lb break="no"/>puted) from which <choice><orig>wee</orig><reg>we</reg></choice> gather tunes <choice><orig>changd</orig><reg>changed</reg></choice> one with another: it is <choice><orig>sayd</orig><reg>said</reg></choice> that
                         <lb/>Timothy Milese used the Phrygian to make Alexander the great more <pc>-</pc>
                         <lb/><choice><orig>Spritefull</orig><reg>Spriteful</reg></choice> and <choice><orig>couragious</orig><reg>courageous</reg></choice> in warlike <choice><orig>affaires</orig><reg>affairs</reg></choice>, which Cicero takes notice of 2.
@@ -253,7 +256,7 @@
                         <lb/>as designed apply them to your <choice><orig>owne</orig><reg>own</reg></choice> use, which if it be more <choice><orig>intel
                         
                         <pb n="06"/><fw rend="italics">the <choice><orig>præface</orig><reg>preface</reg></choice> to the Reader.</fw>
-                        <lb break="no"/>lectuall</orig><reg>intellectual</reg></choice>, than <choice><orig>sensuall</orig><reg>sensual</reg></choice>, the more profitable and <choice><orig>delightfull</orig><reg>delightful</reg></choice> will it be in time:
+                            <lb break="no"/>lectuall</orig><reg>intellectual</reg></choice>, than <choice><orig>sensuall</orig><reg>sensual</reg></choice>, the more profitable <milestone unit="page" ed="Meier" n="009"/>and <choice><orig>delightfull</orig><reg>delightful</reg></choice> will it be in time:
                         <lb/>but if it be first in bondage to the sense, there is <choice><orig>noe</orig><reg>no</reg></choice> doubt but there will <pc>-</pc>
                         <lb/>be a passage from the sense to the understanding as by a <choice><orig>doore</orig><reg>door</reg></choice>: for nothing is
                         <lb/><choice><orig>sayd</orig><reg>said</reg></choice> to be in the understanding, which had not admission by some sense, <pc>-</pc>
@@ -279,7 +282,7 @@
                         <lb/>know how to make stand, <choice><orig>hee</orig><reg>he</reg></choice> will have that Spouse which <choice><orig>hee</orig><reg>he</reg></choice> desires, if <pc>-</pc>
                         <lb/>not, destruction and <choice><orig>ruine</orig><reg>ruin</reg></choice> of his <choice><orig>affaires</orig><reg>affairs</reg></choice>: From Hippomenes and Atalanta
                         <lb/>lying together in the temple of the mother of the Gods, that is, a <choice><orig>vessell</orig><reg>vessel</reg></choice>, <pc>-</pc>
-                        <lb/>are <choice><orig>Lyons</orig><reg>Lions</reg></choice> produced, or they acquire a red <choice><orig>colour</orig><reg>color</reg></choice>: This virgin <choice><orig>allso</orig><reg>also</reg></choice> <choice><orig>obtaind</orig><reg>obtained</reg></choice>
+                        <lb/>are <choice><orig>Lyons</orig><reg>Lions</reg></choice> produced, or they acquire a red <choice><orig>colour</orig><reg>color</reg></choice>: <milestone unit="page" ed="Meier" n="0010"/>This virgin <choice><orig>allso</orig><reg>also</reg></choice> <choice><orig>obtaind</orig><reg>obtained</reg></choice>
                         <lb/>a victory before men, killing a <choice><orig>certaine</orig><reg>certain</reg></choice> boar of notable <choice><orig>bignesse</orig><reg>bigness</reg></choice>, for which
                         <lb/><choice><orig>Shee</orig><reg>She</reg></choice> was rewarded by Meleager: Striking a <choice><orig>rocke</orig><reg>rock</reg></choice> at Stethæus the temple
                         <lb/>of <choice><orig>Æsculapius</orig><reg>Aesculapius</reg></choice> <choice><orig>Shee</orig><reg>She</reg></choice> brought forth water, <subst><del>which</del><add>whereof</add></subst> being thirsty, <choice><orig>Shee</orig><reg>She</reg></choice> <choice><orig>dranke</orig><reg>drank</reg></choice>:
