@@ -51,8 +51,8 @@
                   <lb n="6"/><l>Diß Bild der Natur <pc>/</pc> dir schawt den Weg <pc>/</pc> dadurch sie waltet.</l>
                </lg>
             </div>
-            <fw type="catchword">Emble-</fw>
             
+            <fw type="catchword">Emble-</fw>
             <pb n="73" edRef="Maier1618"/>
             
             <div type="image" xml:lang="la">
@@ -60,10 +60,9 @@
                   <fw type="header" place="top-center">Emblema XVI. De Secretis Natur<hi rend="ligature">ae</hi>.</fw> <fw type="pageNum" place="top-right">73</fw>
                   <lb n="2"/>Hic leo, quas plumas non habet, alter habet.
                </head>
-               <figure><graphic url=""></graphic></figure>
-
-               
-            </div>            
+               <figure><graphic url=""></graphic></figure>               
+            </div>
+            
             <div type="epigram" xml:lang="la">
                <head>Epigramma XVI.</head>
                <lg>
