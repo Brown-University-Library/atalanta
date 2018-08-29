@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.1" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -27,18 +24,15 @@
       <body>
          <div type="emblem" n="e37">
             <pb n="156" edRef="Maier1618"/>
-            <head>
-               <fw type="pageNum" place="top-left">156</fw> <fw type="header" place="top-center">FUGA <num value="37" type="cardinal">XXXVII</num>. in <num value="8">8</num> suprà.</fw>
+            <fw type="pageNum" place="top-left">156</fw><fw type="header" place="top-center">FUGA <num value="37" type="cardinal">XXXVII</num>. in <num value="8">8</num> suprà.</fw>
+            
+            <div type="fugue" xml:lang="de">
+               <head>
 
                <lb n="2"/>Dreij Dinge seijnd genug zur Meisterschafft <pc>/</pc> der weisse
                <lb n="3"/>Rauch <pc>/</pc> das ist Wasser <pc>/</pc> der grüne Löw <pc>/</pc> das ist das Erz
                <lb n="4"/><persName><hi rend="latin">Hermetis</hi></persName>, und das stinckende Wassser.
             </head>
-            
-            <div type="fugue" xml:lang="de">
-               <head>
-                  
-               </head>
                
             </div>
             
@@ -57,16 +51,7 @@
             
             <pb n="157" edRef="Maier1618"/>
             
-            <div type="image" xml:lang="la">
-               <head>
-                  <fw type="header" place="top-center">Emblema <num value="37" type="cardinal">XXXVII</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw> <fw type="pageNum" place="top-right">157</fw>
-                  <lb n="2"/>Tria sufficiunt ad magisterium, fumus, albus, hoc est, aqua, leo
-                  <lb n="3"/>viridis, id est, <hi rend="ligature">ae</hi>s <persName>Hermetis</persName>, <g type="ampersand">et</g> aqua f<hi rend="ligature">oe</hi>tida.
-               </head>
-               <figure><graphic url=""></graphic></figure>
-
-               
-            </div>            
+            <fw type="header" place="top-center">Emblema <num value="37" type="cardinal">XXXVII</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">157</fw><div type="image" xml:lang="la"><head/></div>            
             <div type="epigram" xml:lang="la">
                <head>Epigramma <num value="37" type="cardinal">XXXVII</num>.</head>
                <lg>
@@ -84,12 +69,12 @@
             <div type="discourse" xml:lang="la">
                <pb n="158" edRef="Maier1618"/>
                <fw type="pageNum" place="top-left">158</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="37">XXXVII</num>.</fw>
-                  <ab>
+                  <div type="discourse-p1"><ab>
                      <lb n="1"/><milestone unit="section" n="e37-01"/>Ut tria essentialia ad cujusque <hi rend="ligature">ae</hi>dificii constructionem requirun
                      <lb n="2" break="no"/>tur, quorum uno absente, ejus nulla adesse potest perfectio, <expan><abbr>qu</abbr><ex>a</ex><abbr><hi rend="hook">e</hi></abbr></expan>
                      <lb n="3"/>sunt fundamentum, parietes <g type="ampersand">et</g> tectum, ita totidem desiderantur ad
                      <lb n="4"/>Philosophorum compositum absolvendum, qu<hi rend="ligature">ae</hi> hic nominantur
-                     <lb n="5"/>propriis suis nominibus: <milestone unit="section" n="e37-02"/><persName ref="https://viaf.org/viaf/206892176">Author</persName> <title ref="https://viaf.org/viaf/18388599">Auror<hi rend="ligature">ae</hi></title>, <expan><abbr>c<am>.</am></abbr><ex>apite</ex></expan> <num value="20" type="ordinal">20></num>. de separatione ele
+                     <lb n="5"/>propriis suis nominibus: <milestone unit="section" n="e37-02"/><persName ref="https://viaf.org/viaf/206892176">Author</persName> <title ref="https://viaf.org/viaf/18388599">Auror<hi rend="ligature">ae</hi></title>, <expan><abbr>c<am>.</am></abbr><ex>apite</ex></expan> <num value="20" type="ordinal">20&gt;</num>. de separatione ele
                      <lb n="6" break="no"/>mentorum loquens, <quote>Terra</quote>, inquit, <quote>ibidem relinquitur, ut alia tria
                      <lb n="7"/>elementa in ea valeant radicari; si ipsa non esset, elementa funda
                      <lb n="8" break="no"/>mentum non haberent ad <hi rend="ligature">ae</hi>dificandum super id domum novam
@@ -119,11 +104,11 @@
                      <lb n="32"/><quote rend="italic indent">At non ille quidem sensit, qu<hi rend="ligature">ae</hi> dicere prim<hi rend="circumflex">a</hi>
                      <lb n="33"/>Est facie visus, neque um stillantia vina
                      <lb n="34"/>Miscebat, <expan><abbr><g type="ampersand">et</g>c<am>.</am></abbr><ex>aetera</ex></expan>.</quote>
-                  </ab>
+                  </ab></div>
                   <fw type="catchword" place="bottom-right">Post</fw>
                <pb n="159" edRef="Maier1618"/>
                <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="37">XXXVII</num>.</fw> <fw type="pageNum" place="top-right">159</fw>
-                  <ab>
+                  <div type="discourse-p2"><ab>
                      <lb n="1"/><milestone unit="section" n="e37-11"/>Post aquam f<hi rend="ligature">oe</hi>tidam Leo viridis occurrit: de quo <title ref="http://viaf.org/viaf/191597728">Rosarius</title>, qu<hi rend="ligature">ae</hi>si
                      <lb n="2" break="no"/>visti autem de viriditate, putans, quod <hi rend="ligature">ae</hi>s esset corpus leprosum pro
                      <lb n="3" break="no"/>pter illam viriditatem quam habet: <milestone unit="section" n="e37-12"/>Unde enim tibi dico, quod <expan><abbr>tot<hi rend="tilde">u</hi></abbr><ex>m</ex></expan>
@@ -155,7 +140,7 @@
                      <lb n="29"/>non luceat, est non exigu<hi rend="ligature">ae</hi> difficultatis, sed operi debito applicare
                      <lb n="30"/>modo, long<hi rend="grave">e</hi> majoris; cujus circumstantias <g type="ampersand">et</g> proprietates in diver
                      <lb n="31" break="no"/>sis locis satis descripsimus.
-                  </ab>
+                  </ab></div>
                <fw type="catchword" place="bottom-right" xml:lang="de">Das</fw>                  
             </div>            
          </div>

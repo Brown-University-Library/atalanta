@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.1" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -27,17 +24,14 @@
       <body>
          <div type="emblem" n="e40">
             <pb n="168" edRef="Maier1618"/>
-            <head>
-               <fw type="pageNum" place="top-left">168</fw> <fw type="header" place="top-center">FUGA <num value="40" type="cardinal">XL</num>. in <num value="6">6</num>. infrà.</fw>
+            <fw type="pageNum" place="top-left">168</fw><fw type="header" place="top-center">FUGA <num value="40" type="cardinal">XL</num>. in <num value="6">6</num>. infrà.</fw>
+            
+            <div type="fugue" xml:lang="de">
+               <head>
 
                <lb n="2"/>Auß zweijen Wassern mach eins <pc>/</pc> und es wirt seijn
                <lb n="3"/>das Wasser der Gesundheit.
             </head>
-            
-            <div type="fugue" xml:lang="de">
-               <head>
-                  
-               </head>
                
             </div>
             
@@ -56,15 +50,7 @@
             
             <pb n="169" edRef="Maier1618"/>
             
-            <div type="image" xml:lang="la">
-               <head>
-                  <fw type="header" place="top-center">Emblema <num value="40" type="cardinal">XL</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw> <fw type="pageNum" place="top-right">169</fw>
-                  <lb n="2"/>Ex duabus aquis, fac unam, <g type="ampersand">et</g> erit aqua sanctitatis.
-               </head>
-               <figure><graphic url=""></graphic></figure>
-
-               
-            </div>            
+            <fw type="header" place="top-center">Emblema <num value="40" type="cardinal">XL</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">169</fw><div type="image" xml:lang="la"><head/></div>            
             <div type="epigram" xml:lang="la">
                <head>Epigramma <num value="40" type="cardinal">XL</num>.</head>
                <lg>
@@ -82,7 +68,7 @@
             <div type="discourse" xml:lang="la">
                <pb n="170" edRef="Maier1618"/>
                <fw type="pageNum" place="top-left">170</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi>. <num value="40">XL</num>.</fw>
-                  <ab>
+                  <div type="discourse-p1"><ab>
                      <lb n="1"/><milestone unit="section" n="e40-01"/>Tot <g type="ampersand">et</g> tanta sunt aquarum miracula, ut vix magno volumine
                      <lb n="2"/>comprehendi possint, de quibus sparsim varii egerunt authores.
                      <lb n="3"/><milestone unit="section" n="e40-02"/>Sed pr<hi rend="ligature">ae</hi> omnibus du<hi rend="ligature">ae</hi> aqu<hi rend="ligature">ae</hi> Philosophic<hi rend="ligature">ae</hi> celebrantur eo nomine,
@@ -116,11 +102,11 @@
                      <lb n="31"/>homin<hi rend="acute">e</hi>mque firm<hi rend="ligature">ae</hi> sanitati restituent. <milestone unit="section" n="e40-11"/>Natura quidem occulto suo
                      <lb n="32"/>compositionis artificio multas aquas terr<hi rend="ligature">ae</hi> gremio cum diversis mi
                      <lb n="33" break="no"/>nerarum virtutibus confundit <g type="ampersand">et</g> miscet, qu<hi rend="ligature">ae</hi> plurimis <hi rend="ligature">ae</hi>gris sint
-                  </ab>
+                  </ab></div>
                   <fw type="catchword" place="bottom-right">saluti-</fw>
                <pb n="171" edRef="Maier1618"/>
                <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="40">XL</num>.</fw> <fw type="pageNum" place="top-right"><choice><sic>155</sic><corr>171</corr></choice></fw>
-                  <ab>
+                  <div type="discourse-p2"><ab>
                      <lb n="1"/>salutifer<hi rend="ligature">ae</hi>, sed si ars accedat cum debito regimine, pr<hi rend="ligature">ae</hi>missis univer
                      <lb n="2" break="no"/>salibus evacuationibus ali<hi rend="acute">i</hi>sque pr<hi rend="ligature">ae</hi>mittendis, <g type="ampersand">et</g> misceat inter se
                      <lb n="3"/>miscenda, <expan><abbr>c<hi rend="tilde">o</hi></abbr><ex>m</ex><abbr>positio</abbr></expan> illa long<hi rend="grave">e</hi> effacior erit. <milestone unit="section" n="e40-12"/>Qu<hi rend="ligature">ae</hi> quamvis artificia
@@ -151,7 +137,7 @@
                      <lb n="28" break="no"/>rias, habet <choice><sic>virrutes</sic><corr>virtutes</corr></choice>, quia naturanatura ex contrariis artis adminiculo eam
                      <lb n="29"/>miscuit in unam indivisibilem substantiam, qu<hi rend="ligature">ae</hi> nihil aliud est nisi
                      <lb n="30"/>Quinta essentia, respectu aliorum cum ea miscendorum.
-                  </ab>
+                  </ab></div>
                <fw type="gathering" place="bottom-right">Y 2</fw> <fw type="catchword" place="bottom-right" xml:lang="de">Adonis</fw>                  
             </div>            
          </div>

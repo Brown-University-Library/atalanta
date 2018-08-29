@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.1" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -27,18 +24,15 @@
       <body>
          <div type="emblem" n="e41">
             <pb n="172" edRef="Maier1618"/>
-            <head>
-               <fw type="pageNum" place="top-left">172</fw> <fw type="header" place="top-center">FUGA <num value="41" type="cardinal">XLI</num>. in <num value="3">3</num>. infrà. retrograda existente simplici seu Basi.</fw>
+            <fw type="pageNum" place="top-left">172</fw><fw type="header" place="top-center">FUGA <num value="41" type="cardinal">XLI</num>. in <num value="3">3</num>. infrà. retrograda existente simplici seu Basi.</fw>
+            
+            <div type="fugue" xml:lang="de">
+               <head>
 
                <lb n="2"/><persName><hi rend="latin">Adonis</hi></persName> wit von einer wilden Saw erlegt <pc>/</pc> welchem wie die
                <lb n="3"/><persName type="divinity"><hi rend="latin">Venus</hi></persName> wolt Hülffe thun <pc>/</pc> hat sie mit Blut die Rosen
                <lb n="4"/>roht gefärbet.
             </head>
-            
-            <div type="fugue" xml:lang="de">
-               <head>
-                  
-               </head>
                
             </div>
             
@@ -57,16 +51,7 @@
             
             <pb n="173" edRef="Maier1618"/>
             
-            <div type="image" xml:lang="la">
-               <head>
-                  <fw type="header" place="top-center">Emblema <num value="41" type="cardinal">XLI</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw> <fw type="pageNum" place="top-right">173</fw>
-                  <lb n="2"/><persName>Adonis</persName> ab apro occiditur, cui <persName type="divinity">Venus</persName> accurrens tinxit
-                  <lb n="3"/>Rosas sanguine.
-               </head>
-               <figure><graphic url=""></graphic></figure>
-
-               
-            </div>            
+            <fw type="header" place="top-center">Emblema <num value="41" type="cardinal">XLI</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">173</fw><div type="image" xml:lang="la"><head/></div>            
             <div type="epigram" xml:lang="la">
                <head>Epigramma <num value="41" type="cardinal">XLI</num>.</head>
                <lg>
@@ -84,7 +69,7 @@
             <div type="discourse" xml:lang="la">
                <pb n="174" edRef="Maier1618"/>
                <fw type="pageNum" place="top-left">174</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="41">XLI</num>.</fw>
-                  <ab>
+                  <div type="discourse-p1"><ab>
                      <lb n="1"/><milestone unit="section" n="e41-01"/><persName><hi rend="caps">Adonidis</hi></persName> allegoriam qu<hi rend="grave">a</hi>m impropri<hi rend="grave">e</hi> quidam ex mythologis
                      <lb n="2"/>explicent, <g type="ampersand">et</g> eum nunc ad Solem, aprum, <hi rend="grave">a</hi> quo occisus est, ad
                      <lb n="3"/>Brumam hirsutam, nunc ad semina frumentorum, qu<hi rend="ligature">ae</hi> <num value="6" type="cardinal">6</num>. mensibus
@@ -118,11 +103,11 @@
                      <lb n="31"/>ex patre <g type="ampersand">et</g> filia, fiat conjunctio, inde<hi rend="acute">q</hi>ue nascatur, nihil in hac arte
                      <lb n="32"/>perficitur. <milestone unit="section" n="e41-12"/>Hic enim, quo conjuges sint sibi invicem sanguine pro
                      <lb n="33" break="no"/>pinquiores, in primo gradu consanguinitatis, vel secundo, e<hi rend="grave">o</hi> sunt
-                  </ab>
+                  </ab></div>
                   <fw type="catchword" place="bottom-right">f<hi rend="ligature">oe</hi>cun-</fw>
                <pb n="175" edRef="Maier1618"/>
                <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="41">XLI</num>.</fw> <fw type="pageNum" place="top-right">175</fw>
-                  <ab>
+                  <div type="discourse-p2"><ab>
                      <lb n="1"/>f<hi rend="ligature">oe</hi>cundiores <g type="ampersand">et</g> <hi rend="grave">e</hi>converso, quo remotiores, e<hi rend="grave">o</hi> in f<hi rend="ligature">oe</hi>cundiores, quod
                      <lb n="2"/>in hominum matrimonio tolerabile non est. <milestone unit="section" n="e41-13"/>Hinc <persName>Oedypus</persName> pro
                      <lb n="3" break="no"/>priam matrem ducit, <persName type="divinity">Jupiter</persName> sororem, sic <g type="ampersand">et</g> <persName type="divinity">Osyris</persName>, <persName type="divinity">Saturnus</persName>, <persName type="divinity">Sol</persName>,
@@ -145,7 +130,7 @@
                      <lb n="20"/>qu<hi rend="ligature">ae</hi> vera sunt, etiamsi sub velo allegori<hi rend="ligature">ae</hi> tecta, miro inter se suffra
                      <lb n="21" break="no"/>gio consentiunt, qu<hi rend="ligature">ae</hi> falsa, secum cum<hi rend="acute">q</hi>ue aliis pugnant,<g type="ampersand">et</g> in diver
                      <lb n="22" break="no"/>sa abeunt.
-                  </ab>
+                  </ab></div>
             <fw type="catchword" place="bottom-right" xml:lang="de">Dem</fw>                  
             </div>            
          </div>

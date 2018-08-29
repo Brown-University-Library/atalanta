@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.1" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -27,18 +24,15 @@
       <body>
          <div type="emblem" n="e48">
             <pb n="200" edRef="Maier1618"/>
-            <head>
-               <fw type="pageNum" place="top-left"><choice><sic>184</sic><corr>200</corr></choice></fw> <fw type="header" place="top-center">FUGA <num value="48" type="cardinal">XLVIII</num>. in <num value="5">5</num>. seu <num value="12">12</num>. suprà. vertendo simplicem. ac initio.</fw>
+            <fw type="pageNum" place="top-left"><choice><sic>184</sic><corr>200</corr></choice></fw><fw type="header" place="top-center">FUGA <num value="48" type="cardinal">XLVIII</num>. in <num value="5">5</num>. seu <num value="12">12</num>. suprà. vertendo simplicem. ac initio.</fw>
+            
+            <div type="fugue" xml:lang="de">
+               <head>
 
                <lb n="2"/>Der König von getrunckenem Wasser bekompt ein
                <lb n="3"/>Kranckheit <pc>/</pc> von Arzten aber <foreign xml:lang="la"><hi rend="latin">curiret</hi></foreign>,
                <lb n="4"/>die Gesundheit.
             </head>
-            
-            <div type="fugue" xml:lang="de">
-               <head>
-                  
-               </head>
                
             </div>
             
@@ -57,16 +51,7 @@
             
             <pb n="201" edRef="Maier1618"/>
             
-            <div type="image" xml:lang="la">
-               <head>
-                  <fw type="header" place="top-center">Emblema <num value="48" type="cardinal">XLVIII</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw> <fw type="pageNum" place="top-right">201</fw>
-                  <lb n="2"/>Rex ab aquis potatis morbum, <hi rend="grave">a</hi> medicis curatus
-                  <lb n="3"/>sanitatem obtinet.
-               </head>
-               <figure><graphic url=""></graphic></figure>
-
-               
-            </div>            
+            <fw type="header" place="top-center">Emblema <num value="48" type="cardinal">XLVIII</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">201</fw><div type="image" xml:lang="la"><head/></div>            
             <div type="epigram" xml:lang="la">
                <head>Epigramma <num value="48" type="cardinal">XLVIII</num>.</head>
                <lg>
@@ -84,7 +69,7 @@
             <div type="discourse" xml:lang="la">
                <pb n="202" edRef="Maier1618"/>
                <fw type="pageNum" place="top-left">202</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="48">XLVIII</num>.</fw>
-                  <ab>
+                  <div type="discourse-p1"><ab>
                      <lb n="1"/><milestone unit="section" n="e48-01"/><persName ref="https://viaf.org/viaf/282770127"><hi rend="caps">Xerxes</hi></persName> ille potentissimus <orgName>Persarum</orgName> rex, c<hi rend="grave">u</hi>m per sicca <g type="ampersand">et</g> inculta
                      <lb n="2"/>loca sub <hi rend="ligature">ae</hi>stu exercitum duceret sitibundus haustum aqu<hi rend="ligature">ae</hi> tur
                      <lb n="3" break="no"/>bid<hi rend="ligature">ae</hi> <hi rend="grave">a</hi> quodam milite oblatum non respuit, sed gratissim<hi rend="grave">e</hi> bibit,
@@ -118,11 +103,11 @@
                      <lb n="31" break="no"/>rit, si deberet vivere mille millibus annis, <g type="ampersand">et</g> singulis diebus nutrire
                      <lb n="32"/>quatuor millia hominum, non egeret.</quote><milestone unit="section" n="e48-11"/>Hoc confirmat <persName ref="https://viaf.org/viaf/74280818">Senior</persName>, <expan><abbr>dic<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>s</abbr></expan>:
                      <lb n="33"/><quote>Est ita dives habens <expan><abbr>lapid<hi rend="tilde">e</hi></abbr><ex>m</ex></expan>, de quo Elixir fit, sicut qui habet ignem,</quote>
-                  </ab>
+                  </ab></div>
                   <fw type="catchword" place="bottom-right">potest</fw>
                <pb n="203" edRef="Maier1618"/>
                <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="48">XLVIII</num>.</fw> <fw type="pageNum" place="top-right">203</fw>
-                  <ab>
+                  <div type="discourse-p2"><ab>
                      <lb n="1"/><quote>potest dare ignem, cui vult, <g type="ampersand">et</g> quando vult, <g type="ampersand">et</g> quantum vult sine su<hi rend="raised">o</hi>
                         <lb n="2"/>periculo <g type="ampersand">et</g> defectu.</quote> <milestone unit="section" n="e48-12"/><persName ref="http://viaf.org/viaf/228724785">Democriti</persName> pater ade<hi rend="grave">o</hi> dives fuit, ut exercitui
                      <lb n="3"/><persName ref="https://viaf.org/viaf/282770127">Xerxes</persName> Epulum dederit, <persName ref="https://viaf.org/viaf/282770127"><hi rend="caps">Xerxes</hi></persName> <orgName>Pythius</orgName> quidam opulentissimus, obtulit
@@ -146,7 +131,7 @@
                      <lb n="21"/>variis, nempe thorace nigro, indusio albo <g type="ampersand">et</g> sanguine purpureo or
                      <lb n="22"/>natus sit; tum enim singulis de sanguine suo daturum, ips<hi rend="acute">o</hi>sque sua
                      <lb n="23" break="no"/>rum divitiarum participes facturum se pollicetur.
-                  </ab>
+                  </ab></div>
                <fw type="gathering" place="bottom-right">Cc ii</fw> <fw type="catchword" place="bottom-right" xml:lang="de">Das</fw>                  
             </div>            
          </div>

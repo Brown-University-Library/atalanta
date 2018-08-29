@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.1" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -27,18 +24,15 @@
       <body>
          <div type="emblem" n="e31">
             <pb n="132" edRef="Maier1618"/>
-            <head>
-               <fw type="pageNum" place="top-left">132</fw> <fw type="header" place="top-center">FUGA <num value="31" type="cardinal">XXXI</num>. in <num value="4">4</num> suprà.</fw>
+            <fw type="pageNum" place="top-left">132</fw><fw type="header" place="top-center">FUGA <num value="31" type="cardinal">XXXI</num>. in <num value="4">4</num> suprà.</fw>
+            
+            <div type="fugue" xml:lang="de">
+               <head>
 
                <lb n="2"/>Der König <pc>/</pc> schwimmende im Meer <pc>/</pc> schreijet mit lauter
                <lb n="3"/>Stimm <pc>/</pc> wer mich errettet <pc>/</pc> wirt ein groß Geschenck
                <lb n="4"/>empfangen.
             </head>
-            
-            <div type="fugue" xml:lang="de">
-               <head>
-                  
-               </head>
                
             </div>
             
@@ -57,16 +51,7 @@
             
             <pb n="133" edRef="Maier1618"/>
             
-            <div type="image" xml:lang="la">
-               <head>
-                  <fw type="header" place="top-center">Emblema <num value="31" type="cardinal">XXXI</num>.</fw> <fw type="pageNum" place="top-right">133</fw>
-                  <lb n="2"/>Rex natans in mari, clamans alt<hi rend="circumflex">a</hi> voce: Qui me eripiet,
-                  <lb n="3"/>ingens pr<hi rend="ligature">ae</hi>mium habebit.
-               </head>
-               <figure><graphic url=""></graphic></figure>
-
-               
-            </div>            
+            <fw type="header" place="top-center">Emblema <num value="31" type="cardinal">XXXI</num>.</fw><fw type="pageNum" place="top-right">133</fw><div type="image" xml:lang="la"><head/></div>            
             <div type="epigram" xml:lang="la">
                <head>Epigramma <num value="31" type="cardinal">XXXI</num>.</head>
                <lg>
@@ -84,7 +69,7 @@
             <div type="discourse" xml:lang="la">
                <pb n="134" edRef="Maier1618"/>
                <fw type="pageNum" place="top-left">134</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="31">XXXI</num>.</fw>
-                  <ab>
+                  <div type="discourse-p1"><ab>
                      <lb n="1"/><milestone unit="section" n="e31-01"/>Prima omnis disciplin<hi rend="ligature">ae</hi> rudimenta antiquitus fu<hi rend="circumflex">e</hi>re natandi
                      <lb n="2"/>peritia <g type="ampersand">et</g> in literis institutio: Hinc de homine rudi dici <g type="ampersand">et</g> impolito
                      <lb n="3"/>consuevit; <milestone unit="section" n="e31-02"/><expan><abbr>Neq<am>;</am></abbr><ex>ue</ex></expan> literas novit: Consider<hi rend="circumflex">a</hi>runt enim anti
@@ -101,7 +86,7 @@
                      <lb n="14" break="no"/>re, nunquam non vit<hi rend="ligature">ae</hi> <expan><abbr>cujusq<am>;</am></abbr><ex>ue</ex></expan> utilissimam, ut quod per naturam
                      <lb n="15"/>deesset, <expan><abbr><hi rend="stroke">p</hi></abbr><ex>er</ex></expan> artis usum suppleretur: <milestone unit="section" n="e31-05"/><expan><abbr>Eod<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> exercitio magnantes, princi
                      <lb n="16" break="no"/>pes <g type="ampersand">et</g> reges usi sunt, ad sui corporis <expan><abbr>tutel<hi rend="tilde">a</hi></abbr><ex>m</ex></expan>: Non enim alio loco nati
-                     <lb n="17"/><hi rend="grave">a</hi> fortun<hi rend="ligature">ae</hi> <expan><abbr>casib<am>.</am></abbr><ex>us</ex></expan> liberi omnino sunt, sed <hi rend="ligature">ae</hi>qu<hi rend="grave">e></hi> illis, ut alii homines ex
+                     <lb n="17"/><hi rend="grave">a</hi> fortun<hi rend="ligature">ae</hi> <expan><abbr>casib<am>.</am></abbr><ex>us</ex></expan> liberi omnino sunt, sed <hi rend="ligature">ae</hi>qu<hi rend="grave">e&gt;</hi> illis, ut alii homines ex
                      <lb n="18" break="no"/>positi: <milestone unit="section" n="e31-06"/>Si <persName ref="https://viaf.org/viaf/316407664">Dionysius</persName> nec nare nec literas novisset, c<hi rend="grave">u</hi>m regno <placeName>Sicili<hi rend="ligature">ae</hi></placeName>,
                      <lb n="19"/>ceu <expan><abbr>tyr<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>nus</abbr></expan> pelleretur, in <placeName>Corinthiaco sinu</placeName> naufragus <expan><abbr>fluctib<am>.</am></abbr><ex>us</ex></expan> maris
                      <lb n="20"/>periisset, ver<hi rend="grave">u</hi>m <choice><corr>natatione</corr><sic>natatinoe</sic></choice> periculis ereptus, <placeName><expan><abbr>Corinth<hi rend="tilde">u</hi></abbr><ex>m</ex></expan></placeName> se <expan><abbr>c<hi rend="tilde">o</hi></abbr><ex>n</ex><abbr>tulit</abbr></expan>, ubi
@@ -109,7 +94,7 @@
                      <lb n="22"/>rege factus ludimoderator, <expan><abbr>virg<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> <expan><abbr><hi rend="leading-tail">p</hi></abbr><ex>ro</ex></expan> sceptro tenens, unde dicterium,
                      <lb n="23"/><persName ref="https://viaf.org/viaf/316407664">Dionysius</persName> <placeName>Corinthi</placeName>: <milestone unit="section" n="e31-07"/>Simili modo nisi regius <expan><abbr>Philosophor<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> filius na
                      <lb n="24" break="no"/>tare posset, nem ejus clamorem audiret, nec illi suppetias ferret
-                     <lb n="25"/>jam <expan><abbr>prid<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> aquis submerso: <milestone unit="section" n="e31-08"/>Natatio <expan><abbr>itaq<am>;</am></abbr><ex>ue</ex></expan>/> omnis conditionis homini
+                     <lb n="25"/>jam <expan><abbr>prid<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> aquis submerso: <milestone unit="section" n="e31-08"/>Natatio <expan><abbr>itaq<am>;</am></abbr><ex>ue</ex></expan>/&gt; omnis conditionis homini
                      <lb n="26"/>necessaria <g type="ampersand">et</g> utilissima est: Etiamsi enim <expan><abbr>n<hi rend="tilde">o</hi></abbr><ex>n</ex></expan> mox liberet ex immensi
                      <lb n="27"/>maris fluctibus, tamen concedit tempus vit<hi rend="ligature">ae</hi>, quo ab aliis liberari
                      <lb n="28"/>queat: <milestone unit="section" n="e31-09"/>Dictus ver<hi rend="grave">o</hi> rex diutissim<hi rend="grave">e</hi> se sustinet <g type="ampersand">et</g> huc usque clamat
@@ -118,11 +103,11 @@
                      <lb n="31" break="no"/>dem natando attigit: quo contineatur ; si fluctus pr<hi rend="ligature">ae</hi>valeant. <milestone unit="section" n="e31-10"/>At
                      <lb n="32"/>qu<hi rend="ligature">ae</hi>ritur quale sit mare? Respondeo, Erythr<hi rend="ligature">ae</hi>um seu rubrum, Tro
                      <lb n="33" break="no"/>pico Cancri subjectum; <milestone unit="section" n="e31-11"/>in quo cum magnetes abunddantissimi sint
-                  </ab>
+                  </ab></div>
                   <fw type="catchword" place="bottom-right">in<hi rend="grave">es</hi></fw>
                <pb n="135" edRef="Maier1618"/>
                <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi>. <num value="31">XXXI</num>.</fw> <fw type="pageNum" place="top-right">135</fw>
-                  <ab>
+                  <div type="discourse-p2"><ab>
                      <lb n="1"/>in fundo, unde non tutum est navibus ferro compactis aut oneratis
                      <lb n="2"/>per id transire: Facil<hi rend="grave">e</hi> enim in fundum magnetis vi attrahi possent.
                      <lb n="3"/><milestone unit="section" n="e31-12"/>Quod c<hi rend="grave">u</hi>m ignoraret jam dictus rex, <g type="ampersand">et</g> navi submersa reliqui per
@@ -154,7 +139,7 @@
                      <lb n="29"/>omnes suos proavos superabit potentia, regnis ditionibus, populis
                      <lb n="30"/>divitiis <g type="ampersand">et</g> opibus atque hostes sibi subjiciet, <expan><abbr>n<hi rend="tilde">o</hi></abbr><ex>n</ex></expan> bello, sed humanita
                      <lb n="31" break="no"/>te, non tyrannide, sed clementia, qu<hi rend="ligature">ae</hi> ipsi genuina <g type="ampersand">et</g> propria est.
-                  </ab>
+                  </ab></div>
                <fw type="catchword" place="bottom-right" xml:lang="de">Die</fw>                  
             </div>
             

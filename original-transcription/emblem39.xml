@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.1" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -27,19 +24,16 @@
       <body>
          <div type="emblem" n="e39">
             <pb n="164" edRef="Maier1618"/>
-            <head>
-               <fw type="pageNum" place="top-left">164</fw> <fw type="header" place="top-center">FUGA <num value="39" type="cardinal">XXXIX</num>. in <num value="3">3</num>. seu <num value="10">10</num>. suprà.</fw>
+            <fw type="pageNum" place="top-left">164</fw><fw type="header" place="top-center">FUGA <num value="39" type="cardinal">XXXIX</num>. in <num value="3">3</num>. seu <num value="10">10</num>. suprà.</fw>
+            
+            <div type="fugue" xml:lang="de">
+               <head>
 
                <lb n="2"/><persName><hi rend="latin">Oedypus</hi></persName> wie er <hi rend="latin">Sphyngem</hi> uberwunden <pc>/</pc> und sein Vatter
                <lb n="3"/>ertödtet <pc>/</pc> nimpt sein Mutter zum Weib: Deß Räzels Meijnung
                <lb n="4"/>ist diese: Der Stein ist ein Triangel im Wesen <pc>/</pc>
                <lb n="5"/>und ein Vierangel in der Qualität.
             </head>
-            
-            <div type="fugue" xml:lang="de">
-               <head>
-                  
-               </head>
                
             </div>
             
@@ -58,16 +52,7 @@
             
             <pb n="165" edRef="Maier1618"/>
             
-            <div type="image" xml:lang="la">
-               <head>
-                  <fw type="header" place="top-center">Emblema <num value="39" type="cardinal">XXXIX</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw> <fw type="pageNum" place="top-right">165</fw>
-                  <lb n="2"/><persName>Oedypus</persName> Sphynge superata <g type="ampersand">et</g> trucidato <persName>Lajo</persName> patre
-                  <lb n="3"/>matrem ducit in uxorem.
-               </head>
-               <figure><graphic url=""></graphic></figure>
-
-               
-            </div>            
+            <fw type="header" place="top-center">Emblema <num value="39" type="cardinal">XXXIX</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">165</fw><div type="image" xml:lang="la"><head/></div>            
             <div type="epigram" xml:lang="la">
                <head>Epigramma <num value="39" type="cardinal">XXXIX</num>.</head>
                <lg>
@@ -85,10 +70,10 @@
             <div type="discourse" xml:lang="la">
                <pb n="166" edRef="Maier1618"/>
                <fw type="pageNum" place="top-left">166</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="39">XXXIX</num>.</fw>
-                  <ab>
+                  <div type="discourse-p1"><ab>
                      <lb n="1"/><milestone unit="section" n="e39-01"/><persName>Bacasser</persName> <expan><abbr>Philos<am>.</am></abbr><ex>ophus</ex></expan> in <title ref="http://viaf.org/viaf/317093189">turba</title>, <expan><abbr><hi rend="stroke">q</hi></abbr><ex>uod</ex></expan> qu<hi rend="ligature">ae</hi>ritis, <expan><abbr>in<hi rend="stroke">q</hi></abbr><ex>ui</ex><abbr>t</abbr></expan>, parvi nequaquam est
                      <lb n="2"/>precii: <expan><abbr>Thesaur<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> <expan><ex>e</ex><abbr>n.</abbr><ex>im</ex></expan> <expan><abbr>maxim<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> <g type="ampersand">et</g> munus Dei <expan><abbr>excellentissim<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> qu<hi rend="ligature">ae</hi>
-                     <lb n="3" break="no"/>ritis. <milestone unit="section" n="e39-02"/>Et cognoscite, <hi rend="circumflex">o</hi> investigatores, id <expan><abbr><hi rend="stroke">q</hi></abbr><ex>uod</ex></expan> <expan><abbr>Philos<am></am></abbr><ex>ophi</ex></expan> <expan><abbr>dud<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> intimaverunt
+                     <lb n="3" break="no"/>ritis. <milestone unit="section" n="e39-02"/>Et cognoscite, <hi rend="circumflex">o</hi> investigatores, id <expan><abbr><hi rend="stroke">q</hi></abbr><ex>uod</ex></expan> <expan><abbr>Philos<am/></abbr><ex>ophi</ex></expan> <expan><abbr>dud<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> intimaverunt
                      <lb n="4"/>dicentes, <hi rend="caps">quod rectum</hi> non nisi errore discernitur, <g type="ampersand">et</g> nihil magis
                      <lb n="5"/>dolorem cordi generat, qu<hi rend="grave">a</hi>m error in hac arte <g type="ampersand">et</g> opere. Dum <expan><ex>e</ex><abbr>n<am>.</am></abbr><ex>im</ex></expan> <expan><abbr><hi rend="stroke">q</hi></abbr><ex>ui</ex><abbr>s</abbr></expan>
                      <lb n="6"/>putat, se fecisse, mundum habere, nihil in <expan><abbr>manib<am>.</am></abbr><ex>us</ex></expan> suis inveniet. <milestone unit="section" n="e39-03"/>H<hi rend="ligature">ae</hi>c
@@ -119,11 +104,11 @@
                      <lb n="31"/>aliis <expan><abbr>hominib<am>.</am></abbr><ex>us</ex></expan> <expan><abbr><hi rend="stroke">q</hi></abbr><ex>ui</ex><abbr>buscunq<am>;</am></abbr><ex>ue</ex></expan> non ita obviam (<hi rend="grave">a </hi> quo bruta longissim<hi rend="grave">e</hi>
                      <lb n="32"/>absunt) <expan><abbr><hi rend="lead-tail">p</hi></abbr><ex>ro</ex><abbr>posuit</abbr></expan>. <milestone unit="section" n="e39-11"/>Talia esse <expan><abbr>Philos<am>.</am></abbr><ex>ophica</ex></expan> dogmata, <expan><abbr><hi rend="stroke">q</hi></abbr><ex>ui</ex></expan> salem in illis versatus
                      <lb n="33"/>est, facil<hi rend="grave">e</hi> intellige. Ubi <expan><ex>e</ex><abbr>n<am>.</am></abbr><ex>im</ex></expan> unum dicitur, <g type="ampersand">et</g> alterum intelligitur, ibi
-                  </ab>
+                  </ab></div>
                   <fw type="catchword" place="bottom-right"><hi rend="ligature">ae</hi>qui-</fw>
                <pb n="167" edRef="Maier1618"/>
                <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="39">XXXIX</num>.</fw> <fw type="pageNum" place="top-right">167</fw>
-                  <ab>
+                  <div type="discourse-p2"><ab>
                      <lb n="1"/><expan><abbr><hi rend="ligature">ae</hi><hi rend="stroke">q</hi></abbr><ex>ui</ex><abbr>vocatio</abbr></expan> errorem parit, <expan><abbr><hi rend="stroke">q</hi></abbr><ex>uod</ex></expan> Solis <expan><abbr>Philos<am>.</am></abbr><ex>ophici</ex></expan> non sol<hi rend="grave">u</hi>m <expan><abbr>c<hi rend="tilde">o</hi></abbr><ex>n</ex><abbr>cessum</abbr></expan>, sed <g type="ampersand">et</g>
                      <lb n="2"/><expan><abbr>imperat<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> est. <milestone unit="section" n="e39-12"/><expan><abbr><hi rend="ligature">Ae</hi>nigmatib<am>.</am></abbr><ex>us</ex></expan> <expan><abbr>itaq<am>;</am></abbr><ex>us</ex></expan> Sphyngis <placeName><expan><abbr>Thebar<hi rend="tilde">u</hi></abbr><ex>m</ex></expan></placeName> civitate diu ve
                      <lb n="3" break="no"/>xata tandem <persName>Oedypus</persName> <expan><abbr><hi rend="stroke">q</hi></abbr><ex>ui</ex><abbr>dam</abbr></expan> adfuit, <expan><abbr><hi rend="stroke">q</hi></abbr><ex>ui</ex></expan> ita ad qu<hi rend="ligature">ae</hi>stiones oblatas <expan><abbr>re
@@ -158,7 +143,7 @@
                      <lb n="32"/>currere non potest, <g type="ampersand">et</g> est veluti ursus, ut habet <expan><abbr>secret<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> <expan><abbr>maxim<hi rend="tilde">u</hi></abbr><ex>m</ex></expan>, aut
                      <lb n="33"/>bufo, <expan><abbr>l<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>to</abbr></expan> <expan><abbr>inced<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>s</abbr></expan> gradu; <expan><abbr><hi rend="stroke">q</hi></abbr><ex>ui</ex><abbr>a</abbr></expan> <expan><abbr>fix<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> est figens aliud <g type="ampersand">et</g> <expan><abbr>ign<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> non fugiens
                      <lb n="34"/>aut <expan><abbr>reformid<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>s</abbr></expan>, quo licet vili medio <expan><abbr>Philos<am>.</am></abbr><ex>ophi</ex></expan> maxim<hi rend="grave">e</hi> <expan><abbr>eg<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>t</abbr></expan>.
-                  </ab>
+                  </ab></div>
                <fw type="catchword" place="bottom-right" xml:lang="de">Auß</fw>                  
             </div>            
          </div>

@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.1" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -27,18 +24,15 @@
       <body>
          <div type="emblem" n="e35">
             <pb n="148" edRef="Maier1618"/>
-            <head>
-               <fw type="pageNum" place="top-left">148</fw> <fw type="header" place="top-center">FUGA <num value="35" type="cardinal">XXXV</num>. in <num value="7">7</num> suprà.</fw>
+            <fw type="pageNum" place="top-left">148</fw><fw type="header" place="top-center">FUGA <num value="35" type="cardinal">XXXV</num>. in <num value="7">7</num> suprà.</fw>
+            
+            <div type="fugue" xml:lang="de">
+               <head>
 
                <lb n="2"/>Wie <persName type="divinity"><hi rend="latin">Ceres</hi></persName> <persName><hi rend="latin">Triptolemum</hi></persName>, die <persName type="divinity"><hi rend="latin">Thetis</hi></persName> <persName><hi rend="latin">Achillem</hi></persName> unterm
                <lb n="3"/>Feiur zu tawren gewehnet hat <pc>/</pc> also sol der Künstler
                <lb n="4"/>den Stein gewehnen.
             </head>
-            
-            <div type="fugue" xml:lang="de">
-               <head>
-                  
-               </head>
                
             </div>
             
@@ -57,16 +51,7 @@
             
             <pb n="149" edRef="Maier1618"/>
             
-            <div type="image" xml:lang="la">
-               <head>
-                  <fw type="header" place="top-center">Emblema <num value="35" type="cardinal">XXXV</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw> <fw type="pageNum" place="top-right">149</fw>
-                  <lb n="2"/><persName type="divinity">Ceres</persName> <persName>Triptolemum</persName>, <persName type="divinity">Thetis</persName> <persName>Achillem</persName>, sub igne
-                  <lb n="3"/>morari assuescit, sic artifex lapidem.
-               </head>
-               <figure><graphic url=""></graphic></figure>
-
-               
-            </div>            
+            <fw type="header" place="top-center">Emblema <num value="35" type="cardinal">XXXV</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">149</fw><div type="image" xml:lang="la"><head/></div>            
             <div type="epigram" xml:lang="la">
                <head>Epigramma <num value="35" type="cardinal">XXXV</num>.</head>
                <lg>
@@ -84,7 +69,7 @@
             <div type="discourse" xml:lang="la">
                <pb n="150" edRef="Maier1618"/>
                <fw type="pageNum" place="top-left">150</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="35">XXXV</num>.</fw>
-                  <ab>
+                  <div type="discourse-p1"><ab>
                      <lb n="1"/><milestone unit="section" n="e35-01"/><persName>Lycurgus</persName> ille <orgName>Spartanorum</orgName> legislator, quantum consuetudo
                      <lb n="2"/>valeat, <g type="ampersand">et</g> usus sive bonus sive malus, oculari exemplo populo in
                      <lb n="3"/>theatrali concione exposuit, dum adducere binos catulos uno eni
@@ -118,11 +103,11 @@
                      <lb n="31" break="no"/>cte nutrivit, noctu sub ignibus posuit, unde c<hi rend="grave">u</hi>m puer optim<hi rend="grave">e</hi> alere
                      <lb n="32" break="no"/>tur, pater <persName>Eleusius</persName> aliquando hoc observavit: <milestone unit="section" n="e35-12"/>Hinc <persName type="divinity">Ceres</persName> <persName>Eleusium</persName>
                      <lb n="33"/>interemit, <g type="ampersand">et</g> puero <persName>Triptolemo</persName> currum donavit, <expan><abbr>anguib<am>.</am></abbr><ex>us</ex></expan> tractum,
-                  </ab>
+                  </ab></div>
                   <fw type="catchword" place="bottom-right">quo</fw>
                <pb n="151" edRef="Maier1618"/>
                <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="35">XXXV</num>.</fw> <fw type="pageNum" place="top-right">151</fw>
-                  <ab>
+                  <div type="discourse-p2"><ab>
                      <lb n="1"/>quo ille per aërem in omnes mundi partes contendit, <g type="ampersand">et</g> mortales
                      <lb n="2"/>frugum seminationem docuit: <milestone unit="section" n="e35-13"/>Sed hic <persName>Triptolemus</persName> tinctura est
                      <lb n="3"/><expan><abbr>Philos<am>.</am></abbr><ex>ophica</ex></expan> eo modo sub igne nutrita, qu<hi rend="ligature">ae</hi> <hi rend="grave">a</hi> serpentibus ducta, hoc est,
@@ -156,7 +141,7 @@
                      <lb n="31"/>sine quo nihil efficies: <milestone unit="section" n="e35-23"/>Veritatem tibi aperui, quam hausi incredibili
                      <lb n="32"/>labore, non absque sumptu multorum annorum, ex veterum mo
                      <lb n="33" break="no"/>numentis.
-                  </ab>
+                  </ab></div>
                <fw type="catchword" place="bottom-right" xml:lang="de">Dieser</fw>                  
             </div>            
          </div>

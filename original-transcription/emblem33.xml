@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.1" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -27,17 +24,14 @@
       <body>
          <div type="emblem" n="e33">
             <pb n="140" edRef="Maier1618"/>
-            <head>
-               <fw type="pageNum" place="top-left">140</fw> <fw type="header" place="top-center">FUGA <num value="33" type="cardinal">XXXIII</num>. in <num value="5">5</num> infrà.</fw>
+            <fw type="pageNum" place="top-left">140</fw><fw type="header" place="top-center">FUGA <num value="33" type="cardinal">XXXIII</num>. in <num value="5">5</num> infrà.</fw>
+            
+            <div type="fugue" xml:lang="de">
+               <head>
 
                <lb n="2"/>Der <persName><hi rend="latin">Hermaphrodit</hi></persName> einem Todten gleich <pc>/</pc> im finstern
                <lb n="3"/>ligende <pc>/</pc> bedarff deß Feiurs.
             </head>
-            
-            <div type="fugue" xml:lang="de">
-               <head>
-                  
-               </head>
                
             </div>
             
@@ -56,15 +50,7 @@
             
             <pb n="141" edRef="Maier1618"/>
             
-            <div type="image" xml:lang="la">
-               <head>
-                  <fw type="header" place="top-center">Emblema <num value="33" type="cardinal">XXXIII</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi> </fw><fw type="pageNum" place="top-right">141</fw>
-                  <lb n="2"/><persName>Hermaphroditus</persName> mortuo similis, in tenebris jacens, igne indiget.
-               </head>
-               <figure><graphic url=""></graphic></figure>
-
-               
-            </div>            
+            <fw type="header" place="top-center">Emblema <num value="33" type="cardinal">XXXIII</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi> </fw><fw type="pageNum" place="top-right">141</fw><div type="image" xml:lang="la"><head/></div>            
             <div type="epigram" xml:lang="la">
                <head>Epigramma <num value="33" type="cardinal">XXXIII</num>.</head>
                <lg>
@@ -82,7 +68,7 @@
             <div type="discourse" xml:lang="la">
                <pb n="142" edRef="Maier1618"/>
                <fw type="pageNum" place="top-left">142</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="33">XXXIII</num>.</fw>
-                  <ab>
+                  <div type="discourse-p1"><ab>
                      <lb n="1"/><milestone unit="section" n="e33-01"/>Ex arcanis natur<hi rend="ligature">ae</hi> est, qu<hi rend="grave">o</hi>d, ingruente hyeme, ran<hi rend="ligature">ae</hi> <g type="ampersand">et</g> hirundi
                      <lb n="2" break="no"/>nes, aquis submers<hi rend="ligature">ae</hi>, veluti mortu<hi rend="ligature">ae</hi> jaceant, <g type="ampersand">et</g> vere novo calore
                      <lb n="3"/>Solis operante recuperent sensum <g type="ampersand">et</g> motum seu vit<hi rend="ligature">ae</hi> sensitiv<hi rend="ligature">ae</hi> a
@@ -117,18 +103,18 @@
                      <lb n="32"/>debet, c<hi rend="grave">u</hi>m <g type="ampersand">et</g> sexum mutasse quamplurimos, si historiis fides <expan><abbr>hab<hi rend="tilde">e</hi></abbr><ex>n</ex>
                         <lb n="33" break="no"/><abbr>da</abbr></expan> est, repertum sit: <milestone unit="section" n="e33-11"/>Poët<hi rend="ligature">ae</hi> <persName><hi rend="italic">Cenea</hi></persName>, <persName><hi rend="italic">Iphin</hi></persName> <hi rend="italic"><g type="ampersand">et</g></hi> <persName><hi rend="italic">Tiresiam</hi></persName> commemorant,
                      <lb n="34"/>ut <persName ref="https://viaf.org/viaf/9919481"><hi rend="italic">Pontanus</hi></persName> in <title>stellis</title>:
-                  </ab>
+                  </ab></div>
                   <fw type="catchword" place="bottom-right">P<hi rend="ligature">oe</hi>niteat</fw>
                <pb n="143" edRef="Maier1618"/>
                <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi>. <num value="33">XXXIII</num>.</fw> <fw type="pageNum" place="top-right"><choice><sic>133</sic><corr>143</corr></choice></fw>
-                  <ab>
+                  <div type="discourse-p2"><ab>
                      <lb n="1"/><quote rend="indent" ana="http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2011.01.0513">P<hi rend="ligature">oe</hi>niteat generis tamen <g type="ampersand">et</g> se <persName><hi rend="italic">Cenea</hi></persName> malint,
                      <lb n="2" rend="indent"/>Aut in f<hi rend="ligature">oe</hi>mineam penit<hi rend="grave">u</hi>, transire figuram</quote>: Et <persName ref="https://viaf.org/viaf/109786483">Ausonius</persName>:
                      <lb n="3"/><quote rend="indent" ana="http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2008.01.0607%3Asection%3D1">M<hi rend="ligature">oe</hi>ret in antiquam <persName>Ceneus</persName> revocata figuram.</quote>
                      <lb n="4"/><milestone unit="section" n="e33-12"/>Ita <date type="consular" when="-0171"><hi rend="italic"><persName><name type="gentilicium">Licinio</name> <name type="cognomen">Crasso</name></persName> <g type="ampersand">et</g> <persName><name type="praenomen"><expan><abbr>C<am>.</am></abbr><ex>aio</ex></expan></name> <name type="getilicium">Cassio</name> <name type="cognomen">Longino</name></persName></hi> <expan><abbr>Co</abbr><ex>n</ex><abbr>s<am>s.</am></abbr><ex>ulibus</ex></expan></date> <hi rend="italic">Cassini</hi> puer factus est ex
                      <lb n="5"/>virgine: Et <persName><hi rend="italic"><name type="gentilicium">Licinius</name> <name type="cognomen">Mutianus</name></hi></persName> apud <persName ref="https://viaf.org/viaf/100219162"><name type="gentilicium">Plinium</name></persName> prodit, visum <hi rend="grave">a</hi> se <placeName>Argis</placeName>
                      <lb n="6"/><persName>Aristontem</persName>, cui nomen <persName>Aristus<hi rend="ligature">ae</hi></persName> fuisset; nupsisse etiam, mox <expan><abbr>barb<hi rend="tilde">a</hi></abbr><ex>m</ex></expan>
-                     <lb n="7"/><g type="ampersand">et</g> virilitatem provenisse, uxor<hi rend="acute">e</hi>mque duxisse: <persName ref="https://viaf.org/viaf/100219162"><name type="gentilicium" ><hi rend="italic">Plinius</hi></name></persName> ipse ai se vidis
+                     <lb n="7"/><g type="ampersand">et</g> virilitatem provenisse, uxor<hi rend="acute">e</hi>mque duxisse: <persName ref="https://viaf.org/viaf/100219162"><name type="gentilicium"><hi rend="italic">Plinius</hi></name></persName> ipse ai se vidis
                      <lb n="8" break="no"/>se in <placeName>Africa</placeName> mutatum in marem die nuptiarum <persName><name type="praenomen"><expan><abbr>L<am>.</am></abbr><ex>ucium</ex></expan></name> <name type="cognomen">Cossicium</name></persName> civem
                      <lb n="9"/><orgName><hi rend="italic">Tisdritanum</hi></orgName>: <milestone unit="section" n="e33-13"/>H<hi rend="ligature">ae</hi>c vera esse <g type="ampersand">et</g> multis aliis comprobari posset, si opus
                      <lb n="10"/>foret: Ex calore ver<hi rend="grave">o</hi> auctiore reddito genitalia membra seu virilia
@@ -154,7 +140,7 @@
                      <lb n="30"/>solo ignis calore, ut dictum; <milestone unit="section" n="e33-19"/>Calor enim sequestrat <g type="ampersand">et</g> separat super
                      <lb n="31" break="no"/>fluitates humiditatum <g type="ampersand">et</g> sui ideam in subjecto Philosophico sta
                      <lb n="32" break="no"/>tuet, qu<hi rend="ligature">ae</hi> est tinctura.
-                  </ab>
+                  </ab></div>
                 <fw type="catchword" place="bottom-right" xml:lang="de">Im</fw>                  
             </div>
             

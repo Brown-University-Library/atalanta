@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.1" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -27,17 +24,14 @@
       <body>
          <div type="emblem" n="e46">
             <pb n="192" edRef="Maier1618"/>
-            <head>
-               <fw type="pageNum" place="top-left">192</fw> <fw type="header" place="top-center">FUGA <num value="46" type="cardinal">XLVI</num>. Reciproca.</fw>
+            <fw type="pageNum" place="top-left">192</fw><fw type="header" place="top-center">FUGA <num value="46" type="cardinal">XLVI</num>. Reciproca.</fw>
+            
+            <div type="fugue" xml:lang="de">
+               <head>
 
                <lb n="2"/>Zween Adler <pc>/</pc> einer von Often <pc>/</pc> der ander von Westen
                <lb n="3"/>kommen zusammen.
             </head>
-            
-            <div type="fugue" xml:lang="de">
-               <head>
-                  
-               </head>
                
             </div>
             
@@ -56,15 +50,7 @@
             
             <pb n="193" edRef="Maier1618"/>
             
-            <div type="image" xml:lang="la">
-               <head>
-                  <fw type="header" place="top-center">Emblema <num value="46" type="cardinal">XLVI</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw> <fw type="pageNum" place="top-right">193</fw>
-                  <lb n="2"/>Aquil<hi rend="ligature">ae</hi> du<hi rend="ligature">ae</hi>, una ab ortu, altera ab occasu conveniunt.
-               </head>
-               <figure><graphic url=""></graphic></figure>
-
-               
-            </div>            
+            <fw type="header" place="top-center">Emblema <num value="46" type="cardinal">XLVI</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">193</fw><div type="image" xml:lang="la"><head/></div>            
             <div type="epigram" xml:lang="la">
                <head>Epigramma <num value="46" type="cardinal">XLVI</num>.</head>
                <lg>
@@ -82,7 +68,7 @@
             <div type="discourse" xml:lang="la">
                <pb n="194" edRef="Maier1618"/>
                <fw type="pageNum" place="top-left">194</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="46">XLVI</num>.</fw>
-                  <ab>
+                  <div type="discourse-p1"><ab>
                      <lb n="1"/><milestone unit="section" n="e46-01"/><persName type="divinity"><hi rend="caps">Apollinem</hi></persName> antiquissimum ex <persName type="divinity">Vulcano</persName> natum, <placeName>Athenarum</placeName> cu
                      <lb n="2" break="no"/>stodem tradit <persName ref="https://viaf.org/viaf/78769600">Cicero</persName> <expan><abbr>lib<am>.</am></abbr><ex>ro</ex></expan> <title ref="https://viaf.org/viaf/178863840">de natura Deorum</title>. <milestone unit="section" n="e46-02"/>Qu<hi rend="ligature">ae</hi> quidem o
                      <lb n="3" break="no"/>pinio, si ut debet, ad allegoriam transferatur, est verissima; Quia
@@ -116,11 +102,11 @@
                      <lb n="31" break="no"/>ciosissimis, qu<hi rend="ligature">ae</hi> ab omnis status hominibus religionis causa in sacra
                      <lb n="32" break="no"/>riis recondita erant. <milestone unit="section" n="e46-11"/><persName ref="https://viaf.org/viaf/77132959">Pausanias</persName> refert sceleton aheneum artificii ad
                      <lb n="33" break="no"/>mirandi appensum tholo templi fuisse ab <persName ref="https://viaf.org/viaf/287984736">Hippocrate</persName>: <persName type="divinity">Apollini</persName>
-                  </ab>
+                  </ab></div>
                   <fw type="catchword" place="bottom-right">quoque</fw>
                <pb n="195" edRef="Maier1618"/>
                <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="46">XLVI</num>.</fw> <fw type="pageNum" place="top-right">195</fw>
-                  <ab>
+                  <div type="discourse-p2"><ab>
                      <lb n="1"/>quoque sacratus fuit ille celebris tripes, <hi rend="grave">a</hi> <persName>Pelope</persName>, dum uxorem <persName>Hip
                      <lb n="2" break="no"/>podamiam</persName> duceret <persName>Oenomai</persName> regis <placeName>Elidis</placeName> filiam, quem Tripodem
                      <lb n="3"/>fabricarat <persName>Mulciber</persName> <g type="ampersand">et</g> <persName>Pelopi</persName> donaverat. <milestone unit="section" n="e46-12"/>Hic in medio templi ere
@@ -154,7 +140,7 @@
                      <lb n="31" break="no"/>mnia ejus natur<hi rend="ligature">ae</hi> munera causam pr<hi rend="ligature">ae</hi>buerunt, cur <expan><abbr>Philos<am>.</am></abbr><ex>ophicam</ex></expan> aquilam
                      <lb n="32"/>in arte sua pr<hi rend="ligature">ae</hi>dicent, e<hi rend="acute">i</hi>que lapidem assimilent, cujus rei c<hi rend="grave">u</hi>m innu
                      <lb n="33" break="no"/>mera exempla in libris eorum sint obvia, h<hi rend="circumflex">i</hi>c plura non adferemus.
-                  </ab>
+                  </ab></div>
                <fw type="gathering" place="bottom-right">Bb ii</fw> <fw type="catchword" place="bottom-right" xml:lang="de">Der</fw>                  
             </div>            
          </div>

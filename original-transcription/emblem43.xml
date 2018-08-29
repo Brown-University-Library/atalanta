@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.1" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -27,17 +24,14 @@
       <body>
          <div type="emblem" n="e43">
             <pb n="180" edRef="Maier1618"/>
-            <head>
-               <fw type="pageNum" place="top-left">180</fw> <fw type="header" place="top-center">FUGA <num value="43" type="cardinal">XLIII</num>. in <num value="5">5</num>. seu <num value="12">12</num> infrà. Contrapunctum.</fw>
+            <fw type="pageNum" place="top-left">180</fw><fw type="header" place="top-center">FUGA <num value="43" type="cardinal">XLIII</num>. in <num value="5">5</num>. seu <num value="12">12</num> infrà. Contrapunctum.</fw>
+            
+            <div type="fugue" xml:lang="de">
+               <head>
 
                <lb n="2"/>Hörzu gen Geijer so reden kan <pc>/</pc> der fälschlich
                <lb n="3"/>dich nicht sezet an.
             </head>
-            
-            <div type="fugue" xml:lang="de">
-               <head>
-                  
-               </head>
                
             </div>
             
@@ -56,15 +50,7 @@
             
             <pb n="181" edRef="Maier1618"/>
             
-            <div type="image" xml:lang="la">
-               <head>
-                  <fw type="header" place="top-center">Emblema <num value="43" type="cardinal">XLIII</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw> <fw type="pageNum" place="top-right">181</fw>
-                  <lb n="2"/>Audi loquacem vulturem, qui neutiquam te decipit.
-               </head>
-               <figure><graphic url=""></graphic></figure>
-
-               
-            </div>            
+            <fw type="header" place="top-center">Emblema <num value="43" type="cardinal">XLIII</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">181</fw><div type="image" xml:lang="la"><head/></div>            
             <div type="epigram" xml:lang="la">
                <head>Epigramma <num value="43" type="cardinal">XLIII</num>.</head>
                <lg>
@@ -82,7 +68,7 @@
             <div type="discourse" xml:lang="la">
                <pb n="182" edRef="Maier1618"/>
                <fw type="pageNum" place="top-left">182</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="43">XLIII</num>.</fw>
-                  <ab>
+                  <div type="discourse-p1"><ab>
                      <lb n="1"/><milestone unit="section" n="e43-01"/><hi rend="caps">Loquaces</hi> seu vocis humanae aemulas volucres, videlicet Psitta
                      <lb n="2" break="no"/>cos, corvos, monedulas, <g type="ampersand">et</g> picas quodtidi<hi rend="grave">e</hi> passim audimus. <milestone unit="section" n="e43-02"/>Sic
                      <lb n="3"/><persName ref="https://viaf.org/viaf/100219162">Plinius</persName> suo tempore, quo historiam edidit, <persName ref="https://viaf.org/viaf/87873347"><expan><abbr>Agrippin<hi rend="tilde">a</hi></abbr><ex>m</ex></expan></persName> <persName ref="https://viaf.org/viaf/87172361"><name type="gentilicium">Claudii</name> <name type="cognomen"><expan><abbr>C</abbr><ex>a</ex><abbr><hi rend="hook">e</hi>sa
@@ -105,7 +91,7 @@
                      <lb n="20"/><persName ref="https://viaf.org/viaf/24571510">Hermete</persName>, sum nigrum albi, <g type="ampersand">et</g> Citrinus rubei, <g type="ampersand">et</g> cert<hi rend="grave">e</hi> veridicus sum
                      <lb n="21"/><g type="ampersand">et</g> non mentiens. <milestone unit="e43-09"/>Nigrum se adfirmat, album, citrinum <g type="ampersand">et</g> rubeum,
                      <lb n="22"/><g type="ampersand">et</g> talis rever<hi rend="grave">a</hi> est, etsi enim tres ultimos colores actu nondum possi
-                     <lb n="23" break="no"/>deat, tamen haereditatum eorum expectat. <milestone unit="section" n="e43-10"/>Hinc <persName ref="https://viaf.org/viaf/79142489">Rosinus</persName> in <expan>><abbr>lib<am>.</am></abbr><ex>ro</ex></expan> <title>di
+                     <lb n="23" break="no"/>deat, tamen haereditatum eorum expectat. <milestone unit="section" n="e43-10"/>Hinc <persName ref="https://viaf.org/viaf/79142489">Rosinus</persName> in <expan>&gt;<abbr>lib<am>.</am></abbr><ex>ro</ex></expan> <title>di
                      <lb n="24" break="no"/>vinarum interpretationum</title>; <quote>Recipe</quote>, inquit, <quote>lapidem, qui est niger,
                         <lb n="25"/>albus, rubeus, citrinus, avis mirabilis, qui nigredine noctis, <g type="ampersand">et</g> diei
                      <lb n="26"/>claritate sine alis volat.</quote> <milestone unit="section" n="e43-11"/>Ex amaritudine namque in suo gutture exi
@@ -117,11 +103,11 @@
                      <lb n="32"/>praevalent, rapaces sunt, sed tard<hi rend="grave">e</hi> volant, propter corporis molem.
                      <lb n="33"/><milestone unit="section" n="e43-14"/>Ajunt hanc avem concipere sine masculorum semine, <g type="ampersand">et</g> sine con
                      <lb break="no"/>
-                  </ab>
+                  </ab></div>
                   <fw type="catchword" place="bottom-right">junctione</fw>
                <pb n="183" edRef="Maier1618"/>
                <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="43">XLIII</num>.</fw> <fw type="pageNum" place="top-right">183</fw>
-                  <ab>
+                  <div type="discourse-p2"><ab>
                      <lb n="1"/>junctione generare, nat<hi rend="acute">o</hi>sque ex iis in multam aetatem procedere
                      <lb n="2"/>ad annum usque centesimum. Nidificant in altis rupibus, nidos ne
                      <lb n="3" break="no"/>mo attigi. <milestone unit="section" n="e43-15"/>Foetus fer<hi rend="grave">e</hi> cernuntur bini: Auxilio sunt contra ser
@@ -158,7 +144,7 @@
                         <lb n="34" xml:id="l34" break="no"/>dem benedictum, comminuite <g type="ampersand">et</g> lavate lapidem rubeum, de quo extrahitur, qui invenitur
                         <lb n="35" xml:id="l35"/>in montibus <g type="ampersand">et</g> maxim<hi rend="grave">e</hi> aliquando in cloacis veteribus.</quote>
                      <span style="0.75em;" from="#l24" to="#l35">Lines 24-35 smaller than the previous</span>
-                  </ab>
+                  </ab></div>
             <fw type="catchword" place="bottom-right" xml:lang="de">Durch</fw>                  
             </div>            
          </div>

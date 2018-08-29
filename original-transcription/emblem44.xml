@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.1" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -27,18 +24,15 @@
       <body>
          <div type="emblem" n="e44">
             <pb n="184" edRef="Maier1618"/>
-            <head>
-               <fw type="pageNum" place="top-left">184</fw> <fw type="header" place="top-center">FUGA <num value="44" type="cardinal">XLIV</num>. in <num value="5">5</num>. seu <num value="12">12</num> suprà. Basi sola proportione existente.</fw>
+            <fw type="pageNum" place="top-left">184</fw><fw type="header" place="top-center">FUGA <num value="44" type="cardinal">XLIV</num>. in <num value="5">5</num>. seu <num value="12">12</num> suprà. Basi sola proportione existente.</fw>
+            
+            <div type="fugue" xml:lang="de">
+               <head>
 
                <lb n="2"/>Durch Betrug <persName type="divinity"><hi rend="latin">Typhon</hi></persName> <persName type="divinity"><hi rend="latin">Osirim</hi></persName> tödtet <pc>/</pc> und seine Glieder
                <lb n="3"/>zerstrewet <pc>/</pc> welche widerumb zusammen bringt die <persName type="divinity"><hi rend="latin">Isis</hi></persName>,
                <lb n="4"/>so weit berümbt.
             </head>
-            
-            <div type="fugue" xml:lang="de">
-               <head>
-                  
-               </head>
                
             </div>
             
@@ -57,16 +51,7 @@
             
             <pb n="185" edRef="Maier1618"/>
             
-            <div type="image" xml:lang="la">
-               <head>
-                  <fw type="header" place="top-center">Emblema <num value="44" type="cardinal">XLIV</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw> <fw type="pageNum" place="top-right">185</fw>
-                  <lb n="2"/>Dolo <persName type="divinity">Typhon</persName> <persName type="divinity">Osyridem</persName> trucidat, art<hi rend="acute">u</hi>sque illius
-                  <lb n="3"/>Hinc inde dissipat, sed hos collegit <persName type="divinity">Isis</persName> inclyta.
-               </head>
-               <figure><graphic url=""></graphic></figure>
-
-               
-            </div>            
+            <fw type="header" place="top-center">Emblema <num value="44" type="cardinal">XLIV</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">185</fw><div type="image" xml:lang="la"><head/></div>            
             <div type="epigram" xml:lang="la">
                <head>Epigramma <num value="44" type="cardinal">XLIV</num>.</head>
                <lg>
@@ -84,7 +69,7 @@
             <div type="discourse" xml:lang="la">
                <pb n="186" edRef="Maier1618"/>
                <fw type="pageNum" place="top-left">186</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="44">XLIV</num>.</fw>
-                  <ab>
+                  <div type="discourse-p1"><ab>
                      <lb n="1"/><milestone unit="section" n="e44-01"/><persName type="divinity">Osyridis</persName> allegoriam alibi, nempe in <num value="1" type="ordinal">1</num>. <expan><abbr>lib<am>.</am></abbr><ex>ro</ex></expan> <title><expan><abbr>Hieroglyph<am>.</am></abbr><ex>icorum</ex></expan></title> ad suam
                      <lb n="2"/>veram originem, qu<hi rend="ligature">ae</hi> Chymica est, reduximus <g type="ampersand">et</g> plenari<hi rend="grave">e</hi> ex
                      <lb n="3" break="no"/>plicavimus. Quocirca hic eadem repetere (quamvis eadem de <expan><abbr>iisd<hi rend="tilde">e</hi></abbr><ex>m</ex></expan>
@@ -104,7 +89,7 @@
                      <lb n="17" break="no"/>que <persName type="divinity">Osyris</persName> est, <persName type="divinity">Dionysus</persName>, <persName type="divinity">Bacchus</persName>, <persName type="divinity">Jupiter</persName>, <persName type="divinity">Mars</persName>, <persName>Adonis</persName>, <persName>Oedypus</persName>,
                      <lb n="18"/><persName>Perseus</persName>, <persName>Achilles</persName>, <persName>Triptolemus</persName>, <persName>Pelops</persName>, <persName>Hippomenes</persName>, <persName>Pollux</persName>. <milestone unit="section" n="e44-07"/>Luna
                      <lb n="19"/>ver<hi rend="grave">o</hi> <persName type="divinity">Isis</persName>, <persName type="divinity">Juno</persName>, <persName type="divinity">Venus</persName>, mater <persName>Oedypi</persName>, <persName>Danaë</persName>, <persName>Deidamia</persName>, <persName>Atalanta</persName>,
-                     <lb n="20"/><persName>Helena</persName>: Item <persName type="divinity">Latona</persName>, <persName>Semele</persName>, <persName>Europa</persName>, <persName>Leda</persName>, <persName>Antiope</persName>, <persName type="divinity">Thalia></persName>. <milestone unit="section" n="e44-08"/><expan><abbr>Atq<am>;</am></abbr><ex>ue</ex></expan>
+                     <lb n="20"/><persName>Helena</persName>: Item <persName type="divinity">Latona</persName>, <persName>Semele</persName>, <persName>Europa</persName>, <persName>Leda</persName>, <persName>Antiope</persName>, <persName type="divinity">Thalia&gt;</persName>. <milestone unit="section" n="e44-08"/><expan><abbr>Atq<am>;</am></abbr><ex>ue</ex></expan>
                      <lb n="21"/>h<hi rend="ligature">ae</hi> sunt compositi partes, quod ante operationem lapis dicitur, <g type="ampersand">et</g>
                      <lb n="22"/>nomine omnis metalli, Magnesia: post operationem, <persName type="divinity">Orcus</persName>, <persName>Pyr
                         <lb n="23" break="no"/>rus</persName>, <persName type="divinity">Apollo</persName>, <persName type="divinity"><hi rend="ligature">Ae</hi>sculapius</persName>. <milestone unit="section" n="e44-09"/>Adjuncta sunt, <persName type="divinity">Typhon</persName>, Python, Aper:
@@ -115,18 +100,18 @@
                      <lb n="28" break="no"/>men, per quod <persName type="divinity">Vulcanus</persName>, <persName type="divinity">Mercurius</persName> <g type="ampersand">et</g> <persName type="divinity">Saturnus</persName> omnibus paginis
                      <lb n="29"/>currunt <g type="ampersand">et</g> recurrunt, hic ut pater omnium <g type="ampersand">et</g> causa, sine qua non, ille,
                      <lb n="30"/>ut materia <g type="ampersand">et</g> forma, iste, ut efficiens. <milestone unit="section" n="e44-12"/>Sol ducit sororem lunam in u
-                     <lb n="31" break="no"/>xorem. <persName type="divinity">Jupiter</persName> <persName type="divinity">Junonem</persName>, ut <persName type="divinity">Saturnus</persName> <persName type="divinity">Rheam</persName>, <g type="ampersand">et</g> <persName type="divinity">Osyris></persName> <persName type="divinity">Isidem></persName>:
+                     <lb n="31" break="no"/>xorem. <persName type="divinity">Jupiter</persName> <persName type="divinity">Junonem</persName>, ut <persName type="divinity">Saturnus</persName> <persName type="divinity">Rheam</persName>, <g type="ampersand">et</g> <persName type="divinity">Osyris&gt;</persName> <persName type="divinity">Isidem&gt;</persName>:
                      <lb n="32"/><persName type="divinity">Dionysus</persName> ex matre <persName>Semele</persName> combusta fulmine <persName type="divinity">Jovis</persName> eripitur imma
                      <lb n="33" break="no"/>turandus in femore <persName type="divinity">Jovis</persName> patris, <persName type="divinity"><hi rend="ligature">Ae</hi>sculapius</persName> ex <persName>Coronide</persName> matre:
-                  </ab>
+                  </ab></div>
                   <fw type="catchword" place="bottom-right">Diony-</fw>
                <pb n="187" edRef="Maier1618"/>
                <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="44">XLIV</num>.</fw> <fw type="pageNum" place="top-right">187</fw>
-                  <ab>
+                  <div type="discourse-p2"><ab>
                      <lb n="1"/><milestone unit="section" n="e44-13"/><persName type="divinity">Dionysus</persName> adultus novam vini potionem monstrat hominibus <expan><abbr>usq<am>;</am></abbr><ex>ue</ex></expan>
                      <lb n="2"/>in <placeName>Indiam</placeName> expeditionem suscipiens; <persName type="divinity">Osiris</persName> <g type="ampersand">et</g> <persName>Triptolemus</persName>, frugum
                      <lb n="3"/>seminationem <g type="ampersand">et</g> usum, <persName type="divinity"><hi rend="ligature">Ae</hi>sculapius</persName>, medicin<hi rend="ligature">ae</hi> administrationem:
-                     <lb n="4"/><persName type="divinity">Dionysus</persName> <orgName>Gr<hi rend="ligature">ae</hi>cis</orgName> sic dictus, <orgName>Romanis</orgName> <persName type="divinity">Bacchus</persName> est, <orgName><hi rend="ligature">Ae</hi>gtypiis</orgName> <persName type="divinity">Osiris></persName>,
+                     <lb n="4"/><persName type="divinity">Dionysus</persName> <orgName>Gr<hi rend="ligature">ae</hi>cis</orgName> sic dictus, <orgName>Romanis</orgName> <persName type="divinity">Bacchus</persName> est, <orgName><hi rend="ligature">Ae</hi>gtypiis</orgName> <persName type="divinity">Osiris&gt;</persName>,
                      <lb n="5"/><orgName>Syriis</orgName> <persName type="divinity">Adonis</persName>. <milestone unit="section" n="e44-14"/><persName>Oedypus</persName> patrem occ<hi rend="circumflex">i</hi>dit, <g type="ampersand">et</g> matrem duxit; <persName>Perseus</persName>
                      <lb n="6"/>avum interemit, <persName type="divinity">Typhon</persName> fratrem <persName type="divinity">Osirim</persName>, aper <persName>Adonim</persName>, <persName type="divinity">Ceres</persName>
                      <lb n="7"/>nutrix <persName>Triptolemi</persName> patrem ejus <persName>Eleusium</persName>; <persName>Hippomenes</persName> pomo au
@@ -152,7 +137,7 @@
                      <lb n="27" break="no"/><abbr>bente</abbr></expan> cum <persName type="divinity">Venere</persName>; Et <persName type="divinity">Jupiter</persName>, ut aurum compressit <persName>Danaen</persName>, ut
                      <lb n="28"/>Cygnus <persName>Ledam</persName>, ut cuculus sororem <persName type="divinity">Junonem</persName>; ut Taurus <persName>Euro
                         <lb n="29" break="no"/>pam</persName>, ut Satyrus <persName>Antiopen</persName>, <g type="ampersand">et</g> sic concordantia est in omnibus.
-                  </ab>
+                  </ab></div>
             <fw type="gathering" place="bottom-right">Aa ii</fw> <fw type="catchword" place="bottom-right" xml:lang="de">Die</fw>                  
             </div>            
          </div>

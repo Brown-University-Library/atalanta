@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.1" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -27,17 +24,14 @@
       <body>
          <div type="emblem" n="e47">
             <pb n="196" edRef="Maier1618"/>
-            <head>
-               <fw type="pageNum" place="top-left">196</fw> <fw type="header" place="top-center">FUGA <num value="47" type="cardinal">XLVII</num>. in <num value="8">8</num>. duplici suprà.</fw>
+            <fw type="pageNum" place="top-left">196</fw><fw type="header" place="top-center">FUGA <num value="47" type="cardinal">XLVII</num>. in <num value="8">8</num>. duplici suprà.</fw>
+            
+            <div type="fugue" xml:lang="de">
+               <head>
 
                <lb n="2"/>Der Wolff von Auffgange <pc>/</pc> und der Hund vom Nidergange
                <lb n="3"/>kommende <pc>/</pc> haben sich unter einander gebissen.
             </head>
-            
-            <div type="fugue" xml:lang="de">
-               <head>
-                  
-               </head>
                
             </div>
             
@@ -56,16 +50,7 @@
             
             <pb n="197" edRef="Maier1618"/>
             
-            <div type="image" xml:lang="la">
-               <head>
-                  <fw type="header" place="top-center">Emblema <num value="47" type="cardinal">XLVII</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw> <fw type="pageNum" place="top-right">197</fw>
-                  <lb n="2"/>Lupus ab Oriente <g type="ampersand">et</g> Canis ab Occidente venientes se
-                  <lb n="3"/>invicem momorderunt.
-               </head>
-               <figure><graphic url=""></graphic></figure>
-
-               
-            </div>            
+            <fw type="header" place="top-center">Emblema <num value="47" type="cardinal">XLVII</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">197</fw><div type="image" xml:lang="la"><head/></div>            
             <div type="epigram" xml:lang="la">
                <head>Epigramma <num value="47" type="cardinal">XLVII</num>.</head>
                <lg>
@@ -83,7 +68,7 @@
             <div type="discourse" xml:lang="la">
                <pb n="198" edRef="Maier1618"/>
                <fw type="pageNum" place="top-left">198</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi>. <num value="47">XLVII</num>.</fw>
-                  <ab>
+                  <div type="discourse-p1"><ab>
                      <lb n="1"/><milestone unit="section" n="e47-01"/><hi rend="caps">Philosophi</hi> multis in locis duorum memin<hi rend="circumflex">e</hi>re lapidum gratis
                      <lb n="2"/>nobis datorum, ut <persName>Isaac</persName>, <persName ref="http://viaf.org/viaf/100189814">Arnoldus</persName> <g type="ampersand">et</g> ali<hi rend="circumflex">i</hi>, inter quos <persName ref="https://viaf.org/viaf/89770781">Avicenna</persName>
                      <lb n="3"/>dicit eos in stercore jacere abjectos, neglectos vulg<hi rend="grave">o</hi>, qui si conjun
@@ -117,11 +102,11 @@
                      <lb n="31"/>qui lunam duxit in uxorem, quem nonnulli putant aurum esse preciosissim<hi rend="ligature">ae</hi>
                      <lb n="32"/><expan><abbr>c<hi rend="tilde">o</hi></abbr><ex>n</ex><abbr>nexionis</abbr>, cujus congelatum nunquam dissolvitur, neque vestigia delentur
                         <lb n="33"/>quod Deus sanctis Philosophis <g type="ampersand">et</g> electis largitus est: Scito, quod natura cepit</expan></quote>
-                  </ab>
+                  </ab></div>
                   <fw type="catchword" place="bottom-right">com-</fw>
                <pb n="199" edRef="Maier1618"/>
                <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="47">XLVII</num>.</fw> <fw type="pageNum" place="top-right">199</fw>
-                  <ab>
+                  <div type="discourse-p2"><ab>
                      <lb n="1"/><quote rend="italic">comparem ut inimicum: H<hi rend="ligature">ae</hi>c ille.</quote> <milestone unit="section" n="e47-11"/>Et mox: <quote rend="italic">quod sulphur</quote>, inquit, <quote rend="italic">fortissimam
                         <lb n="2"/>est <g type="ampersand">et</g> ad versus ignem pugnans quod continet <g type="ampersand">et</g> continetur: Ex his nam
                         <lb n="3" break="no"/>que conjunctis color preciosissimus exit, <g type="ampersand">et</g> nunquam potest sulphur, quod
@@ -152,7 +137,7 @@
                      <lb n="28"/><expan><abbr>obtine<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>t</abbr></expan>; <milestone unit="section" n="e47-24"/>Ita <g type="ampersand">et</g> canis <expan><abbr>qu<hi rend="tilde">a</hi></abbr><ex>m</ex><abbr>vis</abbr></expan> prostratus non tamen victus occubuit
                      <lb n="29"/>omnino, c<hi rend="grave">u</hi>m hostem ade<hi rend="grave">o</hi> strict<hi rend="grave">e</hi> teneat, ut ille absque hoc vivere,
                      <lb n="30"/>nec hic absque illo mori possit.
-                  </ab>
+                  </ab></div>
                <fw type="catchword" place="bottom-right" xml:lang="de">Der</fw>                  
             </div>            
          </div>
