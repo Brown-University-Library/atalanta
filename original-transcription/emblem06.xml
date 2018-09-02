@@ -163,7 +163,7 @@
                      <lb n="34" break="no"/>t<hi rend="ligature">ae</hi>, <expan><abbr>can<hi rend="tilde">u</hi></abbr><ex>n</ex><abbr>t</abbr></expan> homines <expan><abbr>eti<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> <expan><abbr>inf<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>tes</abbr></expan>, <expan><abbr>can<hi rend="tilde">u</hi></abbr><ex>n</ex><abbr>t</abbr></expan> volucres, <expan><abbr>can<hi rend="tilde">u</hi></abbr><ex>n</ex><abbr>t</abbr></expan> oves <g type="ampersand">et</g> anseres
                      <lb n="35"/>in <expan><abbr>instrum<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>tis</abbr></expan> musicis, si ergo <g type="ampersand">et</g> nos canamus, non abs re facimus.
                   </ab></div> 
-                <fw type="gather" place="bottom-right">E ii</fw><fw type="catchword" place="bottom-right" xml:lang="de"><hi rend="gothic">Der</hi></fw>
+                <fw type="gathering" place="bottom-right">E ii</fw><fw type="catchword" place="bottom-right" xml:lang="de"><hi rend="gothic">Der</hi></fw>
                 </div>
             
          </div>
