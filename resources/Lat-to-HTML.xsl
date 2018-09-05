@@ -19,8 +19,8 @@
 <!-- <xsl:strip-space elements="*"/> -->
     <xsl:variable name="newline"><xsl:text> 
 </xsl:text></xsl:variable>
-    <xsl:variable name="orig_ligature" >'æ','œ','qae&gt;','qi','qa','qtur','qge','qsp','qck','qo','qος'</xsl:variable>
-    <xsl:variable name="norm_ligature">("ae","oe","ae&gt;',"i","a","tur","ge","sp","ck","o","ος")</xsl:variable>
+    <xsl:param name="orig_ligature" >(æ œ qae&gt; qi qa qtur qge qsp qck qo qος)</xsl:param>
+    <xsl:param name="norm_ligature">("ae","oe","ae&gt;',"i","a","tur","ge","sp","ck","o","ος")</xsl:param>
     
     <xsl:output method="xml" encoding="UTF-8" indent="no"/>
     
@@ -63,7 +63,7 @@
     </xsl:template>
     
     <xsl:template match="af:div[@type='discourse-p1' or @type='discourse-p2']">
-        <h3 class="title"><xsl:value-of select="preceding::af:fw[@type='header']"/></h3>
+        <h3 class="title"><xsl:value-of select="preceding::af:fw[@type='header'][1]"/></h3>
         <div class="{@type}">
             <xsl:apply-templates/>
         </div>
@@ -88,7 +88,7 @@
                 </h3>
             </xsl:when>
             <xsl:when test="parent::af:div[@type='fugue'] or parent::af:div[@type='image']">
-                <h3 class="title"><xsl:value-of select="preceding::af:fw[@type='header']"/></h3>
+                <h3 class="title"><xsl:value-of select="preceding::af:fw[@type='header'][1]"/></h3>
                 <h1 class="title">
                     <xsl:apply-templates/>
                 </h1>
@@ -194,7 +194,7 @@
     </xsl:template>
  
     <xsl:template match="af:hi[@rend='ligature']">
-        <span class="regularized"><xsl:value-of select="."/></span><span class="original"><xsl:value-of select="subsequence(([$orig_ligature]),2,1)"/></span>           s      
+        <span class="regularized"><xsl:value-of select="."/></span><span class="original"><xsl:value-of select="subsequence(tokenize(($orig_ligature),' '),2,1)"/></span>      
     </xsl:template>
     <!-- index-of($norm_ligature,'ae') -->
 </xsl:stylesheet>
