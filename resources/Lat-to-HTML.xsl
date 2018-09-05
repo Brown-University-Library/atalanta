@@ -19,8 +19,8 @@
 <!-- <xsl:strip-space elements="*"/> -->
     <xsl:variable name="newline"><xsl:text> 
 </xsl:text></xsl:variable>
-    <xsl:param name="orig_ligature" >(æ œ qae&gt; qi qa qtur qge qsp qck qo qος)</xsl:param>
-    <xsl:param name="norm_ligature">("ae","oe","ae&gt;',"i","a","tur","ge","sp","ck","o","ος")</xsl:param>
+    <xsl:param name="orig_ligature">æ œ qae&gt; qi qa qtur qge qsp qck qo qος</xsl:param>
+    <xsl:param name="norm_ligature">ae oe ae&gt; i a tur ge sp ck o  ος</xsl:param>
     
     <xsl:output method="xml" encoding="UTF-8" indent="no"/>
     
@@ -194,7 +194,7 @@
     </xsl:template>
  
     <xsl:template match="af:hi[@rend='ligature']">
-        <span class="regularized"><xsl:value-of select="."/></span><span class="original"><xsl:value-of select="subsequence(tokenize(($orig_ligature),' '),2,1)"/></span>      
+        <span class="regularized"><xsl:value-of select="."/></span><span class="original"><xsl:value-of select="subsequence(tokenize(($orig_ligature),' '),index-of(tokenize($norm_ligature,' '),{.}),1)"/></span>      
     </xsl:template>
-    <!-- index-of($norm_ligature,'ae') -->
+   
 </xsl:stylesheet>
