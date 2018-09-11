@@ -19,6 +19,7 @@
         <change when="2017-05-09" who="SJD">Created</change>
         <change when="2017-05-09" who="SJD">Completed draft</change>
         <change when="2018-08-18" who="EM">structural changes. See Github.</change> 
+        <change when="2018-09-11" who="SJD">Fixed typo</change>
      </revisionDesc>
   </teiHeader>
    
@@ -105,7 +106,7 @@
                      <lb n="21"/>est, nisi mors ipsa <g type="ampersand">et</g> <expan><abbr>sequ<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>tis</abbr></expan> <hi rend="ligature">ae</hi>tern<hi rend="ligature">ae</hi> vit<hi rend="ligature">ae</hi> <expan><abbr>initi<hi rend="tilde">u</hi></abbr><ex>m</ex></expan>: quo ad <expan><abbr>extern<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> <expan><abbr>form<hi rend="tilde">a</hi></abbr><ex>m</ex></expan>
                      <lb n="22"/><g type="ampersand">et</g> <expan><abbr>viri<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> aliquo modo <expan><abbr>restauration<hi rend="tilde">e</hi></abbr><ex>m</ex></expan>, <expan><abbr>rugar<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> <g type="ampersand">et</g> <expan><abbr>canor<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> <expan><abbr>ablation<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> sunt,
                      <lb n="23"/>qui dicunt, <expan><abbr>remedi<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> inveniri, <expan><abbr><hi rend="stroke">q</hi></abbr><ex>uod</ex></expan> <persName ref="http://viaf.org/viaf/120696927">Lullius</persName> de Quinta essentia, <persName ref="http://viaf.org/viaf/100189814">Arnoldus</persName>
-                     <lb n="24"/>de auro pr<hi rend="ligature">ae</hi>parato affirmat. <milestone unit="section" n="e09-08"/> Ver<hi rend="grave">u</hi>m h<hi rend="ligature">i</hi>c <expan><abbr>Philos<am>.</am></abbr><ex>ophi</ex></expan> <expan><abbr>dic<hi rend="tilde">u</hi></abbr><ex>n</ex><abbr>t</abbr></expan>, <expan><abbr>sen<hi rend="tilde">e</hi></abbr><ex>m</ex></expan>, ut juvenis
+                     <lb n="24"/>de auro pr<hi rend="ligature">ae</hi>parato affirmat. <milestone unit="section" n="e09-08"/> Ver<hi rend="grave">u</hi>m h<hi rend="circumflex">i</hi>c <expan><abbr>Philos<am>.</am></abbr><ex>ophi</ex></expan> <expan><abbr>dic<hi rend="tilde">u</hi></abbr><ex>n</ex><abbr>t</abbr></expan>, <expan><abbr>sen<hi rend="tilde">e</hi></abbr><ex>m</ex></expan>, ut juvenis
                      <lb n="25"/>fiat, cum arbore <expan><abbr>quad<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> <expan><abbr>includend<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> esse in domo rorida, <expan><abbr>t<hi rend="acute">u</hi>mq<am>;</am></abbr><ex>ue</ex></expan> eum
                      <lb n="26"/>de fructu arboris <expan><abbr>comestur<hi rend="tilde">u</hi></abbr><ex>m</ex></expan>, <g type="ampersand">et</g> ita <expan><abbr>juvent<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> <expan><abbr>recuperatur<hi rend="tilde">u</hi><ex>m</ex></abbr></expan>: Esse arbo
                      <lb n="27" break="no"/>res ejusmodi nunc in <expan><abbr>rer<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> natura, vix <hi rend="grave">a</hi> vulgo creditur: <milestone unit="section" n="e09-09"/> De myroba
