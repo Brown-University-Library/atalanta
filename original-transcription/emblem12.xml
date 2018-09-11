@@ -66,12 +66,12 @@
             <div type="epigram" xml:lang="la">
                <head>Epigramma XII.</head>
                <lg>
-                  <lb n="1"/><l>Nosse cupis causam, tot cur <placeName><hi rend="capital">Helicona</hi></placeName> poët<hi rend="ligature">ae</hi></l>
+                  <lb n="1"/><l>Nosse cupis causam, tot cur <placeName><hi rend="caps">Helicona</hi></placeName> poët<hi rend="ligature">ae</hi></l>
                   <lb n="2"/><l>Dicant, qu<hi rend="acute">o</hi>dque ejus cuique petendus apex?</l>
-                  <lb n="3"/><l>Est <hi rend="capital">lapis</hi> in summo, <hi rend="capital">monumentum</hi>, vertice postus,</l>
+                  <lb n="3"/><l>Est <hi rend="caps">lapis</hi> in summo, <hi rend="caps">monumentum</hi>, vertice postus,</l>
                   <lb n="4"/><l>Pro <persName>Jove</persName> deglutiit quem vomu<hi rend="acute">i</hi>tque pater.</l>
                   <lb n="5"/><l>Si ceu verba sonant rem captas, mens tibi l<hi rend="ligature">ae</hi>va est,</l>
-                  <lb n="6"/><l>Namque est <persName>Saturni</persName> <hi rend="capital">Chemicus</hi> ille <hi rend="capital">lapis</hi>.</l>
+                  <lb n="6"/><l>Namque est <persName>Saturni</persName> <hi rend="caps">Chemicus</hi> ille <hi rend="caps">lapis</hi>.</l>
                </lg>
             </div>
             
