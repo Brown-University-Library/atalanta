@@ -15,7 +15,8 @@
      <revisionDesc>
         <change when="2018-02-18" who="SJD">Start encoding</change>
         <change when="2018-02-21" who="SJD">Finish draft</change>
-        <change when="2018-08-18" who="EM">structural changes. See Github.</change> 
+        <change when="2018-08-18" who="EM">structural changes. See Github.</change>
+        <change when="2018-09-11" who="SJD">Changed markup of verse line in German straddling two lines</change>
      </revisionDesc>
   </teiHeader>
    
@@ -38,7 +39,7 @@
             <div type="epigram" xml:lang="de">
                <head><num value="30" type="cardinal">XXX</num>. Epigrammatis Latini versio Germanica.</head>
                <lg>
-                  <lb n="1"/><l>O Sonn allein du nichts schaffst <pc>/</pc> so ich nicht mit mein Kräfften thu <add place="below">walten <pc>/</pc></add></l>
+                  <lb n="1"/><l>O Sonn allein du nichts schaffst <pc>/</pc> so ich nicht mit mein Kräfften thu <hi rend="sling-below">walten <pc>/</pc></hi></l>
                   <lb n="2"/><l>Gleich wie der Han ohn die Hä<hi rend="tilde">n</hi> vergeblich wirt gehalten <pc>/</pc></l>
                   <lb n="3"/><l>Und widerumb deine Hüiff gegewertig ich <persName><hi rend="latin">Luna</hi></persName> begehre <pc>/</pc></l>
                   <lb n="4"/><l>Wie von der Hännen der Han wirt auch begehret sehre <pc>/</pc></l>
