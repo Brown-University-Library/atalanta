@@ -19,6 +19,7 @@
         <change when="2017-02-14" who="SJD">Created</change>
         <change when="2017-02-15" who="SJD">Completed draft</change>
         <change when="2018-08-18" who="EM">structural changes. See Github.</change> 
+        <change when="2018-09-11" who="SJD">Fixed markup of marginal notes</change>
      </revisionDesc>
   </teiHeader>
    
@@ -88,7 +89,7 @@
                      <lb n="9" break="no"/>lari immediat<hi rend="grave">e</hi> statuuntur: Sive itaque in aquam seu fumum po
                      <lb n="10" break="no"/>natur, eodem res redit, quia utraque venti materia est: <milestone unit="section" n="e01-04"/> Idem di
                      <lb n="11" break="no"/>cendum de mineralibus <g type="ampersand">et</g> metallis, lic<hi rend="grave">e</hi>t magis remot<hi rend="grave">e</hi>: Qu<hi rend="ligature">ae</hi>ritur
-                        <note place="margin-left" >
+                        <note place="margin-left" rend="italic">
                               <lb/><persName ref="http://viaf.org/viaf/120696927"><expan><abbr>Lull<am>.</am></abbr><ex>ius</ex></expan></persName> <expan><abbr>ibi<am>.</am></abbr><ex>dem</ex></expan>
                               <lb/><quote>portat il
                               <lb break="no"/>lum ventus

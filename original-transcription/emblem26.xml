@@ -15,7 +15,8 @@
      <revisionDesc>
         <change when="2017-07-12" who="SJD">Created</change>
         <change when="2017-07-13" who="SJD">Completed draft</change>
-        <change when="2018-08-18" who="EM">structural changes. See Github.</change> 
+        <change when="2018-08-18" who="EM">structural changes. See Github.</change>
+        <change when="2018-09-11" who="SJD">Fixed markup of marginal notes</change>
      </revisionDesc>
   </teiHeader>
    
@@ -94,11 +95,11 @@
                      <lb n="27" break="no"/>tia <expan><abbr>omnib<am>.</am></abbr><ex>us</ex></expan> supereminens, qu<hi rend="ligature">ae</hi> dextr<hi rend="circumflex">a</hi> ad Orientem, sinistr<hi rend="circumflex">a</hi> ad occa
                      <lb n="28" break="no"/>sum penetrat, <expan><abbr>tot<hi rend="acute">a</hi>mq<am>;</am></abbr><ex>ue</ex></expan> terram amplectitur: <milestone unit="section" n="e26-08"/> De sapientia ver<hi rend="grave">o</hi> <persName ref="http://viaf.org/viaf/100963493"><hi rend="italic">Salo
                      <lb n="29" break="no"/>mon</hi></persName> in <title ref="http://viaf.org/viaf/185864900"><expan><abbr>lib<am>.</am><ex>ro</ex></abbr></expan> sapienti<hi rend="ligature">ae</hi></title> discret<hi rend="grave">e</hi> disserit: Sic <expan><ex>e</ex><abbr>n<am>.</am></abbr><ex>im</ex></expan> <expan><abbr>c<am>.</am></abbr><ex>apite</ex></expan> <num value="8">8<am>.</am></num> <expan><abbr><hi rend="stroke">v</hi><am>.</am></abbr><ex>versu</ex></expan> <num>9.18</num>. <q rend="italic">Qui cognitati ejus
-                        <add place="margin-left" rend="italic">
+                        <note place="margin-left" rend="italic">
                            <lb/><title ref="http://viaf.org/viaf/293200012"><expan><abbr>Sir<am>.</am></abbr><ex>rach</ex></expan></title> <expan><abbr>c<am>.</am></abbr><ex>apite</ex></expan> <num>4.13</num>.
                            <lb/><title ref="http://viaf.org/viaf/185864900"><expan><abbr>Sap<am>,</am></abbr><ex>ientia</ex></expan></title> <expan><abbr>c<am>.</am></abbr><ex>pite</ex></expan> <num>8.16</num>.
                            <lb/><title ref="http://viaf.org/viaf/293200012"><expan><abbr>Sir<am>.</am></abbr><ex>rach</ex></expan></title> <expan><abbr>c<am>.</am></abbr><ex>apite</ex></expan> <num>4.20</num>.                           
-                        </add>
+                        </note>
                      <lb n="30"/>sunt <hi rend="ligature">ae</hi>ternam permanentiam habent, <g type="ampersand">et</g> qui amici ejus, sinceram <expan><abbr>voluptat<hi rend="tilde">e</hi></abbr><ex>m</ex></expan>,
                      <lb n="31"/><g type="ampersand">et</g> qui diligenter eam inquiret, magnum gaudium capiet: Nam <expan><abbr>null<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> est <expan><abbr>t<hi rend="ligature">ae</hi>
                         <lb n="32" break="no"/>di<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> versari cum sapientia nec <expan><abbr>fastidi<hi rend="tilde">u</hi></abbr><ex>m</ex></expan>, illi adesse, sed l<hi rend="ligature">ae</hi>titia <g type="ampersand">et</g> gaudium: <milestone unit="section" n="e26-09"/> Et
@@ -110,7 +111,7 @@
                <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="26"><choice><corr>X</corr><sic>Y</sic></choice>VI</num>.</fw> <fw type="pageNum" place="top-right">115</fw>
                   <div type="discourse-p2"><ab>
                      <lb n="1"/><q rend="italic">jucundior est: Est <expan><ex>e</ex><abbr>n<am>.</am></abbr><ex>im</ex></expan> arbor vit<hi rend="ligature">ae</hi> <expan><abbr>omnib<am>.</am></abbr><ex>us</ex></expan> qui apprehendunt eam <g type="ampersand">et</g> beati sunt,
-                        <add place="margin-right" rend="italic">
+                        <note place="margin-right" rend="italic">
                            <lb/><title ref="http://viaf.org/viaf/185864900"><expan><abbr>Sap<am>.</am></abbr><ex>ientia</ex></expan></title> <num>10.10</num>.
                            <lb/><title ref="http://viaf.org/viaf/177805643"><expan><abbr>Prov<am>.</am></abbr><ex>erbiae</ex></expan></title> <num>3.18</num>.
                            <lb/><persName ref="http://viaf.org/viaf/100198064"><expan><abbr>Lac</abbr><ex>tantius</ex></expan></persName> <title ref="http://viaf.org/viaf/173831748"><expan><abbr>I</abbr><ex>nstitutiones</ex></expan></title> <num>3.13</num>.
@@ -127,7 +128,7 @@
                            <lb/><title ref="http://viaf.org/viaf/185864900"><expan><abbr>Sap<am>.</am></abbr><ex>ientia</ex></expan></title> <num>8.5.18</num>.
                            <lb/><title ref="http://viaf.org/viaf/185864900"><expan><abbr>Sap</abbr><ex>ientia</ex></expan></title> <num>7.11</num>.
                            <lb/><title ref="http://viaf.org/viaf/293200012"><expan><abbr>Sir<am>.</am></abbr><ex>rach</ex></expan></title> <num>1.24</num>.                                          
-                        </add>
+                        </note>
                      <lb n="2"/>qui servant eam: <persName ref="http://viaf.org/viaf/100198064">Lactantius</persName> vocat eam alimentum anim<hi rend="ligature">ae</hi>: <milestone unit="section" n="e26-10"/> Sapientes ver<hi rend="grave">o</hi>
                      <lb n="3"/>honorabuntur <g type="ampersand">et</g> qui sapientiam in precio habebit, ille per eam exaltabitur
                      <lb n="4"/><g type="ampersand">et</g> honore afficietur: Sapientia <expan><abbr>n</abbr><ex>am</ex></expan> filios sublevat, <g type="ampersand">et</g> qui firmiter ei adh<hi rend="ligature">ae</hi>ret,
