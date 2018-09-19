@@ -19,8 +19,6 @@
 <!-- <xsl:strip-space elements="*"/> -->
     <xsl:variable name="newline"><xsl:text> 
 </xsl:text></xsl:variable>
-    <xsl:param name="orig_ligature">æ œ qae&gt; qi qa qtur qge qsp qck qo qος</xsl:param>
-    <xsl:param name="norm_ligature">ae oe ae&gt; i a tur ge sp ck o  ος</xsl:param>
     
     <xsl:output method="xml" encoding="UTF-8" indent="no"/>
     
@@ -29,7 +27,7 @@
         <html>
             <head>
                 <title>Atalanta Fugiens (Maier Edition. transcription) Facsimile Copy. Emblem <xsl:value-of select="substring(af:div[@type='emblem/@n'],2)"/></title>
-                <link rel="stylesheet" type="text/css" href="atalantaProof-color.css"  />
+                <link rel="stylesheet" type="text/css" href="atalantaProof-original.css"  />
             </head>
             
             <body>
@@ -138,7 +136,15 @@
     </xsl:template>
     
     <xsl:template match="af:l">
-        <xsl:apply-templates/>
+        <xsl:choose>
+            <xsl:when test="number(preceding-sibling::af:lb[1]/@n) mod 2 = 0">
+                <span class="v-line-indent"><xsl:apply-templates/></span>  
+            </xsl:when>
+            <xsl:otherwise>
+                <span class="v-line"><xsl:apply-templates/></span>  
+             </xsl:otherwise>
+        </xsl:choose>
+       
     </xsl:template>
     
     
@@ -194,7 +200,25 @@
     </xsl:template>
  
     <xsl:template match="af:hi[@rend='ligature']">
-        <span class="regularized"><xsl:value-of select="."/></span><span class="original"><xsl:value-of select="subsequence(tokenize(($orig_ligature),' '),index-of(tokenize($norm_ligature,' '),{.}),1)"/></span>      
+    <xsl:choose>
+        <xsl:when test=". = 'ae'">
+            <span class="regularized"><xsl:apply-templates/></span><span class="original">æ</span>
+        </xsl:when>
+        <xsl:when test=". = 'oe'">
+            <span class="regularized"><xsl:apply-templates/></span><span class="original">œ</span>
+        </xsl:when>
+        <xsl:when test=".= 'Ae'">
+            <span class="regularized"><xsl:apply-templates/></span><span class="original">Æ</span>
+        </xsl:when>
+        <xsl:otherwise><xsl:apply-templates/></xsl:otherwise>    
+    </xsl:choose>
+        
+    </xsl:template>
+    
+    <xsl:template match='*'>
+        QQQ
+            <xsl:apply-templates></xsl:apply-templates>
+        QQQ
     </xsl:template>
    
 </xsl:stylesheet>

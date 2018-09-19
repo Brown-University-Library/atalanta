@@ -65,12 +65,12 @@
             <div type="epigram" xml:lang="la">
                <head>Epigramma XIV.</head>
                <lg>
-                  <l>Dira fames Polypos docuit sua rodere crura,</l>
-                  <l>Humanáque homines se nutriisse dape.</l>
-                  <l>Dente Draco caudam dum mordet <g type="ampersand">et</g> ingerit alvo,</l>
-                  <l>Magnâ parte sui fit cibus ipse sibi.</l>
-                  <l>Ille domandus erit ferro fame, carcere, donec</l>
-                  <l>Se voret <g type="ampersand">et</g> revomat se necet <g type="ampersand">et</g> pariat.</l>
+                  <lb n="1"/><l>Dira fames Polypos docuit sua rodere crura,</l>
+                  <lb n="2"/><l>Humanáque homines se nutriisse dape.</l>
+                  <lb n="3"/><l>Dente Draco caudam dum mordet <g type="ampersand">et</g> ingerit alvo,</l>
+                  <lb n="4"/><l>Magnâ parte sui fit cibus ipse sibi.</l>
+                  <lb n="5"/><l>Ille domandus erit ferro fame, carcere, donec</l>
+                  <lb n="6"/><l>Se voret <g type="ampersand">et</g> revomat se necet <g type="ampersand">et</g> pariat.</l>
                </lg>
             </div>
             
