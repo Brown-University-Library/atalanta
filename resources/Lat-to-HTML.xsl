@@ -94,6 +94,10 @@
         </xsl:choose>
     </xsl:template>
     
+    <xsl:template match="af:ab">
+        <xsl:apply-templates/>
+    </xsl:template>
+    
     <!--    Milestones and reference markers -->     
     <xsl:template match="af:milestone">
         <span class="milestone atalanta-fugiens"><xsl:value-of select="@n"/></span>
@@ -212,13 +216,69 @@
         </xsl:when>
         <xsl:otherwise><xsl:apply-templates/></xsl:otherwise>    
     </xsl:choose>
-        
     </xsl:template>
     
+    <xsl:template match="af:hi[@rend='italic'] | af:hi[@rend='gothic'] | af:hi[@rend='latin'] | af:hi[@rend='caps']">
+        <span class="{@rend}"><xsl:apply-templates/></span>
+    </xsl:template>
+    
+    <xsl:template match="af:hi[@rend='grave']">
+        <xsl:choose>
+            <xsl:when test=".='a'">à</xsl:when>
+            <xsl:when test=".='e'">è</xsl:when>
+            <xsl:when test=".='i'">ì</xsl:when>
+            <xsl:when test=".='o'">ò</xsl:when>
+            <xsl:when test=".='u'">ù</xsl:when>
+            <xsl:when test=".='q'">&#x300;q</xsl:when>
+        </xsl:choose>
+    </xsl:template>
+    
+    <xsl:template match="af:hi[@rend='acute']">
+        <xsl:choose>
+            <xsl:when test=".='a'">á</xsl:when>
+            <xsl:when test=".='e'">é</xsl:when>
+            <xsl:when test=".='i'">í</xsl:when>
+            <xsl:when test=".='o'">ó</xsl:when>
+            <xsl:when test=".='u'">ú</xsl:when>
+            <xsl:when test=".='q'">&#x301;q</xsl:when>
+            <xsl:when test=".='m'">&#x301;m</xsl:when>
+        </xsl:choose>
+    </xsl:template>
+    
+    <xsl:template match="af:hi[@rend='circumflex']">
+        <xsl:choose>
+            <xsl:when test=".='a'">â</xsl:when>
+            <xsl:when test=".='e'">ê</xsl:when>
+            <xsl:when test=".='i'">î</xsl:when>
+            <xsl:when test=".='o'">ô</xsl:when>
+            <xsl:when test=".='u'">û</xsl:when>
+        </xsl:choose>
+    </xsl:template>
+    
+    <xsl:template match="af:hi[@rend='tilde']">
+        <xsl:choose>
+            <xsl:when test=".='a'">ã</xsl:when>
+            <xsl:when test=".='e'">ẽ</xsl:when>
+            <xsl:when test=".='i'">ĩ</xsl:when>
+            <xsl:when test=".='o'">õ</xsl:when>
+            <xsl:when test=".='u'">ũ</xsl:when>
+        </xsl:choose>
+    </xsl:template>
+    
+    <xsl:template match="af:persName | af:placeName | af:orgName | af:quote">
+        <xsl:apply-templates/>
+    </xsl:template>
+    
+    <xsl:template match="af:figure"/>
+    
+   
+       
+    
     <xsl:template match='*'>
-        QQQ
+        QQQ-element: <xsl:value-of select="name()"/>
             <xsl:apply-templates></xsl:apply-templates>
         QQQ
     </xsl:template>
+    
    
 </xsl:stylesheet>
