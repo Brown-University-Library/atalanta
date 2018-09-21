@@ -66,7 +66,7 @@
                   <lb n="2"/><l>Vivus in hanc lucem si semel ortus erit;</l>
                   <lb n="3"/><l>Unus is Heroum cunctos superare labores</l>
                   <lb n="4"/><l>Arte, manu, forti corpore, mente, potest.</l>
-                  <lb n="5"/><l>Ne tibi sit <persName>C<hi rend="ligature">ae</hi>so</persName>, nec abortus inutilis ill<hi rend="tail">e</hi>,</l>
+                  <lb n="5"/><l>Ne tibi sit <persName>C<hi rend="ligature">ae</hi>so</persName>, nec abortus inutilis ill<hi rend="hook">e</hi>,</l>
                   <lb n="6"/><l>Non <persName>Agrippa</persName>, bono sydere sed genitus.</l>
                </lg>
             </div>
@@ -81,7 +81,7 @@
                      <lb n="1"/><milestone unit="section" n="e01-01"/><persName ref="https://viaf.org/viaf/24571510/">Hermes</persName> omnis secreti naturalis indagator diligentissimus in
                      <lb n="2"/>tabula sua smaragdina graphic<hi rend="grave">e</hi>, lic<hi rend="grave">e</hi>t succinct<hi rend="grave">e</hi>, describit opus
                      <lb n="3"/>naturale, ubi inter alia inquit: <quote source="https://viaf.org/viaf/225064984"><hi rend="italic">Portavit eum ventus in ventre suo,</hi></quote> qua
-                     <lb n="4" break="no"/>si dicat, Ille, cu<choice><orig>j</orig><reg>i</reg></choice> pater est SOl, mater ver<hi rend="grave">o</hi> Luna, antequam in lu
+                     <lb n="4" break="no"/>si dicat, Ille, cujus pater est Sol, mater ver<hi rend="grave">o</hi> Luna, antequam in lu
                      <lb n="5" break="no"/>cem edatur, portabitur <hi rend="grave">a</hi> fumis ventosis, quemadmodum avis ab
                      <lb n="6"/>aëre, dum volat: <milestone unit="section" n="e01-02"/> Ex fumis autem seu ventis (qui sunt nihil aliud,
                      <lb n="7"/>qu<hi rend="grave">a</hi>m aër motus) coagulatis fit aqua, ex qua cum terra mixta mi
@@ -154,7 +154,7 @@
                      <lb n="17" break="no"/>tatem pervenerint, <g type="ampersand">et</g> ex imperfecto seu molestato <hi rend="grave">a</hi> volatilibus
                      <lb n="18"/>noxiis fit perfectum, illi malo non subjectum, quod deinde ad vel
                      <lb n="19" break="no"/>lus aureum <persName><hi rend="italic">Jasoni</hi></persName> medico obtinendum viam indicat. <milestone unit="section" n="e01-15"/> Horum <expan><abbr>ve</abbr><ex>n</ex>
-                     <lb n="20" break="no"/><abbr>torum</abbr></expan> meminit <expan><abbr>quoq<am>;</am></abbr><ex>ue</ex></expan> inter alios <persName ref="http://viaf.org/viaf/31992530/"><hi rend="italic">Basilius</hi></persName> <hi rend="italic">nostras</hi>, qui cla<choice><orig>r</orig><corr>v</corr></choice><hi rend="grave">e</hi> <num type="ordinal">6</num>. inquit:
+                     <lb n="20" break="no"/><abbr>torum</abbr></expan> meminit <expan><abbr>quoq<am>;</am></abbr><ex>ue</ex></expan> inter alios <persName ref="http://viaf.org/viaf/31992530/"><hi rend="italic">Basilius</hi></persName> <hi rend="italic">nostras</hi>, qui cla<choice><sic>r</sic><corr>v</corr></choice><hi rend="grave">e</hi> <num type="ordinal">6</num>. inquit:
                      <lb n="21"/><quote type="direct"><hi rend="italic">Nam geminus ventus venire debet, <persName>Vulturnus</persName> dictus, ac deinde simplex,
                      <lb n="22"/><persName>Notus</persName> appellatus, qui ab oriente <g type="ampersand">et</g> meridie impetuos<hi rend="grave">e</hi> spirabunt, quorum
                      <lb n="23"/>motione cessante, it aut ex aëre facta sit aqua, audacter confides, quod ex sp

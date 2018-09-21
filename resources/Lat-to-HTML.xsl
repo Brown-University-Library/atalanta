@@ -152,15 +152,19 @@
     </xsl:template>
     
     
-    <!--    Word and Phrase level markup -->     
+    <!--    Word and Phrase level markup -->  
     
-    <xsl:template match="af:choice | af:reg">  <!-- choice/orig/reg -->
-        <span class="{name()}"><xsl:apply-templates/></span>
+    <xsl:template match="af:choice">
+        <xsl:apply-templates/>
     </xsl:template>
     
-    <xsl:template match="af:orig">      
+    <xsl:template match="af:reg | af:corr">  <!-- choice/orig/reg -->
+        <span class="regularized"><xsl:apply-templates/></span>
+    </xsl:template>
+    
+    <xsl:template match="af:orig | af:sic">      
         <xsl:choose>
-            <xsl:when test="parent::af:choice"><span class="orig"><xsl:apply-templates/><xsl:text> </xsl:text></span></xsl:when>
+            <xsl:when test="parent::af:choice"><span class="original"><xsl:apply-templates/><xsl:text> </xsl:text></span></xsl:when>
             <xsl:otherwise><span class="orig-solo"><xsl:apply-templates/></span></xsl:otherwise>
         </xsl:choose>      
     </xsl:template>
@@ -184,8 +188,10 @@
     </xsl:template>
     
     <xsl:template match="af:g">
-        <span class="original">&amp;</span><span class="regularized">et</span>
+        <span class="original">&amp;</span><!--<span class="regularized">et</span>-->
     </xsl:template>
+    
+    <!-- Abbreviations -->
     
     <xsl:template match="af:expan">
         <xsl:apply-templates/>
@@ -196,41 +202,56 @@
     </xsl:template>
     
     <xsl:template match="af:ex">
-        <span class="regularized"><xsl:apply-templates/></span>
+        <xsl:variable select="preceding-sibling::af:abbr[1]"/>
+        [<span class="regularized"><xsl:value-of select="preceding-sibling::af:abbr[1]"/><xsl:apply-templates/></span>]
     </xsl:template>
 
     <xsl:template match="af:am">
         <span class="original"><xsl:apply-templates/></span>
     </xsl:template>
- 
-    <xsl:template match="af:hi[@rend='ligature']">
-    <xsl:choose>
-        <xsl:when test=". = 'ae'">
-            <span class="regularized"><xsl:apply-templates/></span><span class="original">æ</span>
-        </xsl:when>
-        <xsl:when test=". = 'oe'">
-            <span class="regularized"><xsl:apply-templates/></span><span class="original">œ</span>
-        </xsl:when>
-        <xsl:when test=".= 'Ae'">
-            <span class="regularized"><xsl:apply-templates/></span><span class="original">Æ</span>
-        </xsl:when>
-        <xsl:otherwise><xsl:apply-templates/></xsl:otherwise>    
-    </xsl:choose>
+    
+    <!-- end abbreviations -->
+    
+    <xsl:template match="af:surplus">
+        <span class="original"><xsl:apply-templates/></span>
     </xsl:template>
     
-    <xsl:template match="af:hi[@rend='italic'] | af:hi[@rend='gothic'] | af:hi[@rend='latin'] | af:hi[@rend='caps']">
+    <xsl:template match="q">
+        <span class="quote"><xsl:apply-templates/></span>
+    </xsl:template>
+     
+    <xsl:template match="af:hi[@rend='italic'] | af:hi[@rend='gothic'] | af:hi[@rend='latin'] | af:hi[@rend='caps'] | af:hi[@rend='raised']">
         <span class="{@rend}"><xsl:apply-templates/></span>
     </xsl:template>
     
-    <xsl:template match="af:hi[@rend='grave']">
+    <!-- 
+      This is a very brute force way of handling characters with punctuation and diacritical marks.
+      ideally these should be in the header as glyphs or as something in a taxonomy. But this works for now.
+    -->
+    
+    <xsl:template match="af:hi[@rend='ligature']">
         <xsl:choose>
-            <xsl:when test=".='a'">à</xsl:when>
-            <xsl:when test=".='e'">è</xsl:when>
-            <xsl:when test=".='i'">ì</xsl:when>
-            <xsl:when test=".='o'">ò</xsl:when>
-            <xsl:when test=".='u'">ù</xsl:when>
-            <xsl:when test=".='q'">&#x300;q</xsl:when>
+            <xsl:when test=". = 'ae'">
+                <span class="original">æ</span><span class="regularized">[<xsl:apply-templates/>]</span>
+            </xsl:when>
+            <xsl:when test=". = 'oe'">
+                <span class="original">œ</span><span class="regularized">[<xsl:apply-templates/>]</span>
+            </xsl:when>
+            <xsl:when test=".= 'Ae'">
+                <span class="original">Æ</span><span class="regularized">[<xsl:apply-templates/>]</span>
+            </xsl:when>
+            <xsl:otherwise><xsl:apply-templates/></xsl:otherwise>    
         </xsl:choose>
+    </xsl:template>
+    
+    <xsl:template match="af:hi[@rend='grave']">
+                <xsl:choose>
+                    <xsl:when test=".='a'">à</xsl:when>
+                    <xsl:when test=".='e'">è</xsl:when>
+                    <xsl:when test=".='i'">ì</xsl:when>
+                    <xsl:when test=".='o'">ò</xsl:when>
+                    <xsl:when test=".='u'">ù</xsl:when>
+                </xsl:choose>
     </xsl:template>
     
     <xsl:template match="af:hi[@rend='acute']">
@@ -240,8 +261,8 @@
             <xsl:when test=".='i'">í</xsl:when>
             <xsl:when test=".='o'">ó</xsl:when>
             <xsl:when test=".='u'">ú</xsl:when>
-            <xsl:when test=".='q'">&#x301;q</xsl:when>
-            <xsl:when test=".='m'">&#x301;m</xsl:when>
+            <xsl:when test=".='q'">q&#x301;</xsl:when>
+            <xsl:when test=".='m'">m&#x301;</xsl:when>
         </xsl:choose>
     </xsl:template>
     
@@ -259,26 +280,63 @@
         <xsl:choose>
             <xsl:when test=".='a'">ã</xsl:when>
             <xsl:when test=".='e'">ẽ</xsl:when>
-            <xsl:when test=".='i'">ĩ</xsl:when>
             <xsl:when test=".='o'">õ</xsl:when>
             <xsl:when test=".='u'">ũ</xsl:when>
+            <xsl:when test=".='m'">m&#x303;</xsl:when>
+            <xsl:when test=".='n'">ñ</xsl:when>
+            <xsl:when test=".='p'">p&#x303;</xsl:when>
         </xsl:choose>
     </xsl:template>
     
-    <xsl:template match="af:persName | af:placeName | af:orgName | af:quote">
+    <xsl:template match="af:hi[@rend='stroke']">
+        <xsl:choose>
+            <xsl:when test=".='p'">ꝑ</xsl:when>
+            <xsl:when test=".='q'">ꝙ</xsl:when>
+            <xsl:when test=".='v'">℣</xsl:when>  <!-- versicle -->
+        </xsl:choose>
+    </xsl:template>
+    
+    <xsl:template match="af:hi[@rend='hook']">
+        <xsl:choose>
+            <xsl:when test=".='p'">Ꝓ</xsl:when>
+            <xsl:when test=".='e'">ę</xsl:when>
+        </xsl:choose>
+    </xsl:template>
+    
+ <!-- these only occur on one letter -->
+    <xsl:template match="af:hi[@rend='supraline']">
+        <xsl:value-of select="ē"/>
+    </xsl:template>
+    
+    <xsl:template match="af:hi[@rend='tail']">
+        <xsl:value-of select="ɋ"/>
+    </xsl:template>
+    
+    <xsl:template match="af:hi[@rend='acute tail']">
+        <xsl:value-of select="ɋ&#x301;"/>
+    </xsl:template>
+    
+    <xsl:template match="af:hi[@rend='invert']">
+        <xsl:value-of select="u"/>
+    </xsl:template>  <!-- this should probably be a sic corr -->
+    
+    
+    <!-- at some point, check these- either used for indexing or might need formating in some cases. Put into encodingDesc -->
+    
+    <xsl:template match="af:persName | af:placeName | af:orgName | af:quote | af:num | 
+        af:title | af:foreign | af:name | af:date">
         <xsl:apply-templates/>
     </xsl:template>
     
-    <xsl:template match="af:figure"/>
+    <xsl:template match="af:figure | af:span"/>
     
-   
-       
+  
+    <!-- Catch all to see what we aren't hadnling -->
     
-    <xsl:template match='*'>
+    <!--<xsl:template match='*'>
         QQQ-element: <xsl:value-of select="name()"/>
             <xsl:apply-templates></xsl:apply-templates>
-        QQQ
-    </xsl:template>
+    </xsl:template>-->
     
    
 </xsl:stylesheet>
