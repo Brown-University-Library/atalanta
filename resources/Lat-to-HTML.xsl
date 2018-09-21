@@ -194,21 +194,24 @@
     <!-- Abbreviations -->
     
     <xsl:template match="af:expan">
-        <xsl:apply-templates/>
+        <xsl:apply-templates mode="abbrev"/>[<span class="regularized"><xsl:apply-templates mode="expand"/></span>]
     </xsl:template>
     
     <xsl:template match="af:abbr">
         <xsl:apply-templates/>
     </xsl:template>
     
-    <xsl:template match="af:ex">
-        <xsl:variable select="preceding-sibling::af:abbr[1]"/>
-        [<span class="regularized"><xsl:value-of select="preceding-sibling::af:abbr[1]"/><xsl:apply-templates/></span>]
+    <xsl:template match="af:ex" mode="expand">
+        <xsl:apply-templates/>
     </xsl:template>
+    
+    <xsl:template match="af:ex" mode="abbrev"/>
 
-    <xsl:template match="af:am">
+    <xsl:template match="af:am" mode="abbrev">
         <span class="original"><xsl:apply-templates/></span>
     </xsl:template>
+    
+    <xsl:template match="af:am" mode="expand"/>
     
     <!-- end abbreviations -->
     
@@ -244,6 +247,12 @@
         </xsl:choose>
     </xsl:template>
     
+    <!-- Kludgy way to handle these substitutions before I put them into the header. Need to handle 3 modes: in mode="abbrev"
+         the charager is shown with the punctuation. In empty mode, again, shown with punctuation but this occurs outside 
+         an abbreviation. Third mode=expand" should just apply templates and not show the punctuation/abbreviation mark.
+   
+    -->
+    
     <xsl:template match="af:hi[@rend='grave']">
                 <xsl:choose>
                     <xsl:when test=".='a'">à</xsl:when>
@@ -252,6 +261,16 @@
                     <xsl:when test=".='o'">ò</xsl:when>
                     <xsl:when test=".='u'">ù</xsl:when>
                 </xsl:choose>
+    </xsl:template>
+    
+    <xsl:template match="af:hi[@rend='grave']"  mode="abbrev">
+        <xsl:choose>
+            <xsl:when test=".='a'">à</xsl:when>
+            <xsl:when test=".='e'">è</xsl:when>
+            <xsl:when test=".='i'">ì</xsl:when>
+            <xsl:when test=".='o'">ò</xsl:when>
+            <xsl:when test=".='u'">ù</xsl:when>
+        </xsl:choose>
     </xsl:template>
     
     <xsl:template match="af:hi[@rend='acute']">
@@ -266,7 +285,29 @@
         </xsl:choose>
     </xsl:template>
     
+    <xsl:template match="af:hi[@rend='acute']" mode="abbrev">
+        <xsl:choose>
+            <xsl:when test=".='a'">á</xsl:when>
+            <xsl:when test=".='e'">é</xsl:when>
+            <xsl:when test=".='i'">í</xsl:when>
+            <xsl:when test=".='o'">ó</xsl:when>
+            <xsl:when test=".='u'">ú</xsl:when>
+            <xsl:when test=".='q'">q&#x301;</xsl:when>
+            <xsl:when test=".='m'">m&#x301;</xsl:when>
+        </xsl:choose>
+    </xsl:template>
+     
     <xsl:template match="af:hi[@rend='circumflex']">
+        <xsl:choose>
+            <xsl:when test=".='a'">â</xsl:when>
+            <xsl:when test=".='e'">ê</xsl:when>
+            <xsl:when test=".='i'">î</xsl:when>
+            <xsl:when test=".='o'">ô</xsl:when>
+            <xsl:when test=".='u'">û</xsl:when>
+        </xsl:choose>
+    </xsl:template>
+    
+    <xsl:template match="af:hi[@rend='circumflex']" mode="abbrev">
         <xsl:choose>
             <xsl:when test=".='a'">â</xsl:when>
             <xsl:when test=".='e'">ê</xsl:when>
@@ -288,7 +329,27 @@
         </xsl:choose>
     </xsl:template>
     
+    <xsl:template match="af:hi[@rend='tilde']" mode="abbrev">
+        <xsl:choose>
+            <xsl:when test=".='a'">ã</xsl:when>
+            <xsl:when test=".='e'">ẽ</xsl:when>
+            <xsl:when test=".='o'">õ</xsl:when>
+            <xsl:when test=".='u'">ũ</xsl:when>
+            <xsl:when test=".='m'">m&#x303;</xsl:when>
+            <xsl:when test=".='n'">ñ</xsl:when>
+            <xsl:when test=".='p'">p&#x303;</xsl:when>
+        </xsl:choose>
+    </xsl:template>
+    
     <xsl:template match="af:hi[@rend='stroke']">
+        <xsl:choose>
+            <xsl:when test=".='p'">ꝑ</xsl:when>
+            <xsl:when test=".='q'">ꝙ</xsl:when>
+            <xsl:when test=".='v'">℣</xsl:when>  <!-- versicle -->
+        </xsl:choose>
+    </xsl:template>
+  
+    <xsl:template match="af:hi[@rend='stroke']" mode="abbrev">
         <xsl:choose>
             <xsl:when test=".='p'">ꝑ</xsl:when>
             <xsl:when test=".='q'">ꝙ</xsl:when>
@@ -303,16 +364,23 @@
         </xsl:choose>
     </xsl:template>
     
+    <xsl:template match="af:hi[@rend='hook']" mode="abbrev">
+        <xsl:choose>
+            <xsl:when test=".='p'">Ꝓ</xsl:when>
+            <xsl:when test=".='e'">ę</xsl:when>
+        </xsl:choose>
+    </xsl:template>
+    
  <!-- these only occur on one letter -->
-    <xsl:template match="af:hi[@rend='supraline']">
+    <xsl:template match="af:hi[@rend='supraline']" mode="abbrev">
         <xsl:value-of select="ē"/>
     </xsl:template>
     
-    <xsl:template match="af:hi[@rend='tail']">
+    <xsl:template match="af:hi[@rend='tail']" mode="abbrev">
         <xsl:value-of select="ɋ"/>
     </xsl:template>
     
-    <xsl:template match="af:hi[@rend='acute tail']">
+    <xsl:template match="af:hi[@rend='acute tail']" mode="abbrev">
         <xsl:value-of select="ɋ&#x301;"/>
     </xsl:template>
     
@@ -333,10 +401,10 @@
   
     <!-- Catch all to see what we aren't hadnling -->
     
-    <!--<xsl:template match='*'>
+    <xsl:template match='*'>
         QQQ-element: <xsl:value-of select="name()"/>
             <xsl:apply-templates></xsl:apply-templates>
-    </xsl:template>-->
+    </xsl:template> 
     
    
 </xsl:stylesheet>

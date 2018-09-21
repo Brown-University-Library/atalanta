@@ -12,6 +12,11 @@
             <p>Information about the source</p>
          </sourceDesc>
       </fileDesc>
+     <encodingDesc>
+        <tagsDecl>
+           <rendition></rendition>
+        </tagsDecl>
+     </encodingDesc>
      <revisionDesc>
         <change when="2018-03-18" who="SJD">Start encoding</change>
         <change when="2018-03-18" who="SJD">Finish draft</change>
