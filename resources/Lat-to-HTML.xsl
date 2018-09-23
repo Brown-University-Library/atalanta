@@ -71,11 +71,8 @@
     <!-- formwork contents are handled by the divs that follow them -->
        
     <xsl:template match="af:note">
-        <xsl:if test="@place='margin'">
-            <span class="note-mark">*</span>
             <div class="margin-note"><span class="note-mark"><xsl:text>*</xsl:text></span><xsl:apply-templates/>
             </div>
-        </xsl:if>
     </xsl:template>
     
     <xsl:template match="af:head">
@@ -107,6 +104,15 @@
         <span class="pb atalanta-fugiens"><xsl:value-of select="@n"/></span>
     </xsl:template>
     
+    <xsl:template match="af:lb" mode="abbrev">
+        <xsl:if test="@break='no'">
+            <xsl:text>-</xsl:text>
+        </xsl:if>
+        <br />
+    </xsl:template>
+    
+    <xsl:template match="af:lb" mode="expand"/>
+    
     <xsl:template match="af:lb">
         <xsl:if test="@break='no'">
             <xsl:text>-</xsl:text>
@@ -114,13 +120,16 @@
         <br />
     </xsl:template>
     
+    
+   
+    <xsl:template match="text()[following-sibling::node()[1][self::af:lb[@break eq 'no']]]" mode="#all">
+        <xsl:value-of select="substring( normalize-space( concat('␠',.)), 2 )"/>
+    </xsl:template>
+    
     <!-- <xsl:template match="text()[following-sibling::node()[1][self::af:lb[@break eq 'no']]]">
          <xsl:value-of select="substring-before(.,' ')"/>
     </xsl:template>-->
     
-    <xsl:template match="text()[following-sibling::node()[1][self::af:lb[@break eq 'no']]]">
-        <xsl:value-of select="substring( normalize-space( concat('␠',.)), 2 )"/>
-    </xsl:template>
     
     <!--    Epigrams and other verse -->   
     
@@ -184,7 +193,12 @@
     </xsl:template>
     
     <xsl:template match="af:pc">
-        <xsl:apply-templates/>
+       <xsl:choose>
+           <xsl:when test=".[parent::af:hi][1]"/>
+           <xsl:otherwise>
+               <xsl:apply-templates/>
+           </xsl:otherwise>
+       </xsl:choose>
     </xsl:template>
     
     <xsl:template match="af:g">
@@ -211,15 +225,19 @@
         <span class="original"><xsl:apply-templates/></span>
     </xsl:template>
     
-    <xsl:template match="af:am" mode="expand"/>
+    <xsl:template match="af:am" mode="expand"/> <!-- this handles the case where <am> appears inside <num>, 
+        and should just be rendered as is.  -->
     
+    <xsl:template match="af:am" >
+        <xsl:apply-templates/>
+    </xsl:template>
     <!-- end abbreviations -->
     
     <xsl:template match="af:surplus">
         <span class="original"><xsl:apply-templates/></span>
     </xsl:template>
     
-    <xsl:template match="q">
+    <xsl:template match="af:q">
         <span class="quote"><xsl:apply-templates/></span>
     </xsl:template>
      
@@ -388,6 +406,11 @@
         <xsl:value-of select="u"/>
     </xsl:template>  <!-- this should probably be a sic corr -->
     
+    <xsl:template match="af:hi[@rend='sling-below'] | af:hi[@rend='sling-above']"> <!-- This should probably be a span. -->
+        <xsl:apply-templates/>
+    </xsl:template>  <!-- this should probably be a sic corr -->
+    
+    
     
     <!-- at some point, check these- either used for indexing or might need formating in some cases. Put into encodingDesc -->
     
@@ -401,10 +424,10 @@
   
     <!-- Catch all to see what we aren't hadnling -->
     
-    <xsl:template match='*'>
+   <!-- <xsl:template match='*'>
         QQQ-element: <xsl:value-of select="name()"/>
             <xsl:apply-templates></xsl:apply-templates>
-    </xsl:template> 
+    </xsl:template> -->
     
    
 </xsl:stylesheet>
