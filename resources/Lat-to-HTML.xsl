@@ -54,7 +54,7 @@
         <xsl:apply-templates/>
     </xsl:template>
 
-    <xsl:template match="af:div[@type='fugue' or @type='epigram' or @type='discourse' or @type='image']">
+    <xsl:template match="af:div[@type='fugue' or @type='epigram' or @type='discourse' or @type='image'or @type='preface']">
         <div class="{@type} {@xml:lang}">
             <xsl:apply-templates/>
         </div>
@@ -65,6 +65,17 @@
         <div class="{@type}">
             <xsl:apply-templates/>
         </div>
+    </xsl:template>
+    
+    <xsl:template match="af:div[@type='page']">
+        <xsl:choose>
+            <xsl:when test="child::af:ab[@rend='italics']">
+                <div class="{@type} italic"><xsl:apply-templates/></div>
+            </xsl:when>
+            <xsl:otherwise>
+                <xsl:apply-templates/>
+            </xsl:otherwise>
+        </xsl:choose>
     </xsl:template>
     
     <xsl:template match="af:fw"/>
@@ -87,6 +98,9 @@
                 <h1 class="title">
                     <xsl:apply-templates/>
                 </h1>
+            </xsl:when>
+            <xsl:when test="parent::af:div[@type='preface']">
+                <h1><xsl:apply-templates/></h1>
             </xsl:when>
         </xsl:choose>
     </xsl:template>
@@ -135,6 +149,11 @@
     
     <xsl:template match="af:lg">
         <xsl:choose>
+             <xsl:when test="parent::af:div[@type='epigram'] and @rend='italic'">
+                <div class="verse-epigram-italic">
+                    <xsl:apply-templates/>
+                </div>
+            </xsl:when>
             <xsl:when test="parent::af:div[@type='epigram']">
                 <div class="verse-epigram">
                     <xsl:apply-templates/>
@@ -208,7 +227,7 @@
     <!-- Abbreviations -->
     
     <xsl:template match="af:expan">
-        <xsl:apply-templates mode="abbrev"/>[<span class="regularized"><xsl:apply-templates mode="expand"/></span>]
+        <xsl:apply-templates mode="abbrev"/><span class="regularized">[<xsl:apply-templates mode="expand"/>]</span>
     </xsl:template>
     
     <xsl:template match="af:abbr">
@@ -243,6 +262,10 @@
      
     <xsl:template match="af:hi[@rend='italic'] | af:hi[@rend='gothic'] | af:hi[@rend='latin'] | af:hi[@rend='caps'] | af:hi[@rend='raised']">
         <span class="{@rend}"><xsl:apply-templates/></span>
+    </xsl:template>
+    
+    <xsl:template match="af:hi[@rend='caps latin']">
+        <span class="caps-latin"><xsl:apply-templates/></span>
     </xsl:template>
     
     <!-- 
@@ -391,19 +414,19 @@
     
  <!-- these only occur on one letter -->
     <xsl:template match="af:hi[@rend='supraline']" mode="abbrev">
-        <xsl:value-of select="ē"/>
+        <xsl:text>ē</xsl:text>
     </xsl:template>
     
     <xsl:template match="af:hi[@rend='tail']" mode="abbrev">
-        <xsl:value-of select="ɋ"/>
+        <xsl:text>ɋ</xsl:text>
     </xsl:template>
     
     <xsl:template match="af:hi[@rend='acute tail']" mode="abbrev">
-        <xsl:value-of select="ɋ&#x301;"/>
+        <xsl:text>ɋ&#x301;</xsl:text>
     </xsl:template>
     
     <xsl:template match="af:hi[@rend='invert']">
-        <xsl:value-of select="u"/>
+        <xsl:text>u</xsl:text>
     </xsl:template>  <!-- this should probably be a sic corr -->
     
     <xsl:template match="af:hi[@rend='sling-below'] | af:hi[@rend='sling-above']"> <!-- This should probably be a span. -->

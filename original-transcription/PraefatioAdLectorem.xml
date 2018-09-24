@@ -18,10 +18,12 @@
   </teiHeader>
   <text>
       <body>
-         <div type="page" n="6">
+         <div type="preface" xml:lang="la">
+            <pb n="06" edRef="Maier1618"/>
             <fw type="pageNum" place="top-cent">6</fw>
-            <ab>
-               <title><hi rend="large">Pr<hi rend="ligature">ae</hi>fatio ad Lectorem.</hi></title>
+            <head><hi rend="large">Pr<hi rend="ligature">ae</hi>fatio ad Lectorem.</hi></head>
+            <div type="page">
+            <ab rend="italics">
                <lb n="1"/><milestone unit="section" n="pr-01"/><hi rend="caps">H</hi><hi rend="caps">ominem</hi>, lectorem candide, universi compendium
                <lb n="2"/>sui compositione referre, in confesso est omnium,
                <lb n="3"/><g type="ampersand">et</g> ternis vite generibus vivendis destinatum es
@@ -42,12 +44,13 @@
                <lb n="18"/>in natura, qu<hi rend="ligature">ae</hi> scientiis <g type="ampersand">et</g> artibus innumeris, ut ignis ex silice ex
                <lb n="19" break="no"/>tunduntur, <g type="ampersand">et</g> in usum transferuntur: <milestone unit="section" n="pr-05"/>Inter h<hi rend="ligature">ae</hi>c sunt Chymica
             </ab>
+        </div>
             <fw type="catchword" place="bottom-right">secre-</fw>
-         </div>
-         <div type="page" n="7">
+            <pb n="7" edRef="Maier1618"/>
             <fw type="title" place="top-cent">AD LECTOREM.</fw>
             <fw type="pageNum" place="top-right">7</fw>
-            <ab>
+        <div type="page">
+           <ab rend="italics">
                <lb n="1"/>secreta non postrema, sed post divinorum indagationem, omnium
                <lb n="2"/>prima <g type="ampersand">et</g> preciosissima, non circumforaneis deceptoribus <g type="ampersand">et</g> fucis
                <lb n="3"/>pseudo-chymicis (qui in his sunt asini ad lyram, quippe ad omni bo
@@ -74,12 +77,13 @@
                <lb n="24" break="no"/>tur, <g type="ampersand">et</g> singularem vim haberet ad animos militum concitandos;
                <lb n="25"/>cuius vice ad eundem usum nunc adhibetur <orgName><hi rend="latin">Ionicus</hi></orgName>, qui olim
             </ab>
-            <fw type="catchword" place="bottom-right">ama-</fw>            
-         </div>
-         <div type="page" n="8">
+        </div>
+            <fw type="catchword" place="bottom-right">ama-</fw>  
+            <pb n="8" edRef="Maier1618"/>
             <fw type="title" place="top-cent">PR<hi rend="ligature">Ae</hi>FATIO</fw>
             <fw type="pageNum" place="top-left">8</fw>
-            <ab>
+        <div type="page">
+           <ab rend="italics">
                <lb n="1"/>amatorius <hi rend="ligature">ae</hi>stimatus fuit (qualis nunc habetur <orgName><hi rend="latin">Phrygius</hi></orgName>) unde
                <lb n="2"/>modos inter se mutatos conjicimus: <milestone unit="section" n="pr-12"/><orgName><hi rend="latin">Phrygio</hi></orgName> <persName ref="http://viaf.org/viaf/262405895"><hi rend="latin">Timotheum</hi>
                   <lb n="3"/><orgName><hi rend="latin">Milesium</hi></orgName></persName> usum tradunt ad <persName ref="http://viaf.org/viaf/101353608">Alexandrum Magnum</persName> in rebus bel
@@ -105,16 +109,16 @@
                <lb n="23"/>Emblematica, Veneri sive cupro, non sine Venere sue gratia, incisa,
                <lb n="24"/>Chymica secretissima, intellectu indaganda <g type="ampersand">et</g> denique Musicalia
                <lb n="25"/>rariora, simul <g type="ampersand">et</g> semel uno libro suscipias in<hi rend="acute">q</hi>ue tuum usum dicata
-               <lb n="26"/>adhibeas, qui si poti<hi rend="grave">u</hi>s intellectualis fuerit, qu<hi rend="grave">a</hi>m sensualis, e<hi rend="grave">o</hi> uti
-               <lb break="no"/>
+               <lb n="26"/>adhibeas, qui si poti<hi rend="grave">u</hi>s intellectualis fuerit, qu<hi rend="grave">a</hi>m sensualis, e<hi rend="grave">o</hi> uti             
             </ab>
-            <fw type="catchword" place="bottom-right">lior</fw>            
          </div>
-         <div type="page" n="9">
+            <fw type="catchword" place="bottom-right">lior</fw>            
+            <pb n="9" edRef="Maier1618"/>
             <fw type="title" place="top-cent">AD LECTOREM.</fw>
             <fw type="pageNum" place="top-right">9</fw>
-            <ab>
-               <lb n="1"/>lior <g type="ampersand">et</g> jucundior olim futurus est: <milestone unit="section" n="pr-19"/>quod si ver<hi rend="grave">o</hi> primum sensui man
+         <div type="page">
+            <ab rend="italics">
+               <lb n="1" break="no"/>lior <g type="ampersand">et</g> jucundior olim futurus est: <milestone unit="section" n="pr-19"/>quod si ver<hi rend="grave">o</hi> primum sensui man
                <lb n="2" break="no"/>cipatus, nullum est dubium quin <hi rend="grave">a</hi> sensu ad intellectum transitus
                <lb n="3"/>fiet, tanquam per ostium: <milestone unit="section" n="pr-20"/>Nihil enim in intellectu esse dicitur, quod
                <lb n="4"/>non per sensum aliquem introiverit, c<hi rend="grave">u</hi>m hominis recens nati in
@@ -141,12 +145,13 @@
                   <lb n="25" break="no"/>ne</hi></persName> <g type="ampersand">et</g> <persName><hi rend="latin">Atalanta</hi></persName> coëuntibus in templo Matris De<hi rend="circumflex">u</hi>m, hoc est, va
                <lb n="26" break="no"/>se, fiunt leones, sive rubeum acquirunt colorem. <milestone unit="section" n="pr-28"/>Obtinuit quoque
             </ab>
-            <fw type="gathering" place="bottom-right">B</fw> <fw type="catchword" place="bottom-right">h<hi rend="ligature">ae</hi>c</fw>            
          </div>
-         <div type="page" n="10">
+            <fw type="gathering" place="bottom-right">B</fw> <fw type="catchword" place="bottom-right">h<hi rend="ligature">ae</hi>c</fw>            
+            <pb  n="10" edRef="Maier1618"/>
             <fw type="title" place="top-cent">PR<hi rend="ligature">Ae</hi>FATIO</fw>
             <fw type="pageNum" place="top-left">10</fw>
-            <ab>
+         <div type="page">
+            <ab rend="italics"> 
                <lb n="1"/>h<hi rend="ligature">ae</hi>c virgo victoriam pr<hi rend="ligature">ae</hi> viris, apro quodam insignis magnitudinis
                <lb n="2"/>occiso, unde pr<hi rend="ligature">ae</hi>mio <hi rend="grave">a</hi> <persName><hi rend="latin">Meleagro</hi></persName> donata est: <milestone unit="section" n="pr-29"/>Apud <placeName>Steth<hi rend="ligature">ae</hi>um</placeName>
                <lb n="3"/><persName type="divinity"><hi rend="ligature">Ae</hi>sculapii</persName> fanum <hi rend="grave">e</hi> saxo percusso aquam elicuit, quam sitibunda
@@ -173,6 +178,7 @@
          <figure>
             <graphic url="http://www.tei-c.org/logos/TEI-glow.png"/>
          </figure>
+         </div>
       </body>
   </text>
 </TEI>
