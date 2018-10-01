@@ -60,6 +60,18 @@
         </div>
     </xsl:template>
     
+    <xsl:template match="af:div[@type='dedication'] | af:ab[@rend='center']">
+        <div class="div-center">
+            <xsl:apply-templates/>
+        </div>
+    </xsl:template>
+    
+    <xsl:template match="af:ab[@rend='left']">
+        <div class="div-left">
+            <xsl:apply-templates/>
+        </div>
+    </xsl:template>
+    
     <xsl:template match="af:div[@type='discourse-p1' or @type='discourse-p2']">
         <h3 class="title"><xsl:value-of select="preceding::af:fw[@type='header'][1]"/></h3>
         <div class="{@type}">
@@ -440,6 +452,14 @@
     <xsl:template match="af:persName | af:placeName | af:orgName | af:quote | af:num | 
         af:title | af:foreign | af:name | af:date">
         <xsl:apply-templates/>
+    </xsl:template>
+    
+    <!-- from the title page  -->
+    
+    <xsl:template match="af:title[ancestor::af:div[@type='title']]">
+        <hi class="caps">
+            <xsl:apply-templates/>
+        </hi>
     </xsl:template>
     
     <xsl:template match="af:figure | af:span"/>
