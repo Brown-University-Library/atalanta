@@ -114,7 +114,15 @@ h3.title, epigram {
     
 }
 
+.div-center {
+    text-align: center;
+}
 
+.div-left {
+    text-align: left;
+    margin-left: 3em;
+    text-indent: 1em;
+}
 
 .subst {
     background-color: #eeeeee;
@@ -185,7 +193,7 @@ span.latin {
     font-style: normal;
 }
 
-span.caps {
+span.caps, hi.caps {
     text-transform: uppercase;
 }
 
@@ -197,8 +205,6 @@ span.caps-latin {
 span.raised {
     vertical-align: super;
 }
-
-
 
 .pc{
 
