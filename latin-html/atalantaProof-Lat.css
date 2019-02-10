@@ -13,6 +13,7 @@
 
 @page {
     margin-top: 1in;
+    margin-left: -.5in;
 }
 
 body{
@@ -26,7 +27,7 @@ body{
 .epigram
 {
     text-align: left;
-    text-indent: 20%;
+ /*   text-indent: 20%; */
     
 }
 
